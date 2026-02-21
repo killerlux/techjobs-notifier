@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Doctolib",
+    "ats": { "type": "greenhouse", "slug": "doctolib" }
+  },
+  {
+    "name": "Back Market",
+    "ats": { "type": "greenhouse", "slug": "backmarket" }
+  },
+  {
+    "name": "Alan",
+    "ats": { "type": "lever", "slug": "alan" }
+  },
+  {
+    "name": "BlaBlaCar",
+    "ats": { "type": "greenhouse", "slug": "blablacar" }
+  }
+]
+

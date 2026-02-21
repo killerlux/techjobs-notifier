@@ -1,0 +1,38 @@
+name: Update EU roles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *" # every 30 minutes
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-eu
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate EU roles
+        run: |
+          npm ci --ignore-scripts --no-audit --no-fund || true
+          npm run update-eu
+      - name: Commit changes
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore(data): update EU roles [skip ci]"
+            git push
+          fi
+

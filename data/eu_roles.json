@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-02-21T12:10:18.336Z",
+  "count": 9,
+  "results": [
+    {
+      "id": "7579641003",
+      "title": "Software Engineer, Early Career",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7579641003",
+      "company": "affirm",
+      "source": "greenhouse"
+    },
+    {
+      "id": "7990630002",
+      "title": "Junior Data Analyst (Aiviq)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/7990630002",
+      "company": "alphafmcroles",
+      "source": "greenhouse"
+    },
+    {
+      "id": "2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
+      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
+      "company": "palantir",
+      "source": "lever"
+    },
+    {
+      "id": "b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
+      "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
+      "company": "palantir",
+      "source": "lever"
+    },
+    {
+      "id": "15d225db-7b55-4f3a-86df-fd242be90124",
+      "title": "International Payroll Analyst",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/15d225db-7b55-4f3a-86df-fd242be90124",
+      "company": "palantir",
+      "source": "lever"
+    },
+    {
+      "id": "76161763-bafa-4ebb-a2ce-2a25e315b7d7",
+      "title": "Product Designer, New Grad",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7",
+      "company": "palantir",
+      "source": "lever"
+    },
+    {
+      "id": "d372c805-d0cd-4a10-9522-fbecc78d6f3e",
+      "title": "Software Engineer, New Grad",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e",
+      "company": "palantir",
+      "source": "lever"
+    },
+    {
+      "id": "9265acce-12cd-4179-8c50-55d15963532b",
+      "title": "Software Engineer, New Grad - Infrastructure",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b",
+      "company": "palantir",
+      "source": "lever"
+    },
+    {
+      "id": "3f4dd595-2f57-4b5f-a50a-8d3084641ef8",
+      "title": "Software Engineer, New Grad - Production Infrastructure",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8",
+      "company": "palantir",
+      "source": "lever"
+    }
+  ]
+}
