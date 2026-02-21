@@ -20,6 +20,9 @@ const NEW_GRAD_KEYWORDS = [
   'jeune diplômé', 'recent graduate', 'grad role', 'graduate program', 'bac+5'
 ];
 
+/** Only show jobs posted in the last N days (or unknown date). */
+const MAX_DAYS = 3;
+
 function includesAny(text, words) {
   const t = (text || '').toLowerCase();
   return words.some(w => t.includes(w));
@@ -48,6 +51,15 @@ function daysAgo(dateStr) {
   const days = Math.floor((Date.now() - ms) / (24 * 60 * 60 * 1000));
   if (days < 0) return '0d';
   return `${days}d`;
+}
+
+/** True if job has no posted date or was posted within the last MAX_DAYS days. */
+function isWithinLastDays(job) {
+  const d = job.daysAgo ?? job.postedAt;
+  if (d === undefined || d === '' || d === '-') return true;
+  const match = String(d).match(/^(\d+)d$/);
+  if (!match) return true;
+  return parseInt(match[1], 10) <= MAX_DAYS;
 }
 
 async function fetchJson(url) {
@@ -171,7 +183,7 @@ async function main() {
   await mkdir(dataDir, { recursive: true });
   const { companies, usedExample } = await loadCompanies();
 
-  const results = [];
+  let results = [];
   for (const c of companies) {
     const type = c.ats?.type;
     const slug = c.ats?.slug;
@@ -191,27 +203,6 @@ async function main() {
     }
   }
 
-  const payload = {
-    generatedAt: new Date().toISOString(),
-    count: results.length,
-    results
-  };
-  await writeFile(outJsonPath, JSON.stringify(payload, null, 2) + "\n");
-
-  // Generate README.md table (Posted = 0d, 1d, 2d, … or -)
-  const tableRow = r => `| ${r.company} | ${r.title} | ${r.location} | ${r.daysAgo ?? '-'} | [Apply](${r.url}) |`;
-  const rows = results
-    .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
-    .map(tableRow)
-    .join('\n');
-  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Source companies in data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
-  await writeFile(outReadmePath, md);
-
-  if (usedExample && !existsSync(companiesPath)) {
-    console.log('\nNo data/companies.json found. Using example list.');
-    console.log('Create data/companies.json with entries like the example to control sources.');
-  }
-
   // Special portals (direct company sites)
   try {
     const special = [];
@@ -227,20 +218,33 @@ async function main() {
         .map(normalizeJob);
       const existingIds = new Set(results.map(r => r.id + r.url));
       const toAdd = enriched.filter(e => !existingIds.has(e.id + e.url));
-      if (toAdd.length) {
-        results.push(...toAdd);
-        payload.count = results.length;
-        await writeFile(outJsonPath, JSON.stringify({ ...payload, results }, null, 2) + "\n");
-        const rows2 = results
-          .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
-          .map(tableRow)
-          .join('\n');
-        const md2 = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${new Date().toISOString()}\n- Source companies in data/companies.json + direct portals\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows2}\n`;
-        await writeFile(outReadmePath, md2);
-      }
+      for (const job of toAdd) results.push(job);
     }
   } catch (e) {
     console.error('Special portals failed:', e.message);
+  }
+
+  // Only keep jobs from the last MAX_DAYS days (or unknown date)
+  results = results.filter(isWithinLastDays);
+
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    count: results.length,
+    results
+  };
+  await writeFile(outJsonPath, JSON.stringify(payload, null, 2) + "\n");
+
+  const tableRow = r => `| ${r.company} | ${r.title} | ${r.location} | ${r.daysAgo ?? '-'} | [Apply](${r.url}) |`;
+  const rows = results
+    .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
+    .map(tableRow)
+    .join('\n');
+  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- London new-grad roles from the last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
+  await writeFile(outReadmePath, md);
+
+  if (usedExample && !existsSync(companiesPath)) {
+    console.log('\nNo data/companies.json found. Using example list.');
+    console.log('Create data/companies.json with entries like the example to control sources.');
   }
 }
 

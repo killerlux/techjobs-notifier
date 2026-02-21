@@ -24,7 +24,7 @@ jobs:
           node-version: 20
       - name: Generate EU roles
         run: |
-          npm ci --ignore-scripts --no-audit --no-fund || true
+          npm install --ignore-scripts --no-audit --no-fund
           npm run update-eu
       - name: Commit changes
         run: |
