@@ -98,13 +98,6 @@
     }
   },
   {
-    "name": "batoncorporation",
-    "ats": {
-      "type": "ashby",
-      "slug": "batoncorporation"
-    }
-  },
-  {
     "name": "blueorigin",
     "ats": {
       "type": "workday",
@@ -126,31 +119,10 @@
     }
   },
   {
-    "name": "brainco",
-    "ats": {
-      "type": "ashby",
-      "slug": "brainco"
-    }
-  },
-  {
-    "name": "brm.ai",
-    "ats": {
-      "type": "ashby",
-      "slug": "brm.ai"
-    }
-  },
-  {
     "name": "brycetech",
     "ats": {
       "type": "smartrecruiters",
       "slug": "brycetech"
-    }
-  },
-  {
-    "name": "candidhealth",
-    "ats": {
-      "type": "ashby",
-      "slug": "candidhealth"
     }
   },
   {
@@ -168,31 +140,10 @@
     }
   },
   {
-    "name": "citizen%20health",
-    "ats": {
-      "type": "ashby",
-      "slug": "citizen%20health"
-    }
-  },
-  {
-    "name": "clearer",
-    "ats": {
-      "type": "lever",
-      "slug": "clearer"
-    }
-  },
-  {
     "name": "compass",
     "ats": {
       "type": "workday",
       "host": "compass.wd501.myworkdayjobs.com"
-    }
-  },
-  {
-    "name": "continue",
-    "ats": {
-      "type": "ashby",
-      "slug": "continue"
     }
   },
   {
@@ -238,13 +189,6 @@
     }
   },
   {
-    "name": "eventualcomputing",
-    "ats": {
-      "type": "ashby",
-      "slug": "eventualcomputing"
-    }
-  },
-  {
     "name": "fireworksai",
     "ats": {
       "type": "greenhouse",
@@ -287,31 +231,10 @@
     }
   },
   {
-    "name": "genmo",
-    "ats": {
-      "type": "ashby",
-      "slug": "genmo"
-    }
-  },
-  {
-    "name": "gigaml",
-    "ats": {
-      "type": "ashby",
-      "slug": "gigaml"
-    }
-  },
-  {
     "name": "gleanwork",
     "ats": {
       "type": "greenhouse",
       "slug": "gleanwork"
-    }
-  },
-  {
-    "name": "glide",
-    "ats": {
-      "type": "ashby",
-      "slug": "glide"
     }
   },
   {
@@ -364,24 +287,10 @@
     }
   },
   {
-    "name": "lightfield",
-    "ats": {
-      "type": "ashby",
-      "slug": "lightfield"
-    }
-  },
-  {
     "name": "loop",
     "ats": {
       "type": "greenhouse",
       "slug": "loop"
-    }
-  },
-  {
-    "name": "magical",
-    "ats": {
-      "type": "ashby",
-      "slug": "magical"
     }
   },
   {
@@ -396,27 +305,6 @@
     "ats": {
       "type": "greenhouse",
       "slug": "mthreerecruitingportal"
-    }
-  },
-  {
-    "name": "n1",
-    "ats": {
-      "type": "ashby",
-      "slug": "n1"
-    }
-  },
-  {
-    "name": "nectar-social",
-    "ats": {
-      "type": "ashby",
-      "slug": "nectar-social"
-    }
-  },
-  {
-    "name": "netic",
-    "ats": {
-      "type": "ashby",
-      "slug": "netic"
     }
   },
   {
@@ -438,13 +326,6 @@
     "ats": {
       "type": "workday",
       "host": "nvidia.wd5.myworkdayjobs.com"
-    }
-  },
-  {
-    "name": "offdeal",
-    "ats": {
-      "type": "ashby",
-      "slug": "offdeal"
     }
   },
   {
@@ -476,13 +357,6 @@
     }
   },
   {
-    "name": "parallel",
-    "ats": {
-      "type": "ashby",
-      "slug": "parallel"
-    }
-  },
-  {
     "name": "parallelwireless",
     "ats": {
       "type": "lever",
@@ -504,13 +378,6 @@
     }
   },
   {
-    "name": "promise",
-    "ats": {
-      "type": "ashby",
-      "slug": "promise"
-    }
-  },
-  {
     "name": "proofpoint",
     "ats": {
       "type": "workday",
@@ -518,31 +385,10 @@
     }
   },
   {
-    "name": "qodeworld",
-    "ats": {
-      "type": "workable",
-      "slug": "qodeworld"
-    }
-  },
-  {
-    "name": "quora",
-    "ats": {
-      "type": "ashby",
-      "slug": "quora"
-    }
-  },
-  {
     "name": "relx",
     "ats": {
       "type": "workday",
       "host": "relx.wd3.myworkdayjobs.com"
-    }
-  },
-  {
-    "name": "replit",
-    "ats": {
-      "type": "ashby",
-      "slug": "replit"
     }
   },
   {
@@ -581,31 +427,10 @@
     }
   },
   {
-    "name": "sentra",
-    "ats": {
-      "type": "ashby",
-      "slug": "sentra"
-    }
-  },
-  {
-    "name": "sierra",
-    "ats": {
-      "type": "ashby",
-      "slug": "sierra"
-    }
-  },
-  {
     "name": "silfabsolar",
     "ats": {
       "type": "smartrecruiters",
       "slug": "silfabsolar"
-    }
-  },
-  {
-    "name": "solace",
-    "ats": {
-      "type": "ashby",
-      "slug": "solace"
     }
   },
   {
@@ -651,13 +476,6 @@
     }
   },
   {
-    "name": "trexquant",
-    "ats": {
-      "type": "workable",
-      "slug": "trexquant"
-    }
-  },
-  {
     "name": "trmlabs",
     "ats": {
       "type": "greenhouse",
@@ -690,13 +508,6 @@
     "ats": {
       "type": "greenhouse",
       "slug": "uareai"
-    }
-  },
-  {
-    "name": "uncountable",
-    "ats": {
-      "type": "ashby",
-      "slug": "uncountable"
     }
   },
   {
@@ -735,13 +546,6 @@
     }
   },
   {
-    "name": "whatnot",
-    "ats": {
-      "type": "ashby",
-      "slug": "whatnot"
-    }
-  },
-  {
     "name": "whoop",
     "ats": {
       "type": "lever",
@@ -753,13 +557,6 @@
     "ats": {
       "type": "lever",
       "slug": "wyetechllc"
-    }
-  },
-  {
-    "name": "zip",
-    "ats": {
-      "type": "ashby",
-      "slug": "zip"
     }
   }
 ]
