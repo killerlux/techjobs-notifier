@@ -1,0 +1,11 @@
+---
+description: Never add Cursor Agent or any bot as co-author in commits
+globs: 
+alwaysApply: true
+---
+
+# Commit authorship
+
+- **Never** add `Co-authored-by: Cursor Agent` or any bot/AI as co-author in commit messages.
+- Do not append co-author trailers to commits in this repository.
+- The GitHub Action that commits EU role updates uses only `github-actions[bot]`; leave it that way.

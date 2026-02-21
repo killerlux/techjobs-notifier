@@ -9,7 +9,7 @@ const dataDir = path.join(root, 'data');
 const companiesPath = path.join(dataDir, 'companies.json');
 const exampleCompaniesPath = path.join(dataDir, 'companies.example.json');
 const outJsonPath = path.join(dataDir, 'eu_roles.json');
-const outReadmePath = path.join(root, 'README_EU.md');
+const outReadmePath = path.join(root, 'README.md');
 
 const EU_KEYWORDS = [
   'london', 'city of london', 'greater london', 'london, uk', 'london, united kingdom', 'gb-london'
@@ -33,6 +33,23 @@ function isNewGrad(title, desc) {
   return includesAny(title, NEW_GRAD_KEYWORDS) || includesAny(desc, NEW_GRAD_KEYWORDS);
 }
 
+/** Parse ISO string or Unix ms; return ms since epoch or NaN. */
+function parseDate(s) {
+  if (s == null || s === '') return NaN;
+  if (typeof s === 'number' && Number.isFinite(s)) return s < 1e10 ? s * 1000 : s; // Unix s or ms
+  const n = Date.parse(s);
+  return Number.isFinite(n) ? n : NaN;
+}
+
+/** Return "0d", "1d", "2d", "3d", ... from a date string; "" if unknown. */
+function daysAgo(dateStr) {
+  const ms = parseDate(dateStr);
+  if (Number.isNaN(ms)) return '';
+  const days = Math.floor((Date.now() - ms) / (24 * 60 * 60 * 1000));
+  if (days < 0) return '0d';
+  return `${days}d`;
+}
+
 async function fetchJson(url) {
   const res = await fetch(url, { headers: { 'user-agent': 'tracker-eu/1.0' } });
   if (!res.ok) throw new Error(`${url} -> ${res.status}`);
@@ -49,7 +66,8 @@ async function fetchGreenhouse(slug) {
     url: j.absolute_url,
     description: '',
     company: slug,
-    source: 'greenhouse'
+    source: 'greenhouse',
+    postedAt: j.updated_at || j.created_at || null
   }));
   return jobs;
 }
@@ -64,7 +82,8 @@ async function fetchLever(slug) {
     url: j.hostedUrl || j.applyUrl || '',
     description: j.descriptionPlain || j.description || '',
     company: slug,
-    source: 'lever'
+    source: 'lever',
+    postedAt: j.createdAt || j.updatedAt || null
   }));
 }
 
@@ -78,13 +97,13 @@ async function fetchAshby(slug) {
     url: j.jobUrl || j.applyUrl || '',
     description: j.descriptionPlain || j.description || '',
     company: slug,
-    source: 'ashby'
+    source: 'ashby',
+    postedAt: j.publishedAt || j.updatedAt || j.createdAt || null
   }));
   return jobs;
 }
 
 async function fetchWorkable(slug) {
-  // Workable public API
   const url = `https://apply.workable.com/api/v3/accounts/${slug}/jobs?limit=200`;
   const data = await fetchJson(url);
   const jobs = (data.results || []).map(j => ({
@@ -94,7 +113,8 @@ async function fetchWorkable(slug) {
     url: `https://apply.workable.com/${slug}/j/${j.shortcode}/`,
     description: '',
     company: slug,
-    source: 'workable'
+    source: 'workable',
+    postedAt: j.publishedDate || j.updatedAt || null
   }));
   return jobs;
 }
@@ -110,7 +130,8 @@ async function fetchSmartRecruiters(slug) {
     url: j.applyUrl || j.ref || `https://jobs.smartrecruiters.com/${slug}/${j.id}`,
     description: '',
     company: slug,
-    source: 'smartrecruiters'
+    source: 'smartrecruiters',
+    postedAt: j.releasedDate || j.updatedAt || null
   }));
 }
 
@@ -133,13 +154,16 @@ async function loadCompanies() {
 }
 
 function normalizeJob(j) {
+  const postedAt = j.postedAt || null;
   return {
     id: j.id,
     title: j.title,
     location: j.location || '',
     url: j.url,
     company: j.company,
-    source: j.source
+    source: j.source,
+    postedAt: postedAt || undefined,
+    daysAgo: daysAgo(postedAt) || undefined
   };
 }
 
@@ -174,12 +198,13 @@ async function main() {
   };
   await writeFile(outJsonPath, JSON.stringify(payload, null, 2) + "\n");
 
-  // Generate simple README_EU.md
+  // Generate README.md table (Posted = 0d, 1d, 2d, … or -)
+  const tableRow = r => `| ${r.company} | ${r.title} | ${r.location} | ${r.daysAgo ?? '-'} | [Apply](${r.url}) |`;
   const rows = results
     .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
-    .map(r => `| ${r.company} | ${r.title} | ${r.location} | [Apply](${r.url}) |`)
+    .map(tableRow)
     .join('\n');
-  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Source companies in data/companies.json\n\n| Company | Role | Location | Link |\n|---|---|---|---|\n${rows}\n`;
+  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Source companies in data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
   await writeFile(outReadmePath, md);
 
   if (usedExample && !existsSync(companiesPath)) {
@@ -208,9 +233,9 @@ async function main() {
         await writeFile(outJsonPath, JSON.stringify({ ...payload, results }, null, 2) + "\n");
         const rows2 = results
           .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
-          .map(r => `| ${r.company} | ${r.title} | ${r.location} | [Apply](${r.url}) |`)
+          .map(tableRow)
           .join('\n');
-        const md2 = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${new Date().toISOString()}\n- Source companies in data/companies.json + direct portals\n\n| Company | Role | Location | Link |\n|---|---|---|---|\n${rows2}\n`;
+        const md2 = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${new Date().toISOString()}\n- Source companies in data/companies.json + direct portals\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows2}\n`;
         await writeFile(outReadmePath, md2);
       }
     }

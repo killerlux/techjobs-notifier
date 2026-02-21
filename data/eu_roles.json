@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T12:10:18.336Z",
+  "generatedAt": "2026-02-21T12:35:44.999Z",
   "count": 9,
   "results": [
     {
@@ -8,7 +8,9 @@
       "location": "London",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7579641003",
       "company": "affirm",
-      "source": "greenhouse"
+      "source": "greenhouse",
+      "postedAt": "2026-01-12T12:01:29-05:00",
+      "daysAgo": "39d"
     },
     {
       "id": "7990630002",
@@ -16,7 +18,9 @@
       "location": "London",
       "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/7990630002",
       "company": "alphafmcroles",
-      "source": "greenhouse"
+      "source": "greenhouse",
+      "postedAt": "2026-02-13T09:39:49-05:00",
+      "daysAgo": "7d"
     },
     {
       "id": "2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
@@ -24,7 +28,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1754050997609,
+      "daysAgo": "204d"
     },
     {
       "id": "b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
@@ -32,7 +38,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1625160948948,
+      "daysAgo": "1695d"
     },
     {
       "id": "15d225db-7b55-4f3a-86df-fd242be90124",
@@ -40,7 +48,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/15d225db-7b55-4f3a-86df-fd242be90124",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1643137043304,
+      "daysAgo": "1487d"
     },
     {
       "id": "76161763-bafa-4ebb-a2ce-2a25e315b7d7",
@@ -48,7 +58,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1755016736637,
+      "daysAgo": "192d"
     },
     {
       "id": "d372c805-d0cd-4a10-9522-fbecc78d6f3e",
@@ -56,7 +68,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1625171414997,
+      "daysAgo": "1695d"
     },
     {
       "id": "9265acce-12cd-4179-8c50-55d15963532b",
@@ -64,7 +78,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1750900434912,
+      "daysAgo": "240d"
     },
     {
       "id": "3f4dd595-2f57-4b5f-a50a-8d3084641ef8",
@@ -72,7 +88,9 @@
       "location": "London, United Kingdom",
       "url": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8",
       "company": "palantir",
-      "source": "lever"
+      "source": "lever",
+      "postedAt": 1751042695483,
+      "daysAgo": "238d"
     }
   ]
 }

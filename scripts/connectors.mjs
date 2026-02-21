@@ -20,7 +20,8 @@ export async function fetchAmazonLondonNewGrad() {
     url: j.job_path ? `https://www.amazon.jobs${j.job_path}` : (j.job_url || ''),
     description: '',
     company: 'Amazon',
-    source: 'amazon.jobs'
+    source: 'amazon.jobs',
+    postedAt: j.posted_date || j.updated_time || null
   }));
   const NEW_GRAD = ['new grad', 'graduate', 'entry level', 'early career', 'university'];
   return jobs.filter(j => NEW_GRAD.some(k => (j.title || '').toLowerCase().includes(k)));
@@ -55,7 +56,8 @@ export async function fetchMicrosoftLondonNewGrad() {
     url: r.jobUrl || r.url || '',
     description: '',
     company: 'Microsoft',
-    source: 'careers.microsoft.com'
+    source: 'careers.microsoft.com',
+    postedAt: r.postedDate || r.lastModified || null
   }));
 }
 
