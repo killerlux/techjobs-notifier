@@ -20,8 +20,22 @@ const NEW_GRAD_KEYWORDS = [
   'jeune diplômé', 'recent graduate', 'grad role', 'graduate program', 'bac+5'
 ];
 
-/** Only show jobs posted in the last N days (or unknown date). */
-const MAX_DAYS = 3;
+const CYBER_KEYWORDS = [
+  'cyber', 'cybersecurity', 'security engineer', 'infosec', 'information security',
+  'appsec', 'application security', 'security analyst', 'soc', 'penetration',
+  'pentest', 'red team', 'blue team', 'threat', 'vulnerability', 'secure'
+];
+
+/** Only show jobs posted in the last N days (or unknown date). Test with 10. */
+const MAX_DAYS = 10;
+/** Delay between company fetches (ms) to avoid rate limits. */
+const FETCH_DELAY_MS = 300;
+/** Request timeout (ms). */
+const FETCH_TIMEOUT_MS = 15000;
+
+function sleep(ms) {
+  return new Promise(r => setTimeout(r, ms));
+}
 
 function includesAny(text, words) {
   const t = (text || '').toLowerCase();
@@ -34,6 +48,10 @@ function isEU(loc) {
 
 function isNewGrad(title, desc) {
   return includesAny(title, NEW_GRAD_KEYWORDS) || includesAny(desc, NEW_GRAD_KEYWORDS);
+}
+
+function isCyber(title, desc) {
+  return includesAny(title, CYBER_KEYWORDS) || includesAny(desc, CYBER_KEYWORDS);
 }
 
 /** Parse ISO string or Unix ms; return ms since epoch or NaN. */
@@ -63,9 +81,18 @@ function isWithinLastDays(job) {
 }
 
 async function fetchJson(url) {
-  const res = await fetch(url, { headers: { 'user-agent': 'tracker-eu/1.0' } });
-  if (!res.ok) throw new Error(`${url} -> ${res.status}`);
-  return res.json();
+  const ac = new AbortController();
+  const to = setTimeout(() => ac.abort(), FETCH_TIMEOUT_MS);
+  try {
+    const res = await fetch(url, {
+      headers: { 'user-agent': 'tracker-eu/1.0' },
+      signal: ac.signal
+    });
+    if (!res.ok) throw new Error(`${url} -> ${res.status}`);
+    return res.json();
+  } finally {
+    clearTimeout(to);
+  }
 }
 
 async function fetchGreenhouse(slug) {
@@ -184,6 +211,8 @@ async function main() {
   const { companies, usedExample } = await loadCompanies();
 
   let results = [];
+  let companiesFetched = 0;
+  let fetchFailures = 0;
   for (const c of companies) {
     const type = c.ats?.type;
     const slug = c.ats?.slug;
@@ -191,18 +220,21 @@ async function main() {
     if (!fetcher || !slug) {
       continue;
     }
+    await sleep(FETCH_DELAY_MS);
     try {
       const jobs = await fetcher(slug);
+      companiesFetched++;
       const euNewGrad = jobs
-        .filter(j => isEU(j.location) && isNewGrad(j.title, j.description))
+        .filter(j => isEU(j.location) && (isNewGrad(j.title, j.description) || isCyber(j.title, j.description)))
         .map(j => normalizeJob({ ...j, company: c.name }));
       for (const job of euNewGrad) results.push(job);
     } catch (err) {
-      // Non-fatal: continue with others
+      fetchFailures++;
       console.error(`Fetcher failed for ${c.name} (${type}:${slug}):`, err.message);
     }
   }
 
+  await sleep(FETCH_DELAY_MS);
   // Special portals (direct company sites)
   try {
     const special = [];
@@ -214,7 +246,7 @@ async function main() {
     } catch {}
     if (special.length) {
       const enriched = special
-        .filter(j => isNewGrad(j.title, j.description) && isEU(j.location))
+        .filter(j => isEU(j.location) && (isNewGrad(j.title, j.description) || isCyber(j.title, j.description)))
         .map(normalizeJob);
       const existingIds = new Set(results.map(r => r.id + r.url));
       const toAdd = enriched.filter(e => !existingIds.has(e.id + e.url));
@@ -224,6 +256,7 @@ async function main() {
     console.error('Special portals failed:', e.message);
   }
 
+  const beforeFilter = results.length;
   // Only keep jobs from the last MAX_DAYS days (or unknown date)
   results = results.filter(isWithinLastDays);
 
@@ -239,8 +272,11 @@ async function main() {
     .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
     .map(tableRow)
     .join('\n');
-  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- London new-grad roles from the last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
+  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- London: new-grad + cyber/security roles from the last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
   await writeFile(outReadmePath, md);
+
+  console.log(`Companies fetched: ${companiesFetched}, failures: ${fetchFailures}`);
+  console.log(`Jobs (London new-grad): ${beforeFilter} total, ${results.length} in last ${MAX_DAYS} days`);
 
   if (usedExample && !existsSync(companiesPath)) {
     console.log('\nNo data/companies.json found. Using example list.');
