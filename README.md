@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-02-21T12:35:44.999Z
+- Updated: 2026-02-21T12:37:51.455Z
 - Source companies in data/companies.json
 
 | Company | Role | Location | Posted | Link |
