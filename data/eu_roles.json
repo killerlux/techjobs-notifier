@@ -1,5 +1,16 @@
 {
-  "generatedAt": "2026-02-24T21:32:43.497Z",
-  "count": 0,
-  "results": []
+  "generatedAt": "2026-02-24T22:31:23.192Z",
+  "count": 1,
+  "results": [
+    {
+      "id": "7579641003",
+      "title": "Software Engineer, Early Career",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7579641003",
+      "company": "affirm",
+      "source": "greenhouse",
+      "postedAt": "2026-02-24T17:18:24-05:00",
+      "daysAgo": "0d"
+    }
+  ]
 }
