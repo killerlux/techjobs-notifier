@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-24T08:43:30.895Z",
-  "count": 2,
+  "generatedAt": "2026-02-24T09:50:05.975Z",
+  "count": 1,
   "results": [
     {
       "id": "7990630002",
@@ -11,16 +11,6 @@
       "source": "greenhouse",
       "postedAt": "2026-02-13T09:39:49-05:00",
       "daysAgo": "10d"
-    },
-    {
-      "id": "5000805007",
-      "title": "EHS Associate Manager ",
-      "location": "London, England, United Kingdom",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5000805007?gh_jid=5000805007",
-      "company": "andurilindustries",
-      "source": "greenhouse",
-      "postedAt": "2026-02-23T21:07:30-05:00",
-      "daysAgo": "0d"
     }
   ]
 }
