@@ -1,9 +1,9 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-05T21:33:07.198Z
+- Updated: 2026-03-05T22:28:42.758Z
 - London: new-grad + cyber/security roles from the last 10 days (or unknown date)
 - Source: data/companies.json
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| affirm | Software Engineer, Early Career | London | 8d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7579641003) |
+| affirm | Software Engineer, Early Career | London | 9d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7579641003) |
