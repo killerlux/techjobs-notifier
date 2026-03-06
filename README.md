@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-06T14:36:07.833Z
+- Updated: 2026-03-06T15:35:22.451Z
 - London: new-grad + cyber/security roles from the last 10 days (or unknown date)
 - Source: data/companies.json
 
