@@ -1,9 +1,10 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-06T18:40:37.176Z
+- Updated: 2026-03-06T19:32:45.192Z
 - London: new-grad + cyber/security roles from the last 10 days (or unknown date)
 - Source: data/companies.json
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
 | affirm | Software Engineer, Early Career | London | 9d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7579641003) |
+| alphafmcroles | UK - Senior Associate (CDD) | London  | 0d | [Apply](https://job-boards.greenhouse.io/alphafmcroles/jobs/8453076002) |
