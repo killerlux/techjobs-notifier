@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-09T14:06:28.565Z",
-  "count": 2,
+  "generatedAt": "2026-03-09T15:30:56.474Z",
+  "count": 1,
   "results": [
     {
       "id": "8453269002",
@@ -10,16 +10,6 @@
       "company": "alphafmcroles",
       "source": "greenhouse",
       "postedAt": "2026-03-06T14:33:01-05:00",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "8453076002",
-      "title": "UK - Senior Associate (CDD)",
-      "location": "London ",
-      "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8453076002",
-      "company": "alphafmcroles",
-      "source": "greenhouse",
-      "postedAt": "2026-03-06T13:55:11-05:00",
       "daysAgo": "2d"
     }
   ]
