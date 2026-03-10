@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-10T23:10:03.316Z",
-  "count": 25,
+  "generatedAt": "2026-03-10T23:50:46.924Z",
+  "count": 24,
   "results": [
     {
       "id": "7297666002",
@@ -12,18 +12,6 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "postedAt": "2026-03-10T16:56:32-04:00",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000113708952",
-      "title": "Graduate Maritime Engineer (Basingstoke) ",
-      "location": "Basingstoke, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000113708952",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "postedAt": "2026-03-10T12:42:48.142Z",
       "daysAgo": "0d"
     },
     {

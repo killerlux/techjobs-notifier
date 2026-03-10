@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-10T23:10:03.316Z
+- Updated: 2026-03-10T23:50:46.924Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Source: data/companies_active.json
@@ -8,7 +8,6 @@
 | Company | Role | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | France | New York, London, or Paris | 0d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| AECOM | Graduate Maritime Engineer (Basingstoke)  | United Kingdom | Basingstoke, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000113708952) |
 | ASSYSTEM | Graduate EC&I Engineer | United Kingdom | Blackburn, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197) |
 | ASSYSTEM | Graduate Electrical Engineer | United Kingdom | Bristol, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
 | ASSYSTEM | Graduate Electrical Engineer | United Kingdom | London, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
