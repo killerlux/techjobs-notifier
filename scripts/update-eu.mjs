@@ -10,6 +10,7 @@ const companiesPath = path.join(dataDir, 'companies.json');
 const exampleCompaniesPath = path.join(dataDir, 'companies.example.json');
 const outJsonPath = path.join(dataDir, 'eu_roles.json');
 const outReadmePath = path.join(root, 'README.md');
+const outSeenPath = path.join(dataDir, 'seen_jobs.json');
 
 const EU_KEYWORDS = [
   'london', 'city of london', 'greater london', 'london, uk', 'london, united kingdom', 'gb-london'
@@ -32,9 +33,88 @@ const MAX_DAYS = 10;
 const FETCH_DELAY_MS = 300;
 /** Request timeout (ms). */
 const FETCH_TIMEOUT_MS = 15000;
+const MAX_NOTIFICATION_ROWS = 10;
 
 function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
+}
+
+async function readJsonIfExists(filePath) {
+  if (!existsSync(filePath)) return null;
+  try {
+    const raw = await readFile(filePath, 'utf8');
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
+function jobKey(job) {
+  return `${job?.id ?? ''}::${job?.url ?? ''}`;
+}
+
+function sortJobs(jobs) {
+  return [...jobs].sort((a, b) =>
+    a.company.localeCompare(b.company)
+    || a.title.localeCompare(b.title)
+    || (a.url || '').localeCompare(b.url || '')
+  );
+}
+
+function sameKeySet(a, b) {
+  if (a.length !== b.length) return false;
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] !== b[i]) return false;
+  }
+  return true;
+}
+
+function formatNotification(newJobs, generatedAt) {
+  const lines = [
+    `New EU role(s) detected: ${newJobs.length}`,
+    `Generated at: ${generatedAt}`,
+    '',
+  ];
+
+  for (const [index, job] of newJobs.slice(0, MAX_NOTIFICATION_ROWS).entries()) {
+    lines.push(
+      `${index + 1}. ${job.company} - ${job.title}`,
+      `   ${job.location || 'Unknown location'}`,
+      `   ${job.url}`,
+      ''
+    );
+  }
+
+  if (newJobs.length > MAX_NOTIFICATION_ROWS) {
+    lines.push(`...and ${newJobs.length - MAX_NOTIFICATION_ROWS} more`);
+  }
+
+  return lines.join('\n').trim();
+}
+
+async function sendTelegramMessage(text) {
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const chatId = process.env.TELEGRAM_CHAT_ID;
+  if (!token || !chatId) {
+    return { sent: false, reason: 'missing_credentials' };
+  }
+
+  const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({
+      chat_id: chatId,
+      text,
+      disable_web_page_preview: true,
+    })
+  });
+
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Telegram send failed: ${res.status} ${body.slice(0, 200)}`);
+  }
+
+  return { sent: true };
 }
 
 function includesAny(text, words) {
@@ -260,23 +340,67 @@ async function main() {
   // Only keep jobs from the last MAX_DAYS days (or unknown date)
   results = results.filter(isWithinLastDays);
 
+  const sortedResults = sortJobs(results);
+  const currentKeys = sortedResults.map(jobKey).sort();
+
+  const previousPayload = await readJsonIfExists(outJsonPath);
+  const previousResults = Array.isArray(previousPayload?.results) ? previousPayload.results : [];
+  const previousKeys = previousResults.map(jobKey).sort();
+  const hasResultSetChanged = !sameKeySet(currentKeys, previousKeys);
+
+  const generatedAt = hasResultSetChanged || !previousPayload?.generatedAt
+    ? new Date().toISOString()
+    : previousPayload.generatedAt;
+
   const payload = {
-    generatedAt: new Date().toISOString(),
-    count: results.length,
-    results
+    generatedAt,
+    count: sortedResults.length,
+    results: sortedResults
   };
   await writeFile(outJsonPath, JSON.stringify(payload, null, 2) + "\n");
 
   const tableRow = r => `| ${r.company} | ${r.title} | ${r.location} | ${r.daysAgo ?? '-'} | [Apply](${r.url}) |`;
-  const rows = results
-    .sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title))
+  const rows = sortedResults
     .map(tableRow)
     .join('\n');
+
   const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- London: new-grad + cyber/security roles from the last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
   await writeFile(outReadmePath, md);
 
+  const seenState = await readJsonIfExists(outSeenPath);
+  const seenKeys = Array.isArray(seenState?.seenKeys) ? seenState.seenKeys : null;
+  let newJobs = [];
+
+  if (seenKeys == null) {
+    await writeFile(outSeenPath, JSON.stringify({ seenKeys: currentKeys }, null, 2) + "\n");
+    console.log(`Bootstrapped seen state with ${currentKeys.length} jobs (no notifications sent).`);
+  } else {
+    const seenSet = new Set(seenKeys);
+    newJobs = sortedResults.filter(job => !seenSet.has(jobKey(job)));
+
+    if (newJobs.length > 0) {
+      const message = formatNotification(newJobs, payload.generatedAt);
+      try {
+        const sent = await sendTelegramMessage(message);
+        if (sent.sent) {
+          console.log(`Telegram notification sent for ${newJobs.length} new job(s).`);
+        } else {
+          console.log('Telegram credentials missing; skipped notifications.');
+        }
+      } catch (err) {
+        console.error('Telegram notification failed:', err.message);
+      }
+    }
+
+    const mergedKeys = [...new Set([...seenKeys, ...currentKeys])].sort();
+    if (!sameKeySet(mergedKeys, [...seenKeys].sort())) {
+      await writeFile(outSeenPath, JSON.stringify({ seenKeys: mergedKeys }, null, 2) + "\n");
+    }
+  }
+
   console.log(`Companies fetched: ${companiesFetched}, failures: ${fetchFailures}`);
-  console.log(`Jobs (London new-grad): ${beforeFilter} total, ${results.length} in last ${MAX_DAYS} days`);
+  console.log(`Jobs (London new-grad): ${beforeFilter} total, ${sortedResults.length} in last ${MAX_DAYS} days`);
+  console.log(`Result set changed: ${hasResultSetChanged ? 'yes' : 'no'}, new jobs: ${newJobs.length}`);
 
   if (usedExample && !existsSync(companiesPath)) {
     console.log('\nNo data/companies.json found. Using example list.');

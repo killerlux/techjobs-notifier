@@ -23,6 +23,9 @@ jobs:
         with:
           node-version: 20
       - name: Generate EU roles
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           npm install --ignore-scripts --no-audit --no-fund
           npm run update-eu
@@ -36,4 +39,3 @@ jobs:
             git commit -m "chore(data): update EU roles [skip ci]"
             git push
           fi
-
