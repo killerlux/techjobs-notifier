@@ -12,20 +12,161 @@ const outJsonPath = path.join(dataDir, 'eu_roles.json');
 const outReadmePath = path.join(root, 'README.md');
 const outSeenPath = path.join(dataDir, 'seen_jobs.json');
 
-const EU_KEYWORDS = [
-  'london', 'city of london', 'greater london', 'london, uk', 'london, united kingdom', 'gb-london'
+const TARGET_COUNTRIES = [
+  {
+    name: 'Luxembourg',
+    aliases: ['luxembourg', 'luxemburg', 'lu', 'luxembourg city']
+  },
+  {
+    name: 'France',
+    aliases: ['france', 'fr', 'paris', 'lyon', 'toulouse', 'nantes', 'lille', 'bordeaux', 'nice']
+  },
+  {
+    name: 'Ireland',
+    aliases: ['ireland', 'ie', 'dublin', 'cork', 'galway', 'limerick']
+  },
+  {
+    name: 'United Kingdom',
+    aliases: [
+      'united kingdom', 'uk', 'u.k.', 'great britain', 'gbr', 'gb',
+      'england', 'scotland', 'wales', 'northern ireland',
+      'london', 'manchester', 'edinburgh', 'belfast', 'bristol', 'cambridge', 'oxford'
+    ]
+  },
+  {
+    name: 'Norway',
+    aliases: ['norway', 'no', 'oslo', 'bergen', 'trondheim']
+  },
+  {
+    name: 'Finland',
+    aliases: ['finland', 'fi', 'helsinki', 'espoo', 'tampere']
+  },
+  {
+    name: 'Netherlands',
+    aliases: ['netherlands', 'the netherlands', 'nl', 'amsterdam', 'rotterdam', 'utrecht', 'eindhoven', 'the hague', 'den haag']
+  },
+  {
+    name: 'Sweden',
+    aliases: ['sweden', 'se', 'stockholm', 'gothenburg', 'goteborg', 'malmo']
+  },
+  {
+    name: 'Singapore',
+    aliases: ['singapore', 'sg']
+  },
+  {
+    name: 'Qatar',
+    aliases: ['qatar', 'qa', 'doha']
+  },
+  {
+    name: 'Iceland',
+    aliases: ['iceland', 'is', 'reykjavik']
+  },
+  {
+    name: 'Switzerland',
+    aliases: ['switzerland', 'ch', 'zurich', 'geneva', 'basel', 'lausanne', 'bern']
+  },
+  {
+    name: 'Denmark',
+    aliases: ['denmark', 'dk', 'copenhagen', 'aarhus', 'odense']
+  },
+  {
+    name: 'Belgium',
+    aliases: ['belgium', 'be', 'brussels', 'antwerp', 'ghent']
+  },
+  {
+    name: 'Austria',
+    aliases: ['austria', 'at', 'vienna', 'graz', 'linz']
+  },
+  {
+    name: 'Germany',
+    aliases: ['germany', 'de', 'berlin', 'munich', 'hamburg', 'frankfurt', 'cologne', 'stuttgart']
+  },
+  {
+    name: 'Slovenia',
+    aliases: ['slovenia', 'si', 'ljubljana']
+  },
+  {
+    name: 'Spain',
+    aliases: ['spain', 'es', 'madrid', 'barcelona', 'valencia', 'bilbao']
+  },
+  {
+    name: 'Italy',
+    aliases: ['italy', 'it', 'milan', 'rome', 'turin']
+  },
+  {
+    name: 'Malta',
+    aliases: ['malta', 'mt', 'valletta']
+  },
+  {
+    name: 'Lithuania',
+    aliases: ['lithuania', 'lt', 'vilnius', 'kaunas']
+  },
+  {
+    name: 'Cyprus',
+    aliases: ['cyprus', 'cy', 'nicosia', 'limassol', 'larnaca']
+  }
 ];
 
-const NEW_GRAD_KEYWORDS = [
-  'new grad', 'new graduate', 'graduate', 'entry level', 'junior', 'early career',
-  'jeune diplômé', 'recent graduate', 'grad role', 'graduate program', 'bac+5'
+const LEVEL_PATTERNS = [
+  /\bnew\s*grad(uate)?\b/i,
+  /\bgraduate\b/i,
+  /\bentry[\s-]*level\b/i,
+  /\bjunior\b/i,
+  /\bearly\s*career\b/i,
+  /\brecent\s*graduate\b/i,
+  /\buniversity\s*graduate\b/i,
+  /\bcampus\b/i,
 ];
 
-const CYBER_KEYWORDS = [
-  'cyber', 'cybersecurity', 'security engineer', 'infosec', 'information security',
-  'appsec', 'application security', 'security analyst', 'soc', 'penetration',
-  'pentest', 'red team', 'blue team', 'threat', 'vulnerability', 'secure'
+const TECH_PATTERNS = [
+  /\bsoftware\b/i,
+  /\bsecurity\b/i,
+  /\bcyber(?:security)?\b/i,
+  /\binfosec\b/i,
+  /\bappsec\b/i,
+  /\bapplication\s+security\b/i,
+  /\bdata\b/i,
+  /\bmachine\s+learning\b/i,
+  /\bml\b/i,
+  /\bai\b/i,
+  /\bdevops\b/i,
+  /\bsre\b/i,
+  /\bsite\s+reliability\b/i,
+  /\bplatform\b/i,
+  /\bcloud\b/i,
+  /\bbackend\b/i,
+  /\bback-end\b/i,
+  /\bfrontend\b/i,
+  /\bfront-end\b/i,
+  /\bfull[\s-]*stack\b/i,
+  /\bengineer\b/i,
+  /\bdeveloper\b/i,
 ];
+
+const NEGATIVE_PATTERNS = [
+  /\bdue\s+diligence\b/i,
+  /\bcompliance\b/i,
+  /\baudit\b/i,
+  /\blegal\b/i,
+  /\battorney\b/i,
+  /\baccounting\b/i,
+  /\bfinance\b/i,
+  /\bfinancial\b/i,
+  /\bsales\b/i,
+  /\bmarketing\b/i,
+  /\brecruit(ing|er)?\b/i,
+  /\bhuman\s+resources\b/i,
+  /\bhr\b/i,
+  /\bcustomer\s+support\b/i,
+  /\bdue\s+care\b/i,
+  /\bsenior\b/i,
+  /\bstaff\b/i,
+  /\bprincipal\b/i,
+  /\blead\b/i,
+];
+
+const TARGET_COUNTRY_LINE = TARGET_COUNTRIES.map(country => country.name).join(', ');
+const COUNTRY_ORDER_INDEX = new Map(TARGET_COUNTRIES.map((country, index) => [country.name, index]));
 
 /** Only show jobs posted in the last N days (or unknown date). Test with 10. */
 const MAX_DAYS = 10;
@@ -54,8 +195,13 @@ function jobKey(job) {
 }
 
 function sortJobs(jobs) {
+  const countryIndex = (country) => COUNTRY_ORDER_INDEX.has(country)
+    ? COUNTRY_ORDER_INDEX.get(country)
+    : Number.MAX_SAFE_INTEGER;
+
   return [...jobs].sort((a, b) =>
-    a.company.localeCompare(b.company)
+    countryIndex(a.country) - countryIndex(b.country)
+    || a.company.localeCompare(b.company)
     || a.title.localeCompare(b.title)
     || (a.url || '').localeCompare(b.url || '')
   );
@@ -117,21 +263,88 @@ async function sendTelegramMessage(text) {
   return { sent: true };
 }
 
-function includesAny(text, words) {
-  const t = (text || '').toLowerCase();
-  return words.some(w => t.includes(w));
+function normalizeText(value) {
+  return String(value || '')
+    .toLowerCase()
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, ' ')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
 }
 
-function isEU(loc) {
-  return includesAny(loc, EU_KEYWORDS);
+function escapeRegex(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-function isNewGrad(title, desc) {
-  return includesAny(title, NEW_GRAD_KEYWORDS) || includesAny(desc, NEW_GRAD_KEYWORDS);
+function containsAlias(text, alias) {
+  const normalizedText = normalizeText(text);
+  const normalizedAlias = normalizeText(alias);
+  if (!normalizedAlias) return false;
+  const pattern = new RegExp(`(^|\\s)${escapeRegex(normalizedAlias)}($|\\s)`, 'i');
+  return pattern.test(normalizedText);
 }
 
-function isCyber(title, desc) {
-  return includesAny(title, CYBER_KEYWORDS) || includesAny(desc, CYBER_KEYWORDS);
+function resolveTargetCountry(locationText) {
+  const raw = String(locationText || '').trim();
+  if (!raw) return null;
+  for (const country of TARGET_COUNTRIES) {
+    if (country.aliases.some(alias => containsAlias(raw, alias))) {
+      return country.name;
+    }
+  }
+  return null;
+}
+
+function hasLevelSignal(title, description) {
+  const titleText = String(title || '');
+  const descriptionText = String(description || '');
+
+  if (LEVEL_PATTERNS.some(pattern => pattern.test(titleText))) {
+    return true;
+  }
+
+  const associateTechnicalTitle = /\bassociate\b/i.test(titleText)
+    && /\b(engineer|developer|security|cyber|data|platform|devops|sre)\b/i.test(titleText);
+  if (associateTechnicalTitle) {
+    return true;
+  }
+
+  const titleLooksTechnical = /\b(engineer|developer|security|cyber|data|software|devops|sre|platform)\b/i.test(titleText);
+  return titleLooksTechnical && LEVEL_PATTERNS.some(pattern => pattern.test(descriptionText));
+}
+
+function hasTechSignal(title, description) {
+  const titleText = String(title || '');
+  const descriptionText = String(description || '');
+
+  if (TECH_PATTERNS.some(pattern => pattern.test(titleText))) {
+    return true;
+  }
+
+  const nonTechnicalTitle = /\b(associate|operations|manager|consultant|coordinator|specialist|analyst)\b/i.test(titleText);
+  if (nonTechnicalTitle) {
+    return false;
+  }
+
+  return TECH_PATTERNS.some(pattern => pattern.test(descriptionText));
+}
+
+function hasNegativeSignal(title, description) {
+  const text = `${title || ''} ${description || ''}`;
+  return NEGATIVE_PATTERNS.some(pattern => pattern.test(text));
+}
+
+function evaluateRole(title, description) {
+  if (hasNegativeSignal(title, description)) {
+    return { ok: false, reason: 'negative_signal' };
+  }
+  if (!hasLevelSignal(title, description)) {
+    return { ok: false, reason: 'missing_level_signal' };
+  }
+  if (!hasTechSignal(title, description)) {
+    return { ok: false, reason: 'missing_tech_signal' };
+  }
+  return { ok: true, reason: 'level+tech' };
 }
 
 /** Parse ISO string or Unix ms; return ms since epoch or NaN. */
@@ -183,7 +396,7 @@ async function fetchGreenhouse(slug) {
     title: j.title,
     location: j.location?.name || '',
     url: j.absolute_url,
-    description: '',
+    description: String(j.content || ''),
     company: slug,
     source: 'greenhouse',
     postedAt: j.updated_at || j.created_at || null
@@ -230,7 +443,7 @@ async function fetchWorkable(slug) {
     title: j.title,
     location: j.location?.city ? `${j.location.city}, ${j.location.country}` : (j.location?.country || ''),
     url: `https://apply.workable.com/${slug}/j/${j.shortcode}/`,
-    description: '',
+    description: j.description || j.descriptionHtml || '',
     company: slug,
     source: 'workable',
     postedAt: j.publishedDate || j.updatedAt || null
@@ -274,16 +487,43 @@ async function loadCompanies() {
 
 function normalizeJob(j) {
   const postedAt = j.postedAt || null;
+  const country = j.country || undefined;
+  const matchReason = j.matchReason || undefined;
   return {
     id: j.id,
     title: j.title,
     location: j.location || '',
+    country,
     url: j.url,
     company: j.company,
     source: j.source,
+    matchReason,
     postedAt: postedAt || undefined,
     daysAgo: daysAgo(postedAt) || undefined
   };
+}
+
+function selectTargetJobs(jobs, companyName) {
+  const selected = [];
+  for (const job of jobs) {
+    const country = resolveTargetCountry(job.location);
+    if (!country) {
+      continue;
+    }
+    const role = evaluateRole(job.title, job.description);
+    if (!role.ok) {
+      continue;
+    }
+    selected.push(
+      normalizeJob({
+        ...job,
+        company: companyName || job.company,
+        country,
+        matchReason: role.reason,
+      })
+    );
+  }
+  return selected;
 }
 
 async function main() {
@@ -304,10 +544,8 @@ async function main() {
     try {
       const jobs = await fetcher(slug);
       companiesFetched++;
-      const euNewGrad = jobs
-        .filter(j => isEU(j.location) && (isNewGrad(j.title, j.description) || isCyber(j.title, j.description)))
-        .map(j => normalizeJob({ ...j, company: c.name }));
-      for (const job of euNewGrad) results.push(job);
+      const matchedJobs = selectTargetJobs(jobs, c.name);
+      for (const job of matchedJobs) results.push(job);
     } catch (err) {
       fetchFailures++;
       console.error(`Fetcher failed for ${c.name} (${type}:${slug}):`, err.message);
@@ -325,9 +563,7 @@ async function main() {
       for (const j of m) special.push(j);
     } catch {}
     if (special.length) {
-      const enriched = special
-        .filter(j => isEU(j.location) && (isNewGrad(j.title, j.description) || isCyber(j.title, j.description)))
-        .map(normalizeJob);
+      const enriched = selectTargetJobs(special);
       const existingIds = new Set(results.map(r => r.id + r.url));
       const toAdd = enriched.filter(e => !existingIds.has(e.id + e.url));
       for (const job of toAdd) results.push(job);
@@ -359,12 +595,13 @@ async function main() {
   };
   await writeFile(outJsonPath, JSON.stringify(payload, null, 2) + "\n");
 
-  const tableRow = r => `| ${r.company} | ${r.title} | ${r.location} | ${r.daysAgo ?? '-'} | [Apply](${r.url}) |`;
+  const tableRow = r => `| ${r.company} | ${r.title} | ${r.country ?? '-'} | ${r.location} | ${r.daysAgo ?? '-'} | ${r.source} | [Apply](${r.url}) |`;
   const rows = sortedResults
     .map(tableRow)
     .join('\n');
+  const rowsOrPlaceholder = rows || '| - | - | - | - | - | - | - |';
 
-  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- London: new-grad + cyber/security roles from the last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Location | Posted | Link |\n|---|---|---|---|---|\n${rows}\n`;
+  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Countries: ${TARGET_COUNTRY_LINE}\n- Filters: entry-level + technical roles only, posted in last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Country | Location | Posted | Source | Link |\n|---|---|---|---|---|---|---|\n${rowsOrPlaceholder}\n`;
   await writeFile(outReadmePath, md);
 
   const seenState = await readJsonIfExists(outSeenPath);
@@ -399,7 +636,7 @@ async function main() {
   }
 
   console.log(`Companies fetched: ${companiesFetched}, failures: ${fetchFailures}`);
-  console.log(`Jobs (London new-grad): ${beforeFilter} total, ${sortedResults.length} in last ${MAX_DAYS} days`);
+  console.log(`Jobs (target countries + entry-level technical): ${beforeFilter} total, ${sortedResults.length} in last ${MAX_DAYS} days`);
   console.log(`Result set changed: ${hasResultSetChanged ? 'yes' : 'no'}, new jobs: ${newJobs.length}`);
 
   if (usedExample && !existsSync(companiesPath)) {

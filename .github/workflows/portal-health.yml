@@ -1,0 +1,40 @@
+name: Portal health check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: portal-health
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run portal health test
+        run: |
+          npm install --ignore-scripts --no-audit --no-fund
+          npm run test-portals
+
+      - name: Commit portal health report
+        run: |
+          if ! git diff --quiet -- data/portal_health.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/portal_health.json
+            git commit -m "chore(data): update portal health [skip ci]"
+            git push
+          fi
