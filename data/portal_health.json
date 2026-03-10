@@ -1,24 +1,15 @@
 {
-  "generatedAt": "2026-03-10T22:30:46.579Z",
+  "generatedAt": "2026-03-10T22:35:00.068Z",
   "summary": {
     "total": 80,
-    "healthy": 53,
-    "degraded": 1,
+    "healthy": 55,
+    "degraded": 0,
     "empty": 0,
-    "fetch_error": 3,
+    "fetch_error": 2,
     "unsupported": 23,
     "misconfigured": 0
   },
   "results": [
-    {
-      "company": "palantir",
-      "type": "lever",
-      "slug": "palantir",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "checkedUrls": [],
-      "error": "This operation was aborted"
-    },
     {
       "company": "trmlabs",
       "type": "greenhouse",
@@ -29,36 +20,13 @@
       "error": "https://boards-api.greenhouse.io/v1/boards/trmlabs/jobs?content=true -> 404"
     },
     {
-      "company": "wyetechllc",
+      "company": "whoop",
       "type": "lever",
-      "slug": "wyetechllc",
+      "slug": "whoop",
       "status": "fetch_error",
       "jobsCount": 0,
       "checkedUrls": [],
       "error": "This operation was aborted"
-    },
-    {
-      "company": "nextech",
-      "type": "lever",
-      "slug": "nextech",
-      "status": "degraded",
-      "jobsCount": 8,
-      "badLinks": 1,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/nextech/0cdff0f7-af00-4029-84d3-1e246ee6185d",
-          "ok": false,
-          "status": null,
-          "method": "GET",
-          "error": "This operation was aborted"
-        },
-        {
-          "url": "https://jobs.lever.co/nextech/f46631cf-5416-4111-8767-731c36f62cb1",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
     },
     {
       "company": "360itprofessionals1",
@@ -487,7 +455,7 @@
           "method": "HEAD"
         },
         {
-          "url": "https://boards.greenhouse.io/flexport/jobs/7372929?gh_jid=7372929",
+          "url": "https://boards.greenhouse.io/flexport/jobs/6893746?gh_jid=6893746",
           "ok": true,
           "status": 200,
           "method": "HEAD"
@@ -685,7 +653,7 @@
           "method": "HEAD"
         },
         {
-          "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374591006",
+          "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374765006",
           "ok": true,
           "status": 200,
           "method": "HEAD"
@@ -708,6 +676,28 @@
         },
         {
           "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4645685006",
+          "ok": true,
+          "status": 200,
+          "method": "HEAD"
+        }
+      ]
+    },
+    {
+      "company": "nextech",
+      "type": "lever",
+      "slug": "nextech",
+      "status": "healthy",
+      "jobsCount": 8,
+      "badLinks": 0,
+      "checkedUrls": [
+        {
+          "url": "https://jobs.lever.co/nextech/0cdff0f7-af00-4029-84d3-1e246ee6185d",
+          "ok": true,
+          "status": 200,
+          "method": "HEAD"
+        },
+        {
+          "url": "https://jobs.lever.co/nextech/f46631cf-5416-4111-8767-731c36f62cb1",
           "ok": true,
           "status": 200,
           "method": "HEAD"
@@ -752,6 +742,28 @@
         },
         {
           "url": "https://job-boards.greenhouse.io/openfarminc/jobs/5120685008",
+          "ok": true,
+          "status": 200,
+          "method": "HEAD"
+        }
+      ]
+    },
+    {
+      "company": "palantir",
+      "type": "lever",
+      "slug": "palantir",
+      "status": "healthy",
+      "jobsCount": 239,
+      "badLinks": 0,
+      "checkedUrls": [
+        {
+          "url": "https://jobs.lever.co/palantir/5ec536c8-67b8-4b6b-b23e-cde403d59d53",
+          "ok": true,
+          "status": 200,
+          "method": "HEAD"
+        },
+        {
+          "url": "https://jobs.lever.co/palantir/3d315de7-b94f-4c29-bcbb-63d51b00325a",
           "ok": true,
           "status": 200,
           "method": "HEAD"
@@ -886,7 +898,7 @@
           "url": "https://jobs.lever.co/saviynt/b619d56a-70ad-4523-b2d2-df1dec69b78f",
           "ok": true,
           "status": 200,
-          "method": "GET"
+          "method": "HEAD"
         }
       ]
     },
@@ -1053,13 +1065,13 @@
       "badLinks": 0,
       "checkedUrls": [
         {
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8379356002",
+          "url": "https://job-boards.greenhouse.io/twitch/jobs/8379347002",
           "ok": true,
           "status": 200,
           "method": "HEAD"
         },
         {
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8379347002",
+          "url": "https://job-boards.greenhouse.io/twitch/jobs/8379356002",
           "ok": true,
           "status": 200,
           "method": "HEAD"
@@ -1137,7 +1149,7 @@
       "type": "greenhouse",
       "slug": "voyagertechnologiesinc",
       "status": "healthy",
-      "jobsCount": 92,
+      "jobsCount": 93,
       "badLinks": 0,
       "checkedUrls": [
         {
@@ -1199,24 +1211,24 @@
       ]
     },
     {
-      "company": "whoop",
+      "company": "wyetechllc",
       "type": "lever",
-      "slug": "whoop",
+      "slug": "wyetechllc",
       "status": "healthy",
-      "jobsCount": 132,
+      "jobsCount": 137,
       "badLinks": 0,
       "checkedUrls": [
         {
-          "url": "https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f",
+          "url": "https://jobs.lever.co/wyetechllc/1386ac36-e8fe-4615-a184-c9548023601b",
           "ok": true,
           "status": 200,
           "method": "HEAD"
         },
         {
-          "url": "https://jobs.lever.co/whoop/7470d286-69dd-4ed9-9931-186d8d4b91ae",
+          "url": "https://jobs.lever.co/wyetechllc/8bc9310a-ce1b-4021-bbf6-a58bdcff2840",
           "ok": true,
           "status": 200,
-          "method": "HEAD"
+          "method": "GET"
         }
       ]
     },
