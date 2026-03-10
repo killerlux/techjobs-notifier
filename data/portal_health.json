@@ -1,1419 +1,1940 @@
 {
-  "generatedAt": "2026-03-10T22:35:00.068Z",
+  "generatedAt": "2026-03-10T23:06:28.269Z",
+  "source": "data/companies_all.json",
   "summary": {
-    "total": 80,
-    "healthy": 55,
-    "degraded": 0,
-    "empty": 0,
-    "fetch_error": 2,
-    "unsupported": 23,
-    "misconfigured": 0
+    "total": 2310,
+    "healthy": 215,
+    "degraded": 407,
+    "empty": 17,
+    "fetch_error": 213,
+    "unsupported": 1457,
+    "misconfigured": 1
   },
   "results": [
     {
-      "company": "trmlabs",
+      "company": "42dot",
+      "type": "ashby",
+      "slug": "42dot",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=42dot -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "8VC",
+      "type": "ashby",
+      "slug": "8vc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=8vc -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Abridge",
+      "type": "ashby",
+      "slug": "abridge",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=abridge -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "AGILE Space Industries",
+      "type": "greenhouse",
+      "slug": "agilespaceindustries",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/agilespaceindustries/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "AI Fund",
+      "type": "lever",
+      "slug": "aifund",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/aifund?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Alignerr",
+      "type": "greenhouse",
+      "slug": "alignerr",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Altera Digital Health",
+      "type": "greenhouse",
+      "slug": "alteradigitalhealth",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Anima",
+      "type": "ashby",
+      "slug": "anima",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=anima -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Anyscale",
+      "type": "ashby",
+      "slug": "anyscale",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=anyscale -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Anything",
+      "type": "ashby",
+      "slug": "anything",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=anything -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Aprio",
+      "type": "lever",
+      "slug": "aprio",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Arch",
+      "type": "ashby",
+      "slug": "arch.co",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=arch.co -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Assembled",
+      "type": "ashby",
+      "slug": "assembledhq",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=assembledhq -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Assort Health",
+      "type": "ashby",
+      "slug": "assorthealth",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=assorthealth -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Astro Mechanica",
+      "type": "ashby",
+      "slug": "astro-mechanica",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=astro-mechanica -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Augment",
+      "type": "ashby",
+      "slug": "go-augment",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=go-augment -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Base Power",
+      "type": "ashby",
+      "slug": "base-power",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=base-power -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Baseten",
+      "type": "ashby",
+      "slug": "baseten",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=baseten -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Baton Corporation",
+      "type": "ashby",
+      "slug": "batoncorporation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=batoncorporation -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Becker Friedman Institute for Economics",
+      "type": "greenhouse",
+      "slug": "universityofchicago",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/universityofchicago/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Benchling",
+      "type": "ashby",
+      "slug": "benchling",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=benchling -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Benchling",
+      "type": "greenhouse",
+      "slug": "benchling",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/benchling/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Bevel",
+      "type": "ashby",
+      "slug": "bevel",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=bevel -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Blink",
+      "type": "workable",
+      "slug": "joinblink",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/joinblink/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Blissway",
+      "type": "ashby",
+      "slug": "blissway",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=blissway -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Boom Supersonic",
+      "type": "greenhouse",
+      "slug": "boomsupersonic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/boomsupersonic/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Brain Co.",
+      "type": "ashby",
+      "slug": "brainco",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=brainco -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Bree",
+      "type": "ashby",
+      "slug": "bree",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=bree -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Brellium",
+      "type": "ashby",
+      "slug": "brellium",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=brellium -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "BRM",
+      "type": "ashby",
+      "slug": "brm.ai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=brm.ai -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Broccoli AI",
+      "type": "ashby",
+      "slug": "broccoli",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=broccoli -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Candid Health",
+      "type": "ashby",
+      "slug": "candidhealth",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=candidhealth -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Cantina",
+      "type": "ashby",
+      "slug": "spearbit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=spearbit -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Cape",
+      "type": "ashby",
+      "slug": "cape",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=cape -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Cartesia",
+      "type": "ashby",
+      "slug": "cartesia",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=cartesia -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Catbird",
+      "type": "lever",
+      "slug": "catbird",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/catbird?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CesiumAstro",
+      "type": "lever",
+      "slug": "cesiumastro",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Citizen Health",
+      "type": "ashby",
+      "slug": "citizen%20health",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=citizen%20health -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Citylitics",
+      "type": "workable",
+      "slug": "citylitics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/citylitics/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CivilGrid",
+      "type": "ashby",
+      "slug": "civilgrid",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=civilgrid -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Clay",
+      "type": "ashby",
+      "slug": "claylabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=claylabs -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Clearer.io",
+      "type": "lever",
+      "slug": "clearer",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Close",
+      "type": "ashby",
+      "slug": "close",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=close -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Cohere",
+      "type": "ashby",
+      "slug": "cohere",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=cohere -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Collaborative Robotics",
+      "type": "ashby",
+      "slug": "cobot",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=cobot -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CommonLit",
+      "type": "lever",
+      "slug": "commonlit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Commure",
+      "type": "ashby",
+      "slug": "commure-athelas",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=commure-athelas -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Confluent",
+      "type": "ashby",
+      "slug": "confluent",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=confluent -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Constellation Technologies",
+      "type": "lever",
+      "slug": "cti-md",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Continue",
+      "type": "ashby",
+      "slug": "continue",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=continue -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Creatify Lab",
+      "type": "ashby",
+      "slug": "creatify",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=creatify -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Crusoe",
+      "type": "ashby",
+      "slug": "crusoe",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=crusoe -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "DataVisor",
+      "type": "workable",
+      "slug": "datavisor-jobs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Decagon",
+      "type": "ashby",
+      "slug": "decagon",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=decagon -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Distyl AI",
+      "type": "ashby",
+      "slug": "distyl",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=distyl -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "DoseSpot",
+      "type": "ashby",
+      "slug": "dosespot",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=dosespot -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Dyna Robotics",
+      "type": "ashby",
+      "slug": "dyna-robotics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=dyna-robotics -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "ElevenLabs",
+      "type": "ashby",
+      "slug": "elevenlabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=elevenlabs -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Elicit",
+      "type": "ashby",
+      "slug": "elicit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=elicit -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "EliseAI",
+      "type": "ashby",
+      "slug": "eliseai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=eliseai -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ellipsis Labs",
+      "type": "ashby",
+      "slug": "ellipsislabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=ellipsislabs -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Eluvio",
+      "type": "workable",
+      "slug": "eluvio",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/eluvio/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ema",
+      "type": "ashby",
+      "slug": "ema",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=ema -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Empirical Security",
+      "type": "ashby",
+      "slug": "empirical-security",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=empirical-security -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Encord",
+      "type": "lever",
+      "slug": "cordtechnologies",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Equip Health",
+      "type": "ashby",
+      "slug": "equip",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=equip -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Etched.ai",
+      "type": "ashby",
+      "slug": "etched",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=etched -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Eventual",
+      "type": "ashby",
+      "slug": "eventualcomputing",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=eventualcomputing -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "EvenUp",
+      "type": "ashby",
+      "slug": "evenup",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=evenup -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Fable Security",
+      "type": "ashby",
+      "slug": "fable",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=fable -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Faculty AI",
+      "type": "ashby",
+      "slug": "faculty",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=faculty -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Fermat",
+      "type": "ashby",
+      "slug": "fermat",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=fermat -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Flock Safety",
+      "type": "ashby",
+      "slug": "flock%20safety",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=flock%20safety -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "FloSports",
+      "type": "ashby",
+      "slug": "flosports",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=flosports -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Fuse Energy",
+      "type": "ashby",
+      "slug": "fuse",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=fuse -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Future Publishing",
+      "type": "workable",
+      "slug": "futureplc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/futureplc/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "G2",
+      "type": "ashby",
+      "slug": "g2",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=g2 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Gecko Robotics",
+      "type": "ashby",
+      "slug": "gecko-robotics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=gecko-robotics -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Genmo",
+      "type": "ashby",
+      "slug": "genmo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=genmo -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Giga AI",
+      "type": "ashby",
+      "slug": "gigaml",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=gigaml -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Gladia",
+      "type": "ashby",
+      "slug": "gladia",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=gladia -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Glide",
+      "type": "ashby",
+      "slug": "glide",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=glide -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "GoodShip",
+      "type": "ashby",
+      "slug": "goodship",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=goodship -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Grayce",
+      "type": "workable",
+      "slug": "grayce",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/grayce/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Gumloop",
+      "type": "ashby",
+      "slug": "gumloop",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=gumloop -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Hadrian",
+      "type": "ashby",
+      "slug": "hadrian-automation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=hadrian-automation -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Handshake",
+      "type": "ashby",
+      "slug": "handshake",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=handshake -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Harvey",
+      "type": "ashby",
+      "slug": "harvey",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=harvey -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Hawk-Eye Innovations",
+      "type": "ashby",
+      "slug": "hawkeyeinnovations",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=hawkeyeinnovations -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Heidi Health",
+      "type": "ashby",
+      "slug": "heidihealth.com.au",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=heidihealth.com.au -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Helion Energy",
+      "type": "greenhouse",
+      "slug": "helionenergy",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/helionenergy/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Heron Power",
+      "type": "ashby",
+      "slug": "heron-power",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=heron-power -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "HomeVision",
+      "type": "ashby",
+      "slug": "homevision",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=homevision -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Horizon3.ai",
+      "type": "ashby",
+      "slug": "horizon3ai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=horizon3ai -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "HUMAN",
+      "type": "ashby",
+      "slug": "human",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=human -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ideogram",
+      "type": "ashby",
+      "slug": "ideogram",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=ideogram -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Infleqtion",
+      "type": "workable",
+      "slug": "coldquanta",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "iwoca",
+      "type": "ashby",
+      "slug": "iwoca.co.uk",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=iwoca.co.uk -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Jerry",
+      "type": "ashby",
+      "slug": "jerry",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=jerry -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Jerry",
+      "type": "ashby",
+      "slug": "jerry.ai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=jerry.ai -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Keyrock",
+      "type": "ashby",
+      "slug": "keyrock",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=keyrock -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "KIKOFF Leagues",
+      "type": "ashby",
+      "slug": "kikoff",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=kikoff -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "KOHO",
+      "type": "ashby",
+      "slug": "koho",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=koho -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lambda",
+      "type": "ashby",
+      "slug": "lambda",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=lambda -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Leavitt Group",
+      "type": "ashby",
+      "slug": "leavitt",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=leavitt -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lendable",
+      "type": "ashby",
+      "slug": "lendable",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=lendable -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lightfield",
+      "type": "ashby",
+      "slug": "lightfield",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=lightfield -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lilt",
+      "type": "ashby",
+      "slug": "lilt",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=lilt -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Liquid AI",
+      "type": "ashby",
+      "slug": "liquid-ai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=liquid-ai -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lucid Motors",
+      "type": "greenhouse",
+      "slug": "lucidmotors",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lumin Digital",
+      "type": "lever",
+      "slug": "lumindigital",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lynk",
+      "type": "ashby",
+      "slug": "lynk",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=lynk -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Machinify",
+      "type": "ashby",
+      "slug": "machinify",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=machinify -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Magical",
+      "type": "ashby",
+      "slug": "magical",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=magical -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Maple AI",
+      "type": "ashby",
+      "slug": "maple",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=maple -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Matic",
+      "type": "ashby",
+      "slug": "maticrobots",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=maticrobots -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Maybern",
+      "type": "ashby",
+      "slug": "maybern",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=maybern -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Mechanize",
+      "type": "ashby",
+      "slug": "mechanize",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=mechanize -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Menlo Security",
+      "type": "ashby",
+      "slug": "menlosecurity",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=menlosecurity -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Mercor",
+      "type": "ashby",
+      "slug": "mercor",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=mercor -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Meshy",
+      "type": "greenhouse",
+      "slug": "meshy",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/meshy/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Millennium Space Systems",
+      "type": "greenhouse",
+      "slug": "millenniumspacesystems",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/millenniumspacesystems/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Mintlify",
+      "type": "ashby",
+      "slug": "mintlify",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=mintlify -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "MLabs",
+      "type": "workable",
+      "slug": "mlabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/mlabs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Mudflap",
+      "type": "ashby",
+      "slug": "mudflap",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=mudflap -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "N1",
+      "type": "ashby",
+      "slug": "n1",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=n1 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Nectar Social",
+      "type": "ashby",
+      "slug": "nectar-social",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=nectar-social -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Neon Health",
+      "type": "ashby",
+      "slug": "neon-health",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=neon-health -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Netic",
+      "type": "ashby",
+      "slug": "netic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=netic -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Newfront Insurance",
+      "type": "ashby",
+      "slug": "newfront",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=newfront -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Nimble Robotics",
+      "type": "lever",
+      "slug": "nimbleai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/nimbleai?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Northslope Technologies",
+      "type": "ashby",
+      "slug": "northslope-technologies",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=northslope-technologies -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Northwood Space",
+      "type": "ashby",
+      "slug": "northwoodspace",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=northwoodspace -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Notion",
+      "type": "ashby",
+      "slug": "notion",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=notion -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "OffDeal",
+      "type": "ashby",
+      "slug": "offdeal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=offdeal -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "One Brief",
+      "type": "ashby",
+      "slug": "onebrief",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=onebrief -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "OpenAI",
+      "type": "ashby",
+      "slug": "openai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=openai -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "OpenGov",
+      "type": "ashby",
+      "slug": "opengov",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=opengov -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "OpusClip",
+      "type": "ashby",
+      "slug": "opusclip",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=opusclip -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Orchard",
+      "type": "ashby",
+      "slug": "orchard",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=orchard -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "PAR Tech",
+      "type": "ashby",
+      "slug": "par%20technology",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=par%20technology -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Parafin",
+      "type": "ashby",
+      "slug": "parafin",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=parafin -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Parallel Web Systems",
+      "type": "ashby",
+      "slug": "parallel",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=parallel -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "PermitFlow",
+      "type": "ashby",
+      "slug": "permitflow",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=permitflow -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Persona",
+      "type": "ashby",
+      "slug": "persona",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=persona -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pioneering Evolution",
+      "type": "greenhouse",
+      "slug": "pioneeringevolution",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "pony.ai",
+      "type": "workable",
+      "slug": "pony-dot-ai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Profound",
+      "type": "ashby",
+      "slug": "profound",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=profound -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Promise",
+      "type": "ashby",
+      "slug": "promise",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=promise -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Protegrity",
+      "type": "ashby",
+      "slug": "protegrity",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=protegrity -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pulley",
+      "type": "ashby",
+      "slug": "withpulley",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=withpulley -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pylon",
+      "type": "ashby",
+      "slug": "pylon",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=pylon -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pylon",
+      "type": "ashby",
+      "slug": "pylon-labs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=pylon-labs -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "qode.world",
+      "type": "workable",
+      "slug": "qodeworld",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/qodeworld/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Quantexa",
+      "type": "workable",
+      "slug": "quantexa",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/quantexa/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Quora",
+      "type": "ashby",
+      "slug": "quora",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=quora -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Radiant",
+      "type": "greenhouse",
+      "slug": "radiant",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/radiant/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Radical AI",
+      "type": "lever",
+      "slug": "radicalai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/radicalai?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ramp",
+      "type": "ashby",
+      "slug": "ramp",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=ramp -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Redis",
+      "type": "greenhouse",
+      "slug": "redis",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/redis/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Reevo",
+      "type": "ashby",
+      "slug": "reevo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=reevo -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Relay Technologies",
+      "type": "ashby",
+      "slug": "relay",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=relay -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Remi",
+      "type": "ashby",
+      "slug": "remi",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=remi -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Replit",
+      "type": "ashby",
+      "slug": "replit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=replit -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Rivos",
+      "type": "lever",
+      "slug": "rivosinc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/rivosinc?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Rocket Science Group",
+      "type": "ashby",
+      "slug": "rocketsciencegg",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=rocketsciencegg -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Rogo",
+      "type": "ashby",
+      "slug": "rogo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=rogo -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Roserocket",
+      "type": "ashby",
+      "slug": "rose%20rocket",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=rose%20rocket -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sagard",
+      "type": "greenhouse",
+      "slug": "sagardcareers",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/sagardcareers/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Savvy",
+      "type": "ashby",
+      "slug": "savvy",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=savvy -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "SciTec",
+      "type": "workable",
+      "slug": "scitec",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/scitec/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sei Labs",
+      "type": "lever",
+      "slug": "seilabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/seilabs?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sentra",
+      "type": "ashby",
+      "slug": "sentra",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=sentra -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sentry",
+      "type": "ashby",
+      "slug": "sentry",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=sentry -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Shiftsmart",
+      "type": "ashby",
+      "slug": "shiftsmart",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=shiftsmart -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sierra",
+      "type": "ashby",
+      "slug": "sierra",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=sierra -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sift",
+      "type": "ashby",
+      "slug": "siftstack",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=siftstack -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Silna Health",
+      "type": "ashby",
+      "slug": "silnahealth.com",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=silnahealth.com -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Snowflake",
+      "type": "ashby",
+      "slug": "snowflake",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=snowflake -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Solace Health",
+      "type": "ashby",
+      "slug": "solace",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=solace -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Solidroad",
+      "type": "ashby",
+      "slug": "solidroad",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=solidroad -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "SpotOn",
+      "type": "greenhouse",
+      "slug": "spotonproduct",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "StackAV",
+      "type": "greenhouse",
+      "slug": "stackav",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Standard Bots",
+      "type": "ashby",
+      "slug": "standardbots",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=standardbots -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Standard Fleet",
+      "type": "ashby",
+      "slug": "standardfleet",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=standardfleet -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Starpath Robotics",
+      "type": "ashby",
+      "slug": "starpath.space",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=starpath.space -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Suno",
+      "type": "ashby",
+      "slug": "suno",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=suno -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tandem PV",
+      "type": "ashby",
+      "slug": "tandempv",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=tandempv -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tavily",
+      "type": "ashby",
+      "slug": "tavily",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=tavily -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "TensorWave",
+      "type": "ashby",
+      "slug": "tensorwave",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=tensorwave -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "The Job Sauce",
+      "type": "ashby",
+      "slug": "the%20job%20sauce",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=the%20job%20sauce -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "The Swift Group",
+      "type": "greenhouse",
+      "slug": "theswiftgroup",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/theswiftgroup/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Thorlabs",
+      "type": "workable",
+      "slug": "thorlabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/thorlabs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tinder",
+      "type": "lever",
+      "slug": "matchgroup",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tokamak Energy",
+      "type": "workable",
+      "slug": "tokamak-energy",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/tokamak-energy/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tools for Humanity",
+      "type": "ashby",
+      "slug": "tools%20for%20humanity",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=tools%20for%20humanity -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Trend Health Partners",
+      "type": "lever",
+      "slug": "trend-health-partners",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/trend-health-partners?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Trexquant",
+      "type": "workable",
+      "slug": "trexquant",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://apply.workable.com/api/v3/accounts/trexquant/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "TRM Labs",
       "type": "greenhouse",
       "slug": "trmlabs",
       "status": "fetch_error",
       "jobsCount": 0,
-      "checkedUrls": [],
-      "error": "https://boards-api.greenhouse.io/v1/boards/trmlabs/jobs?content=true -> 404"
+      "error": "https://boards-api.greenhouse.io/v1/boards/trmlabs/jobs?content=true -> 404",
+      "checkedUrls": []
     },
     {
-      "company": "whoop",
-      "type": "lever",
-      "slug": "whoop",
+      "company": "TWG Global",
+      "type": "workable",
+      "slug": "twgai",
       "status": "fetch_error",
       "jobsCount": 0,
-      "checkedUrls": [],
-      "error": "This operation was aborted"
+      "error": "https://apply.workable.com/api/v3/accounts/twgai/jobs?limit=200 -> 404",
+      "checkedUrls": []
     },
     {
-      "company": "360itprofessionals1",
-      "type": "smartrecruiters",
-      "slug": "360itprofessionals1",
-      "status": "healthy",
-      "jobsCount": 100,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/360itprofessionals1/postings/743999659865126",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/360itprofessionals1/postings/743999659864960",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
+      "company": "UiPath",
+      "type": "ashby",
+      "slug": "uipath",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=uipath -> 404",
+      "checkedUrls": []
     },
     {
-      "company": "affirm",
+      "company": "Uncountable",
+      "type": "ashby",
+      "slug": "uncountable",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=uncountable -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Unify",
+      "type": "ashby",
+      "slug": "unify",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=unify -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Valon",
+      "type": "ashby",
+      "slug": "valon",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=valon -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Valon",
       "type": "greenhouse",
-      "slug": "affirm",
-      "status": "healthy",
-      "jobsCount": 162,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/affirm/jobs/7590561003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/affirm/jobs/7533759003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
+      "slug": "valon",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
+      "checkedUrls": []
     },
     {
-      "company": "agtechnologies1",
-      "type": "smartrecruiters",
-      "slug": "agtechnologies1",
-      "status": "healthy",
-      "jobsCount": 100,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/agtechnologies1/postings/743999659738590",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/agtechnologies1/postings/743999659738423",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "alphafmcroles",
-      "type": "greenhouse",
-      "slug": "alphafmcroles",
-      "status": "healthy",
-      "jobsCount": 62,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8453269002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8334159002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "andurilindustries",
-      "type": "greenhouse",
-      "slug": "andurilindustries",
-      "status": "healthy",
-      "jobsCount": 1652,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/4906040007?gh_jid=4906040007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/4910799007?gh_jid=4910799007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "appliedintuition",
-      "type": "greenhouse",
-      "slug": "appliedintuition",
-      "status": "healthy",
-      "jobsCount": 220,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://boards.greenhouse.io/appliedintuition/jobs/4060957005?gh_jid=4060957005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://boards.greenhouse.io/appliedintuition/jobs/4582602005?gh_jid=4582602005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "applovin",
-      "type": "greenhouse",
-      "slug": "applovin",
-      "status": "healthy",
-      "jobsCount": 42,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://boards.greenhouse.io/applovin/jobs/4657223006?gh_jid=4657223006",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://boards.greenhouse.io/applovin/jobs/4657241006?gh_jid=4657241006",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "applytotruebuilt",
-      "type": "greenhouse",
-      "slug": "applytotruebuilt",
-      "status": "healthy",
-      "jobsCount": 1,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "artefactus",
-      "type": "greenhouse",
-      "slug": "artefactus",
-      "status": "healthy",
-      "jobsCount": 19,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/artefactus/jobs/8214988002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/artefactus/jobs/7741912002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "axon",
-      "type": "greenhouse",
-      "slug": "axon",
-      "status": "healthy",
-      "jobsCount": 449,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/axon/jobs/7245404003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/axon/jobs/7214493003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "brycetech",
-      "type": "smartrecruiters",
-      "slug": "brycetech",
-      "status": "healthy",
-      "jobsCount": 47,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/brycetech/postings/744000113624282",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/brycetech/postings/744000113159807",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "captivation",
-      "type": "greenhouse",
-      "slug": "captivation",
-      "status": "healthy",
-      "jobsCount": 54,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/captivation/jobs/5118809008",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/captivation/jobs/5118901008",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "cribl",
-      "type": "greenhouse",
-      "slug": "cribl",
-      "status": "healthy",
-      "jobsCount": 66,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://cribl.io/job-detail/?gh_jid=5810721004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://cribl.io/job-detail/?gh_jid=5812889004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "datalabusa",
+      "company": "Veeva Systems",
       "type": "lever",
-      "slug": "datalabusa",
-      "status": "healthy",
-      "jobsCount": 11,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/datalabusa/75568c98-84ed-4ff1-baf2-5f70d7c2a9d7",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/datalabusa/34054ca5-bbf6-4f67-8dc0-cecb8f994b23",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "divergent",
-      "type": "greenhouse",
-      "slug": "divergent",
-      "status": "healthy",
-      "jobsCount": 71,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/divergent/jobs/5148458008",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/divergent/jobs/5034433008",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "domains",
-      "type": "greenhouse",
-      "slug": "domains",
-      "status": "healthy",
-      "jobsCount": 4,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/domains/jobs/7525395003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/domains/jobs/7547600003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "doordashcanada",
-      "type": "greenhouse",
-      "slug": "doordashcanada",
-      "status": "healthy",
-      "jobsCount": 29,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7094704",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7345227",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "fireworksai",
-      "type": "greenhouse",
-      "slug": "fireworksai",
-      "status": "healthy",
-      "jobsCount": 22,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4001304009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4000253009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "flex",
-      "type": "greenhouse",
-      "slug": "flex",
-      "status": "healthy",
-      "jobsCount": 92,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/flex/jobs/4646629005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/flex/jobs/4646623005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "flexport",
-      "type": "greenhouse",
-      "slug": "flexport",
-      "status": "healthy",
-      "jobsCount": 158,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://boards.greenhouse.io/flexport/jobs/7444282?gh_jid=7444282",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://boards.greenhouse.io/flexport/jobs/6893746?gh_jid=6893746",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "freeformfuturecorp",
-      "type": "greenhouse",
-      "slug": "freeformfuturecorp",
-      "status": "healthy",
-      "jobsCount": 53,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7560652003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653245003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "gleanwork",
-      "type": "greenhouse",
-      "slug": "gleanwork",
-      "status": "healthy",
-      "jobsCount": 189,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4656031005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4666200005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "higherlogic",
-      "type": "greenhouse",
-      "slug": "higherlogic",
-      "status": "healthy",
-      "jobsCount": 8,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6929975003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/higherlogic/jobs/7486686003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "klaviyocampus",
-      "type": "greenhouse",
-      "slug": "klaviyocampus",
-      "status": "healthy",
-      "jobsCount": 6,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7621072003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7602543003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "kodiak",
-      "type": "greenhouse",
-      "slug": "kodiak",
-      "status": "healthy",
-      "jobsCount": 52,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/kodiak/jobs/4005932009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/kodiak/jobs/4139994009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "latitude",
-      "type": "greenhouse",
-      "slug": "latitude",
-      "status": "healthy",
-      "jobsCount": 33,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/latitude/jobs/7629654",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/latitude/jobs/7676027",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "latitudeinc",
-      "type": "lever",
-      "slug": "latitudeinc",
-      "status": "healthy",
-      "jobsCount": 287,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/latitudeinc/8baec6a3-d5ce-4c24-ad56-cc78666a6a02",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/latitudeinc/58728650-2499-416e-addd-d3d77a8607a3",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "loop",
-      "type": "greenhouse",
-      "slug": "loop",
-      "status": "healthy",
-      "jobsCount": 17,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "mthreerecruitingportal",
-      "type": "greenhouse",
-      "slug": "mthreerecruitingportal",
-      "status": "healthy",
-      "jobsCount": 97,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374526006",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374765006",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "newsbreak",
-      "type": "greenhouse",
-      "slug": "newsbreak",
-      "status": "healthy",
-      "jobsCount": 20,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4649186006",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4645685006",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "nextech",
-      "type": "lever",
-      "slug": "nextech",
-      "status": "healthy",
-      "jobsCount": 8,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/nextech/0cdff0f7-af00-4029-84d3-1e246ee6185d",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/nextech/f46631cf-5416-4111-8767-731c36f62cb1",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "oklo",
-      "type": "greenhouse",
-      "slug": "oklo",
-      "status": "healthy",
-      "jobsCount": 70,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/oklo/jobs/5730227004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/oklo/jobs/5722814004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "openfarminc",
-      "type": "greenhouse",
-      "slug": "openfarminc",
-      "status": "healthy",
-      "jobsCount": 17,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/openfarminc/jobs/5139376008",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/openfarminc/jobs/5120685008",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "palantir",
-      "type": "lever",
-      "slug": "palantir",
-      "status": "healthy",
-      "jobsCount": 239,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/palantir/5ec536c8-67b8-4b6b-b23e-cde403d59d53",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/palantir/3d315de7-b94f-4c29-bcbb-63d51b00325a",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "parallelwireless",
-      "type": "lever",
-      "slug": "parallelwireless",
-      "status": "healthy",
-      "jobsCount": 52,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/parallelwireless/c9c66902-e290-4e2d-b4df-cf7c5e46ed6d",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/parallelwireless/f1ebcbff-942c-4be0-94a9-555cb490327b",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "patterndata",
-      "type": "greenhouse",
-      "slug": "patterndata",
-      "status": "healthy",
-      "jobsCount": 5,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/patterndata/jobs/4952463007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/patterndata/jobs/4952603007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "perpay",
-      "type": "greenhouse",
-      "slug": "perpay",
-      "status": "healthy",
-      "jobsCount": 19,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/perpay/jobs/5003430007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/perpay/jobs/4034121007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "revefi",
-      "type": "lever",
-      "slug": "revefi",
-      "status": "healthy",
-      "jobsCount": 12,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/revefi/22239d2c-eb57-4a5e-a1d3-16d0f6bf196a",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/revefi/62e70f20-92f1-4146-b190-b9c7876cf586",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "rocketlab",
-      "type": "greenhouse",
-      "slug": "rocketlab",
-      "status": "healthy",
-      "jobsCount": 284,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7629764003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7633365003",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "saviynt",
-      "type": "lever",
-      "slug": "saviynt",
-      "status": "healthy",
-      "jobsCount": 160,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/saviynt/c8e0e65d-b0a4-4ba3-95fa-8d0b6ac4fb41",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/saviynt/b619d56a-70ad-4523-b2d2-df1dec69b78f",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "sayari",
-      "type": "greenhouse",
-      "slug": "sayari",
-      "status": "healthy",
-      "jobsCount": 20,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/sayari/jobs/4109010009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/sayari/jobs/4116584009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "scaleai",
-      "type": "greenhouse",
-      "slug": "scaleai",
-      "status": "healthy",
-      "jobsCount": 173,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654510005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/scaleai/jobs/4641500005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "silfabsolar",
-      "type": "smartrecruiters",
-      "slug": "silfabsolar",
-      "status": "healthy",
-      "jobsCount": 46,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/silfabsolar/postings/744000113774437",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://api.smartrecruiters.com/v1/companies/silfabsolar/postings/744000112551493",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "spacex",
-      "type": "greenhouse",
-      "slug": "spacex",
-      "status": "healthy",
-      "jobsCount": 1572,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://boards.greenhouse.io/spacex/jobs/8399574002?gh_jid=8399574002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://boards.greenhouse.io/spacex/jobs/8426303002?gh_jid=8426303002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "sprucesystems",
-      "type": "lever",
-      "slug": "sprucesystems",
-      "status": "healthy",
-      "jobsCount": 8,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/sprucesystems/930d4d79-7ee8-44c6-8426-0e7827315023",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/sprucesystems/b6ed1d39-d3e4-454f-8d8c-a5a65d64651f",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "stubhubinc",
-      "type": "greenhouse",
-      "slug": "stubhubinc",
-      "status": "healthy",
-      "jobsCount": 138,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4671355101",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4704159101",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "trueanomalyinc",
-      "type": "greenhouse",
-      "slug": "trueanomalyinc",
-      "status": "healthy",
-      "jobsCount": 118,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5064353007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4978839007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "twitch",
-      "type": "greenhouse",
-      "slug": "twitch",
-      "status": "healthy",
-      "jobsCount": 61,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8379347002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8379356002",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "uareai",
-      "type": "greenhouse",
-      "slug": "uareai",
-      "status": "healthy",
-      "jobsCount": 7,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/uareai/jobs/4140560009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/uareai/jobs/4032975009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "underdogfantasy",
-      "type": "greenhouse",
-      "slug": "underdogfantasy",
-      "status": "healthy",
-      "jobsCount": 7,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4645597005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "verkada",
-      "type": "greenhouse",
-      "slug": "verkada",
-      "status": "healthy",
-      "jobsCount": 315,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/verkada/jobs/4991227007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/verkada/jobs/4999870007",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "voyagertechnologiesinc",
-      "type": "greenhouse",
-      "slug": "voyagertechnologiesinc",
-      "status": "healthy",
-      "jobsCount": 93,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4115400009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4115392009",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "warp",
-      "type": "greenhouse",
-      "slug": "warp",
-      "status": "healthy",
-      "jobsCount": 6,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://job-boards.greenhouse.io/warp/jobs/5728151004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://job-boards.greenhouse.io/warp/jobs/5784466004",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "weride",
-      "type": "lever",
-      "slug": "weride",
-      "status": "healthy",
-      "jobsCount": 34,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/weride/8f84c602-8a79-43f6-b662-74a92ef761f5",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        }
-      ]
-    },
-    {
-      "company": "wyetechllc",
-      "type": "lever",
-      "slug": "wyetechllc",
-      "status": "healthy",
-      "jobsCount": 137,
-      "badLinks": 0,
-      "checkedUrls": [
-        {
-          "url": "https://jobs.lever.co/wyetechllc/1386ac36-e8fe-4615-a184-c9548023601b",
-          "ok": true,
-          "status": 200,
-          "method": "HEAD"
-        },
-        {
-          "url": "https://jobs.lever.co/wyetechllc/8bc9310a-ce1b-4021-bbf6-a58bdcff2840",
-          "ok": true,
-          "status": 200,
-          "method": "GET"
-        }
-      ]
-    },
-    {
-      "company": "aexp",
-      "type": "eightfold",
-      "slug": null,
-      "status": "unsupported",
+      "slug": "veeva",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
-      "company": "amat",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Vultr",
+      "type": "greenhouse",
+      "slug": "vultr",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
-      "company": "axos",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Watershed",
+      "type": "ashby",
+      "slug": "watershed",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=watershed -> 404",
       "checkedUrls": []
     },
     {
-      "company": "bah",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Weave",
+      "type": "ashby",
+      "slug": "weave",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=weave -> 404",
       "checkedUrls": []
     },
     {
-      "company": "blueorigin",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Whatnot",
+      "type": "ashby",
+      "slug": "whatnot",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=whatnot -> 404",
       "checkedUrls": []
     },
     {
-      "company": "boeing",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Witness AI",
+      "type": "ashby",
+      "slug": "witnessai",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=witnessai -> 404",
       "checkedUrls": []
     },
     {
-      "company": "bostonscientific",
-      "type": "eightfold",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Zapier",
+      "type": "ashby",
+      "slug": "zapier",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=zapier -> 404",
       "checkedUrls": []
     },
     {
-      "company": "ciena",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
+      "company": "Zip",
+      "type": "ashby",
+      "slug": "zip",
+      "status": "fetch_error",
       "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=zip -> 404",
       "checkedUrls": []
     },
     {
-      "company": "compass",
-      "type": "workday",
+      "company": "Chewy",
+      "type": "greenhouse",
       "slug": null,
-      "status": "unsupported",
+      "status": "misconfigured",
       "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "crowdstrike",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "fis",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "generalmotors",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "globalhr",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "leidos",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "motorolasolutions",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "nvidia",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "pae",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "proofpoint",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "relx",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "symbotic",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "td",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "thales",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
-      "checkedUrls": []
-    },
-    {
-      "company": "truist",
-      "type": "workday",
-      "slug": null,
-      "status": "unsupported",
-      "jobsCount": 0,
+      "error": "missing_slug",
       "checkedUrls": []
     }
   ]

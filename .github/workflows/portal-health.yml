@@ -27,6 +27,7 @@ jobs:
       - name: Run portal health test
         run: |
           npm install --ignore-scripts --no-audit --no-fund
+          npm run build-companies
           npm run test-portals
 
       - name: Commit portal health report

@@ -1,18 +1,32 @@
 #!/usr/bin/env node
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import path from 'node:path';
 
 const root = process.cwd();
 const dataDir = path.join(root, 'data');
-const companiesPath = path.join(dataDir, 'companies.json');
+const companiesAllPath = path.join(dataDir, 'companies_all.json');
+const companiesActivePath = path.join(dataDir, 'companies_active.json');
+const companiesLegacyPath = path.join(dataDir, 'companies.json');
 const outPath = path.join(dataDir, 'portal_health.json');
 
 const FETCH_TIMEOUT_MS = 12000;
 const URL_TIMEOUT_MS = 10000;
-const MAX_URL_CHECKS_PER_COMPANY = 2;
+const MAX_URL_CHECKS_PER_COMPANY = 1;
 const CONCURRENCY = 8;
 
 const USER_AGENT = 'tracker-eu-portal-health/1.0';
+
+function pickCompaniesPath() {
+  if (process.env.COMPANIES_PATH) {
+    return path.isAbsolute(process.env.COMPANIES_PATH)
+      ? process.env.COMPANIES_PATH
+      : path.join(root, process.env.COMPANIES_PATH);
+  }
+  if (existsSync(companiesAllPath)) return companiesAllPath;
+  if (existsSync(companiesActivePath)) return companiesActivePath;
+  return companiesLegacyPath;
+}
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -279,15 +293,30 @@ function sortBySeverity(results) {
 }
 
 async function main() {
+  const companiesPath = pickCompaniesPath();
   const companies = JSON.parse(await readFile(companiesPath, 'utf8'));
   const checks = await runPool(companies, checkCompany, CONCURRENCY);
   const sorted = sortBySeverity(checks);
   const summary = summarize(sorted);
+  const issueStatuses = new Set(['fetch_error', 'misconfigured']);
+  const issues = sorted
+    .filter(item => issueStatuses.has(item.status))
+    .map(item => ({
+      company: item.company,
+      type: item.type,
+      slug: item.slug,
+      status: item.status,
+      jobsCount: item.jobsCount,
+      badLinks: item.badLinks,
+      error: item.error,
+      checkedUrls: item.checkedUrls,
+    }));
 
   const payload = {
     generatedAt: new Date().toISOString(),
+    source: path.relative(root, companiesPath),
     summary,
-    results: sorted,
+    results: issues,
   };
 
   await mkdir(dataDir, { recursive: true });
@@ -297,11 +326,11 @@ async function main() {
   for (const [key, value] of Object.entries(summary)) {
     console.log(`- ${key}: ${value}`);
   }
+  console.log(`- source: ${payload.source}`);
 
-  const noisy = sorted.filter(item => ['fetch_error', 'degraded', 'misconfigured'].includes(item.status));
-  if (noisy.length) {
+  if (issues.length) {
     console.log('\nTop issues:');
-    for (const item of noisy.slice(0, 15)) {
+    for (const item of issues.slice(0, 15)) {
       const reason = item.error ? ` (${item.error})` : '';
       console.log(`- ${item.company} [${item.type}:${item.slug}] -> ${item.status}${reason}`);
     }

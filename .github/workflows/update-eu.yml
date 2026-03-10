@@ -28,6 +28,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           npm install --ignore-scripts --no-audit --no-fund
+          npm run build-companies
           npm run update-eu
       - name: Commit changes
         run: |

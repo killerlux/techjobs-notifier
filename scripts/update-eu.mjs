@@ -6,11 +6,13 @@ import { fetchAmazonLondonNewGrad, fetchMicrosoftLondonNewGrad } from './connect
 
 const root = process.cwd();
 const dataDir = path.join(root, 'data');
-const companiesPath = path.join(dataDir, 'companies.json');
+const companiesActivePath = path.join(dataDir, 'companies_active.json');
+const companiesLegacyPath = path.join(dataDir, 'companies.json');
 const exampleCompaniesPath = path.join(dataDir, 'companies.example.json');
 const outJsonPath = path.join(dataDir, 'eu_roles.json');
 const outReadmePath = path.join(root, 'README.md');
 const outSeenPath = path.join(dataDir, 'seen_jobs.json');
+const portalHealthPath = path.join(dataDir, 'portal_health.json');
 
 const TARGET_COUNTRIES = [
   {
@@ -125,7 +127,8 @@ const TECH_PATTERNS = [
   /\binfosec\b/i,
   /\bappsec\b/i,
   /\bapplication\s+security\b/i,
-  /\bdata\b/i,
+  /\bdata\s+(engineer|engineering|scientist|science|platform|infrastructure)\b/i,
+  /\b(machine\s+learning|ml|ai)\s+(engineer|engineering|scientist|science|research)\b/i,
   /\bmachine\s+learning\b/i,
   /\bml\b/i,
   /\bai\b/i,
@@ -159,6 +162,8 @@ const NEGATIVE_PATTERNS = [
   /\bhr\b/i,
   /\bcustomer\s+support\b/i,
   /\bdue\s+care\b/i,
+  /\bconsultant\b/i,
+  /\bmanager\b/i,
   /\bsenior\b/i,
   /\bstaff\b/i,
   /\bprincipal\b/i,
@@ -170,14 +175,43 @@ const COUNTRY_ORDER_INDEX = new Map(TARGET_COUNTRIES.map((country, index) => [co
 
 /** Only show jobs posted in the last N days (or unknown date). Test with 10. */
 const MAX_DAYS = 10;
-/** Delay between company fetches (ms) to avoid rate limits. */
-const FETCH_DELAY_MS = 300;
 /** Request timeout (ms). */
 const FETCH_TIMEOUT_MS = 15000;
+const FETCH_RETRIES = 2;
+/** Number of ATS portals fetched in parallel. */
+const FETCH_CONCURRENCY = Number(process.env.FETCH_CONCURRENCY || 12);
+/** Random jitter before each fetch (ms) to reduce synchronized bursts. */
+const FETCH_JITTER_MS = 120;
 const MAX_NOTIFICATION_ROWS = 10;
+const MIGRATION_ALERT_SUPPRESS_THRESHOLD = 80;
 
 function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
+}
+
+async function runPool(items, worker, concurrency) {
+  if (items.length === 0) return [];
+  const results = new Array(items.length);
+  let index = 0;
+
+  async function runner() {
+    while (true) {
+      const current = index;
+      index += 1;
+      if (current >= items.length) {
+        return;
+      }
+      results[current] = await worker(items[current]);
+    }
+  }
+
+  const count = Math.max(1, Math.min(concurrency, items.length));
+  const runners = [];
+  for (let i = 0; i < count; i += 1) {
+    runners.push(runner());
+  }
+  await Promise.all(runners);
+  return results;
 }
 
 async function readJsonIfExists(filePath) {
@@ -315,18 +349,12 @@ function hasLevelSignal(title, description) {
 
 function hasTechSignal(title, description) {
   const titleText = String(title || '');
-  const descriptionText = String(description || '');
-
-  if (TECH_PATTERNS.some(pattern => pattern.test(titleText))) {
-    return true;
-  }
-
-  const nonTechnicalTitle = /\b(associate|operations|manager|consultant|coordinator|specialist|analyst)\b/i.test(titleText);
+  const nonTechnicalTitle = /\b(associate|operations|manager|consultant|coordinator|specialist|analyst|designer)\b/i.test(titleText);
   if (nonTechnicalTitle) {
-    return false;
+    return /\b(software|security|cyber|appsec|devops|sre|developer|engineer|ml|machine\s+learning|ai|platform)\b/i.test(titleText);
   }
 
-  return TECH_PATTERNS.some(pattern => pattern.test(descriptionText));
+  return TECH_PATTERNS.some(pattern => pattern.test(titleText));
 }
 
 function hasNegativeSignal(title, description) {
@@ -374,18 +402,27 @@ function isWithinLastDays(job) {
 }
 
 async function fetchJson(url) {
-  const ac = new AbortController();
-  const to = setTimeout(() => ac.abort(), FETCH_TIMEOUT_MS);
-  try {
-    const res = await fetch(url, {
-      headers: { 'user-agent': 'tracker-eu/1.0' },
-      signal: ac.signal
-    });
-    if (!res.ok) throw new Error(`${url} -> ${res.status}`);
-    return res.json();
-  } finally {
-    clearTimeout(to);
+  let lastError = null;
+  for (let attempt = 0; attempt <= FETCH_RETRIES; attempt += 1) {
+    const ac = new AbortController();
+    const to = setTimeout(() => ac.abort(), FETCH_TIMEOUT_MS);
+    try {
+      const res = await fetch(url, {
+        headers: { 'user-agent': 'tracker-eu/1.0' },
+        signal: ac.signal
+      });
+      if (!res.ok) throw new Error(`${url} -> ${res.status}`);
+      return res.json();
+    } catch (error) {
+      lastError = error;
+      if (attempt < FETCH_RETRIES) {
+        await sleep(200 * (attempt + 1));
+      }
+    } finally {
+      clearTimeout(to);
+    }
   }
+  throw lastError;
 }
 
 async function fetchGreenhouse(slug) {
@@ -475,14 +512,92 @@ const fetchers = {
   smartrecruiters: fetchSmartRecruiters,
 };
 
-async function loadCompanies() {
-  if (!existsSync(companiesPath)) {
-    // If no companies.json, use example and instruct the user
-    const ex = JSON.parse(await readFile(exampleCompaniesPath, 'utf8'));
-    return { companies: ex, usedExample: true };
+function companyAtsKey(company) {
+  const type = String(company?.ats?.type || '').toLowerCase();
+  const slug = String(company?.ats?.slug || company?.ats?.host || '').toLowerCase();
+  if (!type || !slug) return null;
+  return `${type}::${slug}`;
+}
+
+async function applyPortalHealthFilter(companies) {
+  if (!existsSync(portalHealthPath)) {
+    return {
+      companies,
+      healthFilteredOut: 0,
+    };
   }
-  const companies = JSON.parse(await readFile(companiesPath, 'utf8'));
-  return { companies, usedExample: false };
+
+  const healthPayload = await readJsonIfExists(portalHealthPath);
+  const rows = Array.isArray(healthPayload?.results) ? healthPayload.results : [];
+  if (rows.length === 0) {
+    return {
+      companies,
+      healthFilteredOut: 0,
+    };
+  }
+
+  const healthyStatuses = new Set(['healthy', 'degraded', 'empty']);
+  const healthIndex = new Map();
+  for (const row of rows) {
+    const key = `${String(row?.type || '').toLowerCase()}::${String(row?.slug || '').toLowerCase()}`;
+    if (!row?.type || !row?.slug) continue;
+    healthIndex.set(key, row.status);
+  }
+
+  const filtered = [];
+  let filteredOut = 0;
+
+  for (const company of companies) {
+    const key = companyAtsKey(company);
+    if (!key) {
+      filtered.push(company);
+      continue;
+    }
+
+    const status = healthIndex.get(key);
+    if (status && !healthyStatuses.has(status)) {
+      filteredOut += 1;
+      continue;
+    }
+    filtered.push(company);
+  }
+
+  return {
+    companies: filtered,
+    healthFilteredOut: filteredOut,
+  };
+}
+
+async function loadCompanies() {
+  if (existsSync(companiesActivePath)) {
+    const companies = JSON.parse(await readFile(companiesActivePath, 'utf8'));
+    const filtered = await applyPortalHealthFilter(companies);
+    return {
+      companies: filtered.companies,
+      usedExample: false,
+      sourcePath: companiesActivePath,
+      healthFilteredOut: filtered.healthFilteredOut,
+    };
+  }
+
+  if (existsSync(companiesLegacyPath)) {
+    const companies = JSON.parse(await readFile(companiesLegacyPath, 'utf8'));
+    const filtered = await applyPortalHealthFilter(companies);
+    return {
+      companies: filtered.companies,
+      usedExample: false,
+      sourcePath: companiesLegacyPath,
+      healthFilteredOut: filtered.healthFilteredOut,
+    };
+  }
+
+  const ex = JSON.parse(await readFile(exampleCompaniesPath, 'utf8'));
+  return {
+    companies: ex,
+    usedExample: true,
+    sourcePath: exampleCompaniesPath,
+    healthFilteredOut: 0,
+  };
 }
 
 function normalizeJob(j) {
@@ -528,31 +643,63 @@ function selectTargetJobs(jobs, companyName) {
 
 async function main() {
   await mkdir(dataDir, { recursive: true });
-  const { companies, usedExample } = await loadCompanies();
+  const { companies, usedExample, sourcePath, healthFilteredOut } = await loadCompanies();
 
   let results = [];
   let companiesFetched = 0;
   let fetchFailures = 0;
-  for (const c of companies) {
+  const failureDetails = [];
+
+  const fetchOutcomes = await runPool(companies, async (c) => {
     const type = c.ats?.type;
     const slug = c.ats?.slug;
     const fetcher = fetchers[type];
     if (!fetcher || !slug) {
-      continue;
+      return {
+        company: c.name,
+        skipped: true,
+        jobs: [],
+      };
     }
-    await sleep(FETCH_DELAY_MS);
+
+    if (FETCH_JITTER_MS > 0) {
+      await sleep(Math.floor(Math.random() * FETCH_JITTER_MS));
+    }
+
     try {
       const jobs = await fetcher(slug);
-      companiesFetched++;
       const matchedJobs = selectTargetJobs(jobs, c.name);
-      for (const job of matchedJobs) results.push(job);
+      return {
+        company: c.name,
+        skipped: false,
+        jobs: matchedJobs,
+        failed: false,
+      };
     } catch (err) {
-      fetchFailures++;
-      console.error(`Fetcher failed for ${c.name} (${type}:${slug}):`, err.message);
+      return {
+        company: c.name,
+        skipped: false,
+        jobs: [],
+        failed: true,
+        type,
+        slug,
+        error: err.message,
+      };
     }
+  }, FETCH_CONCURRENCY);
+
+  for (const outcome of fetchOutcomes) {
+    if (!outcome) continue;
+    if (outcome.skipped) continue;
+    companiesFetched += 1;
+    if (outcome.failed) {
+      fetchFailures += 1;
+      failureDetails.push(outcome);
+      continue;
+    }
+    for (const job of outcome.jobs) results.push(job);
   }
 
-  await sleep(FETCH_DELAY_MS);
   // Special portals (direct company sites)
   try {
     const special = [];
@@ -601,12 +748,14 @@ async function main() {
     .join('\n');
   const rowsOrPlaceholder = rows || '| - | - | - | - | - | - | - |';
 
-  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Countries: ${TARGET_COUNTRY_LINE}\n- Filters: entry-level + technical roles only, posted in last ${MAX_DAYS} days (or unknown date)\n- Source: data/companies.json\n\n| Company | Role | Country | Location | Posted | Source | Link |\n|---|---|---|---|---|---|---|\n${rowsOrPlaceholder}\n`;
+  const sourceRelPath = path.relative(root, sourcePath);
+  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Countries: ${TARGET_COUNTRY_LINE}\n- Filters: entry-level + technical roles only, posted in last ${MAX_DAYS} days (or unknown date)\n- Source: ${sourceRelPath}\n\n| Company | Role | Country | Location | Posted | Source | Link |\n|---|---|---|---|---|---|---|\n${rowsOrPlaceholder}\n`;
   await writeFile(outReadmePath, md);
 
   const seenState = await readJsonIfExists(outSeenPath);
   const seenKeys = Array.isArray(seenState?.seenKeys) ? seenState.seenKeys : null;
   let newJobs = [];
+  let alertsSuppressedForMigration = false;
 
   if (seenKeys == null) {
     await writeFile(outSeenPath, JSON.stringify({ seenKeys: currentKeys }, null, 2) + "\n");
@@ -615,7 +764,9 @@ async function main() {
     const seenSet = new Set(seenKeys);
     newJobs = sortedResults.filter(job => !seenSet.has(jobKey(job)));
 
-    if (newJobs.length > 0) {
+    alertsSuppressedForMigration = newJobs.length >= MIGRATION_ALERT_SUPPRESS_THRESHOLD;
+
+    if (newJobs.length > 0 && !alertsSuppressedForMigration) {
       const message = formatNotification(newJobs, payload.generatedAt);
       try {
         const sent = await sendTelegramMessage(message);
@@ -627,6 +778,10 @@ async function main() {
       } catch (err) {
         console.error('Telegram notification failed:', err.message);
       }
+    } else if (alertsSuppressedForMigration) {
+      console.log(
+        `Suppressed bulk notification during migration (${newJobs.length} new jobs >= ${MIGRATION_ALERT_SUPPRESS_THRESHOLD}).`
+      );
     }
 
     const mergedKeys = [...new Set([...seenKeys, ...currentKeys])].sort();
@@ -636,12 +791,29 @@ async function main() {
   }
 
   console.log(`Companies fetched: ${companiesFetched}, failures: ${fetchFailures}`);
+  if (healthFilteredOut > 0) {
+    console.log(`Skipped ${healthFilteredOut} portal(s) based on portal health status.`);
+  }
+  if (failureDetails.length > 0) {
+    const maxLoggedFailures = 25;
+    for (const failure of failureDetails.slice(0, maxLoggedFailures)) {
+      console.error(
+        `Fetcher failed for ${failure.company} (${failure.type}:${failure.slug}): ${failure.error}`
+      );
+    }
+    if (failureDetails.length > maxLoggedFailures) {
+      console.error(`...and ${failureDetails.length - maxLoggedFailures} more fetch failures.`);
+    }
+  }
   console.log(`Jobs (target countries + entry-level technical): ${beforeFilter} total, ${sortedResults.length} in last ${MAX_DAYS} days`);
   console.log(`Result set changed: ${hasResultSetChanged ? 'yes' : 'no'}, new jobs: ${newJobs.length}`);
+  if (alertsSuppressedForMigration) {
+    console.log('Telegram alert suppressed for migration safety; seen state still updated.');
+  }
 
-  if (usedExample && !existsSync(companiesPath)) {
+  if (usedExample && !existsSync(companiesActivePath) && !existsSync(companiesLegacyPath)) {
     console.log('\nNo data/companies.json found. Using example list.');
-    console.log('Create data/companies.json with entries like the example to control sources.');
+    console.log('Generate data/companies_active.json from data/portal_classification.json with `npm run build-companies`.');
   }
 }
 
