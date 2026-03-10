@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-10T23:06:28.269Z",
+  "generatedAt": "2026-03-10T23:13:23.895Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 215,
-    "degraded": 407,
-    "empty": 17,
-    "fetch_error": 213,
+    "healthy": 621,
+    "degraded": 4,
+    "empty": 16,
+    "fetch_error": 211,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -417,15 +417,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CommonLit",
-      "type": "lever",
-      "slug": "commonlit",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Commure",
       "type": "ashby",
       "slug": "commure-athelas",
@@ -441,15 +432,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=confluent -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Constellation Technologies",
-      "type": "lever",
-      "slug": "cti-md",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -966,6 +948,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Lever",
+      "type": "lever",
+      "slug": "leverdemo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Lightfield",
       "type": "ashby",
       "slug": "lightfield",
@@ -990,15 +981,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=liquid-ai -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Lucid Motors",
-      "type": "greenhouse",
-      "slug": "lucidmotors",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1188,6 +1170,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/nimbleai?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Nominal",
+      "type": "lever",
+      "slug": "nominal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1650,15 +1641,6 @@
       "checkedUrls": []
     },
     {
-      "company": "StackAV",
-      "type": "greenhouse",
-      "slug": "stackav",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Standard Bots",
       "type": "ashby",
       "slug": "standardbots",
@@ -1749,15 +1731,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Tinder",
-      "type": "lever",
-      "slug": "matchgroup",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Tokamak Energy",
       "type": "workable",
       "slug": "tokamak-energy",
@@ -1812,6 +1785,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Uare.ai",
+      "type": "greenhouse",
+      "slug": "uareai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "UiPath",
       "type": "ashby",
       "slug": "uipath",
@@ -1857,9 +1839,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Veeva Systems",
-      "type": "lever",
-      "slug": "veeva",
+      "company": "Venture Global LNG",
+      "type": "greenhouse",
+      "slug": "ventureglobal",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
