@@ -13,10 +13,10 @@
 | AECOM | Copy of Graduate Ports Engineer (Croydon)  | standard | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000114008597) |
 | AECOM | Graduate Ports Engineer (Basingstoke)  | standard | United Kingdom | Basingstoke, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000114008057) |
 | AECOM | Graduate Ports Engineer (Southampton)  | standard | United Kingdom | Southampton, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000114006724) |
-| ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Blackburn, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197) |
-| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Bristol, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
-| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | London, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
-| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Derby, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937) |
+| ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Blackburn, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197) |
+| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Bristol, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
+| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | London, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
+| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Derby, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937) |
 | ASSYSTEM | Junior Electrical Design Engineer | standard | United Kingdom | Bristol, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113194243) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
