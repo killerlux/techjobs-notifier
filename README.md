@@ -18,15 +18,15 @@
 | ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | London, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
 | ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Derby, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937) |
 | ASSYSTEM | Junior Electrical Design Engineer | standard | United Kingdom | Bristol, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113194243) |
-| Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
-| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
-| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
-| Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
-| Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
-| Graphcore | 2026 Graduate Software Engineer - Bristol | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
-| Graphcore | 2026 Graduate Software Engineer - DevOps | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8282735002) |
-| Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
-| Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
+| Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
+| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
+| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
+| Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
+| Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
+| Graphcore | 2026 Graduate Software Engineer - Bristol | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
+| Graphcore | 2026 Graduate Software Engineer - DevOps | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8282735002) |
+| Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
+| Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | mthree | Junior Software Developer  - Java/Scala  | standard | United Kingdom | UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Northslope Technologies | Forward Deployed Software Engineer, New Grad | standard | United Kingdom | New York, London | 2d | ashby | [Apply](https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a) |
