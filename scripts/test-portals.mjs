@@ -49,6 +49,111 @@ async function fetchJson(url) {
   }
 }
 
+async function fetchText(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    const response = await fetch(url, {
+      headers: { 'user-agent': USER_AGENT },
+      signal: controller.signal,
+    });
+    if (!response.ok) {
+      throw new Error(`${url} -> ${response.status}`);
+    }
+    return response.text();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function safeDecodeURIComponent(value) {
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return value;
+  }
+}
+
+function ashbySlugCandidates(slug) {
+  const base = safeDecodeURIComponent(String(slug || '').trim()).replace(/^\/+|\/+$/g, '');
+  const candidates = [];
+  const push = (value) => {
+    const normalized = String(value || '').trim().toLowerCase();
+    if (!normalized || candidates.includes(normalized)) return;
+    candidates.push(normalized);
+  };
+
+  push(base);
+  push(base.replace(/\s+/g, '-'));
+  push(base.replace(/\s+/g, ''));
+  push(base.replace(/\.(com|ai|io|co|uk|au|eu|org)$/g, ''));
+  push(base.replace(/[^a-z0-9._-]/g, ''));
+  push(base.replace(/[^a-z0-9]+/g, '-'));
+  push(base.replace(/[^a-z0-9]+/g, ''));
+
+  return candidates;
+}
+
+function extractAshbyAppData(html) {
+  const marker = 'window.__appData = ';
+  const start = html.indexOf(marker);
+  if (start === -1) {
+    throw new Error('Ashby app data marker missing');
+  }
+
+  let index = start + marker.length;
+  while (index < html.length && html[index] !== '{') {
+    index += 1;
+  }
+  if (index >= html.length) {
+    throw new Error('Ashby app data JSON start not found');
+  }
+
+  let braceDepth = 0;
+  let inString = false;
+  let escaped = false;
+  let quote = '';
+  let end = -1;
+
+  for (let i = index; i < html.length; i += 1) {
+    const char = html[i];
+    if (inString) {
+      if (escaped) {
+        escaped = false;
+      } else if (char === '\\') {
+        escaped = true;
+      } else if (char === quote) {
+        inString = false;
+      }
+      continue;
+    }
+
+    if (char === '"' || char === "'") {
+      inString = true;
+      quote = char;
+      continue;
+    }
+
+    if (char === '{') {
+      braceDepth += 1;
+      continue;
+    }
+    if (char === '}') {
+      braceDepth -= 1;
+      if (braceDepth === 0) {
+        end = i + 1;
+        break;
+      }
+    }
+  }
+
+  if (end === -1) {
+    throw new Error('Ashby app data JSON end not found');
+  }
+
+  return JSON.parse(html.slice(index, end));
+}
+
 async function fetchGreenhouse(slug) {
   const data = await fetchJson(`https://boards-api.greenhouse.io/v1/boards/${slug}/jobs?content=true`);
   return (data.jobs || []).map(job => ({
@@ -68,12 +173,27 @@ async function fetchLever(slug) {
 }
 
 async function fetchAshby(slug) {
-  const data = await fetchJson(`https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=${slug}`);
-  return (data.jobs || []).map(job => ({
-    id: job.id || job.jobId || '',
-    title: job.title || '',
-    url: job.jobUrl || job.applyUrl || '',
-  }));
+  let lastError = null;
+  for (const candidate of ashbySlugCandidates(slug)) {
+    const boardUrl = `https://jobs.ashbyhq.com/${encodeURIComponent(candidate)}`;
+    try {
+      const html = await fetchText(boardUrl);
+      const appData = extractAshbyAppData(html);
+      const postings = Array.isArray(appData?.jobBoard?.jobPostings)
+        ? appData.jobBoard.jobPostings
+        : [];
+      return postings
+        .filter(posting => posting?.isListed !== false)
+        .map(posting => ({
+          id: posting.jobId || posting.id || '',
+          title: posting.title || '',
+          url: `${boardUrl}/${posting.id}`,
+        }));
+    } catch (error) {
+      lastError = error;
+    }
+  }
+  throw lastError || new Error(`Ashby fetch failed for slug ${slug}`);
 }
 
 async function fetchWorkable(slug) {

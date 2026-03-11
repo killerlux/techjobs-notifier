@@ -172,6 +172,23 @@ const NEGATIVE_PATTERNS = [
 
 const TARGET_COUNTRY_LINE = TARGET_COUNTRIES.map(country => country.name).join(', ');
 const COUNTRY_ORDER_INDEX = new Map(TARGET_COUNTRIES.map((country, index) => [country.name, index]));
+const PRIORITY_TIERS = {
+  faang: 2,
+  cac40: 1,
+  standard: 0,
+};
+
+const FAANG_ALIASES = [
+  'amazon', 'google', 'alphabet', 'meta', 'facebook', 'apple', 'netflix', 'microsoft'
+];
+
+const CAC40_ALIASES = [
+  'airbus', 'air liquide', 'axa', 'bnp paribas', 'bouygues', 'capgemini', 'carrefour',
+  'credit agricole', 'danone', 'engie', 'essilorluxottica', 'hermes', 'kering',
+  'loreal', 'lvmh', 'michelin', 'orange', 'pernod ricard', 'publicis', 'renault',
+  'safran', 'saint gobain', 'sanofi', 'schneider electric', 'societe generale',
+  'stellantis', 'thales', 'totalenergies', 'unibail', 'veolia', 'vinci', 'worldline'
+];
 
 /** Only show jobs posted in the last N days (or unknown date). Test with 10. */
 const MAX_DAYS = 10;
@@ -233,8 +250,11 @@ function sortJobs(jobs) {
     ? COUNTRY_ORDER_INDEX.get(country)
     : Number.MAX_SAFE_INTEGER;
 
+  const priorityRank = (tier) => PRIORITY_TIERS[tier] ?? PRIORITY_TIERS.standard;
+
   return [...jobs].sort((a, b) =>
-    countryIndex(a.country) - countryIndex(b.country)
+    priorityRank(b.priorityTier) - priorityRank(a.priorityTier)
+    || countryIndex(a.country) - countryIndex(b.country)
     || a.company.localeCompare(b.company)
     || a.title.localeCompare(b.title)
     || (a.url || '').localeCompare(b.url || '')
@@ -250,16 +270,20 @@ function sameKeySet(a, b) {
 }
 
 function formatNotification(newJobs, generatedAt) {
+  const sortedNewJobs = sortJobs(newJobs);
   const lines = [
     `New EU role(s) detected: ${newJobs.length}`,
     `Generated at: ${generatedAt}`,
     '',
   ];
 
-  for (const [index, job] of newJobs.slice(0, MAX_NOTIFICATION_ROWS).entries()) {
+  for (const [index, job] of sortedNewJobs.slice(0, MAX_NOTIFICATION_ROWS).entries()) {
+    const priority = job.priorityTier === 'faang'
+      ? '[FAANG] '
+      : (job.priorityTier === 'cac40' ? '[CAC40] ' : '');
     lines.push(
-      `${index + 1}. ${job.company} - ${job.title}`,
-      `   ${job.location || 'Unknown location'}`,
+      `${index + 1}. ${priority}${job.company} - ${job.title}`,
+      `   ${job.country || 'Unknown country'} | ${job.location || 'Unknown location'}`,
       `   ${job.url}`,
       ''
     );
@@ -318,6 +342,20 @@ function containsAlias(text, alias) {
   return pattern.test(normalizedText);
 }
 
+function detectPriorityTier(companyName, title, url) {
+  const haystack = `${companyName || ''} ${title || ''} ${url || ''}`;
+
+  if (FAANG_ALIASES.some(alias => containsAlias(haystack, alias))) {
+    return 'faang';
+  }
+
+  if (CAC40_ALIASES.some(alias => containsAlias(haystack, alias))) {
+    return 'cac40';
+  }
+
+  return 'standard';
+}
+
 function resolveTargetCountry(locationText) {
   const raw = String(locationText || '').trim();
   if (!raw) return null;
@@ -332,13 +370,15 @@ function resolveTargetCountry(locationText) {
 function hasLevelSignal(title, description) {
   const titleText = String(title || '');
   const descriptionText = String(description || '');
+  const combinedText = `${titleText} ${descriptionText}`;
 
   if (LEVEL_PATTERNS.some(pattern => pattern.test(titleText))) {
     return true;
   }
 
   const associateTechnicalTitle = /\bassociate\b/i.test(titleText)
-    && /\b(engineer|developer|security|cyber|data|platform|devops|sre)\b/i.test(titleText);
+    && /\b(engineer|developer)\b/i.test(titleText)
+    && /\b(new\s*grad(uate)?|graduate|entry[\s-]*level|junior|early\s*career|campus)\b/i.test(combinedText);
   if (associateTechnicalTitle) {
     return true;
   }
@@ -425,6 +465,118 @@ async function fetchJson(url) {
   throw lastError;
 }
 
+async function fetchText(url) {
+  let lastError = null;
+  for (let attempt = 0; attempt <= FETCH_RETRIES; attempt += 1) {
+    const ac = new AbortController();
+    const to = setTimeout(() => ac.abort(), FETCH_TIMEOUT_MS);
+    try {
+      const res = await fetch(url, {
+        headers: { 'user-agent': 'tracker-eu/1.0' },
+        signal: ac.signal
+      });
+      if (!res.ok) throw new Error(`${url} -> ${res.status}`);
+      return res.text();
+    } catch (error) {
+      lastError = error;
+      if (attempt < FETCH_RETRIES) {
+        await sleep(200 * (attempt + 1));
+      }
+    } finally {
+      clearTimeout(to);
+    }
+  }
+  throw lastError;
+}
+
+function safeDecodeURIComponent(value) {
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return value;
+  }
+}
+
+function ashbySlugCandidates(slug) {
+  const base = safeDecodeURIComponent(String(slug || '').trim()).replace(/^\/+|\/+$/g, '');
+  const candidates = [];
+  const push = (value) => {
+    const normalized = String(value || '').trim().toLowerCase();
+    if (!normalized || candidates.includes(normalized)) return;
+    candidates.push(normalized);
+  };
+
+  push(base);
+  push(base.replace(/\s+/g, '-'));
+  push(base.replace(/\s+/g, ''));
+  push(base.replace(/\.(com|ai|io|co|uk|au|eu|org)$/g, ''));
+  push(base.replace(/[^a-z0-9._-]/g, ''));
+  push(base.replace(/[^a-z0-9]+/g, '-'));
+  push(base.replace(/[^a-z0-9]+/g, ''));
+
+  return candidates;
+}
+
+function extractAshbyAppData(html) {
+  const marker = 'window.__appData = ';
+  const start = html.indexOf(marker);
+  if (start === -1) {
+    throw new Error('Ashby app data marker missing');
+  }
+
+  let index = start + marker.length;
+  while (index < html.length && html[index] !== '{') {
+    index += 1;
+  }
+  if (index >= html.length) {
+    throw new Error('Ashby app data JSON start not found');
+  }
+
+  let braceDepth = 0;
+  let inString = false;
+  let escaped = false;
+  let quote = '';
+  let end = -1;
+
+  for (let i = index; i < html.length; i += 1) {
+    const char = html[i];
+    if (inString) {
+      if (escaped) {
+        escaped = false;
+      } else if (char === '\\') {
+        escaped = true;
+      } else if (char === quote) {
+        inString = false;
+      }
+      continue;
+    }
+
+    if (char === '"' || char === "'") {
+      inString = true;
+      quote = char;
+      continue;
+    }
+
+    if (char === '{') {
+      braceDepth += 1;
+      continue;
+    }
+    if (char === '}') {
+      braceDepth -= 1;
+      if (braceDepth === 0) {
+        end = i + 1;
+        break;
+      }
+    }
+  }
+
+  if (end === -1) {
+    throw new Error('Ashby app data JSON end not found');
+  }
+
+  return JSON.parse(html.slice(index, end));
+}
+
 async function fetchGreenhouse(slug) {
   const url = `https://boards-api.greenhouse.io/v1/boards/${slug}/jobs?content=true`;
   const data = await fetchJson(url);
@@ -457,19 +609,45 @@ async function fetchLever(slug) {
 }
 
 async function fetchAshby(slug) {
-  const url = `https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=${slug}`;
-  const data = await fetchJson(url);
-  const jobs = (data.jobs || []).map(j => ({
-    id: j.id || j.jobId || '',
-    title: j.title,
-    location: j.location?.text || j.location?.name || '',
-    url: j.jobUrl || j.applyUrl || '',
-    description: j.descriptionPlain || j.description || '',
-    company: slug,
-    source: 'ashby',
-    postedAt: j.publishedAt || j.updatedAt || j.createdAt || null
-  }));
-  return jobs;
+  let lastError = null;
+
+  for (const candidate of ashbySlugCandidates(slug)) {
+    const boardUrl = `https://jobs.ashbyhq.com/${encodeURIComponent(candidate)}`;
+    try {
+      const html = await fetchText(boardUrl);
+      const appData = extractAshbyAppData(html);
+      const postings = Array.isArray(appData?.jobBoard?.jobPostings)
+        ? appData.jobBoard.jobPostings
+        : [];
+
+      const jobs = postings
+        .filter(posting => posting?.isListed !== false)
+        .map(posting => {
+          const secondaryLocations = Array.isArray(posting.secondaryLocations)
+            ? posting.secondaryLocations.map(item => item?.locationName).filter(Boolean)
+            : [];
+          const primaryLocation = posting.locationName || '';
+          const allLocations = [primaryLocation, ...secondaryLocations].filter(Boolean);
+
+          return {
+            id: posting.jobId || posting.id || '',
+            title: posting.title || '',
+            location: allLocations.join(', '),
+            url: `${boardUrl}/${posting.id}`,
+            description: `${posting.teamName || ''} ${posting.departmentName || ''} ${posting.employmentType || ''}`.trim(),
+            company: candidate,
+            source: 'ashby',
+            postedAt: posting.publishedDate || posting.updatedAt || null
+          };
+        });
+
+      return jobs;
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError || new Error(`Ashby fetch failed for slug ${slug}`);
 }
 
 async function fetchWorkable(slug) {
@@ -604,6 +782,7 @@ function normalizeJob(j) {
   const postedAt = j.postedAt || null;
   const country = j.country || undefined;
   const matchReason = j.matchReason || undefined;
+  const priorityTier = j.priorityTier || 'standard';
   return {
     id: j.id,
     title: j.title,
@@ -613,6 +792,7 @@ function normalizeJob(j) {
     company: j.company,
     source: j.source,
     matchReason,
+    priorityTier,
     postedAt: postedAt || undefined,
     daysAgo: daysAgo(postedAt) || undefined
   };
@@ -621,6 +801,7 @@ function normalizeJob(j) {
 function selectTargetJobs(jobs, companyName) {
   const selected = [];
   for (const job of jobs) {
+    const resolvedCompany = companyName || job.company;
     const country = resolveTargetCountry(job.location);
     if (!country) {
       continue;
@@ -632,9 +813,10 @@ function selectTargetJobs(jobs, companyName) {
     selected.push(
       normalizeJob({
         ...job,
-        company: companyName || job.company,
+        company: resolvedCompany,
         country,
         matchReason: role.reason,
+        priorityTier: detectPriorityTier(resolvedCompany, job.title, job.url),
       })
     );
   }
@@ -724,6 +906,10 @@ async function main() {
   results = results.filter(isWithinLastDays);
 
   const sortedResults = sortJobs(results);
+  const priorityCounts = {
+    faang: sortedResults.filter(job => job.priorityTier === 'faang').length,
+    cac40: sortedResults.filter(job => job.priorityTier === 'cac40').length,
+  };
   const currentKeys = sortedResults.map(jobKey).sort();
 
   const previousPayload = await readJsonIfExists(outJsonPath);
@@ -742,14 +928,14 @@ async function main() {
   };
   await writeFile(outJsonPath, JSON.stringify(payload, null, 2) + "\n");
 
-  const tableRow = r => `| ${r.company} | ${r.title} | ${r.country ?? '-'} | ${r.location} | ${r.daysAgo ?? '-'} | ${r.source} | [Apply](${r.url}) |`;
+  const tableRow = r => `| ${r.company} | ${r.title} | ${r.priorityTier || 'standard'} | ${r.country ?? '-'} | ${r.location} | ${r.daysAgo ?? '-'} | ${r.source} | [Apply](${r.url}) |`;
   const rows = sortedResults
     .map(tableRow)
     .join('\n');
-  const rowsOrPlaceholder = rows || '| - | - | - | - | - | - | - |';
+  const rowsOrPlaceholder = rows || '| - | - | - | - | - | - | - | - |';
 
   const sourceRelPath = path.relative(root, sourcePath);
-  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Countries: ${TARGET_COUNTRY_LINE}\n- Filters: entry-level + technical roles only, posted in last ${MAX_DAYS} days (or unknown date)\n- Source: ${sourceRelPath}\n\n| Company | Role | Country | Location | Posted | Source | Link |\n|---|---|---|---|---|---|---|\n${rowsOrPlaceholder}\n`;
+  const md = `# EU New Grad Roles (auto-generated)\n\n- Updated: ${payload.generatedAt}\n- Countries: ${TARGET_COUNTRY_LINE}\n- Filters: entry-level + technical roles only, posted in last ${MAX_DAYS} days (or unknown date)\n- Priority: FAANG first, then CAC40\n- Source: ${sourceRelPath}\n\n| Company | Role | Tier | Country | Location | Posted | Source | Link |\n|---|---|---|---|---|---|---|---|\n${rowsOrPlaceholder}\n`;
   await writeFile(outReadmePath, md);
 
   const seenState = await readJsonIfExists(outSeenPath);
@@ -806,6 +992,7 @@ async function main() {
     }
   }
   console.log(`Jobs (target countries + entry-level technical): ${beforeFilter} total, ${sortedResults.length} in last ${MAX_DAYS} days`);
+  console.log(`Priority matches: FAANG=${priorityCounts.faang}, CAC40=${priorityCounts.cac40}`);
   console.log(`Result set changed: ${hasResultSetChanged ? 'yes' : 'no'}, new jobs: ${newJobs.length}`);
   if (alertsSuppressedForMigration) {
     console.log('Telegram alert suppressed for migration safety; seen state still updated.');
