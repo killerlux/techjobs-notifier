@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-10T23:13:23.895Z",
+  "generatedAt": "2026-03-11T06:03:49.007Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 621,
     "degraded": 4,
-    "empty": 16,
-    "fetch_error": 211,
+    "empty": 17,
+    "fetch_error": 210,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -345,6 +345,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Citizen Health",
       "type": "ashby",
       "slug": "citizen%20health",
@@ -414,6 +423,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=cobot -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Commerce Architects",
+      "type": "lever",
+      "slug": "commercearchitects",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -513,6 +531,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/api/external/jobs?organizationSlug=elevenlabs -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Elf Beauty",
+      "type": "lever",
+      "slug": "elfbeauty",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -948,15 +975,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Lever",
-      "type": "lever",
-      "slug": "leverdemo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Lightfield",
       "type": "ashby",
       "slug": "lightfield",
@@ -1170,15 +1188,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/nimbleai?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Nominal",
-      "type": "lever",
-      "slug": "nominal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1785,15 +1794,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Uare.ai",
-      "type": "greenhouse",
-      "slug": "uareai",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "UiPath",
       "type": "ashby",
       "slug": "uipath",
@@ -1836,15 +1836,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Venture Global LNG",
-      "type": "greenhouse",
-      "slug": "ventureglobal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
