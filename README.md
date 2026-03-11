@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-10T23:50:46.924Z
+- Updated: 2026-03-11T10:36:30.661Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Source: data/companies_active.json
@@ -8,6 +8,9 @@
 | Company | Role | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | France | New York, London, or Paris | 0d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| AECOM | Copy of Graduate Ports Engineer (Croydon)  | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000114008597) |
+| AECOM | Graduate Ports Engineer (Basingstoke)  | United Kingdom | Basingstoke, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000114008057) |
+| AECOM | Graduate Ports Engineer (Southampton)  | United Kingdom | Southampton, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000114006724) |
 | ASSYSTEM | Graduate EC&I Engineer | United Kingdom | Blackburn, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197) |
 | ASSYSTEM | Graduate Electrical Engineer | United Kingdom | Bristol, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
 | ASSYSTEM | Graduate Electrical Engineer | United Kingdom | London, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
