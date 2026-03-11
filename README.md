@@ -22,12 +22,12 @@
 | Graphcore | 2026 Graduate Software Engineer - DevOps | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8282735002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
-| mthree | Junior Software Developer  - Java/Scala  | United Kingdom | UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006) |
-| mthree | mthree -  Junior Software Developer  (Go Lang)  | United Kingdom | UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
+| mthree | Junior Software Developer  - Java/Scala  | United Kingdom | UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006) |
+| mthree | mthree -  Junior Software Developer  (Go Lang)  | United Kingdom | UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Thoughtworks | Associate-Graduate:Developer | Singapore | Singapore, Singapore | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
 | Sportradar | Junior Java Developer | Austria | Vienna, at | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000112885690) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | Slovenia | Amphoe Si Maha Phot, th | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113123416) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Software Development Engineering | Slovenia | Amphoe Si Maha Phot, th | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113641161) |
-| Western Digital | (NEW GRAD ONLY) Scientist 1, Data Science | Slovenia | Amphoe Si Maha Phot, th | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112556961) |
+| Western Digital | (NEW GRAD ONLY) Scientist 1, Data Science | Slovenia | Amphoe Si Maha Phot, th | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112556961) |
 | Western Digital | (NEW GRAD ONLY) Scientist, Data Science | Slovenia | Amphoe Si Maha Phot, th | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112578636) |
 | Fever Up | Graduate Software Engineer | Spain | Barcelona; Madrid; Spain | 7d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
