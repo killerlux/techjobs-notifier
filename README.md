@@ -36,4 +36,4 @@
 | Western Digital | (NEW GRAD ONLY) Engineer, Software Development Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113641161) |
 | Western Digital | (NEW GRAD ONLY) Scientist 1, Data Science | standard | Slovenia | Amphoe Si Maha Phot, th | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112556961) |
 | Western Digital | (NEW GRAD ONLY) Scientist, Data Science | standard | Slovenia | Amphoe Si Maha Phot, th | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112578636) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 7d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 8d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
