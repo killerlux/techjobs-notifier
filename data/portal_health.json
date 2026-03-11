@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-11T13:03:18.642Z",
+  "generatedAt": "2026-03-11T13:14:42.980Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 772,
+    "healthy": 776,
     "degraded": 4,
     "empty": 24,
-    "fetch_error": 52,
+    "fetch_error": 48,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -135,6 +135,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Constellation Technologies",
+      "type": "lever",
+      "slug": "cti-md",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -363,15 +372,6 @@
       "checkedUrls": []
     },
     {
-      "company": "The Voleon Group",
-      "type": "lever",
-      "slug": "voleon",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Thorlabs",
       "type": "workable",
       "slug": "thorlabs",
@@ -435,48 +435,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Veeva Systems",
-      "type": "lever",
-      "slug": "veeva",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "terminated",
-      "checkedUrls": []
-    },
-    {
       "company": "Vultr",
       "type": "greenhouse",
       "slug": "vultr",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Welocalize",
-      "type": "lever",
-      "slug": "welocalize",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "terminated",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wing Assistant",
-      "type": "lever",
-      "slug": "getwingapp",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "terminated",
-      "checkedUrls": []
-    },
-    {
-      "company": "Zoox",
-      "type": "lever",
-      "slug": "zoox",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "terminated",
       "checkedUrls": []
     },
     {
