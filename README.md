@@ -10,10 +10,10 @@
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 1d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) | standard | Ireland | Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries | 2d | ashby | [Apply](https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743) |
-| ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Blackburn, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197) |
-| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Bristol, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
-| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | London, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
-| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Derby, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937) |
+| ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Blackburn, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197) |
+| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Bristol, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
+| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | London, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
+| ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Derby, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937) |
 | ASSYSTEM | Junior Electrical Design Engineer | standard | United Kingdom | Bristol, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113194243) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
