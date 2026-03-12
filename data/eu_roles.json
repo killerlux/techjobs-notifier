@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-12T12:54:23.374Z",
-  "count": 26,
+  "generatedAt": "2026-03-12T17:47:49.203Z",
+  "count": 25,
   "results": [
     {
       "id": "7297666002",
@@ -78,19 +78,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-06T15:54:19.024Z",
-      "daysAgo": "6d"
-    },
-    {
-      "id": "744000113194243",
-      "title": "Junior Electrical Design Engineer",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113194243",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-06T14:43:59.140Z",
       "daysAgo": "6d"
     },
     {

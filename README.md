@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-12T12:54:23.374Z
+- Updated: 2026-03-12T17:47:49.203Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -14,7 +14,6 @@
 | ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Bristol, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215426) |
 | ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | London, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814) |
 | ASSYSTEM | Graduate Electrical Engineer | standard | United Kingdom | Derby, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937) |
-| ASSYSTEM | Junior Electrical Design Engineer | standard | United Kingdom | Bristol, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113194243) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
