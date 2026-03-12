@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T13:07:38.430Z",
+  "generatedAt": "2026-03-12T06:51:35.154Z",
   "count": 29,
   "results": [
     {
@@ -315,6 +315,19 @@
       "daysAgo": "6d"
     },
     {
+      "id": "744000114300096",
+      "title": "(NEW GRAD ONLY) Engineer, Manufacturing Engineering",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000114300096",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-12T06:34:22.436Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000113123416",
       "title": "(NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration)",
       "location": "Amphoe Si Maha Phot, th",
@@ -338,20 +351,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-10T06:36:03.965Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000112556961",
-      "title": "(NEW GRAD ONLY) Scientist 1, Data Science",
-      "location": "Amphoe Si Maha Phot, th",
-      "country": "Slovenia",
-      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112556961",
-      "company": "Western Digital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-04T01:22:00.995Z",
-      "daysAgo": "8d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000112578636",
