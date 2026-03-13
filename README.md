@@ -37,4 +37,4 @@
 | Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | standard | Slovenia | Amphoe Si Maha Phot, th | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113123416) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Software Development Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113641161) |
 | Western Digital | (NEW GRAD ONLY) Scientist, Data Science | standard | Slovenia | Amphoe Si Maha Phot, th | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000112578636) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 9d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 10d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
