@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-13T11:56:02.707Z",
-  "count": 28,
+  "generatedAt": "2026-03-13T12:53:46.076Z",
+  "count": 33,
   "results": [
     {
       "id": "744000114611457",
@@ -52,6 +52,45 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-03-13T11:44:43.689Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114650527",
+      "title": "2026 Graduate - Chemical Engineer",
+      "location": "Padova, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114650527",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T12:50:10.139Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114648459",
+      "title": "2026 Graduate - Field Service Engineer",
+      "location": "Roncoferraro, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114648459",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T12:52:02.422Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114650800",
+      "title": "2026 Graduate - Field Service Engineer",
+      "location": "Milano, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114650800",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T12:53:11.481Z",
       "daysAgo": "0d"
     },
     {
@@ -287,6 +326,32 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-09",
       "daysAgo": "4d"
+    },
+    {
+      "id": "744000114631590",
+      "title": "Graduate Engineer - Marine",
+      "location": "Southampton, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114631590",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-13T12:17:51.350Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114649727",
+      "title": "Graduate Engineer -Marine",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114649727",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-13T12:47:21.316Z",
+      "daysAgo": "0d"
     },
     {
       "id": "7519142",
