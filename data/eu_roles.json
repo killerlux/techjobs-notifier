@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-13T12:53:46.076Z",
-  "count": 33,
+  "generatedAt": "2026-03-13T13:59:22.160Z",
+  "count": 35,
   "results": [
     {
       "id": "744000114611457",
@@ -52,6 +52,32 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-03-13T11:44:43.689Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114652389",
+      "title": "2026 Graduate - Chemfeed Project Engineer",
+      "location": "Rivas-Vaciamadrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114652389",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T12:59:44.581Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114653334",
+      "title": "2026 Graduate - Proposal Engineer",
+      "location": "Rivas-Vaciamadrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114653334",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T13:01:50.656Z",
       "daysAgo": "0d"
     },
     {
@@ -181,7 +207,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -194,7 +220,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -207,7 +233,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -220,7 +246,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -233,7 +259,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -246,7 +272,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -259,7 +285,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -272,7 +298,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {
@@ -285,7 +311,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-03-12T12:19:56-04:00",
+      "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
     },
     {

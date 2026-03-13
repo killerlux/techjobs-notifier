@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-13T12:53:46.076Z
+- Updated: 2026-03-13T13:59:22.160Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -12,6 +12,8 @@
 | Veolia | 2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer | cac40 | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114613027) |
 | Veolia | 2026 Graduate - ED Reclaiming Service Engineer | cac40 | Netherlands | Rotterdam, nl | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114618761) |
 | Veolia | 2026 Graduate - AI Accelerator – Strategic Growth | cac40 | Denmark | Søborg, dk | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114602032) |
+| Veolia | 2026 Graduate - Chemfeed Project Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114652389) |
+| Veolia | 2026 Graduate - Proposal Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114653334) |
 | Veolia | 2026 Graduate - Chemical Engineer | cac40 | Italy | Padova, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114650527) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114648459) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Milano, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114650800) |
