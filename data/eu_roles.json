@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-13T14:51:20.359Z",
-  "count": 35,
+  "generatedAt": "2026-03-13T15:40:00.637Z",
+  "count": 34,
   "results": [
     {
       "id": "744000114674855",
@@ -144,19 +144,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-10",
       "daysAgo": "3d"
-    },
-    {
-      "id": "744000113215197",
-      "title": "Graduate EC&I Engineer",
-      "location": "Blackburn, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215197",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-06T15:52:09.021Z",
-      "daysAgo": "6d"
     },
     {
       "id": "744000113215426",
