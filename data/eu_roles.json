@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-13T16:37:07.199Z",
-  "count": 34,
+  "generatedAt": "2026-03-13T17:33:09.514Z",
+  "count": 30,
   "results": [
     {
       "id": "744000114674855",
@@ -133,45 +133,6 @@
       "daysAgo": "2d"
     },
     {
-      "id": "7014b719-ad29-47c0-9dea-823377921d23",
-      "title": "Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote)",
-      "location": "Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries",
-      "country": "Ireland",
-      "url": "https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743",
-      "company": "Quora",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-10",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000113215814",
-      "title": "Graduate Electrical Engineer",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215814",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-06T15:54:44.434Z",
-      "daysAgo": "7d"
-    },
-    {
-      "id": "744000113215937",
-      "title": "Graduate Electrical Engineer",
-      "location": "Derby, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000113215937",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-06T15:54:19.024Z",
-      "daysAgo": "7d"
-    },
-    {
       "id": "8425273002",
       "title": "2026 Graduate IT Infrastructure Engineer",
       "location": "Bristol, UK",
@@ -287,19 +248,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "0d"
-    },
-    {
-      "id": "4600596006",
-      "title": "Junior Software Developer  - Java/Scala ",
-      "location": "UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
-      "company": "mthree",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-02T19:02:50-05:00",
-      "daysAgo": "10d"
     },
     {
       "id": "4604065006",
