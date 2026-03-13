@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-12T06:07:10.446Z",
+  "generatedAt": "2026-03-13T06:05:17.761Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 776,
+    "healthy": 768,
     "degraded": 4,
     "empty": 25,
-    "fetch_error": 47,
+    "fetch_error": 55,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -111,6 +111,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -135,6 +144,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Eastern Communications",
+      "type": "lever",
+      "slug": "eastern-communications",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -201,12 +219,48 @@
       "checkedUrls": []
     },
     {
+      "company": "InfStones",
+      "type": "lever",
+      "slug": "infstones",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "ION Group",
+      "type": "lever",
+      "slug": "ion",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Lumin Digital",
       "type": "lever",
       "slug": "lumindigital",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Major League Baseball",
+      "type": "lever",
+      "slug": "redsox",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "MCA Connect",
+      "type": "lever",
+      "slug": "mcaconnect",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -327,6 +381,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Saronic",
+      "type": "lever",
+      "slug": "saronic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "SciTec",
       "type": "workable",
       "slug": "scitec",
@@ -342,6 +405,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/seilabs?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sensor Tower",
+      "type": "lever",
+      "slug": "sensortower",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
