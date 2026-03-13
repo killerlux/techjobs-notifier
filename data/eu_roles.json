@@ -1,7 +1,59 @@
 {
-  "generatedAt": "2026-03-13T06:49:06.782Z",
-  "count": 24,
+  "generatedAt": "2026-03-13T11:56:02.707Z",
+  "count": 28,
   "results": [
+    {
+      "id": "744000114611457",
+      "title": "2026 Graduate - Chemfeed Engineer",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114611457",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T11:39:12.171Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114613027",
+      "title": "2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114613027",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T11:41:59.894Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114618761",
+      "title": "2026 Graduate - ED Reclaiming Service Engineer",
+      "location": "Rotterdam, nl",
+      "country": "Netherlands",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114618761",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T11:51:58.641Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000114602032",
+      "title": "2026 Graduate - AI Accelerator – Strategic Growth",
+      "location": "Søborg, dk",
+      "country": "Denmark",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114602032",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-13T11:44:43.689Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
