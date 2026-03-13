@@ -17,7 +17,7 @@
 | Veolia | 2026 Graduate - Chemical Engineer | cac40 | Italy | Padova, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675072) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Milano, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114673255) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674398) |
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 2d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
