@@ -8,15 +8,15 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | 2026 Graduate - Chemfeed Engineer | cac40 | United Kingdom | Birmingham, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674855) |
-| Veolia | 2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer | cac40 | United Kingdom | Birmingham, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674119) |
-| Veolia | 2026 Graduate - ED Reclaiming Service Engineer | cac40 | Netherlands | Rotterdam, nl | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675507) |
-| Veolia | 2026 Graduate - AI Accelerator – Strategic Growth | cac40 | Denmark | Søborg, dk | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675884) |
+| Veolia | 2026 Graduate - Chemfeed Engineer | cac40 | United Kingdom | Birmingham, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674855) |
+| Veolia | 2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer | cac40 | United Kingdom | Birmingham, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674119) |
+| Veolia | 2026 Graduate - ED Reclaiming Service Engineer | cac40 | Netherlands | Rotterdam, nl | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675507) |
+| Veolia | 2026 Graduate - AI Accelerator – Strategic Growth | cac40 | Denmark | Søborg, dk | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675884) |
 | Veolia | 2026 Graduate - Chemfeed Project Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114652389) |
 | Veolia | 2026 Graduate - Proposal Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114653334) |
-| Veolia | 2026 Graduate - Chemical Engineer | cac40 | Italy | Padova, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675072) |
-| Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Milano, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114673255) |
-| Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674398) |
+| Veolia | 2026 Graduate - Chemical Engineer | cac40 | Italy | Padova, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675072) |
+| Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Milano, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114673255) |
+| Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674398) |
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 4d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) | standard | Ireland | Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries | 2d | ashby | [Apply](https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
