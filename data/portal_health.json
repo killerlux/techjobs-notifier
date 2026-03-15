@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-14T06:02:11.944Z",
+  "generatedAt": "2026-03-15T06:12:38.089Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 776,
+    "healthy": 777,
     "degraded": 4,
     "empty": 24,
-    "fetch_error": 48,
+    "fetch_error": 47,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -207,15 +207,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Mechanical Orchard",
-      "type": "lever",
-      "slug": "mechanicalorchard",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
