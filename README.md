@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-15T04:43:35.912Z
+- Updated: 2026-03-16T10:51:27.670Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -32,7 +32,6 @@
 | Ramboll | Graduate Engineer - Marine | standard | United Kingdom | Southampton, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114631590) |
 | Ramboll | Graduate Engineer -Marine | standard | United Kingdom | Edinburgh, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114649727) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
-| Sportradar | Junior Java Developer | standard | Austria | Vienna, at | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000112885690) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Manufacturing Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000114300096) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | standard | Slovenia | Amphoe Si Maha Phot, th | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113123416) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Software Development Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113641161) |
