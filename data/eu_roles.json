@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-16T10:51:27.670Z",
-  "count": 27,
+  "generatedAt": "2026-03-16T13:06:40.446Z",
+  "count": 26,
   "results": [
     {
       "id": "744000114674855",
@@ -65,7 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-03-13T12:59:44.581Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000114653334",
@@ -78,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-03-13T13:01:50.656Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000114675072",
@@ -224,19 +224,6 @@
       "daysAgo": "2d"
     },
     {
-      "id": "8282735002",
-      "title": "2026 Graduate Software Engineer - DevOps",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8282735002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-13T09:33:43-04:00",
-      "daysAgo": "2d"
-    },
-    {
       "id": "8245742002",
       "title": "2026 Graduate Software Engineer - Drivers",
       "location": "Cambridge, UK",
@@ -286,7 +273,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-13T12:17:51.350Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000114649727",
@@ -299,7 +286,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-13T12:47:21.316Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "7519142",

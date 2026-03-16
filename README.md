@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-16T10:51:27.670Z
+- Updated: 2026-03-16T13:06:40.446Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -12,8 +12,8 @@
 | Veolia | 2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer | cac40 | United Kingdom | Birmingham, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674119) |
 | Veolia | 2026 Graduate - ED Reclaiming Service Engineer | cac40 | Netherlands | Rotterdam, nl | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675507) |
 | Veolia | 2026 Graduate - AI Accelerator – Strategic Growth | cac40 | Denmark | Søborg, dk | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675884) |
-| Veolia | 2026 Graduate - Chemfeed Project Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114652389) |
-| Veolia | 2026 Graduate - Proposal Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114653334) |
+| Veolia | 2026 Graduate - Chemfeed Project Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114652389) |
+| Veolia | 2026 Graduate - Proposal Engineer | cac40 | Spain | Rivas-Vaciamadrid, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114653334) |
 | Veolia | 2026 Graduate - Chemical Engineer | cac40 | Italy | Padova, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675072) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Milano, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114673255) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674398) |
@@ -25,12 +25,11 @@
 | Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
 | Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
 | Graphcore | 2026 Graduate Software Engineer - Bristol | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
-| Graphcore | 2026 Graduate Software Engineer - DevOps | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8282735002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Northslope Technologies | Forward Deployed Software Engineer, New Grad | standard | United Kingdom | New York, London | 7d | ashby | [Apply](https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a) |
-| Ramboll | Graduate Engineer - Marine | standard | United Kingdom | Southampton, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114631590) |
-| Ramboll | Graduate Engineer -Marine | standard | United Kingdom | Edinburgh, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114649727) |
+| Ramboll | Graduate Engineer - Marine | standard | United Kingdom | Southampton, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114631590) |
+| Ramboll | Graduate Engineer -Marine | standard | United Kingdom | Edinburgh, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000114649727) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Manufacturing Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000114300096) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | standard | Slovenia | Amphoe Si Maha Phot, th | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113123416) |
