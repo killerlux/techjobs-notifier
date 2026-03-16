@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-03-16T14:43:53.238Z",
-  "count": 19,
+  "generatedAt": "2026-03-16T16:04:20.847Z",
+  "count": 17,
   "results": [
-    {
-      "id": "744000114674855",
-      "title": "2026 Graduate - Chemfeed Engineer",
-      "location": "Birmingham, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114674855",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-03-13T14:24:13.000Z",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000114675884",
-      "title": "2026 Graduate - AI Accelerator – Strategic Growth",
-      "location": "Søborg, dk",
-      "country": "Denmark",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000114675884",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-03-13T14:23:23.578Z",
-      "daysAgo": "3d"
-    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
