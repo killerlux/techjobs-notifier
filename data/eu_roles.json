@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-16T16:04:20.847Z",
-  "count": 17,
+  "generatedAt": "2026-03-16T17:34:27.511Z",
+  "count": 18,
   "results": [
     {
       "id": "7297666002",
@@ -92,6 +92,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-13T09:33:43-04:00",
       "daysAgo": "3d"
+    },
+    {
+      "id": "8282735002",
+      "title": "2026 Graduate Software Engineer - DevOps",
+      "location": "Bristol, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8282735002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-16T13:18:22-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8238605002",
