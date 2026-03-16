@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-15T06:12:38.089Z",
+  "generatedAt": "2026-03-16T06:50:20.370Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 777,
+    "healthy": 773,
     "degraded": 4,
     "empty": 24,
-    "fetch_error": 47,
+    "fetch_error": 51,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -111,6 +111,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -189,6 +198,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/helionenergy/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Hermeus",
+      "type": "lever",
+      "slug": "hermeus",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -309,6 +327,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Research Innovations",
+      "type": "lever",
+      "slug": "researchinnovations.com",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Rivos",
       "type": "lever",
       "slug": "rivosinc",
@@ -324,6 +351,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/sagardcareers/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Saronic",
+      "type": "lever",
+      "slug": "saronic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
