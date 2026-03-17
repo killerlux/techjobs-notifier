@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-16T17:34:27.511Z",
-  "count": 18,
+  "generatedAt": "2026-03-17T10:13:03.637Z",
+  "count": 17,
   "results": [
     {
       "id": "7297666002",
@@ -209,19 +209,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-12T06:34:22.436Z",
       "daysAgo": "5d"
-    },
-    {
-      "id": "744000113123416",
-      "title": "(NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration)",
-      "location": "Amphoe Si Maha Phot, th",
-      "country": "Slovenia",
-      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113123416",
-      "company": "Western Digital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-06T09:33:17.152Z",
-      "daysAgo": "10d"
     },
     {
       "id": "744000113641161",
