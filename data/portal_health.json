@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-17T06:14:22.450Z",
+  "generatedAt": "2026-03-18T06:14:01.458Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 769,
+    "healthy": 777,
     "degraded": 4,
-    "empty": 24,
-    "fetch_error": 55,
+    "empty": 23,
+    "fetch_error": 48,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -54,15 +54,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Arrive Logistics",
-      "type": "lever",
-      "slug": "arrivelogistics",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -120,15 +111,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -144,15 +126,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "CompassX Group",
-      "type": "lever",
-      "slug": "compassx",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -225,24 +198,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "InfStones",
-      "type": "lever",
-      "slug": "infstones",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Ivo",
-      "type": "lever",
-      "slug": "ivo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -372,15 +327,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Saviynt",
-      "type": "lever",
-      "slug": "saviynt",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "SciTec",
       "type": "workable",
       "slug": "scitec",
@@ -495,15 +441,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wachter",
-      "type": "lever",
-      "slug": "wachter",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
