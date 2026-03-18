@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-18T08:52:30.714Z",
-  "count": 17,
+  "generatedAt": "2026-03-18T09:51:37.795Z",
+  "count": 18,
   "results": [
     {
       "id": "7297666002",
@@ -183,6 +183,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-13T12:47:21.316Z",
       "daysAgo": "4d"
+    },
+    {
+      "id": "744000115386117",
+      "title": "Production Engineering Advanced Apprentice / Graduate Engineer",
+      "location": "Worcester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000115386117",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-18T08:52:28.820Z",
+      "daysAgo": "0d"
     },
     {
       "id": "7519142",
