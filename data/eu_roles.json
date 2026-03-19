@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-03-19T10:37:41.881Z",
-  "count": 19,
+  "generatedAt": "2026-03-19T12:58:44.958Z",
+  "count": 20,
   "results": [
+    {
+      "id": "744000115637258",
+      "title": "2026 Graduate - Tender Engineer",
+      "location": "Vellinge, se",
+      "country": "Sweden",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115637258",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-19T11:49:03.359Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
