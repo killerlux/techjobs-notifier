@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-19T12:58:44.958Z",
+  "generatedAt": "2026-03-19T16:31:02.190Z",
   "count": 20,
   "results": [
     {
-      "id": "744000115637258",
-      "title": "2026 Graduate - Tender Engineer",
-      "location": "Vellinge, se",
+      "id": "744000115703467",
+      "title": "2026 Graduate - R&D Engineer",
+      "location": "Lund, se",
       "country": "Sweden",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115637258",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115703467",
       "company": "Veolia",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "cac40",
-      "postedAt": "2026-03-19T11:49:03.359Z",
+      "postedAt": "2026-03-19T16:04:09.074Z",
       "daysAgo": "0d"
     },
     {
@@ -208,7 +208,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-18T16:22:56.223Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "7519142",
