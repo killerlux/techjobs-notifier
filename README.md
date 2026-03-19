@@ -12,15 +12,15 @@
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 8d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) | standard | Ireland | Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries | 6d | ashby | [Apply](https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743) |
-| Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
+| Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
-| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
-| Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
-| Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
-| Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
-| Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
-| Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
+| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
+| Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
+| Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
+| Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
+| Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
+| Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Northslope Technologies | Forward Deployed Software Engineer, New Grad | standard | United Kingdom | New York, London | 10d | ashby | [Apply](https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a) |
 | Ramboll | Graduate Civil Engineer - Marine | standard | United Kingdom | Southampton, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000115484623) |
