@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-19T09:40:37.014Z
+- Updated: 2026-03-19T10:37:41.881Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,8 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | 2026 Graduate - Chemfeed Engineer | cac40 | United Kingdom | Birchwood, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115411708) |
-| Veolia | 2026 Graduate - Chemfeed Engineer | cac40 | United Kingdom | Billingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115411791) |
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 8d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) | standard | Ireland | Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries | 6d | ashby | [Apply](https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743) |
@@ -28,3 +26,4 @@
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Manufacturing Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000114300096) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Software Development Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113641161) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 0d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
