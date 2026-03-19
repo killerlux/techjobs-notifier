@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-18T17:37:07.171Z
+- Updated: 2026-03-19T09:40:37.014Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -14,7 +14,7 @@
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) | standard | Ireland | Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries | 6d | ashby | [Apply](https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
-| Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
+| Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
 | Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
@@ -25,7 +25,6 @@
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Northslope Technologies | Forward Deployed Software Engineer, New Grad | standard | United Kingdom | New York, London | 10d | ashby | [Apply](https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a) |
 | Ramboll | Graduate Civil Engineer - Marine | standard | United Kingdom | Southampton, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000115484623) |
-| Robert Bosch Venture Capital | Production Engineering Advanced Apprentice / Graduate Engineer | standard | United Kingdom | Worcester, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000115386117) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Manufacturing Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000114300096) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Software Development Engineering | standard | Slovenia | Amphoe Si Maha Phot, th | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000113641161) |
