@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T01:53:22.493Z",
-  "count": 19,
+  "generatedAt": "2026-03-20T11:56:36.820Z",
+  "count": 20,
   "results": [
     {
       "id": "744000115703467",
@@ -13,6 +13,19 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-03-19T16:04:09.074Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000115855087",
+      "title": "2026 Graduate - Chemfeed Project Engineer",
+      "location": "Sevilla, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115855087",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-20T11:30:18.365Z",
       "daysAgo": "0d"
     },
     {
