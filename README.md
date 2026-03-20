@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-20T11:56:36.820Z
+- Updated: 2026-03-20T12:57:24.304Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -22,6 +22,7 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
+| Lendable | Junior Analytics Engineer | standard | United Kingdom | London, United Kingdom | 0d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Ramboll | Graduate Civil Engineer - Marine | standard | United Kingdom | Southampton, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000115484623) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
