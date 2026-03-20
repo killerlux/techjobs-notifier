@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-19T06:12:10.392Z",
+  "generatedAt": "2026-03-20T06:07:48.513Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 770,
-    "degraded": 5,
+    "healthy": 777,
+    "degraded": 4,
     "empty": 22,
-    "fetch_error": 55,
+    "fetch_error": 49,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -111,15 +111,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -147,9 +138,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Dexterity",
+      "company": "Delta Solutions & Strategies",
       "type": "lever",
-      "slug": "dexterity",
+      "slug": "deltasands",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -216,15 +207,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "LightEdge Solutions",
-      "type": "lever",
-      "slug": "lightedge",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -390,15 +372,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Telesat",
-      "type": "lever",
-      "slug": "telesat",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "The Swift Group",
       "type": "greenhouse",
       "slug": "theswiftgroup",
@@ -423,15 +396,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/tokamak-energy/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Toyota Research Institute",
-      "type": "lever",
-      "slug": "tri",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -486,24 +450,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "WebFX",
-      "type": "lever",
-      "slug": "webfx",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Xsolla",
-      "type": "lever",
-      "slug": "xsolla",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
