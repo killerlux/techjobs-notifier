@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-19T16:31:02.190Z",
-  "count": 20,
+  "generatedAt": "2026-03-20T01:53:22.493Z",
+  "count": 19,
   "results": [
     {
       "id": "744000115703467",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-13",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "8425273002",
@@ -183,19 +183,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-18T10:09:39-04:00",
       "daysAgo": "1d"
-    },
-    {
-      "id": "003446a7-dc96-42f5-9df9-47c71bbab280",
-      "title": "Forward Deployed Software Engineer, New Grad",
-      "location": "New York, London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a",
-      "company": "Northslope Technologies",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-09",
-      "daysAgo": "10d"
     },
     {
       "id": "744000115484623",
