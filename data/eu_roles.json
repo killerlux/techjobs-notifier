@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-03-20T12:57:24.304Z",
-  "count": 21,
+  "generatedAt": "2026-03-20T17:08:49.168Z",
+  "count": 20,
   "results": [
-    {
-      "id": "744000115703467",
-      "title": "2026 Graduate - R&D Engineer",
-      "location": "Lund, se",
-      "country": "Sweden",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115703467",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-03-19T16:04:09.074Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000115855087",
       "title": "2026 Graduate - Chemfeed Project Engineer",
@@ -221,7 +208,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-18T16:22:56.223Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "7519142",
