@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-21T07:08:03.040Z",
-  "count": 19,
+  "generatedAt": "2026-03-21T21:22:18.080Z",
+  "count": 18,
   "results": [
     {
       "id": "744000115855087",
@@ -14,19 +14,6 @@
       "priorityTier": "cac40",
       "postedAt": "2026-03-20T11:30:18.365Z",
       "daysAgo": "1d"
-    },
-    {
-      "id": "7297666002",
-      "title": "Quantitative Software Developer Intern",
-      "location": "New York, London, or Paris",
-      "country": "France",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-      "company": "Point72",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-10T16:56:32-04:00",
-      "daysAgo": "10d"
     },
     {
       "id": "4599459006",
