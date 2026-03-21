@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-20T06:07:48.513Z",
+  "generatedAt": "2026-03-21T05:55:42.731Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 777,
+    "healthy": 776,
     "degraded": 4,
     "empty": 22,
-    "fetch_error": 49,
+    "fetch_error": 50,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -111,6 +111,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -129,21 +138,21 @@
       "checkedUrls": []
     },
     {
+      "company": "Commerce Architects",
+      "type": "lever",
+      "slug": "commercearchitects",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Delta Solutions & Strategies",
-      "type": "lever",
-      "slug": "deltasands",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
