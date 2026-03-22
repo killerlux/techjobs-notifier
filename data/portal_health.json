@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T05:55:42.731Z",
+  "generatedAt": "2026-03-22T06:07:35.486Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
@@ -57,6 +57,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Autoroboto",
+      "type": "lever",
+      "slug": "autoroboto",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Becker Friedman Institute for Economics",
       "type": "greenhouse",
       "slug": "universityofchicago",
@@ -93,6 +102,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Bumble",
+      "type": "lever",
+      "slug": "bumbleinc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Catbird",
       "type": "lever",
       "slug": "catbird",
@@ -111,15 +129,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -135,15 +144,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Commerce Architects",
-      "type": "lever",
-      "slug": "commercearchitects",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
