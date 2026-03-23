@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T11:01:59.016Z",
-  "count": 18,
+  "generatedAt": "2026-03-23T12:02:07.221Z",
+  "count": 19,
   "results": [
     {
       "id": "744000115855087",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-03-20T11:30:18.365Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000116152588",
@@ -235,6 +235,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-20T09:30:49-04:00",
       "daysAgo": "2d"
+    },
+    {
+      "id": "744000116167289",
+      "title": "Junior Back-end Developer (SIMA)",
+      "location": "Málaga, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000116167289",
+      "company": "Talan",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-23T12:00:55.796Z",
+      "daysAgo": "0d"
     }
   ]
 }

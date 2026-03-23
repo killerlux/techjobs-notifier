@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-23T11:01:59.016Z
+- Updated: 2026-03-23T12:02:07.221Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | 2026 Graduate - Chemfeed Project Engineer | cac40 | Spain | Sevilla, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115855087) |
+| Veolia | 2026 Graduate - Chemfeed Project Engineer | cac40 | Spain | Sevilla, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000115855087) |
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116152588) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote) | standard | Ireland | Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries | 10d | ashby | [Apply](https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743) |
@@ -26,3 +26,4 @@
 | Ramboll | Graduate Civil Engineer - Marine | standard | United Kingdom | Southampton, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000115484623) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 2d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
+| Talan | Junior Back-end Developer (SIMA) | standard | Spain | Málaga, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116167289) |
