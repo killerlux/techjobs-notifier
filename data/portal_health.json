@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-22T06:07:35.486Z",
+  "generatedAt": "2026-03-23T06:18:29.916Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 776,
+    "healthy": 777,
     "degraded": 4,
     "empty": 22,
-    "fetch_error": 50,
+    "fetch_error": 49,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -57,15 +57,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Autoroboto",
-      "type": "lever",
-      "slug": "autoroboto",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Becker Friedman Institute for Economics",
       "type": "greenhouse",
       "slug": "universityofchicago",
@@ -99,15 +90,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/boomsupersonic/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Bumble",
-      "type": "lever",
-      "slug": "bumbleinc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -216,6 +198,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "LightEdge Solutions",
+      "type": "lever",
+      "slug": "lightedge",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
