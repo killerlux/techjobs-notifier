@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T07:44:12.385Z",
-  "count": 17,
+  "generatedAt": "2026-03-23T11:01:59.016Z",
+  "count": 18,
   "results": [
     {
       "id": "744000115855087",
@@ -14,6 +14,19 @@
       "priorityTier": "cac40",
       "postedAt": "2026-03-20T11:30:18.365Z",
       "daysAgo": "2d"
+    },
+    {
+      "id": "744000116152588",
+      "title": "2026 Graduate - Field Service Engineer",
+      "location": "Roncoferraro, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116152588",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-23T10:40:19.254Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4599459006",
