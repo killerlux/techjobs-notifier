@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-21T21:22:18.080Z",
-  "count": 18,
+  "generatedAt": "2026-03-23T07:44:12.385Z",
+  "count": 17,
   "results": [
     {
       "id": "744000115855087",
@@ -209,19 +209,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-19T00:52:13-04:00",
       "daysAgo": "4d"
-    },
-    {
-      "id": "744000114300096",
-      "title": "(NEW GRAD ONLY) Engineer, Manufacturing Engineering",
-      "location": "Amphoe Si Maha Phot, th",
-      "country": "Slovenia",
-      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000114300096",
-      "company": "Western Digital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-12T06:34:22.436Z",
-      "daysAgo": "10d"
     },
     {
       "id": "4473391101",
