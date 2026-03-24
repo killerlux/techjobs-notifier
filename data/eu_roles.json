@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T15:58:20.927Z",
-  "count": 20,
+  "generatedAt": "2026-03-24T01:52:21.515Z",
+  "count": 19,
   "results": [
     {
       "id": "744000116152588",
@@ -27,19 +27,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-18T10:09:38-04:00",
       "daysAgo": "5d"
-    },
-    {
-      "id": "7014b719-ad29-47c0-9dea-823377921d23",
-      "title": "Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote)",
-      "location": "Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries",
-      "country": "Ireland",
-      "url": "https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743",
-      "company": "Quora",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-13",
-      "daysAgo": "10d"
     },
     {
       "id": "8425273002",
@@ -169,7 +156,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-20",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "4604065006",
