@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-24T09:28:05.063Z
+- Updated: 2026-03-24T11:24:30.700Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -9,10 +9,10 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
-| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
-| Graphcore | 2026 Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
 | Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
 | Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
