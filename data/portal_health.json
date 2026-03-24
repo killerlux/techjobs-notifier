@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-23T06:18:29.916Z",
+  "generatedAt": "2026-03-24T06:13:56.948Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 777,
+    "healthy": 775,
     "degraded": 4,
-    "empty": 22,
-    "fetch_error": 49,
+    "empty": 23,
+    "fetch_error": 50,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -111,6 +111,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -198,15 +207,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "LightEdge Solutions",
-      "type": "lever",
-      "slug": "lightedge",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -369,6 +369,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sylvera?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Telesat",
+      "type": "lever",
+      "slug": "telesat",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
