@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-24T08:07:09.279Z",
-  "count": 18,
+  "generatedAt": "2026-03-24T09:28:05.063Z",
+  "count": 20,
   "results": [
     {
       "id": "4599459006",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-18T04:42:20-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "8360495002",
@@ -183,6 +183,32 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-19T00:52:13-04:00",
       "daysAgo": "5d"
+    },
+    {
+      "id": "744000116348378",
+      "title": "(NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration)",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000116348378",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-24T09:13:06.281Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000116347789",
+      "title": "Linear Infrastructures Graduate Engineer",
+      "location": "Madrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000116347789",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-24T09:20:19.075Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4473391101",
