@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-03-25T10:45:51.737Z",
-  "count": 15,
+  "generatedAt": "2026-03-25T13:03:50.474Z",
+  "count": 16,
   "results": [
+    {
+      "id": "744000116611012",
+      "title": "Graduate Technical Services Engineer",
+      "location": "Celbridge, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116611012",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-03-25T12:42:06.607Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000116452227",
       "title": "2026 Graduate - R&D Engineer",
