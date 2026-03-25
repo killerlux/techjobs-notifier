@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-24T22:28:12.654Z
+- Updated: 2026-03-25T10:45:51.737Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -22,3 +22,4 @@
 | Talan | Junior Big Data Developer | standard | Spain | Málaga, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116187597) |
 | Talan | Junior Big Data Developer | standard | Spain | Zaragoza, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116205888) |
 | Talan | Junior Big Data Developer | standard | Spain | Granada, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116207537) |
+| Red Bull | VCARB F1 Team - Junior Mechanical Design Engineer | standard | Italy | Faenza, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000116585856) |
