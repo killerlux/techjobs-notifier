@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-24T06:13:56.948Z",
+  "generatedAt": "2026-03-25T06:14:34.557Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 775,
+    "healthy": 773,
     "degraded": 4,
     "empty": 23,
-    "fetch_error": 50,
+    "fetch_error": 52,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -174,12 +174,30 @@
       "checkedUrls": []
     },
     {
+      "company": "Gauntlet Networks",
+      "type": "lever",
+      "slug": "gauntlet",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Genies",
       "type": "greenhouse",
       "slug": "genies",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/genies/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "GMO",
+      "type": "lever",
+      "slug": "gmo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -363,21 +381,21 @@
       "checkedUrls": []
     },
     {
+      "company": "StarCompliance",
+      "type": "lever",
+      "slug": "starcompliance",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Sylvera",
       "type": "lever",
       "slug": "sylvera",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sylvera?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Telesat",
-      "type": "lever",
-      "slug": "telesat",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
