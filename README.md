@@ -10,8 +10,8 @@
 |---|---|---|---|---|---|---|---|
 | Veolia | 2026 Graduate - R&D Engineer | cac40 | Sweden | Lund, se | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116452227) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
-| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
-| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
 | Lendable | Junior Analytics Engineer | standard | United Kingdom | London, United Kingdom | 5d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8) |
