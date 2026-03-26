@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-26T10:59:27.822Z",
-  "count": 15,
+  "generatedAt": "2026-03-26T14:48:06.354Z",
+  "count": 18,
   "results": [
     {
       "id": "744000116918057",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-18T10:09:38-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "744000116370578",
@@ -68,6 +68,19 @@
       "daysAgo": "8d"
     },
     {
+      "id": "8282735002",
+      "title": "2026 Graduate Software Engineer - DevOps",
+      "location": "Bristol, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8282735002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-26T09:37:06-04:00",
+      "daysAgo": "0d"
+    },
+    {
       "id": "8238605002",
       "title": "2026 Graduate Software Engineer - Drivers",
       "location": "Bristol, UK",
@@ -78,7 +91,33 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-16T09:42:14-04:00",
-      "daysAgo": "9d"
+      "daysAgo": "10d"
+    },
+    {
+      "id": "8360495002",
+      "title": "Graduate Silicon Engineer",
+      "location": "Bristol, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-26T09:39:13-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "8360506002",
+      "title": "Graduate Silicon Engineer",
+      "location": "Cambridge, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-03-26T09:39:13-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "f7649774-6768-4134-995a-42389d523a84",
@@ -104,7 +143,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-18T10:09:39-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "7519142",
@@ -143,7 +182,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-20T09:30:49-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "744000116187597",
@@ -156,7 +195,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-23T13:32:00.676Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000116205888",
@@ -169,7 +208,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-23T14:35:45.672Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000116207537",
@@ -182,7 +221,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-23T14:38:44.823Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000116585856",
