@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-25T06:14:34.557Z",
+  "generatedAt": "2026-03-26T06:19:55.811Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 773,
+    "healthy": 774,
     "degraded": 4,
     "empty": 23,
-    "fetch_error": 52,
+    "fetch_error": 51,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -138,6 +138,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CompassX Group",
+      "type": "lever",
+      "slug": "compassx",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -174,30 +183,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Gauntlet Networks",
-      "type": "lever",
-      "slug": "gauntlet",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Genies",
       "type": "greenhouse",
       "slug": "genies",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/genies/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "GMO",
-      "type": "lever",
-      "slug": "gmo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -345,6 +336,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Rover",
+      "type": "lever",
+      "slug": "rover",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Sagard",
       "type": "greenhouse",
       "slug": "sagardcareers",
@@ -378,15 +378,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "StarCompliance",
-      "type": "lever",
-      "slug": "starcompliance",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
