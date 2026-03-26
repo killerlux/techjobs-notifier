@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-25T16:08:43.416Z
+- Updated: 2026-03-26T10:59:27.822Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,10 +8,10 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | Graduate Technical Services Engineer | cac40 | Ireland | Celbridge, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116611012) |
+| Veolia | 2026 Graduate - R&D Engineer | cac40 | Sweden | Lund, se | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116918057) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
-| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
-| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 9d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
 | Lendable | Junior Analytics Engineer | standard | United Kingdom | London, United Kingdom | 6d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8) |
@@ -22,4 +22,4 @@
 | Talan | Junior Big Data Developer | standard | Spain | Málaga, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116187597) |
 | Talan | Junior Big Data Developer | standard | Spain | Zaragoza, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116205888) |
 | Talan | Junior Big Data Developer | standard | Spain | Granada, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116207537) |
-| Red Bull | VCARB F1 Team - Junior Mechanical Design Engineer | standard | Italy | Faenza, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000116585856) |
+| Red Bull | VCARB F1 Team - Junior Mechanical Design Engineer | standard | Italy | Faenza, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000116585856) |

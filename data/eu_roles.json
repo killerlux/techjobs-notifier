@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-25T16:08:43.416Z",
+  "generatedAt": "2026-03-26T10:59:27.822Z",
   "count": 15,
   "results": [
     {
-      "id": "744000116611012",
-      "title": "Graduate Technical Services Engineer",
-      "location": "Celbridge, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116611012",
+      "id": "744000116918057",
+      "title": "2026 Graduate - R&D Engineer",
+      "location": "Lund, se",
+      "country": "Sweden",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116918057",
       "company": "Veolia",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "cac40",
-      "postedAt": "2026-03-25T12:42:06.607Z",
+      "postedAt": "2026-03-26T10:39:48.895Z",
       "daysAgo": "0d"
     },
     {
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-24T10:53:47.052Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000116370747",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-24T10:52:16.314Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "8234675002",
@@ -195,7 +195,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-25T10:27:52.807Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     }
   ]
 }
