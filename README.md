@@ -14,7 +14,7 @@
 | General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 9d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
-| Lendable | Junior Analytics Engineer | standard | United Kingdom | London, United Kingdom | 5d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8) |
+| Lendable | Junior Analytics Engineer | standard | United Kingdom | London, United Kingdom | 6d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
 | Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | standard | Slovenia | Amphoe Si Maha Phot, th | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000116348378) |
