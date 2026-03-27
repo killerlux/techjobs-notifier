@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-26T14:48:06.354Z",
-  "count": 18,
+  "generatedAt": "2026-03-27T09:53:03.231Z",
+  "count": 17,
   "results": [
     {
       "id": "744000116918057",
@@ -169,7 +169,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-24T09:13:06.281Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "4473391101",
@@ -222,19 +222,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-23T14:38:44.823Z",
       "daysAgo": "3d"
-    },
-    {
-      "id": "744000116585856",
-      "title": "VCARB F1 Team - Junior Mechanical Design Engineer",
-      "location": "Faenza, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/redbull/postings/744000116585856",
-      "company": "Red Bull",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-25T10:27:52.807Z",
-      "daysAgo": "1d"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-26T14:48:06.354Z
+- Updated: 2026-03-27T09:53:03.231Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -20,9 +20,8 @@
 | Lendable | Junior Analytics Engineer | standard | United Kingdom | London, United Kingdom | 7d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Singapore | Singapore, Singapore | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142) |
-| Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | standard | Slovenia | Amphoe Si Maha Phot, th | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000116348378) |
+| Western Digital | (NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration) | standard | Slovenia | Amphoe Si Maha Phot, th | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000116348378) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 6d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
 | Talan | Junior Big Data Developer | standard | Spain | Málaga, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116187597) |
 | Talan | Junior Big Data Developer | standard | Spain | Zaragoza, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116205888) |
 | Talan | Junior Big Data Developer | standard | Spain | Granada, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000116207537) |
-| Red Bull | VCARB F1 Team - Junior Mechanical Design Engineer | standard | Italy | Faenza, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000116585856) |
