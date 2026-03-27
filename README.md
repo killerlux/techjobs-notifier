@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | 2026 Graduate - R&D Engineer | cac40 | Sweden | Lund, se | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116918057) |
+| Veolia | 2026 Graduate - R&D Engineer | cac40 | Sweden | Lund, se | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000116918057) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
 | General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
