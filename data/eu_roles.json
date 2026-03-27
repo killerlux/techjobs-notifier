@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-27T09:53:03.231Z",
-  "count": 17,
+  "generatedAt": "2026-03-27T11:40:03.004Z",
+  "count": 16,
   "results": [
     {
       "id": "744000116918057",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-24T10:53:47.052Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000116370747",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-03-24T10:52:16.314Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "8234675002",
@@ -118,19 +118,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-26T09:39:13-04:00",
       "daysAgo": "0d"
-    },
-    {
-      "id": "f7649774-6768-4134-995a-42389d523a84",
-      "title": "Junior Analytics Engineer",
-      "location": "London, United Kingdom",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lendable/f27be384-b12f-47c5-a373-2e676771e0d8",
-      "company": "Lendable",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-20",
-      "daysAgo": "7d"
     },
     {
       "id": "4604065006",
