@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-27T06:21:33.229Z",
+  "generatedAt": "2026-03-28T06:11:56.073Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 769,
-    "degraded": 5,
-    "empty": 23,
-    "fetch_error": 55,
+    "healthy": 771,
+    "degraded": 4,
+    "empty": 25,
+    "fetch_error": 52,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -48,9 +48,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Analytic Partners",
+      "company": "Anomali",
       "type": "lever",
-      "slug": "analyticpartners",
+      "slug": "anomali",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -120,9 +120,9 @@
       "checkedUrls": []
     },
     {
-      "company": "CGS Federal (Contact Government Services)",
+      "company": "City Electrical Factors",
       "type": "lever",
-      "slug": "cgsfederal",
+      "slug": "cef",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -144,15 +144,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "CommonLit",
-      "type": "lever",
-      "slug": "commonlit",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -219,30 +210,12 @@
       "checkedUrls": []
     },
     {
-      "company": "IEM",
-      "type": "greenhouse",
-      "slug": "industrialelectricmanufacturing",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/industrialelectricmanufacturing/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Lumafield",
-      "type": "lever",
-      "slug": "lumafield",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -327,6 +300,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Quantcast",
+      "type": "lever",
+      "slug": "quantcast",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Quantexa",
       "type": "workable",
       "slug": "quantexa",
@@ -350,7 +332,7 @@
       "slug": "radicalai",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/radicalai?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -369,15 +351,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/rivosinc?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "RWS",
-      "type": "lever",
-      "slug": "rws",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
