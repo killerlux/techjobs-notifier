@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-03-29T09:34:59.166Z",
-  "count": 13,
+  "generatedAt": "2026-03-29T14:31:53.260Z",
+  "count": 11,
   "results": [
-    {
-      "id": "4599459006",
-      "title": "Junior Software Developer - Dublin",
-      "location": "Ireland",
-      "country": "Ireland",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006",
-      "company": "mthree",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-18T10:09:38-04:00",
-      "daysAgo": "10d"
-    },
     {
       "id": "744000116370578",
       "title": "Junior Electronics Engineer",
@@ -79,19 +66,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-26T09:39:13-04:00",
       "daysAgo": "3d"
-    },
-    {
-      "id": "4604065006",
-      "title": "mthree -  Junior Software Developer  (Go Lang) ",
-      "location": "UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
-      "company": "mthree",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-18T10:09:39-04:00",
-      "daysAgo": "10d"
     },
     {
       "id": "7519142",
