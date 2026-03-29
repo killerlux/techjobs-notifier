@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-03-29T14:31:53.260Z
+- Updated: 2026-03-29T23:29:32.419Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,8 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578) |
-| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747) |
 | Graphcore | 2026 Graduate Software Engineer - DevOps | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8282735002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |

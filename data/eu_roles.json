@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-03-29T14:31:53.260Z",
-  "count": 11,
+  "generatedAt": "2026-03-29T23:29:32.419Z",
+  "count": 9,
   "results": [
-    {
-      "id": "744000116370578",
-      "title": "Junior Electronics Engineer",
-      "location": "Hastings, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370578",
-      "company": "General Dynamics UK",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-24T10:53:47.052Z",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "744000116370747",
-      "title": "Junior Software Engineers",
-      "location": "Hastings, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000116370747",
-      "company": "General Dynamics UK",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-24T10:52:16.314Z",
-      "daysAgo": "5d"
-    },
     {
       "id": "8282735002",
       "title": "2026 Graduate Software Engineer - DevOps",
