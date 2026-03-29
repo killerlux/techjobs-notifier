@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-28T06:11:56.073Z",
+  "generatedAt": "2026-03-29T06:19:10.374Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 771,
+    "healthy": 772,
     "degraded": 4,
-    "empty": 25,
-    "fetch_error": 52,
+    "empty": 26,
+    "fetch_error": 50,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -45,15 +45,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Anomali",
-      "type": "lever",
-      "slug": "anomali",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -120,9 +111,9 @@
       "checkedUrls": []
     },
     {
-      "company": "City Electrical Factors",
+      "company": "CGS Federal (Contact Government Services)",
       "type": "lever",
-      "slug": "cef",
+      "slug": "cgsfederal",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -300,15 +291,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Quantcast",
-      "type": "lever",
-      "slug": "quantcast",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Quantexa",
       "type": "workable",
       "slug": "quantexa",
@@ -332,7 +314,7 @@
       "slug": "radicalai",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/radicalai?mode=json -> 404",
       "checkedUrls": []
     },
     {
