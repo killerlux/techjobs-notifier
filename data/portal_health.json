@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-31T06:44:58.334Z",
+  "generatedAt": "2026-04-01T06:55:39.871Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 765,
+    "healthy": 771,
     "degraded": 4,
-    "empty": 25,
-    "fetch_error": 58,
+    "empty": 24,
+    "fetch_error": 53,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -138,30 +138,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Datalab USA",
-      "type": "lever",
-      "slug": "datalabusa",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Delta Solutions & Strategies",
-      "type": "lever",
-      "slug": "deltasands",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -180,15 +162,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Entrata",
-      "type": "lever",
-      "slug": "entrata",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -243,6 +216,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "MCA Connect",
+      "type": "lever",
+      "slug": "mcaconnect",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -435,15 +417,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Tokai Rika Group",
-      "type": "lever",
-      "slug": "tramgroup",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Tokamak Energy",
       "type": "workable",
       "slug": "tokamak-energy",
@@ -507,27 +480,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Wachter",
+      "company": "YouVersion",
       "type": "lever",
-      "slug": "wachter",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Window Nation",
-      "type": "lever",
-      "slug": "windownation",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wintermute",
-      "type": "lever",
-      "slug": "wintermute-trading",
+      "slug": "life",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
