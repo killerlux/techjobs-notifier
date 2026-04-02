@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-02T06:11:38.309Z",
-  "count": 7,
+  "generatedAt": "2026-04-02T08:53:17.708Z",
+  "count": 14,
   "results": [
     {
       "id": "7297666002",
@@ -29,6 +29,19 @@
       "daysAgo": "6d"
     },
     {
+      "id": "8230202002",
+      "title": "2026 Graduate Software Engineer - ML Kernels & Runtime Team",
+      "location": "Bristol, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T04:39:48-04:00",
+      "daysAgo": "0d"
+    },
+    {
       "id": "8360495002",
       "title": "Graduate Silicon Engineer",
       "location": "Bristol, UK",
@@ -53,6 +66,84 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-26T09:39:13-04:00",
       "daysAgo": "6d"
+    },
+    {
+      "id": "744000118349496",
+      "title": "(NEW GRAD ONLY) Engineer, Manufacturing Engineering",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118349496",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:31:50.948Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000118347993",
+      "title": "(NEW GRAD ONLY) Engineer, Manufacturing Equipment Engineering",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118347993",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:34:00.224Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000118354311",
+      "title": "(NEW GRAD ONLY) Engineer, Manufacturing Equipment Engineering",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118354311",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:51:24.510Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000118347817",
+      "title": "(NEW GRAD ONLY) Engineer, Product Design Engineering (Head Disk Interface Integration)",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118347817",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:39:02.657Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000118348453",
+      "title": "(NEW GRAD ONLY) Engineer, Software Development Engineering",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118348453",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:37:56.796Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000118351682",
+      "title": "(NEW GRAD ONLY) Scientist, Data Science",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118351682",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:40:05.964Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000116187597",
