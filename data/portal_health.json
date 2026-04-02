@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-01T06:55:39.871Z",
+  "generatedAt": "2026-04-02T06:20:01.824Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 771,
+    "healthy": 770,
     "degraded": 4,
-    "empty": 24,
-    "fetch_error": 53,
+    "empty": 23,
+    "fetch_error": 55,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -147,6 +147,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Demiurge Studios",
+      "type": "lever",
+      "slug": "demiurgestudios",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Eluvio",
       "type": "workable",
       "slug": "eluvio",
@@ -183,6 +192,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Grammarly",
+      "type": "greenhouse",
+      "slug": "grammarly",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/grammarly/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Grayce",
       "type": "workable",
       "slug": "grayce",
@@ -201,6 +219,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Inductive Automation",
+      "type": "lever",
+      "slug": "inductiveautomation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
@@ -216,15 +243,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "MCA Connect",
-      "type": "lever",
-      "slug": "mcaconnect",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -480,9 +498,9 @@
       "checkedUrls": []
     },
     {
-      "company": "YouVersion",
+      "company": "Wing Assistant",
       "type": "lever",
-      "slug": "life",
+      "slug": "getwingapp",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
