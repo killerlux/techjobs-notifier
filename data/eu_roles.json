@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-01T19:37:14.068Z",
-  "count": 8,
+  "generatedAt": "2026-04-02T06:11:38.309Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -53,19 +53,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-26T09:39:13-04:00",
       "daysAgo": "6d"
-    },
-    {
-      "id": "7519142",
-      "title": "Associate-Graduate:Developer",
-      "location": "Singapore, Singapore",
-      "country": "Singapore",
-      "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7519142",
-      "company": "Thoughtworks",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-30T00:16:51-04:00",
-      "daysAgo": "3d"
     },
     {
       "id": "744000116187597",
