@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-02T06:20:01.824Z",
+  "generatedAt": "2026-04-03T06:20:21.540Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 770,
-    "degraded": 4,
+    "healthy": 764,
+    "degraded": 5,
     "empty": 23,
-    "fetch_error": 55,
+    "fetch_error": 60,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -147,9 +147,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Demiurge Studios",
+      "company": "Elf Beauty",
       "type": "lever",
-      "slug": "demiurgestudios",
+      "slug": "elfbeauty",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -219,9 +219,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Inductive Automation",
+      "company": "HONK",
       "type": "lever",
-      "slug": "inductiveautomation",
+      "slug": "honkforhelp",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -234,6 +234,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ivo",
+      "type": "lever",
+      "slug": "ivo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lever",
+      "type": "lever",
+      "slug": "leverdemo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -252,6 +270,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/meshy/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Metergy Solutions",
+      "type": "lever",
+      "slug": "metergysolutions",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -297,6 +324,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/omnionpower/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Palantir",
+      "type": "lever",
+      "slug": "palantir",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Parallel Wireless",
+      "type": "lever",
+      "slug": "parallelwireless",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -351,6 +396,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/radicalai?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ranger",
+      "type": "lever",
+      "slug": "ranger",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -495,15 +549,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wing Assistant",
-      "type": "lever",
-      "slug": "getwingapp",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
