@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-03T14:03:57.176Z",
-  "count": 15,
+  "generatedAt": "2026-04-03T15:09:20.584Z",
+  "count": 12,
   "results": [
     {
       "id": "7297666002",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-31T22:26:13-04:00",
       "daysAgo": "2d"
-    },
-    {
-      "id": "744000118371108",
-      "title": "Graduate Civil Engineer (Aviation) - Croydon",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000118371108",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-02T09:59:32.110Z",
-      "daysAgo": "1d"
     },
     {
       "id": "8282735002",
@@ -170,32 +157,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-02T08:40:05.964Z",
       "daysAgo": "1d"
-    },
-    {
-      "id": "744000116205888",
-      "title": "Junior Big Data Developer",
-      "location": "Zaragoza, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000116205888",
-      "company": "Talan",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-23T14:35:45.672Z",
-      "daysAgo": "10d"
-    },
-    {
-      "id": "744000116207537",
-      "title": "Junior Big Data Developer",
-      "location": "Granada, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000116207537",
-      "company": "Talan",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-23T14:38:44.823Z",
-      "daysAgo": "10d"
     }
   ]
 }
