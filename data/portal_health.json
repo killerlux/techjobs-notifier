@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-03T06:20:21.540Z",
+  "generatedAt": "2026-04-04T06:13:05.660Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 764,
-    "degraded": 5,
-    "empty": 23,
-    "fetch_error": 60,
+    "healthy": 768,
+    "degraded": 4,
+    "empty": 24,
+    "fetch_error": 56,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -147,9 +147,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Elf Beauty",
+      "company": "Delta Solutions & Strategies",
       "type": "lever",
-      "slug": "elfbeauty",
+      "slug": "deltasands",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -219,39 +219,12 @@
       "checkedUrls": []
     },
     {
-      "company": "HONK",
-      "type": "lever",
-      "slug": "honkforhelp",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Ivo",
-      "type": "lever",
-      "slug": "ivo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Lever",
-      "type": "lever",
-      "slug": "leverdemo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -270,15 +243,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/meshy/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Metergy Solutions",
-      "type": "lever",
-      "slug": "metergysolutions",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -327,30 +291,21 @@
       "checkedUrls": []
     },
     {
-      "company": "Palantir",
-      "type": "lever",
-      "slug": "palantir",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Parallel Wireless",
-      "type": "lever",
-      "slug": "parallelwireless",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pivotal Software",
+      "type": "lever",
+      "slug": "pivotal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -399,21 +354,21 @@
       "checkedUrls": []
     },
     {
-      "company": "Ranger",
-      "type": "lever",
-      "slug": "ranger",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Redis",
       "type": "greenhouse",
       "slug": "redis",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/redis/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Research Innovations",
+      "type": "lever",
+      "slug": "researchinnovations.com",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -459,6 +414,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "SpruceID",
+      "type": "lever",
+      "slug": "sprucesystems",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
