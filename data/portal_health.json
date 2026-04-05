@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-04T06:13:05.660Z",
+  "generatedAt": "2026-04-05T06:21:35.332Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 768,
-    "degraded": 4,
-    "empty": 24,
+    "healthy": 766,
+    "degraded": 5,
+    "empty": 25,
     "fetch_error": 56,
     "unsupported": 1457,
     "misconfigured": 1
@@ -138,21 +138,21 @@
       "checkedUrls": []
     },
     {
+      "company": "Constellation Technologies",
+      "type": "lever",
+      "slug": "cti-md",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Delta Solutions & Strategies",
-      "type": "lever",
-      "slug": "deltasands",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -171,6 +171,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ethena",
+      "type": "lever",
+      "slug": "ethena",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Finix",
+      "type": "lever",
+      "slug": "finix",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -291,21 +309,21 @@
       "checkedUrls": []
     },
     {
+      "company": "Perforce",
+      "type": "lever",
+      "slug": "perforce",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Pivotal Software",
-      "type": "lever",
-      "slug": "pivotal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -363,15 +381,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Research Innovations",
-      "type": "lever",
-      "slug": "researchinnovations.com",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Rivos",
       "type": "lever",
       "slug": "rivosinc",
@@ -414,15 +423,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "SpruceID",
-      "type": "lever",
-      "slug": "sprucesystems",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
