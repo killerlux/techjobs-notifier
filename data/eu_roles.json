@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-03T15:09:20.584Z",
-  "count": 12,
+  "generatedAt": "2026-04-06T13:51:31.355Z",
+  "count": 9,
   "results": [
     {
       "id": "7297666002",
@@ -16,19 +16,6 @@
       "daysAgo": "5d"
     },
     {
-      "id": "8282735002",
-      "title": "2026 Graduate Software Engineer - DevOps",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8282735002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-26T09:37:06-04:00",
-      "daysAgo": "10d"
-    },
-    {
       "id": "8230202002",
       "title": "2026 Graduate Software Engineer - ML Kernels & Runtime Team",
       "location": "Bristol, UK",
@@ -40,32 +27,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-02T04:39:48-04:00",
       "daysAgo": "4d"
-    },
-    {
-      "id": "8360495002",
-      "title": "Graduate Silicon Engineer",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-26T09:39:13-04:00",
-      "daysAgo": "10d"
-    },
-    {
-      "id": "8360506002",
-      "title": "Graduate Silicon Engineer",
-      "location": "Cambridge, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-03-26T09:39:13-04:00",
-      "daysAgo": "10d"
     },
     {
       "id": "744000118349496",
