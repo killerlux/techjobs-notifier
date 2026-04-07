@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T16:55:11.863Z",
-  "count": 5,
+  "generatedAt": "2026-04-07T19:04:30.846Z",
+  "count": 4,
   "results": [
     {
       "id": "7297666002",
@@ -52,19 +52,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-02T08:57:02.582Z",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "744000118351682",
-      "title": "(NEW GRAD ONLY) Scientist, Data Science",
-      "location": "Amphoe Si Maha Phot, th",
-      "country": "Slovenia",
-      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118351682",
-      "company": "Western Digital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-02T08:40:05.964Z",
       "daysAgo": "5d"
     }
   ]
