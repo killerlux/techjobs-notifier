@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T10:13:22.485Z",
-  "count": 6,
+  "generatedAt": "2026-04-07T15:54:42.894Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -65,6 +65,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-02T08:57:02.582Z",
+      "daysAgo": "5d"
+    },
+    {
+      "id": "744000118348453",
+      "title": "(NEW GRAD ONLY) Engineer, Software Development Engineering",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118348453",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-02T08:37:56.796Z",
       "daysAgo": "5d"
     },
     {
