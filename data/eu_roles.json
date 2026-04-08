@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T19:04:30.846Z",
-  "count": 4,
+  "generatedAt": "2026-04-08T18:09:32.850Z",
+  "count": 3,
   "results": [
     {
       "id": "7297666002",
@@ -26,19 +26,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-02T04:39:48-04:00",
-      "daysAgo": "6d"
-    },
-    {
-      "id": "744000118354311",
-      "title": "(NEW GRAD ONLY) Engineer, Manufacturing Equipment Engineering",
-      "location": "Amphoe Si Maha Phot, th",
-      "country": "Slovenia",
-      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000118354311",
-      "company": "Western Digital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-02T08:51:24.510Z",
       "daysAgo": "6d"
     },
     {
