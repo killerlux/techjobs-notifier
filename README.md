@@ -8,5 +8,5 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 7d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 8d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
