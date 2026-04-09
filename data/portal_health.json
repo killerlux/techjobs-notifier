@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-08T06:51:02.459Z",
+  "generatedAt": "2026-04-09T06:52:12.111Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 765,
-    "degraded": 5,
-    "empty": 27,
-    "fetch_error": 55,
+    "healthy": 762,
+    "degraded": 6,
+    "empty": 25,
+    "fetch_error": 59,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -147,6 +147,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Demiurge Studios",
+      "type": "lever",
+      "slug": "demiurgestudios",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Eluvio",
       "type": "workable",
       "slug": "eluvio",
@@ -171,6 +180,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "FiscalNote",
+      "type": "lever",
+      "slug": "fiscalnote",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -219,30 +237,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Hive",
-      "type": "lever",
-      "slug": "hive",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Lumafield",
-      "type": "lever",
-      "slug": "lumafield",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -372,6 +372,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Regal",
+      "type": "lever",
+      "slug": "regalvoice",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Rivos",
       "type": "lever",
       "slug": "rivosinc",
@@ -387,6 +396,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/sagardcareers/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Saronic",
+      "type": "lever",
+      "slug": "saronic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -458,7 +476,7 @@
       "slug": "trend-health-partners",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/trend-health-partners?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -489,6 +507,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Valkyrie Trading",
+      "type": "lever",
+      "slug": "valkyrietrading",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Valon",
       "type": "greenhouse",
       "slug": "valon",
@@ -504,6 +531,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Welocalize",
+      "type": "lever",
+      "slug": "welocalize",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
       "checkedUrls": []
     },
     {
