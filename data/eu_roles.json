@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T10:57:09.511Z",
-  "count": 3,
+  "generatedAt": "2026-04-10T15:51:58.007Z",
+  "count": 4,
   "results": [
     {
       "id": "7297666002",
@@ -14,6 +14,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-03-31T22:26:13-04:00",
       "daysAgo": "9d"
+    },
+    {
+      "id": "744000119992798",
+      "title": "Junior Mechanical Engineer - HVAC",
+      "location": "Bridgwater, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-10T14:52:51.433Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8230202002",
