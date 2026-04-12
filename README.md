@@ -10,4 +10,4 @@
 |---|---|---|---|---|---|---|---|
 | ASSYSTEM | Junior Mechanical Engineer - HVAC | standard | United Kingdom | Bridgwater, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 2d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 3d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
