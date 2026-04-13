@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-12T05:10:17.767Z",
-  "count": 3,
+  "generatedAt": "2026-04-13T09:20:08.417Z",
+  "count": 2,
   "results": [
     {
       "id": "744000119992798",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-10T14:52:51.433Z",
       "daysAgo": "2d"
-    },
-    {
-      "id": "8230202002",
-      "title": "2026 Graduate Software Engineer - ML Kernels & Runtime Team",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-02T04:39:48-04:00",
-      "daysAgo": "10d"
     },
     {
       "id": "4473391101",
