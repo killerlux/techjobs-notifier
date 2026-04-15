@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| ASSYSTEM | Junior Mechanical Engineer - HVAC | standard | United Kingdom | Bridgwater, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798) |
+| ASSYSTEM | Junior Mechanical Engineer - HVAC | standard | United Kingdom | Bridgwater, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798) |
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
