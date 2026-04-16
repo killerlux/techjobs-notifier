@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-04-15T13:19:16.733Z",
-  "count": 5,
+  "generatedAt": "2026-04-16T10:45:25.708Z",
+  "count": 6,
   "results": [
+    {
+      "id": "744000121160077",
+      "title": "Graduate Electrical Engineer (Transmission & Distribution) - Dublin, Cork or Galway, Ireland - June  26 onwards start",
+      "location": "Dublin, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121160077",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-16T10:10:22.274Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000119992798",
       "title": "Junior Mechanical Engineer - HVAC",
@@ -65,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-09T06:34:46-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     }
   ]
 }
