@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-16T10:45:25.708Z",
-  "count": 6,
+  "generatedAt": "2026-04-16T15:24:43.451Z",
+  "count": 7,
   "results": [
     {
       "id": "744000121160077",
@@ -26,7 +26,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-10T14:52:51.433Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
+    },
+    {
+      "id": "744000121230177",
+      "title": "Graduate Controls Engineer ",
+      "location": "Bedford, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000121230177",
+      "company": "NBCUniversal",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-16T14:55:43.174Z",
+      "daysAgo": "0d"
     },
     {
       "id": "7800887002",
