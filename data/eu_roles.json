@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-04-16T21:42:37.971Z",
-  "count": 15,
+  "generatedAt": "2026-04-17T10:38:22.717Z",
+  "count": 16,
   "results": [
+    {
+      "id": "744000121387148",
+      "title": "2026 Graduate - Field Service Engineer",
+      "location": "Roncoferraro, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000121387148",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-04-17T10:08:24.318Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000121160077",
       "title": "Graduate Electrical Engineer (Transmission & Distribution) - Dublin, Cork or Galway, Ireland - June  26 onwards start",
@@ -13,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-16T10:10:22.274Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000119992798",
@@ -195,7 +208,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-09T06:34:46-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     }
   ]
 }
