@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T10:38:22.717Z",
-  "count": 16,
+  "generatedAt": "2026-04-17T11:50:19.374Z",
+  "count": 15,
   "results": [
     {
       "id": "744000121387148",
@@ -14,19 +14,6 @@
       "priorityTier": "cac40",
       "postedAt": "2026-04-17T10:08:24.318Z",
       "daysAgo": "0d"
-    },
-    {
-      "id": "744000121160077",
-      "title": "Graduate Electrical Engineer (Transmission & Distribution) - Dublin, Cork or Galway, Ireland - June  26 onwards start",
-      "location": "Dublin, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121160077",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-16T10:10:22.274Z",
-      "daysAgo": "1d"
     },
     {
       "id": "744000119992798",
