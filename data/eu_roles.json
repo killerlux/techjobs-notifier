@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T11:50:19.374Z",
-  "count": 15,
+  "generatedAt": "2026-04-17T13:13:04.433Z",
+  "count": 16,
   "results": [
     {
       "id": "744000121387148",
@@ -38,7 +38,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -51,7 +51,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -64,7 +64,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -77,7 +77,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -90,7 +90,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -103,7 +103,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -116,7 +116,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -129,7 +129,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T04:27:57-04:00",
+      "postedAt": "2026-04-17T09:12:09-04:00",
       "daysAgo": "0d"
     },
     {
@@ -146,6 +146,19 @@
       "daysAgo": "0d"
     },
     {
+      "id": "744000121413713",
+      "title": "Junior/Intermediate Electrical Engineer – Power Systems",
+      "location": "AB Delft, nl",
+      "country": "Netherlands",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-17T12:31:59.566Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "7800887002",
       "title": "Data Science Intern - GenAI",
       "location": "Brussels-Capital, Belgium",
@@ -156,7 +169,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-15T09:08:31-04:00",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "7804825002",
@@ -169,7 +182,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-15T09:08:31-04:00",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "8418289002",
@@ -182,7 +195,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-15T09:08:31-04:00",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "4473391101",
