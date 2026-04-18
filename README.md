@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000121387148) |
+| Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000121387148) |
 | ASSYSTEM | Junior Mechanical Engineer - HVAC | standard | United Kingdom | Bridgwater, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
@@ -23,4 +23,4 @@
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 8d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 9d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
