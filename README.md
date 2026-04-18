@@ -9,7 +9,7 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Veolia | 2026 Graduate - Field Service Engineer | cac40 | Italy | Roncoferraro, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000121387148) |
-| ASSYSTEM | Junior Mechanical Engineer - HVAC | standard | United Kingdom | Bridgwater, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798) |
+| ASSYSTEM | Junior Mechanical Engineer - HVAC | standard | United Kingdom | Bridgwater, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000119992798) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
@@ -18,7 +18,7 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
-| NBCUniversal | Graduate Controls Engineer  | standard | United Kingdom | Bedford, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000121230177) |
+| NBCUniversal | Graduate Controls Engineer  | standard | United Kingdom | Bedford, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000121230177) |
 | Ramboll | Junior/Intermediate Electrical Engineer – Power Systems | standard | Netherlands | AB Delft, nl | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713) |
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
