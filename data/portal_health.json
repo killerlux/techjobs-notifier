@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-18T06:22:15.275Z",
+  "generatedAt": "2026-04-19T06:54:45.352Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 725,
-    "degraded": 11,
-    "empty": 28,
-    "fetch_error": 88,
+    "healthy": 748,
+    "degraded": 7,
+    "empty": 29,
+    "fetch_error": 68,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -66,6 +66,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Autoroboto",
+      "type": "lever",
+      "slug": "autoroboto",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Becker Friedman Institute for Economics",
       "type": "greenhouse",
       "slug": "universityofchicago",
@@ -81,6 +90,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/benchling/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Beta Technologies",
+      "type": "lever",
+      "slug": "beta",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -120,15 +138,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -147,9 +156,9 @@
       "checkedUrls": []
     },
     {
-      "company": "CompassX Group",
+      "company": "Crest Industries",
       "type": "lever",
-      "slug": "compassx",
+      "slug": "crestoperations",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -165,9 +174,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Dexterity",
+      "company": "E-Space",
       "type": "lever",
-      "slug": "dexterity",
+      "slug": "espace",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -192,15 +201,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Empire State Realty Trust",
-      "type": "lever",
-      "slug": "esrtreit",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Encord",
       "type": "lever",
       "slug": "cordtechnologies",
@@ -210,9 +210,18 @@
       "checkedUrls": []
     },
     {
-      "company": "Fullscript",
+      "company": "EQ Bank",
       "type": "lever",
-      "slug": "fullscript",
+      "slug": "eqbank",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Field AI",
+      "type": "lever",
+      "slug": "field-ai",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -228,15 +237,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Gauntlet Networks",
-      "type": "lever",
-      "slug": "gauntlet",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Genies",
       "type": "greenhouse",
       "slug": "genies",
@@ -246,9 +246,9 @@
       "checkedUrls": []
     },
     {
-      "company": "GMO",
+      "company": "Goodleap",
       "type": "lever",
-      "slug": "gmo",
+      "slug": "goodleap",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -273,21 +273,30 @@
       "checkedUrls": []
     },
     {
-      "company": "Gridmatic",
-      "type": "lever",
-      "slug": "gridmatic",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Helion Energy",
       "type": "greenhouse",
       "slug": "helionenergy",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/helionenergy/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "hhaexchange",
+      "type": "lever",
+      "slug": "hhaexchange",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Inductive Automation",
+      "type": "lever",
+      "slug": "inductiveautomation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -300,39 +309,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Link",
-      "type": "lever",
-      "slug": "linkllc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Lumin Digital",
       "type": "lever",
       "slug": "lumindigital",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Luxury Presence",
-      "type": "lever",
-      "slug": "luxurypresence",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Major League Baseball",
-      "type": "lever",
-      "slug": "redsox",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -390,15 +372,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Nominal",
-      "type": "lever",
-      "slug": "nominal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "OmniOn Power",
       "type": "greenhouse",
       "slug": "omnionpower",
@@ -417,24 +390,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Perforce",
-      "type": "lever",
-      "slug": "perforce",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "PingWind",
-      "type": "lever",
-      "slug": "pingwind",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
@@ -444,21 +399,21 @@
       "checkedUrls": []
     },
     {
-      "company": "Plusgrade",
-      "type": "lever",
-      "slug": "plusgrade",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "pony.ai",
       "type": "workable",
       "slug": "pony-dot-ai",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "PROCEPT BioRobotics",
+      "type": "lever",
+      "slug": "procept-biorobotics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -498,15 +453,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Ranger",
-      "type": "lever",
-      "slug": "ranger",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Redis",
       "type": "greenhouse",
       "slug": "redis",
@@ -516,45 +462,18 @@
       "checkedUrls": []
     },
     {
-      "company": "Regal",
-      "type": "lever",
-      "slug": "regalvoice",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Revefi",
-      "type": "lever",
-      "slug": "revefi",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Rivos",
       "type": "lever",
       "slug": "rivosinc",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/rivosinc?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Robin",
-      "type": "lever",
-      "slug": "robinpowered",
-      "status": "fetch_error",
-      "jobsCount": 0,
       "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
-      "company": "RWS",
+      "company": "Rover",
       "type": "lever",
-      "slug": "rws",
+      "slug": "rover",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -597,24 +516,6 @@
       "checkedUrls": []
     },
     {
-      "company": "StarCompliance",
-      "type": "lever",
-      "slug": "starcompliance",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Sunwater Capital",
-      "type": "lever",
-      "slug": "sunwatercapital",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Sylvera",
       "type": "lever",
       "slug": "sylvera",
@@ -624,30 +525,12 @@
       "checkedUrls": []
     },
     {
-      "company": "TalentWerx",
-      "type": "lever",
-      "slug": "talentwerx.io",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "The Swift Group",
       "type": "greenhouse",
       "slug": "theswiftgroup",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/theswiftgroup/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "The Voleon Group",
-      "type": "lever",
-      "slug": "voleon",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -714,39 +597,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Vail",
-      "type": "lever",
-      "slug": "vailsys",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Valkyrie Trading",
-      "type": "lever",
-      "slug": "valkyrietrading",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Valon",
       "type": "greenhouse",
       "slug": "valon",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Veeva Systems",
-      "type": "lever",
-      "slug": "veeva",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -759,48 +615,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Wachter",
-      "type": "lever",
-      "slug": "wachter",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Window Nation",
-      "type": "lever",
-      "slug": "windownation",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wolverine Trading",
-      "type": "lever",
-      "slug": "wolve",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "YouVersion",
-      "type": "lever",
-      "slug": "life",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
