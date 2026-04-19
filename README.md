@@ -20,7 +20,7 @@
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | NBCUniversal | Graduate Controls Engineer  | standard | United Kingdom | Bedford, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000121230177) |
 | Ramboll | Junior/Intermediate Electrical Engineer – Power Systems | standard | Netherlands | AB Delft, nl | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713) |
-| Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
+| Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 10d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
