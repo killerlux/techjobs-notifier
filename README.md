@@ -18,7 +18,7 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | NBCUniversal | Graduate Controls Engineer  | standard | United Kingdom | Bedford, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000121230177) |
-| Ramboll | Junior/Intermediate Electrical Engineer – Power Systems | standard | Netherlands | AB Delft, nl | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713) |
+| Ramboll | Junior/Intermediate Electrical Engineer – Power Systems | standard | Netherlands | AB Delft, nl | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713) |
 | AECOM | Graduate Civil Engineer (Water) | standard | Singapore | Singapore, sg | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121674557) |
 | AECOM | Graduate Mechanical Engineer (Water Infrastructure) | standard | Singapore | Singapore, sg | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121674867) |
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
