@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-04-20T05:26:27.405Z
+- Updated: 2026-04-20T09:26:14.079Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -25,4 +25,5 @@
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
+| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 10d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4473391101) |
