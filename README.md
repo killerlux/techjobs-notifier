@@ -21,7 +21,7 @@
 | Ramboll | Junior/Intermediate Electrical Engineer – Power Systems | standard | Netherlands | AB Delft, nl | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713) |
 | AECOM | Graduate Civil Engineer (Water) | standard | Singapore | Singapore, sg | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121674557) |
 | AECOM | Graduate Mechanical Engineer (Water Infrastructure) | standard | Singapore | Singapore, sg | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121674867) |
-| Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
+| Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807) |
