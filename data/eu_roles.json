@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T17:35:53.398Z",
-  "count": 16,
+  "generatedAt": "2026-04-21T10:12:40.914Z",
+  "count": 5,
   "results": [
     {
       "id": "744000119992798",
@@ -16,110 +16,6 @@
       "daysAgo": "10d"
     },
     {
-      "id": "8425273002",
-      "title": "2026 Graduate IT Infrastructure Engineer",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8425273002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8234675002",
-      "title": "2026 Graduate Machine Learning Engineer - Applied AI",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8245655002",
-      "title": "2026 Graduate Software Engineer - AI/ ML Test Systems",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245655002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8420657002",
-      "title": "2026 Graduate Software Engineer - Analysis Tools",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8420657002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8282735002",
-      "title": "2026 Graduate Software Engineer - DevOps",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8282735002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8238605002",
-      "title": "2026 Graduate Software Engineer - Drivers",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8245742002",
-      "title": "2026 Graduate Software Engineer - Drivers",
-      "location": "Cambridge, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245742002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8230202002",
-      "title": "2026 Graduate Software Engineer - ML Kernels & Runtime Team",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "3d"
-    },
-    {
       "id": "744000121413713",
       "title": "Junior/Intermediate Electrical Engineer – Power Systems",
       "location": "AB Delft, nl",
@@ -131,58 +27,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-17T12:31:59.566Z",
       "daysAgo": "3d"
-    },
-    {
-      "id": "744000121674557",
-      "title": "Graduate Civil Engineer (Water)",
-      "location": "Singapore, sg",
-      "country": "Singapore",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121674557",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-20T03:41:47.010Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000121674867",
-      "title": "Graduate Mechanical Engineer (Water Infrastructure)",
-      "location": "Singapore, sg",
-      "country": "Singapore",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000121674867",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-20T03:45:15.126Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "7800887002",
-      "title": "Data Science Intern - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefact/jobs/7800887002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-15T09:08:31-04:00",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "7804825002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-15T09:08:31-04:00",
-      "daysAgo": "5d"
     },
     {
       "id": "8418289002",
@@ -208,6 +52,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-20T08:19:01.784Z",
+      "daysAgo": "1d"
+    },
+    {
+      "id": "744000121984247",
+      "title": "Junior Java Developer",
+      "location": "Vienna, at",
+      "country": "Austria",
+      "url": "https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000121984247",
+      "company": "Sportradar",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-21T09:37:37.028Z",
       "daysAgo": "0d"
     }
   ]
