@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-21T07:07:18.762Z",
+  "generatedAt": "2026-04-22T07:06:06.314Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 741,
-    "degraded": 8,
-    "empty": 32,
-    "fetch_error": 71,
+    "healthy": 748,
+    "degraded": 5,
+    "empty": 33,
+    "fetch_error": 66,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -45,15 +45,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Analytic Partners",
-      "type": "lever",
-      "slug": "analyticpartners",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -165,6 +156,15 @@
       "checkedUrls": []
     },
     {
+      "company": "EKN Engineering",
+      "type": "greenhouse",
+      "slug": "eknengineering",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/eknengineering/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Eluvio",
       "type": "workable",
       "slug": "eluvio",
@@ -174,21 +174,21 @@
       "checkedUrls": []
     },
     {
-      "company": "Enable",
-      "type": "lever",
-      "slug": "enable",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Encord",
       "type": "lever",
       "slug": "cordtechnologies",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "FiscalNote",
+      "type": "lever",
+      "slug": "fiscalnote",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -207,24 +207,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/genies/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Good American",
-      "type": "lever",
-      "slug": "goodamerican",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Gopuff",
-      "type": "lever",
-      "slug": "gopuff",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -255,15 +237,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Hermeus",
-      "type": "lever",
-      "slug": "hermeus",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
@@ -273,12 +246,39 @@
       "checkedUrls": []
     },
     {
+      "company": "IntraFi",
+      "type": "lever",
+      "slug": "intrafi",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Lumin Digital",
       "type": "lever",
       "slug": "lumindigital",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Major League Baseball",
+      "type": "lever",
+      "slug": "redsox",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Mechanical Orchard",
+      "type": "lever",
+      "slug": "mechanicalorchard",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -345,15 +345,6 @@
       "checkedUrls": []
     },
     {
-      "company": "OpenSesame",
-      "type": "greenhouse",
-      "slug": "opensesame",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Overland AI",
       "type": "greenhouse",
       "slug": "overlandai",
@@ -363,9 +354,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Path Robotics",
-      "type": "greenhouse",
-      "slug": "pathrobotics",
+      "company": "Penumbra Inc",
+      "type": "lever",
+      "slug": "penumbrainc",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -378,6 +369,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Plusgrade",
+      "type": "lever",
+      "slug": "plusgrade",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -453,15 +453,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Saviynt",
-      "type": "lever",
-      "slug": "saviynt",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "SciTec",
       "type": "workable",
       "slug": "scitec",
@@ -480,9 +471,9 @@
       "checkedUrls": []
     },
     {
-      "company": "Shield AI",
+      "company": "ShyftLabs",
       "type": "lever",
-      "slug": "shieldai",
+      "slug": "shyftlabs",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -495,6 +486,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "SunSource",
+      "type": "lever",
+      "slug": "sunsrce",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -516,15 +516,6 @@
       "checkedUrls": []
     },
     {
-      "company": "The Voleon Group",
-      "type": "lever",
-      "slug": "voleon",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Thorlabs",
       "type": "workable",
       "slug": "thorlabs",
@@ -540,15 +531,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/tokamak-energy/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Topanga",
-      "type": "lever",
-      "slug": "topanga",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -615,39 +597,12 @@
       "checkedUrls": []
     },
     {
-      "company": "WebFX",
-      "type": "lever",
-      "slug": "webfx",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Whoop",
-      "type": "lever",
-      "slug": "whoop",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Window Nation",
-      "type": "lever",
-      "slug": "windownation",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
