@@ -21,6 +21,6 @@
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
-| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807) |
+| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807) |
 | Sportradar | Junior Java Developer | standard | Austria | Vienna, at | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000121984247) |
 | AECOM | Graduate Environmental Engineer | standard | Italy | Milan, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000122055988) |
