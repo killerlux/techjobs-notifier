@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T10:47:57.876Z",
-  "count": 17,
+  "generatedAt": "2026-04-22T13:54:55.054Z",
+  "count": 16,
   "results": [
     {
       "id": "744000122177715",
@@ -130,7 +130,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-17T12:31:59.566Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "7800887002",
@@ -208,19 +208,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-22T09:37:34.398Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000122055988",
-      "title": "Graduate Environmental Engineer",
-      "location": "Milan, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000122055988",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-21T15:01:17.833Z",
       "daysAgo": "0d"
     }
   ]
