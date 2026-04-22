@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-04-21T15:51:47.206Z",
-  "count": 15,
+  "generatedAt": "2026-04-22T07:58:28.890Z",
+  "count": 16,
   "results": [
+    {
+      "id": "744000122177715",
+      "title": "VIE/PANGEO Junior Site Engineer M/W",
+      "location": "Kilkenny, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000122177715",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-04-22T07:06:10.558Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "8425273002",
       "title": "2026 Graduate IT Infrastructure Engineer",
