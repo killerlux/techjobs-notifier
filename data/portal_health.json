@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-22T07:06:06.314Z",
+  "generatedAt": "2026-04-23T07:08:46.629Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 748,
+    "healthy": 757,
     "degraded": 5,
-    "empty": 33,
-    "fetch_error": 66,
+    "empty": 34,
+    "fetch_error": 56,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -111,15 +111,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -183,15 +174,6 @@
       "checkedUrls": []
     },
     {
-      "company": "FiscalNote",
-      "type": "lever",
-      "slug": "fiscalnote",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Future Publishing",
       "type": "workable",
       "slug": "futureplc",
@@ -246,39 +228,12 @@
       "checkedUrls": []
     },
     {
-      "company": "IntraFi",
-      "type": "lever",
-      "slug": "intrafi",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Lumin Digital",
       "type": "lever",
       "slug": "lumindigital",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Major League Baseball",
-      "type": "lever",
-      "slug": "redsox",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Mechanical Orchard",
-      "type": "lever",
-      "slug": "mechanicalorchard",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -354,30 +309,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Penumbra Inc",
-      "type": "lever",
-      "slug": "penumbrainc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Plusgrade",
-      "type": "lever",
-      "slug": "plusgrade",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -471,30 +408,12 @@
       "checkedUrls": []
     },
     {
-      "company": "ShyftLabs",
-      "type": "lever",
-      "slug": "shyftlabs",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "SpotOn",
       "type": "greenhouse",
       "slug": "spotonproduct",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "SunSource",
-      "type": "lever",
-      "slug": "sunsrce",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -548,7 +467,7 @@
       "slug": "trexquant",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://apply.workable.com/api/v3/accounts/trexquant/jobs?limit=200 -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -576,15 +495,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Veeva Systems",
-      "type": "lever",
-      "slug": "veeva",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
