@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-04-22T13:54:55.054Z",
-  "count": 16,
+  "generatedAt": "2026-04-23T10:04:31.900Z",
+  "count": 14,
   "results": [
-    {
-      "id": "744000122177715",
-      "title": "VIE/PANGEO Junior Site Engineer M/W",
-      "location": "Kilkenny, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000122177715",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-04-22T07:06:10.558Z",
-      "daysAgo": "1d"
-    },
     {
       "id": "8425273002",
       "title": "2026 Graduate IT Infrastructure Engineer",
@@ -182,7 +169,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-20T08:19:01.784Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000121984247",
@@ -195,20 +182,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-21T09:37:37.028Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000122209918",
-      "title": "Junior Roadway Engineer",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000122209918",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-22T09:37:34.398Z",
-      "daysAgo": "0d"
+      "daysAgo": "2d"
     }
   ]
 }

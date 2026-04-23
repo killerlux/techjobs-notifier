@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-04-22T13:54:55.054Z
+- Updated: 2026-04-23T10:04:31.900Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | VIE/PANGEO Junior Site Engineer M/W | cac40 | Ireland | Kilkenny, ie | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000122177715) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Software Engineer - AI/ ML Test Systems | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245655002) |
@@ -21,6 +20,5 @@
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
-| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807) |
-| Sportradar | Junior Java Developer | standard | Austria | Vienna, at | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000121984247) |
-| AECOM | Junior Roadway Engineer | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000122209918) |
+| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807) |
+| Sportradar | Junior Java Developer | standard | Austria | Vienna, at | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000121984247) |
