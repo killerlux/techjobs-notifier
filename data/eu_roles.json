@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T20:49:13.311Z",
-  "count": 13,
+  "generatedAt": "2026-04-23T21:42:37.030Z",
+  "count": 12,
   "results": [
     {
       "id": "8425273002",
@@ -105,19 +105,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-23T16:00:34-04:00",
       "daysAgo": "0d"
-    },
-    {
-      "id": "744000121413713",
-      "title": "Junior/Intermediate Electrical Engineer – Power Systems",
-      "location": "AB Delft, nl",
-      "country": "Netherlands",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000121413713",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-17T12:31:59.566Z",
-      "daysAgo": "6d"
     },
     {
       "id": "7800887002",
