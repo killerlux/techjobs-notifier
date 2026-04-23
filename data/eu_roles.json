@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T10:04:31.900Z",
-  "count": 14,
+  "generatedAt": "2026-04-23T20:49:13.311Z",
+  "count": 13,
   "results": [
     {
       "id": "8425273002",
@@ -12,8 +12,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8234675002",
@@ -25,8 +25,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8245655002",
@@ -38,8 +38,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8420657002",
@@ -51,8 +51,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8282735002",
@@ -64,8 +64,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8238605002",
@@ -77,8 +77,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8245742002",
@@ -90,8 +90,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8230202002",
@@ -103,8 +103,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-17T15:57:54-04:00",
-      "daysAgo": "5d"
+      "postedAt": "2026-04-23T16:00:34-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "744000121413713",
@@ -157,19 +157,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-21T10:37:14-04:00",
       "daysAgo": "2d"
-    },
-    {
-      "id": "744000121706807",
-      "title": "Junior New Business Developer - FMCG Industry ",
-      "location": "Leuven, be",
-      "country": "Belgium",
-      "url": "https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000121706807",
-      "company": "Nielsen",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-20T08:19:01.784Z",
-      "daysAgo": "3d"
     },
     {
       "id": "744000121984247",
