@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T07:08:46.629Z",
+  "generatedAt": "2026-04-24T07:12:16.010Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
@@ -467,7 +467,7 @@
       "slug": "trexquant",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://apply.workable.com/api/v3/accounts/trexquant/jobs?limit=200 -> 404",
       "checkedUrls": []
     },
     {
