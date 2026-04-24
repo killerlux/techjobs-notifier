@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T21:42:37.030Z",
-  "count": 12,
+  "generatedAt": "2026-04-24T13:17:30.549Z",
+  "count": 13,
   "results": [
     {
       "id": "8425273002",
@@ -144,6 +144,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-21T10:37:14-04:00",
       "daysAgo": "2d"
+    },
+    {
+      "id": "744000122675219",
+      "title": "Junior New Business Developer – T&D Industry",
+      "location": "Leuven, be",
+      "country": "Belgium",
+      "url": "https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000122675219",
+      "company": "Nielsen",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-24T12:45:56.322Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000121984247",
