@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-27T07:42:21.043Z",
+  "generatedAt": "2026-04-28T07:40:59.151Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 757,
+    "healthy": 756,
     "degraded": 5,
     "empty": 34,
-    "fetch_error": 56,
+    "fetch_error": 57,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -108,6 +108,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Chalk",
+      "type": "greenhouse",
+      "slug": "chalkinc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/chalkinc/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
