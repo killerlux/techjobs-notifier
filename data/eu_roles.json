@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-04-28T15:04:19.582Z",
-  "count": 14,
+  "generatedAt": "2026-04-28T17:10:40.950Z",
+  "count": 16,
   "results": [
+    {
+      "id": "744000123498079",
+      "title": "Junior Electrical Commissioning engineer",
+      "location": "Bridgwater, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-28T16:06:38.238Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000123501228",
+      "title": "Junior Electrical Engineer",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123501228",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-04-28T16:19:19.633Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000123454955",
       "title": "Junior Electronics Engineer",
@@ -25,8 +51,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-23T16:00:34-04:00",
-      "daysAgo": "4d"
+      "postedAt": "2026-04-28T11:39:31-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8234675002",
@@ -51,8 +77,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-23T16:00:34-04:00",
-      "daysAgo": "4d"
+      "postedAt": "2026-04-28T12:03:36-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8420657002",
