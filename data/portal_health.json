@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-28T07:40:59.151Z",
+  "generatedAt": "2026-04-29T07:36:07.580Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 756,
     "degraded": 5,
-    "empty": 34,
-    "fetch_error": 57,
+    "empty": 33,
+    "fetch_error": 58,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -432,6 +432,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sylvera?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "The Movement Cooperative",
+      "type": "greenhouse",
+      "slug": "tmc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/tmc/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
