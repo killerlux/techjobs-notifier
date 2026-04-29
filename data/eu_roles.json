@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-28T17:10:40.950Z",
-  "count": 16,
+  "generatedAt": "2026-04-29T14:13:09.477Z",
+  "count": 15,
   "results": [
     {
       "id": "744000123498079",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-28T13:29:04.146Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8425273002",
@@ -195,20 +195,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-24T12:45:56.322Z",
-      "daysAgo": "4d"
-    },
-    {
-      "id": "744000121984247",
-      "title": "Junior Java Developer",
-      "location": "Vienna, at",
-      "country": "Austria",
-      "url": "https://api.smartrecruiters.com/v1/companies/sportradar/postings/744000121984247",
-      "company": "Sportradar",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-21T09:37:37.028Z",
-      "daysAgo": "8d"
+      "daysAgo": "5d"
     }
   ]
 }
