@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-30T15:59:38.563Z",
-  "count": 16,
+  "generatedAt": "2026-04-30T17:39:08.941Z",
+  "count": 15,
   "results": [
     {
       "id": "744000123498079",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-28T16:06:38.238Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000123501228",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-28T16:19:19.633Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000123454955",
@@ -66,19 +66,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-30T05:26:24-04:00",
       "daysAgo": "0d"
-    },
-    {
-      "id": "8245655002",
-      "title": "2026 Graduate Software Engineer - AI/ ML Test Systems",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245655002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-28T12:03:36-04:00",
-      "daysAgo": "1d"
     },
     {
       "id": "8420657002",
@@ -146,16 +133,16 @@
       "daysAgo": "1d"
     },
     {
-      "id": "744000123970159",
-      "title": "Graduate Structural Engineer 2026 Intake - Buildings",
+      "id": "744000123983979",
+      "title": "Graduate Engineer 2026 Intake - Structures",
       "location": "Birmingham, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000123970159",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000123983979",
       "company": "Ramboll",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-30T15:16:08.668Z",
+      "postedAt": "2026-04-30T16:10:27.760Z",
       "daysAgo": "0d"
     },
     {
