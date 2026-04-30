@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T14:06:47.745Z",
+  "generatedAt": "2026-04-30T15:59:38.563Z",
   "count": 16,
   "results": [
     {
@@ -146,16 +146,16 @@
       "daysAgo": "1d"
     },
     {
-      "id": "744000123937641",
+      "id": "744000123970159",
       "title": "Graduate Structural Engineer 2026 Intake - Buildings",
-      "location": "London, gb",
+      "location": "Birmingham, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000123937641",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000123970159",
       "company": "Ramboll",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-04-30T13:25:39.518Z",
+      "postedAt": "2026-04-30T15:16:08.668Z",
       "daysAgo": "0d"
     },
     {
@@ -169,7 +169,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-21T10:37:14-04:00",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "7804825002",
@@ -182,7 +182,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-21T10:37:14-04:00",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "8418289002",
@@ -195,7 +195,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-21T10:37:14-04:00",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "744000123891573",
