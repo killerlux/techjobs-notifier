@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-04-30T17:39:08.941Z",
-  "count": 15,
+  "generatedAt": "2026-05-01T13:13:43.501Z",
+  "count": 16,
   "results": [
+    {
+      "id": "744000124118129",
+      "title": "VIE/PANGEO  Junior Mechanical Project Engineer M/W ",
+      "location": "Kilkenny, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000124118129",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-05-01T12:20:34.463Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000123498079",
       "title": "Junior Electrical Commissioning engineer",
