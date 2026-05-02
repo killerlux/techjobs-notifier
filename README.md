@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-05-01T13:13:43.501Z
+- Updated: 2026-05-02T15:23:42.601Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -20,7 +20,4 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Ramboll | Graduate Engineer 2026 Intake - Structures | standard | United Kingdom | Birmingham, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000123983979) |
-| Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Eurofins | Junior Multilingual Service Desk Engineer ( temporary contract ) | standard | Spain | Barcelona, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000123891573) |
