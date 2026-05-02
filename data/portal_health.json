@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-01T07:37:07.248Z",
+  "generatedAt": "2026-05-02T07:07:47.638Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 754,
+    "healthy": 753,
     "degraded": 5,
     "empty": 36,
-    "fetch_error": 57,
+    "fetch_error": 58,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -450,6 +450,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/thorlabs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Thumbtack",
+      "type": "greenhouse",
+      "slug": "thumbtack",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/thumbtack/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
