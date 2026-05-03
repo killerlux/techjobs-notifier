@@ -9,7 +9,7 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Veolia | VIE/PANGEO  Junior Mechanical Project Engineer M/W  | cac40 | Ireland | Kilkenny, ie | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000124118129) |
-| ASSYSTEM | Junior Electrical Commissioning engineer | standard | United Kingdom | Bridgwater, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079) |
+| ASSYSTEM | Junior Electrical Commissioning engineer | standard | United Kingdom | Bridgwater, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079) |
 | ASSYSTEM | Junior Electrical Engineer | standard | United Kingdom | Bristol, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123501228) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000123454955) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
