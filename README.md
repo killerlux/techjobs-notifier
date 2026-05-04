@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-05-02T15:23:42.601Z
+- Updated: 2026-05-04T09:02:21.964Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -20,4 +20,3 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Ramboll | Graduate Engineer 2026 Intake - Structures | standard | United Kingdom | Birmingham, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000123983979) |
-| Eurofins | Junior Multilingual Service Desk Engineer ( temporary contract ) | standard | Spain | Barcelona, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000123891573) |

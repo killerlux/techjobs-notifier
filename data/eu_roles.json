@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-02T15:23:42.601Z",
-  "count": 13,
+  "generatedAt": "2026-05-04T09:02:21.964Z",
+  "count": 12,
   "results": [
     {
       "id": "744000124118129",
@@ -156,19 +156,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-30T16:10:27.760Z",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000123891573",
-      "title": "Junior Multilingual Service Desk Engineer ( temporary contract )",
-      "location": "Barcelona, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000123891573",
-      "company": "Eurofins",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-30T09:47:41.752Z",
       "daysAgo": "3d"
     }
   ]
