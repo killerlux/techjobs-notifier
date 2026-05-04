@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-05-04T09:02:21.964Z
+- Updated: 2026-05-04T19:02:46.568Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | VIE/PANGEO  Junior Mechanical Project Engineer M/W  | cac40 | Ireland | Kilkenny, ie | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000124118129) |
 | ASSYSTEM | Junior Electrical Commissioning engineer | standard | United Kingdom | Bridgwater, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079) |
 | ASSYSTEM | Junior Electrical Engineer | standard | United Kingdom | Bristol, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123501228) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000123454955) |
