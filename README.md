@@ -8,8 +8,8 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| ASSYSTEM | Junior Electrical Commissioning engineer | standard | United Kingdom | Bridgwater, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079) |
-| ASSYSTEM | Junior Electrical Engineer | standard | United Kingdom | Bristol, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123501228) |
+| ASSYSTEM | Junior Electrical Commissioning engineer | standard | United Kingdom | Bridgwater, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079) |
+| ASSYSTEM | Junior Electrical Engineer | standard | United Kingdom | Bristol, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123501228) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000123454955) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
