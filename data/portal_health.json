@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-05T07:27:43.836Z",
+  "generatedAt": "2026-05-06T07:44:06.792Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 752,
-    "degraded": 5,
+    "healthy": 751,
+    "degraded": 4,
     "empty": 37,
-    "fetch_error": 58,
+    "fetch_error": 60,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -345,6 +345,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Qualified Health",
+      "type": "greenhouse",
+      "slug": "qualifiedhealth",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Quantexa",
       "type": "workable",
       "slug": "quantexa",
@@ -423,6 +432,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Supernova Technology",
+      "type": "lever",
+      "slug": "supernovacompanies",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/supernovacompanies?mode=json -> 404",
       "checkedUrls": []
     },
     {
