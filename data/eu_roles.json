@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-05-05T08:04:35.339Z",
-  "count": 10,
+  "generatedAt": "2026-05-06T15:10:38.692Z",
+  "count": 9,
   "results": [
-    {
-      "id": "744000123498079",
-      "title": "Junior Electrical Commissioning engineer",
-      "location": "Bridgwater, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123498079",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-28T16:06:38.238Z",
-      "daysAgo": "7d"
-    },
-    {
-      "id": "744000123501228",
-      "title": "Junior Electrical Engineer",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000123501228",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-28T16:19:19.633Z",
-      "daysAgo": "7d"
-    },
     {
       "id": "744000123454955",
       "title": "Junior Electronics Engineer",
@@ -39,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-04-28T13:29:04.146Z",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "8425273002",
@@ -131,6 +105,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-04-29T05:48:49-04:00",
       "daysAgo": "7d"
+    },
+    {
+      "id": "744000124921180",
+      "title": "Graduate Environmental Engineer",
+      "location": "Leuven, be",
+      "country": "Belgium",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000124921180",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-06T14:32:49.606Z",
+      "daysAgo": "0d"
     }
   ]
 }
