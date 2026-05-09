@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-05-08T11:52:42.477Z",
-  "count": 9,
+  "generatedAt": "2026-05-09T13:57:42.721Z",
+  "count": 8,
   "results": [
-    {
-      "id": "744000123454955",
-      "title": "Junior Electronics Engineer",
-      "location": "Hastings, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000123454955",
-      "company": "General Dynamics UK",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-04-28T13:29:04.146Z",
-      "daysAgo": "10d"
-    },
     {
       "id": "8425273002",
       "title": "2026 Graduate IT Infrastructure Engineer",
