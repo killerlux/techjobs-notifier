@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-10T07:34:21.489Z",
+  "generatedAt": "2026-05-11T08:36:11.375Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 753,
-    "degraded": 4,
-    "empty": 35,
-    "fetch_error": 60,
+    "healthy": 751,
+    "degraded": 3,
+    "empty": 34,
+    "fetch_error": 64,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -237,6 +237,15 @@
       "checkedUrls": []
     },
     {
+      "company": "KDDI",
+      "type": "lever",
+      "slug": "kddia",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/kddia?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Lumin Digital",
       "type": "lever",
       "slug": "lumindigital",
@@ -426,6 +435,15 @@
       "checkedUrls": []
     },
     {
+      "company": "South West Water",
+      "type": "lever",
+      "slug": "southwestwater",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/southwestwater?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "SpotOn",
       "type": "greenhouse",
       "slug": "spotonproduct",
@@ -543,12 +561,30 @@
       "checkedUrls": []
     },
     {
+      "company": "Wachter",
+      "type": "lever",
+      "slug": "wachter",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "YouVersion",
+      "type": "lever",
+      "slug": "life",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
