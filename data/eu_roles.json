@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-05-12T14:14:47.841Z",
-  "count": 10,
+  "generatedAt": "2026-05-12T16:37:08.704Z",
+  "count": 12,
   "results": [
+    {
+      "id": "744000126099865",
+      "title": "Graduate Mechanical Engineer",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126099865",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-12T14:22:37.053Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000126104810",
+      "title": "Graduate Mechanical Engineer",
+      "location": "Derby, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126104810",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-12T14:27:16.357Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000126079624",
       "title": "Graduate Simulation & Assessment Engineer",
