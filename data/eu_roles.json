@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-05-12T11:30:43.534Z",
-  "count": 9,
+  "generatedAt": "2026-05-12T14:14:47.841Z",
+  "count": 10,
   "results": [
+    {
+      "id": "744000126079624",
+      "title": "Graduate Simulation & Assessment Engineer",
+      "location": "Derby, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126079624",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-12T13:10:29.652Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "8425273002",
       "title": "2026 Graduate IT Infrastructure Engineer",
@@ -103,7 +116,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-05-12T07:14:50-04:00",
+      "postedAt": "2026-05-12T09:20:20-04:00",
       "daysAgo": "0d"
     },
     {

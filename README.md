@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-05-12T11:30:43.534Z
+- Updated: 2026-05-12T14:14:47.841Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,6 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
+| ASSYSTEM | Graduate Simulation & Assessment Engineer | standard | United Kingdom | Derby, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126079624) |
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8425273002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
 | Graphcore | 2026 Graduate Software Engineer - Analysis Tools | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8420657002) |
