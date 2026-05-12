@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-11T08:36:11.375Z",
+  "generatedAt": "2026-05-12T08:04:21.178Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 751,
-    "degraded": 3,
-    "empty": 34,
-    "fetch_error": 64,
+    "healthy": 754,
+    "degraded": 2,
+    "empty": 33,
+    "fetch_error": 63,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -543,6 +543,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Uncountable",
+      "type": "lever",
+      "slug": "uncountable",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/uncountable?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Valon",
       "type": "greenhouse",
       "slug": "valon",
@@ -561,30 +570,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Wachter",
-      "type": "lever",
-      "slug": "wachter",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "YouVersion",
-      "type": "lever",
-      "slug": "life",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
