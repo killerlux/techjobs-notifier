@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T09:18:10.159Z",
-  "count": 7,
+  "generatedAt": "2026-05-12T11:30:43.534Z",
+  "count": 9,
   "results": [
     {
       "id": "8425273002",
@@ -92,6 +92,32 @@
       "priorityTier": "standard",
       "postedAt": "2026-05-06T22:18:00-04:00",
       "daysAgo": "5d"
+    },
+    {
+      "id": "4864654101",
+      "title": "Graduate Software Engineer",
+      "location": "Barcelona; Madrid; Spain",
+      "country": "Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101",
+      "company": "Fever Up",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-12T07:14:50-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000126052919",
+      "title": "Junior Data Scientist",
+      "location": "Madrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919",
+      "company": "Talan",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-12T11:04:30.970Z",
+      "daysAgo": "0d"
     }
   ]
 }
