@@ -19,4 +19,4 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 0d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
-| Talan | Junior Data Scientist | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919) |
+| Talan | Junior Data Scientist | standard | Spain | Madrid, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919) |
