@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T16:37:08.704Z",
-  "count": 12,
+  "generatedAt": "2026-05-14T09:13:49.721Z",
+  "count": 14,
   "results": [
     {
       "id": "744000126099865",
@@ -157,6 +157,32 @@
       "priorityTier": "standard",
       "postedAt": "2026-05-12T11:04:30.970Z",
       "daysAgo": "1d"
+    },
+    {
+      "id": "744000126481554",
+      "title": "Junior Support Engineer (.NET/React)",
+      "location": "Málaga, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000126481554",
+      "company": "Talan",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-14T08:57:51.603Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000126480590",
+      "title": "Junior Support Engineer (Python/React)",
+      "location": "Málaga, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000126480590",
+      "company": "Talan",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-05-14T08:50:02.893Z",
+      "daysAgo": "0d"
     }
   ]
 }

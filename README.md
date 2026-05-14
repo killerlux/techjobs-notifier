@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-05-12T16:37:08.704Z
+- Updated: 2026-05-14T09:13:49.721Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -20,3 +20,5 @@
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 0d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
 | Talan | Junior Data Scientist | standard | Spain | Madrid, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919) |
+| Talan | Junior Support Engineer (.NET/React) | standard | Spain | Málaga, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126481554) |
+| Talan | Junior Support Engineer (Python/React) | standard | Spain | Málaga, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126480590) |
