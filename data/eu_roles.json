@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-14T17:47:09.535Z",
-  "count": 15,
+  "generatedAt": "2026-05-15T11:53:27.541Z",
+  "count": 14,
   "results": [
     {
       "id": "744000126099865",
@@ -26,19 +26,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-05-12T14:27:16.357Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000126079624",
-      "title": "Graduate Simulation & Assessment Engineer",
-      "location": "Derby, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126079624",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-12T13:10:29.652Z",
       "daysAgo": "2d"
     },
     {
@@ -156,7 +143,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-05-12T11:04:30.970Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000126481554",
