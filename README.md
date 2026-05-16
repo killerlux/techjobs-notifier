@@ -18,7 +18,7 @@
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 9d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 9d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 2d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
-| Talan | Junior Data Scientist | standard | Spain | Madrid, es | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919) |
+| Talan | Junior Data Scientist | standard | Spain | Madrid, es | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919) |
 | Talan | Junior Support Engineer (.NET/React) | standard | Spain | Málaga, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126481554) |
 | Talan | Junior Support Engineer (Python/React) | standard | Spain | Málaga, es | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126480590) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8537062002) |
