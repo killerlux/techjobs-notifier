@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-05-18T09:55:57.331Z",
-  "count": 8,
+  "generatedAt": "2026-05-18T13:43:04.097Z",
+  "count": 6,
   "results": [
-    {
-      "id": "744000126099865",
-      "title": "Graduate Mechanical Engineer",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126099865",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-12T14:22:37.053Z",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "744000126104810",
-      "title": "Graduate Mechanical Engineer",
-      "location": "Derby, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000126104810",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-12T14:27:16.357Z",
-      "daysAgo": "5d"
-    },
     {
       "id": "744000126933040",
       "title": "Graduate Engineer",
@@ -65,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-05-12T11:04:30.970Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "744000126481554",
