@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-19T08:38:23.865Z",
+  "generatedAt": "2026-05-20T08:35:41.927Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 752,
+    "healthy": 750,
     "degraded": 2,
-    "empty": 35,
-    "fetch_error": 63,
+    "empty": 36,
+    "fetch_error": 64,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -333,6 +333,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pivotal Software",
+      "type": "lever",
+      "slug": "pivotal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
