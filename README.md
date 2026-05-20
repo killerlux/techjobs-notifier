@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 6d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 7d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
 | Talan | Junior Data Scientist | standard | Spain | Madrid, es | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919) |
 | Talan | Junior Support Engineer (.NET/React) | standard | Spain | Málaga, es | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126481554) |
 | Talan | Junior Support Engineer (Python/React) | standard | Spain | Málaga, es | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126480590) |
