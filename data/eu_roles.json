@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T10:38:45.041Z",
-  "count": 7,
+  "generatedAt": "2026-05-21T17:11:49.301Z",
+  "count": 6,
   "results": [
     {
       "id": "744000127615702",
@@ -39,20 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-05-13T11:44:22-04:00",
-      "daysAgo": "7d"
-    },
-    {
-      "id": "744000126052919",
-      "title": "Junior Data Scientist",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000126052919",
-      "company": "Talan",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-12T11:04:30.970Z",
-      "daysAgo": "9d"
+      "daysAgo": "8d"
     },
     {
       "id": "744000126481554",
