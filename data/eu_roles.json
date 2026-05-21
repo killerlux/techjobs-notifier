@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-05-21T17:11:49.301Z",
-  "count": 6,
+  "generatedAt": "2026-05-21T19:24:45.857Z",
+  "count": 4,
   "results": [
-    {
-      "id": "744000127615702",
-      "title": "Graduate Traffic Engineer (Leeds)",
-      "location": "Leeds, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000127615702",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-21T08:57:58.396Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000127614105",
-      "title": "Junior Engineer - Requirements",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000127614105",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-21T08:47:33.635Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "4864654101",
       "title": "Graduate Software Engineer",
