@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 0d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 1d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 9d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
 | Talan | Junior Support Engineer (.NET/React) | standard | Spain | Málaga, es | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126481554) |
 | Talan | Junior Support Engineer (Python/React) | standard | Spain | Málaga, es | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000126480590) |
