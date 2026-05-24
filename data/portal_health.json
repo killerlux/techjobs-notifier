@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-23T07:42:23.274Z",
+  "generatedAt": "2026-05-24T08:00:28.098Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 748,
+    "healthy": 747,
     "degraded": 2,
     "empty": 39,
-    "fetch_error": 63,
+    "fetch_error": 64,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -558,6 +558,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Veeva Systems",
+      "type": "lever",
+      "slug": "veeva",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
