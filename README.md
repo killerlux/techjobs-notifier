@@ -9,4 +9,4 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 4d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| Talan | Junior Front end Developer (React/Typescript) | standard | Spain | Málaga, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000128235164) |
+| Talan | Junior Front end Developer (React/Typescript) | standard | Spain | Málaga, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000128235164) |
