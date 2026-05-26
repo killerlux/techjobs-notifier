@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T08:00:28.098Z",
+  "generatedAt": "2026-05-26T08:43:07.875Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
@@ -54,6 +54,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Astera Labs",
+      "type": "greenhouse",
+      "slug": "asteraearlycareer2026",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/asteraearlycareer2026/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -558,15 +567,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Veeva Systems",
-      "type": "lever",
-      "slug": "veeva",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
