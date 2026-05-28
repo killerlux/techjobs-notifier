@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-27T08:48:12.324Z",
+  "generatedAt": "2026-05-28T08:53:05.500Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 748,
+    "healthy": 749,
     "degraded": 2,
-    "empty": 36,
-    "fetch_error": 66,
+    "empty": 37,
+    "fetch_error": 64,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -228,15 +228,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Hive",
-      "type": "lever",
-      "slug": "hive",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
@@ -252,15 +243,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/kddia?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Latitude",
-      "type": "lever",
-      "slug": "latitudeinc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
