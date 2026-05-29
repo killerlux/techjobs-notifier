@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-28T08:53:05.500Z",
+  "generatedAt": "2026-05-29T08:51:39.012Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 749,
     "degraded": 2,
-    "empty": 37,
-    "fetch_error": 64,
+    "empty": 36,
+    "fetch_error": 65,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -396,6 +396,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/redis/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Regal",
+      "type": "lever",
+      "slug": "regalvoice",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/regalvoice?mode=json -> 404",
       "checkedUrls": []
     },
     {
