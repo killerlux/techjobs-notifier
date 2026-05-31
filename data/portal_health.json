@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-30T07:50:44.109Z",
+  "generatedAt": "2026-05-31T08:22:25.601Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 747,
     "degraded": 2,
-    "empty": 38,
-    "fetch_error": 65,
+    "empty": 37,
+    "fetch_error": 66,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -198,6 +198,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/genies/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Global Atlantic Financial Group",
+      "type": "greenhouse",
+      "slug": "gafg",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
