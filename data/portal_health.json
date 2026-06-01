@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T08:22:25.601Z",
+  "generatedAt": "2026-06-01T10:31:24.712Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 747,
+    "healthy": 745,
     "degraded": 2,
-    "empty": 37,
-    "fetch_error": 66,
+    "empty": 38,
+    "fetch_error": 67,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -108,6 +108,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
