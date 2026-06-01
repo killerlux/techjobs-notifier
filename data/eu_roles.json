@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-05-29T12:13:07.908Z",
-  "count": 3,
+  "generatedAt": "2026-06-01T12:33:38.421Z",
+  "count": 5,
   "results": [
+    {
+      "id": "744000129425609",
+      "title": "2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000129425609",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-06-01T08:14:39.151Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000129464099",
+      "title": "Junior Field Service Engineer",
+      "location": "Algorta, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000129464099",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-06-01T11:37:15.440Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
