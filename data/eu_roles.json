@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-06-01T23:38:14.474Z",
-  "count": 4,
+  "generatedAt": "2026-06-02T12:24:46.861Z",
+  "count": 3,
   "results": [
-    {
-      "id": "744000129425609",
-      "title": "2026 Graduate - Electrical, Control & Instrumentation (EC&I) Engineer",
-      "location": "Birmingham, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000129425609",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-06-01T08:14:39.151Z",
-      "daysAgo": "1d"
-    },
     {
       "id": "744000129507415",
       "title": "Junior Field Service Engineer",
