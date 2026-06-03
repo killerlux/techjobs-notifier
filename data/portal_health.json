@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-02T09:17:55.999Z",
+  "generatedAt": "2026-06-03T10:04:46.790Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 746,
-    "degraded": 2,
-    "empty": 37,
-    "fetch_error": 67,
+    "healthy": 742,
+    "degraded": 1,
+    "empty": 38,
+    "fetch_error": 71,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -45,6 +45,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Applied Intuition",
+      "type": "greenhouse",
+      "slug": "appliedintuition",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -138,6 +147,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Cobalt Robotics",
+      "type": "lever",
+      "slug": "cobaltrobotics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -210,6 +228,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Gotion",
+      "type": "greenhouse",
+      "slug": "gotion",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/gotion/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Grammarly",
       "type": "greenhouse",
       "slug": "grammarly",
@@ -234,6 +261,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/helionenergy/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "HONK",
+      "type": "lever",
+      "slug": "honkforhelp",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
