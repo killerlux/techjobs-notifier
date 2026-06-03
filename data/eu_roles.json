@@ -1,19 +1,5 @@
 {
-  "generatedAt": "2026-06-03T05:31:36.225Z",
-  "count": 1,
-  "results": [
-    {
-      "id": "744000128998290",
-      "title": "Graduate Engineer - Tunnels & Underground Space",
-      "location": "Leeds, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000128998290",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-05-28T16:19:36.695Z",
-      "daysAgo": "5d"
-    }
-  ]
+  "generatedAt": "2026-06-03T10:17:36.795Z",
+  "count": 0,
+  "results": []
 }
