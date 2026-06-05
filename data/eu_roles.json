@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T11:24:42.037Z",
-  "count": 4,
+  "generatedAt": "2026-06-05T14:06:18.022Z",
+  "count": 5,
   "results": [
     {
       "id": "7297666002",
@@ -25,7 +25,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-05T06:52:25-04:00",
+      "postedAt": "2026-06-05T09:23:51-04:00",
       "daysAgo": "0d"
     },
     {
@@ -38,7 +38,20 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-05T07:19:27-04:00",
+      "postedAt": "2026-06-05T09:24:00-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000130511364",
+      "title": "Junior New Business Developer - FMCG Industry ",
+      "location": "Leuven, be",
+      "country": "Belgium",
+      "url": "https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000130511364",
+      "company": "Nielsen",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-05T13:17:59.070Z",
       "daysAgo": "0d"
     },
     {
