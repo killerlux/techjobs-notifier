@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T03:28:00.603Z",
-  "count": 2,
+  "generatedAt": "2026-06-05T11:24:42.037Z",
+  "count": 4,
   "results": [
     {
       "id": "7297666002",
@@ -16,6 +16,32 @@
       "daysAgo": "0d"
     },
     {
+      "id": "8360495002",
+      "title": "Graduate Silicon Engineer",
+      "location": "Bristol, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-05T06:52:25-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "8360506002",
+      "title": "Graduate Silicon Engineer",
+      "location": "Cambridge, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-05T07:19:27-04:00",
+      "daysAgo": "0d"
+    },
+    {
       "id": "4864654101",
       "title": "Graduate Software Engineer",
       "location": "Barcelona; Madrid; Spain",
@@ -26,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-04T05:30:31-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     }
   ]
 }
