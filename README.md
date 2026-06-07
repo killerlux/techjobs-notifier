@@ -12,4 +12,4 @@
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
 | Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000130511364) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 2d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 3d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
