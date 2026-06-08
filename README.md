@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-08T08:51:39.282Z
+- Updated: 2026-06-08T16:55:51.628Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -9,8 +9,8 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
+| Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
-| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000130511364) |
-| AECOM | Junior Engineer - RAMS | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000130733990) |
+| Nielsen | Junior New Business Developer - FMCG Industry  | standard | Belgium | Leuven, be | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000130511364) |
+| AECOM | Junior Engineer - RAMS | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000130808219) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 4d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
