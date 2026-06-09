@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-08T09:54:28.897Z",
+  "generatedAt": "2026-06-09T08:40:48.062Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 744,
+    "healthy": 745,
     "degraded": 2,
     "empty": 37,
-    "fetch_error": 69,
+    "fetch_error": 68,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -216,15 +216,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Gotion",
-      "type": "greenhouse",
-      "slug": "gotion",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/gotion/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
