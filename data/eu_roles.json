@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T14:42:28.950Z",
+  "generatedAt": "2026-06-09T17:23:18.251Z",
   "count": 5,
   "results": [
     {
@@ -42,16 +42,16 @@
       "daysAgo": "1d"
     },
     {
-      "id": "744000131081616",
-      "title": "Graduate Engineer",
-      "location": "Singapore, sg",
-      "country": "Singapore",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000131081616",
-      "company": "AECOM",
+      "id": "744000131190952",
+      "title": "Junior AI/ML Engineer ",
+      "location": "Genève, ch",
+      "country": "Switzerland",
+      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000131190952",
+      "company": "Talan",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-09T08:51:37.882Z",
+      "postedAt": "2026-06-09T16:15:35.314Z",
       "daysAgo": "0d"
     },
     {
