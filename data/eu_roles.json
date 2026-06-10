@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:23:18.251Z",
+  "generatedAt": "2026-06-10T14:20:17.768Z",
   "count": 5,
   "results": [
     {
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-05T09:23:51-04:00",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "8360506002",
@@ -42,16 +42,16 @@
       "daysAgo": "2d"
     },
     {
-      "id": "744000131190952",
+      "id": "744000131460189",
       "title": "Junior AI/ML Engineer ",
       "location": "Genève, ch",
       "country": "Switzerland",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000131190952",
+      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000131460189",
       "company": "Talan",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-09T16:15:35.314Z",
+      "postedAt": "2026-06-10T13:50:02.624Z",
       "daysAgo": "0d"
     },
     {
