@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-09T08:40:48.062Z",
+  "generatedAt": "2026-06-10T09:01:12.054Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 745,
     "degraded": 2,
-    "empty": 37,
-    "fetch_error": 68,
+    "empty": 36,
+    "fetch_error": 69,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -63,6 +63,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Attentive",
+      "type": "lever",
+      "slug": "attentive",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/attentive?mode=json -> 404",
       "checkedUrls": []
     },
     {
