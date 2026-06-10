@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-10T14:20:17.768Z",
-  "count": 5,
+  "generatedAt": "2026-06-10T17:41:05.458Z",
+  "count": 6,
   "results": [
     {
       "id": "7297666002",
@@ -42,16 +42,29 @@
       "daysAgo": "2d"
     },
     {
-      "id": "744000131460189",
-      "title": "Junior AI/ML Engineer ",
-      "location": "Genève, ch",
-      "country": "Switzerland",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000131460189",
-      "company": "Talan",
+      "id": "744000131500024",
+      "title": "Graduate Engineer - Tunnels & Underground Space",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000131500024",
+      "company": "Ramboll",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-10T13:50:02.624Z",
+      "postedAt": "2026-06-10T16:40:03.435Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000131490608",
+      "title": "Graduate Engineer 2026 Intake - Tunnels and Underground Spaces",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000131490608",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-10T15:50:41.155Z",
       "daysAgo": "0d"
     },
     {
