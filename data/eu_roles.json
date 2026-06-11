@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-10T17:41:05.458Z",
-  "count": 6,
+  "generatedAt": "2026-06-11T08:42:45.866Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -65,6 +65,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-10T15:50:41.155Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000131609759",
+      "title": "Junior Engineer - RAMS",
+      "location": "Madrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000131609759",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-11T08:02:54.649Z",
       "daysAgo": "0d"
     },
     {
