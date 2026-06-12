@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-12T11:58:30.727Z
+- Updated: 2026-06-12T15:25:32.813Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,10 +8,12 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | Técnico/a DevOps Junior | cac40 | Spain | Barcelona, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000131688508) |
+| Veolia | Técnico/a DevOps Junior | cac40 | Spain | Barcelona, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000131688508) |
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| AECOM | Graduate Building Structures Engineer (Nottingham) | standard | United Kingdom | Nottingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000131925169) |
 | AECOM | Graduate Pavement and Materials Engineer - Nottingham | standard | United Kingdom | Nottingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000131863200) |
-| Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
+| ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000131893364) |
+| Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
 | Ramboll | Graduate Engineer - Tunnels & Underground Space | standard | United Kingdom | Leeds, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000131500024) |
 | Ramboll | Graduate Engineer 2026 Intake - Tunnels and Underground Spaces | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000131490608) |

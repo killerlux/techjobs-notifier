@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T11:58:30.727Z",
-  "count": 8,
+  "generatedAt": "2026-06-12T15:25:32.813Z",
+  "count": 10,
   "results": [
     {
       "id": "744000131688508",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-06-11T14:16:41.432Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "7297666002",
@@ -29,6 +29,19 @@
       "daysAgo": "3d"
     },
     {
+      "id": "744000131925169",
+      "title": "Graduate Building Structures Engineer (Nottingham)",
+      "location": "Nottingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000131925169",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-12T14:51:51.173Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000131863200",
       "title": "Graduate Pavement and Materials Engineer - Nottingham",
       "location": "Nottingham, gb",
@@ -42,6 +55,19 @@
       "daysAgo": "0d"
     },
     {
+      "id": "744000131893364",
+      "title": "Junior EC&I Engineer ",
+      "location": "Whitehaven, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000131893364",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-12T12:41:46.174Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "8360495002",
       "title": "Graduate Silicon Engineer",
       "location": "Bristol, UK",
@@ -52,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-05T09:23:51-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "8360506002",
