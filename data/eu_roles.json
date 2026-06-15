@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T17:43:57.871Z",
-  "count": 8,
+  "generatedAt": "2026-06-15T13:30:06.062Z",
+  "count": 5,
   "results": [
     {
       "id": "7297666002",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-12T12:41:46.174Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "8360495002",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-05T09:23:51-04:00",
-      "daysAgo": "9d"
+      "daysAgo": "10d"
     },
     {
       "id": "8360506002",
@@ -65,46 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-08T05:40:18-04:00",
-      "daysAgo": "6d"
-    },
-    {
-      "id": "744000131500024",
-      "title": "Graduate Engineer - Tunnels & Underground Space",
-      "location": "Leeds, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000131500024",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-10T16:40:03.435Z",
-      "daysAgo": "4d"
-    },
-    {
-      "id": "744000131490608",
-      "title": "Graduate Engineer 2026 Intake - Tunnels and Underground Spaces",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000131490608",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-10T15:50:41.155Z",
-      "daysAgo": "4d"
-    },
-    {
-      "id": "4864654101",
-      "title": "Graduate Software Engineer",
-      "location": "Barcelona; Madrid; Spain",
-      "country": "Spain",
-      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101",
-      "company": "Fever Up",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-04T05:30:31-04:00",
-      "daysAgo": "10d"
+      "daysAgo": "7d"
     }
   ]
 }
