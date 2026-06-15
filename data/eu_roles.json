@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T13:30:06.062Z",
-  "count": 5,
+  "generatedAt": "2026-06-15T18:10:12.249Z",
+  "count": 4,
   "results": [
     {
       "id": "7297666002",
@@ -13,20 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-12T13:40:11-04:00",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000131925169",
-      "title": "Graduate Building Structures Engineer (Nottingham)",
-      "location": "Nottingham, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000131925169",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-12T14:51:51.173Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000131893364",
