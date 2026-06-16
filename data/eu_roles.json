@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T18:10:12.249Z",
-  "count": 4,
+  "generatedAt": "2026-06-16T02:05:51.505Z",
+  "count": 5,
   "results": [
     {
       "id": "7297666002",
@@ -53,6 +53,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-06-08T05:40:18-04:00",
       "daysAgo": "7d"
+    },
+    {
+      "id": "8586971002",
+      "title": "Entry Level Support Engineer",
+      "location": "Mt. Wellington",
+      "country": "Malta",
+      "url": "https://job-boards.greenhouse.io/neweratech/jobs/8586971002",
+      "company": "New Era Technology",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-15T21:20:36-04:00",
+      "daysAgo": "0d"
     }
   ]
 }
