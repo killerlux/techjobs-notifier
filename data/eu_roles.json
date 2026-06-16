@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T13:10:51.539Z",
-  "count": 9,
+  "generatedAt": "2026-06-16T18:14:42.908Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -13,19 +13,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-12T13:40:11-04:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000131893364",
-      "title": "Junior EC&I Engineer ",
-      "location": "Whitehaven, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000131893364",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-12T12:41:46.174Z",
       "daysAgo": "4d"
     },
     {
@@ -91,19 +78,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-16T07:20:05-04:00",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000132379459",
-      "title": "Junior New Business Developer – T&D Industry Belgium",
-      "location": "Leuven, be",
-      "country": "Belgium",
-      "url": "https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000132379459",
-      "company": "Nielsen",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-16T10:01:17.660Z",
       "daysAgo": "0d"
     },
     {

@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-16T13:10:51.539Z
+- Updated: 2026-06-16T18:14:42.908Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,12 +8,10 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000131893364) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 4d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
 | Graphcore | 2026 Graduate Software Engineer - ML Kernels & Runtime Team | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8230202002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
-| Nielsen | Junior New Business Developer – T&D Industry Belgium | standard | Belgium | Leuven, be | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000132379459) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
