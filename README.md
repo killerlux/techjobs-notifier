@@ -9,7 +9,7 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Veolia | VIE/PANGEO Junior Process Commissioning Engineer M/W | cac40 | Ireland | Carlow, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000132881548) |
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 5d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 6d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Data Intellect | Graduate STEM Developer (Autumn 2026) | standard | United Kingdom | Belfast, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000132642599) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8238605002) |
 | Graphcore | 2026 Graduate Software Engineer - Drivers | standard | United Kingdom | Cambridge, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) |
