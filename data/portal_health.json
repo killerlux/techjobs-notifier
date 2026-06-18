@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-17T10:02:18.362Z",
+  "generatedAt": "2026-06-18T09:43:56.593Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 739,
     "degraded": 3,
-    "empty": 40,
-    "fetch_error": 70,
+    "empty": 39,
+    "fetch_error": 71,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -261,6 +261,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/coldquanta/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "interface.ai",
+      "type": "greenhouse",
+      "slug": "interfaceai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/interfaceai/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
