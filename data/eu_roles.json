@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-06-19T12:03:15.686Z",
-  "count": 11,
+  "generatedAt": "2026-06-19T15:47:44.690Z",
+  "count": 10,
   "results": [
-    {
-      "id": "744000132881548",
-      "title": "VIE/PANGEO Junior Process Commissioning Engineer M/W",
-      "location": "Carlow, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000132881548",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-06-18T14:18:42.086Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
@@ -52,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:28:38.491Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "8238605002",
@@ -117,7 +104,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:48:36.647Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000133029315",
@@ -142,8 +129,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-15T21:20:36-04:00",
-      "daysAgo": "3d"
+      "postedAt": "2026-06-19T10:58:43-04:00",
+      "daysAgo": "0d"
     }
   ]
 }
