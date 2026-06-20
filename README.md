@@ -17,4 +17,4 @@
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
 | PA Consulting | Junior eller erfaren Managementkonsult inom Defence & Security | standard | Sweden | Stockholm, se | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000132647747) |
 | Robert Bosch Venture Capital | Junior Quality Engineer - (6 Months Fixed-Term) | standard | Spain | Alcobendas, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000133029315) |
-| New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
