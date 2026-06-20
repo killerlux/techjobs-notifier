@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-19T09:51:53.319Z",
+  "generatedAt": "2026-06-20T08:28:39.929Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 737,
     "degraded": 3,
-    "empty": 40,
-    "fetch_error": 72,
+    "empty": 41,
+    "fetch_error": 71,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -351,15 +351,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/omnionpower/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Otto Aviation",
-      "type": "greenhouse",
-      "slug": "ottoaviation",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/ottoaviation/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
