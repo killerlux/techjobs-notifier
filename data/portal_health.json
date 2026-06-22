@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-21T09:01:52.048Z",
+  "generatedAt": "2026-06-22T10:47:07.492Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 737,
-    "degraded": 2,
+    "degraded": 3,
     "empty": 41,
-    "fetch_error": 72,
+    "fetch_error": 71,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -504,15 +504,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "SpruceID",
-      "type": "lever",
-      "slug": "sprucesystems",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
