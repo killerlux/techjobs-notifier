@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-06-23T15:36:24.532Z",
-  "count": 12,
+  "generatedAt": "2026-06-23T17:49:34.003Z",
+  "count": 9,
   "results": [
-    {
-      "id": "7297666002",
-      "title": "Quantitative Software Developer Intern",
-      "location": "New York, London, or Paris",
-      "country": "France",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-      "company": "Point72",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-12T13:40:11-04:00",
-      "daysAgo": "10d"
-    },
-    {
-      "id": "744000133628842",
-      "title": "Graduate Bridge Structures Engineer – Dublin (2026)",
-      "location": "Dublin, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133628842",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-23T14:58:15.162Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000133628579",
       "title": "Graduate Bridge Structures Engineer – Chesterfield (2026)",
@@ -55,6 +29,19 @@
       "daysAgo": "0d"
     },
     {
+      "id": "744000133651138",
+      "title": "Graduate Bridge Structures Engineer – Glasgow (2026)",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133651138",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-23T16:14:42.569Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000133537830",
       "title": "Junior EC&I Engineer ",
       "location": "Whitehaven, gb",
@@ -79,32 +66,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:28:38.491Z",
       "daysAgo": "6d"
-    },
-    {
-      "id": "8238605002",
-      "title": "2026 Graduate Software Engineer - Drivers",
-      "location": "Bristol, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-16T07:20:05-04:00",
-      "daysAgo": "7d"
-    },
-    {
-      "id": "8245742002",
-      "title": "2026 Graduate Software Engineer - Drivers",
-      "location": "Cambridge, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245742002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-16T07:20:05-04:00",
-      "daysAgo": "7d"
     },
     {
       "id": "8360506002",
