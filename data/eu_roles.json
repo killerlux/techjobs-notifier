@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-06-23T17:49:34.003Z",
-  "count": 9,
+  "generatedAt": "2026-06-24T12:04:38.011Z",
+  "count": 8,
   "results": [
-    {
-      "id": "744000133628579",
-      "title": "Graduate Bridge Structures Engineer – Chesterfield (2026)",
-      "location": "Chesterfield, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133628579",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-23T14:50:04.468Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000133629033",
-      "title": "Graduate Bridge Structures Engineer – Croydon (2026)",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133629033",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-23T14:57:20.822Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000133651138",
       "title": "Graduate Bridge Structures Engineer – Glasgow (2026)",
@@ -68,19 +42,6 @@
       "daysAgo": "6d"
     },
     {
-      "id": "8360506002",
-      "title": "Graduate Silicon Engineer",
-      "location": "Cambridge, UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
-      "company": "Graphcore",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-23T10:20:04-04:00",
-      "daysAgo": "0d"
-    },
-    {
       "id": "8603831002",
       "title": "Graduate Silicon Engineer",
       "location": "Bristol, UK",
@@ -91,6 +52,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-23T05:26:39-04:00",
+      "daysAgo": "1d"
+    },
+    {
+      "id": "8604095002",
+      "title": "Graduate Silicon Engineer",
+      "location": "Cambridge, UK",
+      "country": "United Kingdom",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8604095002",
+      "company": "Graphcore",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-24T07:58:15-04:00",
       "daysAgo": "0d"
     },
     {
@@ -105,6 +79,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:48:36.647Z",
       "daysAgo": "6d"
+    },
+    {
+      "id": "744000133927750",
+      "title": "Junior Engineer - Bridges & Structures",
+      "location": "Madrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133927750",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-24T11:53:54.770Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8586971002",
