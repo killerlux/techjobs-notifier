@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-23T08:37:24.241Z",
+  "generatedAt": "2026-06-24T08:33:03.578Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 737,
+    "healthy": 736,
     "degraded": 3,
     "empty": 41,
-    "fetch_error": 71,
+    "fetch_error": 72,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -72,6 +72,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/attentive?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Barkley",
+      "type": "greenhouse",
+      "slug": "barkley",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/barkley/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
