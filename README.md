@@ -11,7 +11,7 @@
 | AECOM | Graduate Bridge Structures Engineer – Chesterfield (2026) | standard | United Kingdom | Chesterfield, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133628579) |
 | AECOM | Graduate Bridge Structures Engineer – Croydon (2026) | standard | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133629033) |
 | AECOM | Graduate Bridge Structures Engineer – Glasgow (2026) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133651138) |
-| ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000133537830) |
+| ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000133537830) |
 | Data Intellect | Graduate STEM Developer (Autumn 2026) | standard | United Kingdom | Belfast, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000132642599) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8360506002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8603831002) |
