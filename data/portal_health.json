@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-24T08:33:03.578Z",
+  "generatedAt": "2026-06-25T08:31:11.477Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 736,
+    "healthy": 735,
     "degraded": 3,
     "empty": 41,
-    "fetch_error": 72,
+    "fetch_error": 73,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -207,6 +207,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Flagstone Capital",
+      "type": "greenhouse",
+      "slug": "flagstone",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/flagstone/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
