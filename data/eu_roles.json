@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T04:43:35.477Z",
-  "count": 7,
+  "generatedAt": "2026-06-25T11:13:54.934Z",
+  "count": 8,
   "results": [
     {
       "id": "744000133537830",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-23T08:40:49.441Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000132642599",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-23T05:26:39-04:00",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "8604095002",
@@ -79,6 +79,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:48:36.647Z",
       "daysAgo": "7d"
+    },
+    {
+      "id": "744000134223920",
+      "title": "VCARB F1 Team - Junior Stress Engineer",
+      "location": "Faenza, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/redbull/postings/744000134223920",
+      "company": "Red Bull",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-25T09:58:17.229Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8586971002",
