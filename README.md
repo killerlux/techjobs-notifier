@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-24T15:16:55.259Z
+- Updated: 2026-06-25T04:43:35.477Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -14,5 +14,4 @@
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8603831002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8604095002) |
 | PA Consulting | Junior eller erfaren Managementkonsult inom Defence & Security | standard | Sweden | Stockholm, se | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000132647747) |
-| AECOM | Junior Engineer - Bridges & Structures | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000133927750) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
