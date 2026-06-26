@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T06:58:33.133Z",
-  "count": 11,
+  "generatedAt": "2026-06-26T15:22:11.085Z",
+  "count": 12,
   "results": [
     {
       "id": "7297666002",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:28:38.491Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "8605368002",
@@ -94,6 +94,19 @@
       "daysAgo": "2d"
     },
     {
+      "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
+      "title": "Junior Analytics Engineer ",
+      "location": "London",
+      "country": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390",
+      "company": "Lendable",
+      "source": "ashby",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-26",
+      "daysAgo": "0d"
+    },
+    {
       "id": "4604065006",
       "title": "mthree -  Junior Software Developer  (Go Lang) ",
       "location": "UK",
@@ -117,7 +130,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-17T13:48:36.647Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "744000134223920",
