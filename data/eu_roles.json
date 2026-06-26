@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-06-25T11:13:54.934Z",
-  "count": 8,
+  "generatedAt": "2026-06-26T02:58:44.516Z",
+  "count": 9,
   "results": [
+    {
+      "id": "7297666002",
+      "title": "Quantitative Software Developer Intern",
+      "location": "New York, London, or Paris",
+      "country": "France",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+      "company": "Point72",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-06-25T22:13:45-04:00",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000133537830",
       "title": "Junior EC&I Engineer ",
@@ -103,8 +116,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-23T10:18:21-04:00",
-      "daysAgo": "2d"
+      "postedAt": "2026-06-25T20:08:24-04:00",
+      "daysAgo": "0d"
     }
   ]
 }
