@@ -15,7 +15,7 @@
 | Graphcore | 2026 Graduate IT Infrastructure Engineer | standard | United Kingdom | Bristol, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8605368002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8603831002) |
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8604095002) |
-| Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 0d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
+| Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 1d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | PA Consulting | Junior eller erfaren Managementkonsult inom Defence & Security | standard | Sweden | Stockholm, se | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000132647747) |
 | Red Bull | VCARB F1 Team - Junior Stress Engineer | standard | Italy | Faenza, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000134223920) |
