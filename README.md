@@ -18,5 +18,5 @@
 | Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 2d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | PA Consulting | Junior eller erfaren Managementkonsult inom Defence & Security | standard | Sweden | Stockholm, se | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000132647747) |
-| Red Bull | VCARB F1 Team - Junior Stress Engineer | standard | Italy | Faenza, it | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000134223920) |
+| Red Bull | VCARB F1 Team - Junior Stress Engineer | standard | Italy | Faenza, it | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000134223920) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
