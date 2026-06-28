@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T15:22:11.085Z",
-  "count": 12,
+  "generatedAt": "2026-06-28T13:39:28.359Z",
+  "count": 11,
   "results": [
     {
       "id": "7297666002",
@@ -42,19 +42,6 @@
       "daysAgo": "5d"
     },
     {
-      "id": "744000132642599",
-      "title": "Graduate STEM Developer (Autumn 2026)",
-      "location": "Belfast, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000132642599",
-      "company": "Data Intellect",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-17T13:28:38.491Z",
-      "daysAgo": "10d"
-    },
-    {
       "id": "8605368002",
       "title": "2026 Graduate IT Infrastructure Engineer",
       "location": "Bristol, UK",
@@ -65,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-24T08:13:26-04:00",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "8603831002",
@@ -91,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-24T07:58:15-04:00",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
