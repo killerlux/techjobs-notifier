@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-28T13:39:28.359Z
+- Updated: 2026-06-28T15:15:33.112Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -16,6 +16,5 @@
 | Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8604095002) |
 | Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 2d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
-| PA Consulting | Junior eller erfaren Managementkonsult inom Defence & Security | standard | Sweden | Stockholm, se | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000132647747) |
 | Red Bull | VCARB F1 Team - Junior Stress Engineer | standard | Italy | Faenza, it | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000134223920) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |

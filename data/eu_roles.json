@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T13:39:28.359Z",
-  "count": 11,
+  "generatedAt": "2026-06-28T15:15:33.112Z",
+  "count": 10,
   "results": [
     {
       "id": "7297666002",
@@ -105,19 +105,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-06-26T01:01:20-04:00",
       "daysAgo": "2d"
-    },
-    {
-      "id": "744000132647747",
-      "title": "Junior eller erfaren Managementkonsult inom Defence & Security",
-      "location": "Stockholm, se",
-      "country": "Sweden",
-      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000132647747",
-      "company": "PA Consulting",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-17T13:48:36.647Z",
-      "daysAgo": "10d"
     },
     {
       "id": "744000134223920",
