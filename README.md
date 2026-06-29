@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-29T16:45:18.833Z
+- Updated: 2026-06-29T19:03:11.244Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -11,8 +11,6 @@
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
 | ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000134713238) |
-| Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Bristol, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8603831002) |
-| Graphcore | Graduate Silicon Engineer | standard | United Kingdom | Cambridge, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8604095002) |
 | Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 3d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
