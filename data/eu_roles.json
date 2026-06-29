@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T15:15:33.112Z",
+  "generatedAt": "2026-06-29T08:55:53.791Z",
   "count": 10,
   "results": [
     {
@@ -26,20 +26,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-26T01:01:19-04:00",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
-      "id": "744000133537830",
+      "id": "744000134713238",
       "title": "Junior EC&I Engineer ",
       "location": "Whitehaven, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000133537830",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000134713238",
       "company": "ASSYSTEM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-06-23T08:40:49.441Z",
-      "daysAgo": "5d"
+      "postedAt": "2026-06-29T07:33:48.356Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8605368002",
@@ -104,7 +104,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-26T01:01:20-04:00",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000134223920",
