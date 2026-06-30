@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-06-29T19:03:11.244Z
+- Updated: 2026-06-30T18:18:16.448Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -13,4 +13,5 @@
 | ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000134713238) |
 | Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 4d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
+| Field AI | Field Application Engineer - Singapore | standard | Singapore | Singapore | 0d | lever | [Apply](https://jobs.lever.co/field-ai/3b1e57b4-1342-43d7-9106-d96db4a81b57) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
