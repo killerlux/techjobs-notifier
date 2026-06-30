@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 4d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | mthree | Junior Software Developer - Dublin | standard | Ireland | Ireland | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4599459006) |
-| ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000134713238) |
+| ASSYSTEM | Junior EC&I Engineer  | standard | United Kingdom | Whitehaven, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000134713238) |
 | Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | 4d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
-| New Era Technology | Entry Level Support Engineer | standard | Malta | Mt. Wellington - New Zealand  | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
