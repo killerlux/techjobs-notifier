@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-29T09:57:46.605Z",
+  "generatedAt": "2026-06-30T08:37:16.659Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 731,
+    "healthy": 729,
     "degraded": 3,
-    "empty": 46,
-    "fetch_error": 72,
+    "empty": 47,
+    "fetch_error": 73,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -297,6 +297,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "MaintainX",
+      "type": "greenhouse",
+      "slug": "maintainx",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
