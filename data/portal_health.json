@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-30T08:37:16.659Z",
+  "generatedAt": "2026-07-01T08:55:42.365Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 729,
+    "healthy": 727,
     "degraded": 3,
-    "empty": 47,
-    "fetch_error": 73,
+    "empty": 46,
+    "fetch_error": 76,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -147,6 +147,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Chatham Financial",
+      "type": "greenhouse",
+      "slug": "chathamfinancial",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/chathamfinancial/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -273,6 +282,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Interactive Brokers",
+      "type": "greenhouse",
+      "slug": "ibkr",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/ibkr/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "interface.ai",
       "type": "greenhouse",
       "slug": "interfaceai",
@@ -351,6 +369,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/morsemicro/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Nextech Systems",
+      "type": "lever",
+      "slug": "nextech",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
