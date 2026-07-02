@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-01T08:55:42.365Z",
+  "generatedAt": "2026-07-02T08:24:38.087Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 727,
+    "healthy": 728,
     "degraded": 3,
     "empty": 46,
-    "fetch_error": 76,
+    "fetch_error": 75,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -369,15 +369,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/morsemicro/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Nextech Systems",
-      "type": "lever",
-      "slug": "nextech",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
