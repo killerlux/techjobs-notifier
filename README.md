@@ -14,4 +14,4 @@
 | mthree | mthree -  Junior Software Developer  (Go Lang)  | standard | United Kingdom | UK | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | Field AI | Field Application Engineer - Singapore | standard | Singapore | Singapore | 3d | lever | [Apply](https://jobs.lever.co/field-ai/3b1e57b4-1342-43d7-9106-d96db4a81b57) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 1d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
-| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8586971002) |
