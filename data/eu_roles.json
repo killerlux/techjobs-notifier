@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T11:31:41.565Z",
-  "count": 7,
+  "generatedAt": "2026-07-06T10:11:36.070Z",
+  "count": 6,
   "results": [
     {
       "id": "7297666002",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-06-25T22:13:45-04:00",
       "daysAgo": "10d"
-    },
-    {
-      "id": "744000134713238",
-      "title": "Junior EC&I Engineer ",
-      "location": "Whitehaven, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000134713238",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-29T07:33:48.356Z",
-      "daysAgo": "6d"
     },
     {
       "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
@@ -77,8 +64,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-07-02T03:35:04-04:00",
-      "daysAgo": "3d"
+      "postedAt": "2026-07-06T05:01:20-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "8586971002",
@@ -91,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-06-30T02:26:53-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     }
   ]
 }
