@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T09:09:56.289Z",
+  "generatedAt": "2026-07-07T08:40:15.743Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 728,
+    "healthy": 730,
     "degraded": 3,
-    "empty": 46,
+    "empty": 44,
     "fetch_error": 75,
     "unsupported": 1457,
     "misconfigured": 1
