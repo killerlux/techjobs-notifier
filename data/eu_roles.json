@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-07-07T04:31:27.072Z",
-  "count": 7,
+  "generatedAt": "2026-07-07T11:23:40.473Z",
+  "count": 5,
   "results": [
-    {
-      "id": "744000135971880",
-      "title": "Graduate Geotechnical Engineer and Engineering Geologist",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000135971880",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-06T10:42:46.891Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000135972276",
-      "title": "Graduate Geotechnical Engineer and Engineering Geologist ",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000135972276",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-06T10:43:18.428Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "4604065006",
       "title": "mthree -  Junior Software Developer  (Go Lang) ",
@@ -78,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-06T05:01:20-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8586971002",
