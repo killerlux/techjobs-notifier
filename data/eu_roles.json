@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-07-08T09:05:09.725Z",
-  "count": 4,
+  "generatedAt": "2026-07-08T11:21:38.903Z",
+  "count": 5,
   "results": [
+    {
+      "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
+      "title": "Graduate Analytics Engineer ",
+      "location": "London",
+      "country": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380",
+      "company": "Lendable",
+      "source": "ashby",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-07-08",
+      "daysAgo": "0d"
+    },
     {
       "id": "4604065006",
       "title": "mthree -  Junior Software Developer  (Go Lang) ",
