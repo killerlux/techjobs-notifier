@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-08T07:41:05.735Z",
+  "generatedAt": "2026-07-09T08:43:30.046Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 729,
     "degraded": 3,
-    "empty": 45,
-    "fetch_error": 75,
+    "empty": 43,
+    "fetch_error": 77,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -18,6 +18,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/agilespaceindustries/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "AHEAD",
+      "type": "lever",
+      "slug": "thinkahead",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -306,6 +315,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/kddia?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Loop",
+      "type": "greenhouse",
+      "slug": "loop",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/loop/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
