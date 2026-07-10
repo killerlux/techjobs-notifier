@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T11:23:45.913Z",
-  "count": 6,
+  "generatedAt": "2026-07-10T15:52:36.688Z",
+  "count": 5,
   "results": [
     {
       "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-07-08",
       "daysAgo": "2d"
-    },
-    {
-      "id": "4604065006",
-      "title": "mthree -  Junior Software Developer  (Go Lang) ",
-      "location": "UK",
-      "country": "United Kingdom",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
-      "company": "mthree",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-06-29T11:30:51-04:00",
-      "daysAgo": "10d"
     },
     {
       "id": "3b1e57b4-1342-43d7-9106-d96db4a81b57",
@@ -52,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1783344529640,
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000137088634",
