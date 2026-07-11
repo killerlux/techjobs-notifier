@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T15:52:36.688Z",
-  "count": 5,
+  "generatedAt": "2026-07-11T18:29:01.791Z",
+  "count": 4,
   "results": [
     {
       "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-07-08",
       "daysAgo": "3d"
-    },
-    {
-      "id": "3b1e57b4-1342-43d7-9106-d96db4a81b57",
-      "title": "Field Application Engineer - Singapore",
-      "location": "Singapore",
-      "country": "Singapore",
-      "url": "https://jobs.lever.co/field-ai/3b1e57b4-1342-43d7-9106-d96db4a81b57",
-      "company": "Field AI",
-      "source": "lever",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": 1782842854275,
-      "daysAgo": "10d"
     },
     {
       "id": "dfb8492a-8d96-4033-9c7b-e87dfe1b07b0",
