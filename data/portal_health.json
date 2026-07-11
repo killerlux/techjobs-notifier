@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-10T08:38:57.239Z",
+  "generatedAt": "2026-07-11T07:19:46.899Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 730,
+    "healthy": 729,
     "degraded": 2,
     "empty": 43,
-    "fetch_error": 77,
+    "fetch_error": 78,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -504,6 +504,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/robinpowered?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Runpod",
+      "type": "greenhouse",
+      "slug": "runpod",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/runpod/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
