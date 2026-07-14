@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T23:26:54.772Z",
-  "count": 6,
+  "generatedAt": "2026-07-14T14:22:59.434Z",
+  "count": 5,
   "results": [
     {
       "id": "7297666002",
@@ -52,20 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1783344529640,
-      "daysAgo": "7d"
-    },
-    {
-      "id": "744000137088634",
-      "title": "Junior Structural Engineer for International Project Consultancy",
-      "location": "København S, dk",
-      "country": "Denmark",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000137088634",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-10T09:42:15.994Z",
-      "daysAgo": "4d"
+      "daysAgo": "8d"
     },
     {
       "id": "4864654101",
