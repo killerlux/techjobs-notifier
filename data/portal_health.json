@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-15T07:23:24.609Z",
+  "generatedAt": "2026-07-16T07:31:37.175Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 726,
+    "healthy": 725,
     "degraded": 4,
-    "empty": 44,
-    "fetch_error": 78,
+    "empty": 43,
+    "fetch_error": 80,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -117,6 +117,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/boomsupersonic/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Capital Rx",
+      "type": "greenhouse",
+      "slug": "capitalrx",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/capitalrx/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -234,6 +243,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/futureplc/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Galileo Financial Technologies",
+      "type": "greenhouse",
+      "slug": "galileofinancialtechnologies",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/galileofinancialtechnologies/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
