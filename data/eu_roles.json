@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T11:10:32.211Z",
-  "count": 6,
+  "generatedAt": "2026-07-16T10:25:12.023Z",
+  "count": 5,
   "results": [
     {
       "id": "7297666002",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-13T10:22:36.456Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
@@ -65,20 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-06T05:01:20-04:00",
-      "daysAgo": "9d"
-    },
-    {
-      "id": "744000137847758",
-      "title": "Junior Cloud Developer – Automotive Connected Services - Categorie Protette (L. 68/99)",
-      "location": "Modugno, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000137847758",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-15T09:38:50.311Z",
-      "daysAgo": "0d"
+      "daysAgo": "10d"
     }
   ]
 }
