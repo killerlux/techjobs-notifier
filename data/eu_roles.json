@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T14:40:37.897Z",
-  "count": 5,
+  "generatedAt": "2026-07-17T16:11:51.354Z",
+  "count": 4,
   "results": [
     {
       "id": "7297666002",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-07-13T19:22:44-04:00",
       "daysAgo": "3d"
-    },
-    {
-      "id": "744000137419989",
-      "title": "Graduate EC&I Engineer",
-      "location": "Bridgwater, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000137419989",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-13T10:22:36.456Z",
-      "daysAgo": "4d"
     },
     {
       "id": "8636907002",
