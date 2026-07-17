@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-07-17T11:04:54.472Z
+- Updated: 2026-07-17T14:40:37.897Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -12,5 +12,4 @@
 | ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Bridgwater, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000137419989) |
 | Graphcore | Python Engineer | standard | United Kingdom | Bristol, UK; Cambridge, UK; London, UK | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8636907002) |
 | Lendable | Graduate Analytics Engineer  | standard | United Kingdom | London | 9d | ashby | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) |
-| Sonar | Graduate Software Engineer | standard | Switzerland | Geneva | 10d | lever | [Apply](https://jobs.lever.co/sonarsource/dfb8492a-8d96-4033-9c7b-e87dfe1b07b0) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Spain | Barcelona, Spain | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8070899) |
