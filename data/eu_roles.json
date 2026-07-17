@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T10:25:12.023Z",
+  "generatedAt": "2026-07-17T09:06:48.617Z",
   "count": 5,
   "results": [
     {
@@ -55,17 +55,17 @@
       "daysAgo": "10d"
     },
     {
-      "id": "4864654101",
-      "title": "Graduate Software Engineer",
-      "location": "Barcelona; Madrid; Spain",
+      "id": "8070899",
+      "title": "Associate-Graduate:Developer",
+      "location": "Barcelona, Spain",
       "country": "Spain",
-      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101",
-      "company": "Fever Up",
+      "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8070899",
+      "company": "Thoughtworks",
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-07-06T05:01:20-04:00",
-      "daysAgo": "10d"
+      "postedAt": "2026-07-17T02:41:36-04:00",
+      "daysAgo": "0d"
     }
   ]
 }
