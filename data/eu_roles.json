@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T16:11:51.354Z",
-  "count": 4,
+  "generatedAt": "2026-07-19T00:58:52.493Z",
+  "count": 3,
   "results": [
     {
       "id": "7297666002",
@@ -27,19 +27,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-07-17T05:20:45-04:00",
       "daysAgo": "1d"
-    },
-    {
-      "id": "c9bf0b6c-290a-43eb-8221-9775ea509ad0",
-      "title": "Graduate Analytics Engineer ",
-      "location": "London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380",
-      "company": "Lendable",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-08",
-      "daysAgo": "10d"
     },
     {
       "id": "8070899",
