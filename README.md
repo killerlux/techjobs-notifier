@@ -9,6 +9,6 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Veolia | 2026 Graduate - ED Reclaiming Service Engineer | cac40 | Netherlands | Rotterdam, nl | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000138645109) |
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 6d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 7d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Graphcore | Python Engineer | standard | United Kingdom | Bristol, UK; Cambridge, UK; London, UK | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8636907002) |
 | Thoughtworks | Associate-Graduate:Developer | standard | Spain | Barcelona, Spain | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8070899) |
