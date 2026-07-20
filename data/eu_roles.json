@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-07-19T00:58:52.493Z",
-  "count": 3,
+  "generatedAt": "2026-07-20T15:27:32.995Z",
+  "count": 4,
   "results": [
+    {
+      "id": "744000138645109",
+      "title": "2026 Graduate - ED Reclaiming Service Engineer",
+      "location": "Rotterdam, nl",
+      "country": "Netherlands",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000138645109",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-07-20T13:28:10.028Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
