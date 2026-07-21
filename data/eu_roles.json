@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T10:37:41.124Z",
-  "count": 6,
+  "generatedAt": "2026-07-21T14:33:16.289Z",
+  "count": 7,
   "results": [
     {
       "id": "744000138645109",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-07-20T13:28:10.028Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "7297666002",
@@ -52,6 +52,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-21",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000138875994",
+      "title": "Junior Data Scientist",
+      "location": "Ciudad de México, mx",
+      "country": "Germany",
+      "url": "https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000138875994",
+      "company": "Nielsen",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-07-21T13:42:58.546Z",
       "daysAgo": "0d"
     },
     {
