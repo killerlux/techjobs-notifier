@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T02:28:59.994Z",
-  "count": 5,
+  "generatedAt": "2026-07-21T10:37:41.124Z",
+  "count": 6,
   "results": [
     {
       "id": "744000138645109",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-17T05:20:45-04:00",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "c3bb4caf-3bbe-4bb3-a10d-148a7623ac52",
@@ -52,6 +52,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-21",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "4864654101",
+      "title": "Graduate Software Engineer",
+      "location": "Barcelona; Madrid; Spain",
+      "country": "Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101",
+      "company": "Fever Up",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-07-21T06:20:51-04:00",
       "daysAgo": "0d"
     },
     {
