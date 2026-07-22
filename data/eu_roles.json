@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T07:07:38.770Z",
-  "count": 7,
+  "generatedAt": "2026-07-22T11:46:36.761Z",
+  "count": 9,
   "results": [
     {
       "id": "7297666002",
@@ -26,10 +26,10 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-21T07:33:24-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
-      "id": "c3bb4caf-3bbe-4bb3-a10d-148a7623ac52",
+      "id": "33ac12ca-f803-40d7-beba-c625b1d83731",
       "title": "Junior Design Engineer, Web",
       "location": "London",
       "country": "United Kingdom",
@@ -37,9 +37,29 @@
       "company": "iwoca",
       "source": "ashby",
       "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-21",
-      "daysAgo": "1d"
+      "priorityTier": "standard"
+    },
+    {
+      "id": "36d47627-9b4e-4864-9f05-2dbbd1052380",
+      "title": "Graduate Analytics Engineer ",
+      "location": "London",
+      "country": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380",
+      "company": "Lendable",
+      "source": "ashby",
+      "matchReason": "level+tech",
+      "priorityTier": "standard"
+    },
+    {
+      "id": "95c5d395-316d-4193-b11d-d4d1341a7390",
+      "title": "Junior Analytics Engineer ",
+      "location": "London",
+      "country": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390",
+      "company": "Lendable",
+      "source": "ashby",
+      "matchReason": "level+tech",
+      "priorityTier": "standard"
     },
     {
       "id": "744000138875994",
@@ -65,7 +85,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-21T06:20:51-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8070899",
