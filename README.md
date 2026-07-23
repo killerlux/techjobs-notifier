@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-07-22T13:43:32.554Z
+- Updated: 2026-07-23T19:54:38.152Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | VIE/PANGEO  Junior Mechanical Project Engineer M/W  | cac40 | Ireland | Kilkenny, ie | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000139070559) |
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 9d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Graphcore | Python Engineer | standard | United Kingdom | Bristol, UK; Cambridge, UK; London, UK | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8636907002) |
 | iwoca | Junior Design Engineer, Web | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/iwoca.co.uk/33ac12ca-f803-40d7-beba-c625b1d83731) |
