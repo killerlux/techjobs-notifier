@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-07-24T11:38:58.252Z",
-  "count": 8,
+  "generatedAt": "2026-07-24T15:13:43.481Z",
+  "count": 9,
   "results": [
+    {
+      "id": "744000139636009",
+      "title": "VIE/PANGEO Junior Site Engineer M/W",
+      "location": "Kilkenny, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000139636009",
+      "company": "Veolia",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "cac40",
+      "postedAt": "2026-07-24T15:07:14.641Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "7297666002",
       "title": "Quantitative Software Developer Intern",
@@ -72,7 +85,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-21T13:42:58.546Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "4864654101",
