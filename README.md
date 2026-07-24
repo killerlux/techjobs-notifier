@@ -15,5 +15,5 @@
 | Lendable | Junior Analytics Engineer  | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) |
 | Nielsen | Junior Data Scientist | standard | Germany | Ciudad de México, mx | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000138875994) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 2d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
-| Thoughtworks | Associate-Graduate:Developer | standard | Spain | Barcelona, Spain | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8070899) |
+| Thoughtworks | Associate-Graduate:Developer | standard | Spain | Barcelona, Spain | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8070899) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
