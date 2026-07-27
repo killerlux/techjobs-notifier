@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-07-27T13:24:49.403Z",
-  "count": 7,
+  "generatedAt": "2026-07-27T17:46:22.636Z",
+  "count": 4,
   "results": [
-    {
-      "id": "744000139636009",
-      "title": "VIE/PANGEO Junior Site Engineer M/W",
-      "location": "Kilkenny, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000139636009",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-07-24T15:07:14.641Z",
-      "daysAgo": "3d"
-    },
     {
       "id": "8636907002",
       "title": "Python Engineer",
@@ -35,28 +22,6 @@
       "country": "United Kingdom",
       "url": "https://jobs.ashbyhq.com/iwoca.co.uk/33ac12ca-f803-40d7-beba-c625b1d83731",
       "company": "iwoca",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
-    },
-    {
-      "id": "36d47627-9b4e-4864-9f05-2dbbd1052380",
-      "title": "Graduate Analytics Engineer ",
-      "location": "London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380",
-      "company": "Lendable",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
-    },
-    {
-      "id": "95c5d395-316d-4193-b11d-d4d1341a7390",
-      "title": "Junior Analytics Engineer ",
-      "location": "London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390",
-      "company": "Lendable",
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
