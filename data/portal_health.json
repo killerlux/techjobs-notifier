@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T08:46:04.960Z",
+  "generatedAt": "2026-07-28T07:46:59.308Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 723,
+    "healthy": 724,
     "degraded": 4,
     "empty": 43,
-    "fetch_error": 82,
+    "fetch_error": 81,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -336,15 +336,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Kodiak Robotics",
-      "type": "greenhouse",
-      "slug": "kodiak",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Loop",
       "type": "greenhouse",
       "slug": "loop",
@@ -377,7 +368,7 @@
       "slug": "meshy",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/meshy/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
