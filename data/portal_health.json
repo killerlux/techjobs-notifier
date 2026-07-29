@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-28T07:46:59.308Z",
+  "generatedAt": "2026-07-29T07:52:15.322Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 724,
     "degraded": 4,
-    "empty": 43,
-    "fetch_error": 81,
+    "empty": 42,
+    "fetch_error": 82,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -126,6 +126,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/capitalrx/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Care Access",
+      "type": "greenhouse",
+      "slug": "careaccess",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
