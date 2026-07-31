@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T12:53:11.608Z",
-  "count": 4,
+  "generatedAt": "2026-07-31T15:16:04.364Z",
+  "count": 6,
   "results": [
     {
       "id": "8636907002",
@@ -37,7 +37,33 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-28T10:20:32-04:00",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
+    },
+    {
+      "id": "744000140936234",
+      "title": "Junior Engineering Geologist / Geotechnical Engineer",
+      "location": "Rome, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000140936234",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-07-31T14:58:38.015Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000140937509",
+      "title": "Junior Engineering Geologist / Geotechnical Engineer",
+      "location": "Milan, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000140937509",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-07-31T14:58:59.525Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8642285002",
