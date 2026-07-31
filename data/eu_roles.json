@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-07-28T10:43:03.314Z",
-  "count": 5,
+  "generatedAt": "2026-07-31T12:53:11.608Z",
+  "count": 4,
   "results": [
-    {
-      "id": "744000140196694",
-      "title": "Graduate Data Engineer & Analyst",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000140196694",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-28T09:52:02.849Z",
-      "daysAgo": "3d"
-    },
     {
       "id": "8636907002",
       "title": "Python Engineer",
