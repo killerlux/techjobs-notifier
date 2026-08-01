@@ -13,4 +13,4 @@
 | Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 3d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
 | Ramboll | Junior Engineering Geologist / Geotechnical Engineer | standard | Italy | Rome, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000140936234) |
 | Ramboll | Junior Engineering Geologist / Geotechnical Engineer | standard | Italy | Milan, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000140937509) |
-| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 9d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
