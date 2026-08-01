@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-31T08:09:39.152Z",
+  "generatedAt": "2026-08-01T07:37:49.044Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 725,
+    "healthy": 722,
     "degraded": 4,
-    "empty": 41,
-    "fetch_error": 82,
+    "empty": 42,
+    "fetch_error": 84,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -224,7 +224,16 @@
       "slug": "cordtechnologies",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Fireworks AI",
+      "type": "greenhouse",
+      "slug": "fireworksai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -270,15 +279,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Good American",
-      "type": "lever",
-      "slug": "goodamerican",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -507,6 +507,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Reach Financial",
+      "type": "greenhouse",
+      "slug": "reach",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/reach/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Redis",
       "type": "greenhouse",
       "slug": "redis",
@@ -585,6 +594,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/southwestwater?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Sphinx Defense",
+      "type": "greenhouse",
+      "slug": "sphinxdefense",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
