@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T07:37:49.044Z",
+  "generatedAt": "2026-08-02T07:40:35.848Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 722,
+    "healthy": 723,
     "degraded": 4,
     "empty": 42,
-    "fetch_error": 84,
+    "fetch_error": 83,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -594,15 +594,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/southwestwater?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Sphinx Defense",
-      "type": "greenhouse",
-      "slug": "sphinxdefense",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
