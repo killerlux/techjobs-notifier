@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T04:51:51.810Z",
-  "count": 5,
+  "generatedAt": "2026-08-03T17:24:00.478Z",
+  "count": 6,
   "results": [
     {
       "id": "8636907002",
@@ -25,6 +25,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000141297974",
+      "title": "Junior SCADA & Controls Engineer",
+      "location": "Bedford, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000141297974",
+      "company": "NBCUniversal",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-03T15:37:00.632Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4864654101",
