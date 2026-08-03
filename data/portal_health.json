@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T07:40:35.848Z",
+  "generatedAt": "2026-08-03T08:41:28.903Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 723,
+    "healthy": 722,
     "degraded": 4,
     "empty": 42,
-    "fetch_error": 83,
+    "fetch_error": 84,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -405,6 +405,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/modernizingmedicineinc/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "MORSE Corp",
+      "type": "greenhouse",
+      "slug": "morsecorp",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
