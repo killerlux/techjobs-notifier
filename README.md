@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 0d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 1d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Graphcore | Python Engineer | standard | United Kingdom | Bristol, UK; Cambridge, UK; London, UK | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8636907002) |
 | iwoca | Junior Design Engineer, Web | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/iwoca.co.uk/33ac12ca-f803-40d7-beba-c625b1d83731) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
