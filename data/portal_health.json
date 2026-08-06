@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-05T07:48:53.466Z",
+  "generatedAt": "2026-08-06T07:48:19.908Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 719,
+    "healthy": 718,
     "degraded": 4,
-    "empty": 45,
-    "fetch_error": 84,
+    "empty": 44,
+    "fetch_error": 86,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -309,6 +309,15 @@
       "checkedUrls": []
     },
     {
+      "company": "iHerb",
+      "type": "greenhouse",
+      "slug": "iherb",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/iherb/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Infleqtion",
       "type": "workable",
       "slug": "coldquanta",
@@ -495,6 +504,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/radiant/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "RadiantSecurity",
+      "type": "greenhouse",
+      "slug": "radiantsecurity",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/radiantsecurity/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
