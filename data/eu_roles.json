@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T11:02:41.770Z",
-  "count": 9,
+  "generatedAt": "2026-08-06T23:54:41.977Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -61,20 +61,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-03T15:37:00.632Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000141869765",
-      "title": "Junior Engineer - HIghways",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000141869765",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-06T08:45:14.874Z",
-      "daysAgo": "0d"
+      "daysAgo": "3d"
     },
     {
       "id": "4864654101",
@@ -87,33 +74,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-28T10:20:32-04:00",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
-      "id": "744000140936234",
-      "title": "Junior Engineering Geologist / Geotechnical Engineer",
-      "location": "Rome, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000140936234",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-07-31T14:58:38.015Z",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "744000140937509",
-      "title": "Junior Engineering Geologist / Geotechnical Engineer",
+      "id": "744000141925699",
+      "title": "Junior Civil Engineer",
       "location": "Milan, it",
       "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000140937509",
-      "company": "Ramboll",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000141925699",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-07-31T14:58:59.525Z",
-      "daysAgo": "5d"
+      "postedAt": "2026-08-06T13:42:19.773Z",
+      "daysAgo": "0d"
     }
   ]
 }
