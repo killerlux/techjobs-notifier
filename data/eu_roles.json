@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T06:07:08.880Z",
-  "count": 6,
+  "generatedAt": "2026-08-07T09:57:59.840Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-07-29T05:43:36-04:00",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "33ac12ca-f803-40d7-beba-c625b1d83731",
@@ -62,6 +62,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-08-03T15:37:00.632Z",
       "daysAgo": "3d"
+    },
+    {
+      "id": "744000142085785",
+      "title": "Junior Managers Program - Software & KI (w/m/div.)",
+      "location": "Wien, at",
+      "country": "Austria",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000142085785",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-07T09:16:59.883Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4864654101",
