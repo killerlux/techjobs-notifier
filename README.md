@@ -14,4 +14,4 @@
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | NBCUniversal | Junior SCADA & Controls Engineer | standard | United Kingdom | Bedford, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000141297974) |
 | Robert Bosch Venture Capital | Junior Managers Program - Software & KI (w/m/div.) | standard | Austria | Wien, at | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000142085785) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 9d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Barcelona; Madrid; Spain | 10d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4864654101) |
