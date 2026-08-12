@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T13:00:11.266Z",
-  "count": 9,
+  "generatedAt": "2026-08-12T14:23:01.459Z",
+  "count": 18,
   "results": [
     {
       "id": "7297666002",
@@ -14,6 +14,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-08-03T20:06:28-04:00",
       "daysAgo": "8d"
+    },
+    {
+      "id": "744000143102759",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Dublin, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143102759",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:12:45.676Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000143093194",
@@ -65,6 +78,110 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-12T12:53:40.792Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143099365",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Cambridge, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143099365",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:06:24.466Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143100061",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143100061",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:08:28.649Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143100250",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Cardiff, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143100250",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:07:09.617Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143102039",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Exeter, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143102039",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:09:01.740Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143102279",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143102279",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:09:48.353Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143102489",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143102489",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:10:53.390Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143102700",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Belfast, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143102700",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:13:42.569Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000143103189",
+      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143103189",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-12T13:14:53.947Z",
       "daysAgo": "0d"
     },
     {
