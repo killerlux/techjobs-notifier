@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T14:23:01.459Z",
-  "count": 18,
+  "generatedAt": "2026-08-13T04:07:50.818Z",
+  "count": 14,
   "results": [
     {
       "id": "7297666002",
@@ -26,58 +26,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-12T13:12:45.676Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000143093194",
-      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143093194",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-12T12:40:00.542Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000143093484",
-      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
-      "location": "Manchester, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143093484",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-12T12:52:07.918Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000143097569",
-      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
-      "location": "St Albans, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143097569",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-12T12:50:07.975Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000143097920",
-      "title": "Graduate Electrical Engineer (Building Services) - October 2026 Starts",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143097920",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-12T12:53:40.792Z",
       "daysAgo": "0d"
     },
     {
