@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T08:49:54.382Z",
-  "count": 6,
+  "generatedAt": "2026-08-13T16:53:36.770Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -14,6 +14,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-08-03T20:06:28-04:00",
       "daysAgo": "9d"
+    },
+    {
+      "id": "744000143360149",
+      "title": "Graduate Traffic Engineer - Cork",
+      "location": "Cork, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143360149",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-13T16:38:13.901Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000143097219",
