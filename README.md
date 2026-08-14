@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 9d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 10d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | AECOM | Graduate Traffic Engineer - Cork | standard | Ireland | Cork, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143360149) |
 | General Dynamics UK | Junior Supportability Engineer | standard | United Kingdom | Oakdale, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000143097219) |
 | General Dynamics UK | Junior Systems Integration Engineer | standard | United Kingdom | Blackwood, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000143094755) |
