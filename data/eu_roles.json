@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T16:53:36.770Z",
-  "count": 7,
+  "generatedAt": "2026-08-14T12:57:02.492Z",
+  "count": 6,
   "results": [
     {
       "id": "7297666002",
@@ -16,19 +16,6 @@
       "daysAgo": "10d"
     },
     {
-      "id": "744000143360149",
-      "title": "Graduate Traffic Engineer - Cork",
-      "location": "Cork, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000143360149",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-13T16:38:13.901Z",
-      "daysAgo": "0d"
-    },
-    {
       "id": "744000143097219",
       "title": "Junior Supportability Engineer",
       "location": "Oakdale, gb",
@@ -39,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-12T12:48:49.481Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000143094755",
@@ -52,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-12T12:41:44.878Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "33ac12ca-f803-40d7-beba-c625b1d83731",
