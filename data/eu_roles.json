@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T12:57:02.492Z",
-  "count": 6,
+  "generatedAt": "2026-08-14T15:20:41.000Z",
+  "count": 7,
   "results": [
     {
       "id": "7297666002",
@@ -62,6 +62,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000143537279",
+      "title": "Junior Project Engineer Services ",
+      "location": "Eindhoven, nl",
+      "country": "Netherlands",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000143537279",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-14T14:48:59.522Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
