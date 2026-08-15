@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-14T06:41:13.337Z",
+  "generatedAt": "2026-08-15T05:39:00.719Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 718,
     "degraded": 4,
-    "empty": 41,
-    "fetch_error": 89,
+    "empty": 39,
+    "fetch_error": 91,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -471,6 +471,15 @@
       "checkedUrls": []
     },
     {
+      "company": "PatientPoint",
+      "type": "greenhouse",
+      "slug": "patientpoint",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
@@ -540,6 +549,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/radicalai?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "RAPP",
+      "type": "greenhouse",
+      "slug": "rapp",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
