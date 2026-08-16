@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-15T05:39:00.719Z",
+  "generatedAt": "2026-08-16T05:40:32.261Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 718,
+    "healthy": 720,
     "degraded": 4,
-    "empty": 39,
-    "fetch_error": 91,
+    "empty": 38,
+    "fetch_error": 90,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -255,6 +255,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Fortra",
+      "type": "greenhouse",
+      "slug": "fortra",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/fortra/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Future Publishing",
       "type": "workable",
       "slug": "futureplc",
@@ -471,15 +480,6 @@
       "checkedUrls": []
     },
     {
-      "company": "PatientPoint",
-      "type": "greenhouse",
-      "slug": "patientpoint",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
@@ -549,15 +549,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/radicalai?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "RAPP",
-      "type": "greenhouse",
-      "slug": "rapp",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
