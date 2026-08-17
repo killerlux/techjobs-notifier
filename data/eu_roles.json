@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T01:00:36.030Z",
-  "count": 6,
+  "generatedAt": "2026-08-17T09:36:43.255Z",
+  "count": 7,
   "results": [
     {
       "id": "744000143097219",
@@ -62,6 +62,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-08-14T14:48:59.522Z",
       "daysAgo": "2d"
+    },
+    {
+      "id": "744000143783059",
+      "title": "Graduate Structural Engineer  - “High-Rise & Complex Buildings”",
+      "location": "Singapore, sg",
+      "country": "Singapore",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000143783059",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-17T09:21:31.001Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
