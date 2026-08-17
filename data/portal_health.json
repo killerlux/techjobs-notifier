@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-16T05:40:32.261Z",
+  "generatedAt": "2026-08-17T05:48:39.805Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 720,
+    "healthy": 719,
     "degraded": 4,
     "empty": 38,
-    "fetch_error": 90,
+    "fetch_error": 91,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -396,6 +396,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "MatX",
+      "type": "greenhouse",
+      "slug": "matx",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/matx/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
