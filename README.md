@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-08-17T10:27:40.030Z
+- Updated: 2026-08-18T06:36:00.476Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -13,4 +13,5 @@
 | iwoca | Junior Design Engineer, Web | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/iwoca.co.uk/33ac12ca-f803-40d7-beba-c625b1d83731) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Ramboll | Graduate Structural Engineer  - “High-Rise & Complex Buildings” | standard | Singapore | Singapore, sg | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000143783059) |
+| Robert Bosch Venture Capital | Junior Managers Program - Software & KI (w/m/div.) | standard | Austria | Wien, at | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000143985409) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 0d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
