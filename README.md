@@ -14,4 +14,4 @@
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Ramboll | Graduate Structural Engineer  - “High-Rise & Complex Buildings” | standard | Singapore | Singapore, sg | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000143783059) |
 | Robert Bosch Venture Capital | Junior Managers Program - Software & KI (w/m/div.) | standard | Austria | Wien, at | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000143985409) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Spain | 0d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Spain | 1d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
