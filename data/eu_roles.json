@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T10:25:48.777Z",
-  "count": 6,
+  "generatedAt": "2026-08-21T14:30:41.794Z",
+  "count": 7,
   "results": [
     {
       "id": "744000143097219",
@@ -38,6 +38,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000144776109",
+      "title": "(Junior) IT Field Service Engineer",
+      "location": "Maastricht, nl",
+      "country": "Netherlands",
+      "url": "https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000144776109",
+      "company": "Eurofins",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-21T14:08:47.996Z",
+      "daysAgo": "0d"
     },
     {
       "id": "7800887002",
