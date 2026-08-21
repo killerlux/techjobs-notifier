@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T07:34:28.100Z",
-  "count": 6,
+  "generatedAt": "2026-08-21T09:32:22.125Z",
+  "count": 5,
   "results": [
     {
       "id": "744000143097219",
@@ -29,17 +29,6 @@
       "daysAgo": "8d"
     },
     {
-      "id": "33ac12ca-f803-40d7-beba-c625b1d83731",
-      "title": "Junior Design Engineer, Web",
-      "location": "London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/iwoca.co.uk/33ac12ca-f803-40d7-beba-c625b1d83731",
-      "company": "iwoca",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
-    },
-    {
       "id": "9a7ef2f9-577a-4242-b884-719e3cdf4420",
       "title": "Software Engineer, Infrastructure (Early Career)",
       "location": "Cambridge, MA",
@@ -61,7 +50,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-17T09:21:31.001Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "4951979101",
