@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T09:32:22.125Z",
-  "count": 5,
+  "generatedAt": "2026-08-21T10:25:48.777Z",
+  "count": 6,
   "results": [
     {
       "id": "744000143097219",
@@ -40,17 +40,30 @@
       "priorityTier": "standard"
     },
     {
-      "id": "744000143783059",
-      "title": "Graduate Structural Engineer  - “High-Rise & Complex Buildings”",
-      "location": "Singapore, sg",
-      "country": "Singapore",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000143783059",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
+      "id": "7800887002",
+      "title": "Data Science Intern - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://www.artefact.com/careers/7800887002?gh_jid=7800887002",
+      "company": "Artefact",
+      "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-08-17T09:21:31.001Z",
-      "daysAgo": "4d"
+      "postedAt": "2026-08-21T06:04:26-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "7804825002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://www.artefact.com/careers/7804825002?gh_jid=7804825002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-08-21T06:04:26-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
