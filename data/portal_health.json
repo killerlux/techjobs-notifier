@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-20T05:45:03.307Z",
+  "generatedAt": "2026-08-21T05:46:31.225Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 715,
+    "healthy": 714,
     "degraded": 4,
     "empty": 39,
-    "fetch_error": 94,
+    "fetch_error": 95,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -216,6 +216,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/e2optics?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "edX",
+      "type": "greenhouse",
+      "slug": "bootcampinstructionalengagement",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/bootcampinstructionalengagement/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
