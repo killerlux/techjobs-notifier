@@ -15,4 +15,4 @@
 | Eurofins | (Junior) IT Field Service Engineer | standard | Netherlands | Maastricht, nl | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000144776109) |
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://www.artefact.com/careers/7800887002?gh_jid=7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://www.artefact.com/careers/7804825002?gh_jid=7804825002) |
-| Fever Up | Graduate Software Engineer | standard | Spain | Spain | 4d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Spain | 5d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
