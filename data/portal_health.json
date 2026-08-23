@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-08-22T05:40:50.389Z",
+  "generatedAt": "2026-08-23T05:43:31.934Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 708,
+    "healthy": 712,
     "degraded": 4,
     "empty": 41,
-    "fetch_error": 99,
+    "fetch_error": 95,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
-    {
-      "company": "1-800 Contacts",
-      "type": "greenhouse",
-      "slug": "1800contacts",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -162,15 +153,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/catbird?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Centria Autism",
-      "type": "greenhouse",
-      "slug": "centriaautism",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -432,15 +414,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Major League Baseball",
-      "type": "greenhouse",
-      "slug": "baltimoreorioles",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -872,7 +845,7 @@
       "slug": "vultr",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/vultr/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -891,15 +864,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "WPP Media",
-      "type": "greenhouse",
-      "slug": "wppmedia",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
