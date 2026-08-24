@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-08-24T14:37:29.150Z
+- Updated: 2026-08-24T22:21:22.119Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -10,7 +10,6 @@
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
-| Eurofins | (Junior) IT Field Service Engineer | standard | Netherlands | Maastricht, nl | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000144776109) |
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 7d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
