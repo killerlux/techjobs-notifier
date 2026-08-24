@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:28:30.143Z",
+  "generatedAt": "2026-08-24T14:37:29.150Z",
   "count": 6,
   "results": [
     {
@@ -37,33 +37,33 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-21T14:08:47.996Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "7800887002",
       "title": "Data Science Intern - GenAI",
       "location": "Brussels-Capital, Belgium",
       "country": "Belgium",
-      "url": "https://www.artefact.com/careers/7800887002?gh_jid=7800887002",
+      "url": "https://job-boards.greenhouse.io/artefact/jobs/7800887002",
       "company": "Artefact",
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-08-21T06:04:26-04:00",
-      "daysAgo": "3d"
+      "postedAt": "2026-08-24T09:54:37-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "7804825002",
       "title": "Data Scientist - GenAI",
       "location": "Brussels-Capital, Belgium",
       "country": "Belgium",
-      "url": "https://www.artefact.com/careers/7804825002?gh_jid=7804825002",
+      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
       "company": "Artefact",
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-08-21T06:04:26-04:00",
-      "daysAgo": "3d"
+      "postedAt": "2026-08-24T09:54:37-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
