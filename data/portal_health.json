@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T05:48:31.389Z",
+  "generatedAt": "2026-08-27T16:30:19.834Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 711,
+    "healthy": 707,
     "degraded": 5,
     "empty": 41,
-    "fetch_error": 95,
+    "fetch_error": 99,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -39,12 +39,30 @@
       "checkedUrls": []
     },
     {
+      "company": "Alpha FMC",
+      "type": "greenhouse",
+      "slug": "alphafmcroles",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Altera Digital Health",
       "type": "greenhouse",
       "slug": "alteradigitalhealth",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Appian",
+      "type": "greenhouse",
+      "slug": "appian",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -207,6 +225,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Divergent Technologies",
+      "type": "greenhouse",
+      "slug": "divergent",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "DoorDash",
+      "type": "greenhouse",
+      "slug": "doordashusa",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
