@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 8d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 9d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Talan | AI Prompt Engineer / Vibe Coder Junior - H/F | standard | France | Paris, fr | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120) |
 | ASSYSTEM | Junior Quality Engineer | standard | United Kingdom | Preston, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000145697689) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Blackwood, United Kingdom, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000145530335) |
