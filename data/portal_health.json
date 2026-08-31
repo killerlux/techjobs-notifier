@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-30T10:28:25.031Z",
+  "generatedAt": "2026-08-31T11:34:55.634Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 709,
+    "healthy": 707,
     "degraded": 5,
-    "empty": 41,
-    "fetch_error": 97,
+    "empty": 42,
+    "fetch_error": 98,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -63,6 +63,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Arc",
+      "type": "greenhouse",
+      "slug": "arcboatcompany",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
