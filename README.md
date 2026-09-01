@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-08-31T14:48:31.245Z
+- Updated: 2026-09-01T18:42:24.979Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 10d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | Talan | AI Prompt Engineer / Vibe Coder Junior - H/F | standard | France | Paris, fr | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120) |
 | ASSYSTEM | Junior Quality Engineer | standard | United Kingdom | Preston, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000145697689) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Blackwood, United Kingdom, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000145530335) |
