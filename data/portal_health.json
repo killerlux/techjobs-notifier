@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-31T11:34:55.634Z",
+  "generatedAt": "2026-09-01T10:04:13.338Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 707,
+    "healthy": 706,
     "degraded": 5,
-    "empty": 42,
+    "empty": 43,
     "fetch_error": 98,
     "unsupported": 1457,
     "misconfigured": 1
@@ -63,15 +63,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Arc",
-      "type": "greenhouse",
-      "slug": "arcboatcompany",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -435,6 +426,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Marqeta",
+      "type": "greenhouse",
+      "slug": "mqreferrals",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/mqreferrals/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "MatX",
       "type": "greenhouse",
       "slug": "matx",
@@ -620,7 +620,7 @@
       "slug": "regalvoice",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/regalvoice?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
