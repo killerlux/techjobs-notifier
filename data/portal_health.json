@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-01T10:04:13.338Z",
+  "generatedAt": "2026-09-02T09:35:18.981Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 706,
+    "healthy": 703,
     "degraded": 5,
-    "empty": 43,
-    "fetch_error": 98,
+    "empty": 45,
+    "fetch_error": 99,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -399,6 +399,15 @@
       "checkedUrls": []
     },
     {
+      "company": "LetsGetChecked",
+      "type": "greenhouse",
+      "slug": "letsgetchecked",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/letsgetchecked/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Loop",
       "type": "greenhouse",
       "slug": "loop",
@@ -620,7 +629,7 @@
       "slug": "regalvoice",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/regalvoice?mode=json -> 404",
       "checkedUrls": []
     },
     {
