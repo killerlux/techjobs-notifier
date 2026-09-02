@@ -8,8 +8,8 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Talan | AI Prompt Engineer / Vibe Coder Junior - H/F | standard | France | Paris, fr | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120) |
-| ASSYSTEM | Junior Quality Engineer | standard | United Kingdom | Preston, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000145697689) |
+| Talan | AI Prompt Engineer / Vibe Coder Junior - H/F | standard | France | Paris, fr | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120) |
+| ASSYSTEM | Junior Quality Engineer | standard | United Kingdom | Preston, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000145697689) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Blackwood, United Kingdom, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000145530335) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government | standard | United Kingdom | London, United Kingdom | 2d | lever | [Apply](https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6) |
