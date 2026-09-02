@@ -12,6 +12,6 @@
 | ASSYSTEM | Junior Quality Engineer | standard | United Kingdom | Preston, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000145697689) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Blackwood, United Kingdom, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000145530335) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
-| Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government | standard | United Kingdom | London, United Kingdom | 1d | lever | [Apply](https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6) |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government | standard | United Kingdom | London, United Kingdom | 2d | lever | [Apply](https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6) |
 | Artefact | Data Science Intern - GenAI | standard | Belgium | Brussels-Capital, Belgium | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7800887002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
