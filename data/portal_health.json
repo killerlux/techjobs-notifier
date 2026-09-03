@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T09:35:18.981Z",
+  "generatedAt": "2026-09-03T09:46:10.660Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 703,
+    "healthy": 702,
     "degraded": 5,
     "empty": 45,
-    "fetch_error": 99,
+    "fetch_error": 100,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -432,6 +432,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Makpar",
+      "type": "lever",
+      "slug": "makpar",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
