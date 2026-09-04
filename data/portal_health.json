@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:46:10.660Z",
+  "generatedAt": "2026-09-04T09:36:48.285Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
@@ -237,6 +237,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Elf Beauty",
+      "type": "lever",
+      "slug": "elfbeauty",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Eluvio",
       "type": "workable",
       "slug": "eluvio",
@@ -432,15 +441,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Makpar",
-      "type": "lever",
-      "slug": "makpar",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
