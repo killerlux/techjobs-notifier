@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T09:36:48.285Z",
+  "generatedAt": "2026-09-05T09:02:39.641Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 702,
+    "healthy": 705,
     "degraded": 5,
-    "empty": 45,
-    "fetch_error": 100,
+    "empty": 43,
+    "fetch_error": 99,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -234,15 +234,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/eknengineering/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Elf Beauty",
-      "type": "lever",
-      "slug": "elfbeauty",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
