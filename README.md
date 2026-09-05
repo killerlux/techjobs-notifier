@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Talan | AI Prompt Engineer / Vibe Coder Junior - H/F | standard | France | Paris, fr | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120) |
+| Talan | AI Prompt Engineer / Vibe Coder Junior - H/F | standard | France | Paris, fr | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120) |
 | AECOM | Graduate Road Drainage Engineer (2027 start) | standard | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000147528502) |
 | AECOM | Graduate Road Drainage Engineer (2027 start) | standard | United Kingdom | St Albans, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000147532450) |
 | AECOM | Graduate Road Drainage Engineer (2027 start) | standard | United Kingdom | Newcastle upon Tyne, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000147533709) |
