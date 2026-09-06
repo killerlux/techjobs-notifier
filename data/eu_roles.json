@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T19:48:09.717Z",
-  "count": 12,
+  "generatedAt": "2026-09-06T11:12:07.199Z",
+  "count": 10,
   "results": [
     {
       "id": "744000145943120",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-08-27T10:06:35.260Z",
-      "daysAgo": "9d"
+      "daysAgo": "10d"
     },
     {
       "id": "744000147528502",
@@ -68,32 +68,6 @@
       "daysAgo": "1d"
     },
     {
-      "id": "744000147512478",
-      "title": "Graduate Tunnelling and Underground Structures Engineer - Birmingham (2027 Start)",
-      "location": "Birmingham, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000147512478",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-04T13:13:32.445Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000147511040",
-      "title": "Graduate Tunnelling and Underground Structures Engineer - Croydon (2027 Start)",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000147511040",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-04T13:12:50.766Z",
-      "daysAgo": "1d"
-    },
-    {
       "id": "744000147008250",
       "title": "Junior Software Engineer",
       "location": "Oakdale, gb",
@@ -141,7 +115,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1788161381774,
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
