@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-09-06T09:25:19.030Z",
+  "generatedAt": "2026-09-07T10:14:34.580Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 699,
+    "healthy": 703,
     "degraded": 5,
     "empty": 43,
-    "fetch_error": 105,
+    "fetch_error": 101,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
-    {
-      "company": "Aevex Aerospace",
-      "type": "greenhouse",
-      "slug": "aevexaerospace",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -44,7 +35,7 @@
       "slug": "alignerr",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -129,15 +120,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Bloomreach",
-      "type": "greenhouse",
-      "slug": "bloomreach",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Boom Supersonic",
       "type": "greenhouse",
       "slug": "boomsupersonic",
@@ -153,15 +135,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/brooklinen/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Canonical",
-      "type": "greenhouse",
-      "slug": "canonical",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -390,15 +363,6 @@
       "checkedUrls": []
     },
     {
-      "company": "HeyGen",
-      "type": "greenhouse",
-      "slug": "heygen",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "iHerb",
       "type": "greenhouse",
       "slug": "iherb",
@@ -441,15 +405,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/kddia?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "KnowBe4",
-      "type": "greenhouse",
-      "slug": "knowbe4",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -521,7 +476,7 @@
       "slug": "millenniumspacesystems",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/millenniumspacesystems/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -819,6 +774,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "The National Football League",
+      "type": "greenhouse",
+      "slug": "nflcareers",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
