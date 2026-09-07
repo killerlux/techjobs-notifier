@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-09-07T06:23:57.137Z",
-  "count": 7,
+  "generatedAt": "2026-09-07T12:53:39.987Z",
+  "count": 6,
   "results": [
-    {
-      "id": "744000145943120",
-      "title": "AI Prompt Engineer / Vibe Coder Junior - H/F",
-      "location": "Paris, fr",
-      "country": "France",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000145943120",
-      "company": "Talan",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-08-27T10:06:35.260Z",
-      "daysAgo": "10d"
-    },
     {
       "id": "744000147008250",
       "title": "Junior Software Engineer",
@@ -63,7 +50,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1788161381774,
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
