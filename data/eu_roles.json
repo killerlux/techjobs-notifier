@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T11:40:55.821Z",
-  "count": 7,
+  "generatedAt": "2026-09-09T15:51:44.412Z",
+  "count": 10,
   "results": [
     {
       "id": "744000148456049",
@@ -16,6 +16,19 @@
       "daysAgo": "0d"
     },
     {
+      "id": "744000148492494",
+      "title": "Graduate Traffic Engineer - Liverpool (2027 start)",
+      "location": "Liverpool, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000148492494",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-09T12:39:57.404Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000147008250",
       "title": "Junior Software Engineer",
       "location": "Oakdale, gb",
@@ -26,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-02T14:36:50.124Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000147008478",
@@ -39,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-02T14:26:01.627Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "9a7ef2f9-577a-4242-b884-719e3cdf4420",
@@ -86,6 +99,32 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000148498184",
+      "title": "Junior Engineering Geologist / Geotechnical Engineer",
+      "location": "Rome, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148498184",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-09T13:04:08.463Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000148501069",
+      "title": "Junior Engineering Geologist / Geotechnical Engineer",
+      "location": "Milan, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148501069",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-09T13:04:42.177Z",
+      "daysAgo": "0d"
     }
   ]
 }
