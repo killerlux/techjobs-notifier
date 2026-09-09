@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-08T09:39:14.618Z",
+  "generatedAt": "2026-09-09T09:42:36.182Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 703,
+    "healthy": 701,
     "degraded": 5,
-    "empty": 43,
-    "fetch_error": 101,
+    "empty": 42,
+    "fetch_error": 104,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -201,6 +201,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Cority",
+      "type": "lever",
+      "slug": "cority",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -261,6 +270,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Exowatt",
+      "type": "lever",
+      "slug": "exowatt",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Finix",
+      "type": "lever",
+      "slug": "finix",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -333,6 +360,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Gopuff",
+      "type": "lever",
+      "slug": "gopuff",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -774,15 +810,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "The Pokémon Company",
-      "type": "greenhouse",
-      "slug": "pokemoncareers",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
