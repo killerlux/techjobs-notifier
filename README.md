@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-09T15:51:44.412Z
+- Updated: 2026-09-10T12:40:40.081Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,9 +8,11 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Veolia | Junior Field Service Engineer | cac40 | Spain | Algorta, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000148456049) |
-| AECOM | Graduate Traffic Engineer - Liverpool (2027 start) | standard | United Kingdom | Liverpool, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000148492494) |
+| Veolia | Junior Field Service Engineer | cac40 | Spain | Algorta, es | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000148456049) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
+| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Oakdale, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008250) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
 | General Dynamics UK | Junior Systems Integration Engineer | standard | United Kingdom | Oakdale, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008478) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government | standard | United Kingdom | London, United Kingdom | 10d | lever | [Apply](https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6) |

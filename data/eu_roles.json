@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T15:51:44.412Z",
-  "count": 10,
+  "generatedAt": "2026-09-10T12:40:40.081Z",
+  "count": 12,
   "results": [
     {
       "id": "744000148456049",
@@ -13,19 +13,32 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-09-09T09:40:20.873Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
-      "id": "744000148492494",
-      "title": "Graduate Traffic Engineer - Liverpool (2027 start)",
-      "location": "Liverpool, gb",
+      "id": "744000148744875",
+      "title": "Junior Electronics Engineer",
+      "location": "Hastings, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000148492494",
-      "company": "AECOM",
+      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875",
+      "company": "General Dynamics UK",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-09T12:39:57.404Z",
+      "postedAt": "2026-09-10T11:17:20.184Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000148745319",
+      "title": "Junior Mechanical Engineer",
+      "location": "Hastings, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319",
+      "company": "General Dynamics UK",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-10T11:13:36.857Z",
       "daysAgo": "0d"
     },
     {
@@ -40,6 +53,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-09-02T14:36:50.124Z",
       "daysAgo": "7d"
+    },
+    {
+      "id": "744000148746319",
+      "title": "Junior Software Engineers",
+      "location": "Hastings, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319",
+      "company": "General Dynamics UK",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-10T11:18:53.972Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000147008478",
