@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-09T09:42:36.182Z",
+  "generatedAt": "2026-09-10T09:41:29.462Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 701,
-    "degraded": 5,
-    "empty": 42,
-    "fetch_error": 104,
+    "healthy": 697,
+    "degraded": 6,
+    "empty": 44,
+    "fetch_error": 105,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -44,7 +44,16 @@
       "slug": "alteradigitalhealth",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true -> 404",
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Anduril Industries",
+      "type": "greenhouse",
+      "slug": "andurilindustries",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -81,6 +90,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/attentive?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Axuall",
+      "type": "greenhouse",
+      "slug": "axuall",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -201,15 +219,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Cority",
-      "type": "lever",
-      "slug": "cority",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -273,24 +282,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Exowatt",
-      "type": "lever",
-      "slug": "exowatt",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Finix",
-      "type": "lever",
-      "slug": "finix",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Fireworks AI",
       "type": "greenhouse",
       "slug": "fireworksai",
@@ -306,6 +297,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/flagstone/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Flip",
+      "type": "greenhouse",
+      "slug": "flip",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -360,15 +360,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Gopuff",
-      "type": "lever",
-      "slug": "gopuff",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -588,6 +579,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Planet",
+      "type": "greenhouse",
+      "slug": "planetlabs",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "pony.ai",
       "type": "workable",
       "slug": "pony-dot-ai",
@@ -675,6 +675,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/regalvoice?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Resonate",
+      "type": "greenhouse",
+      "slug": "resonate",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
