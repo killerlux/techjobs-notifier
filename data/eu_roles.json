@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-11T07:45:02.460Z",
+  "generatedAt": "2026-09-11T16:53:42.980Z",
   "count": 12,
   "results": [
     {
-      "id": "744000148809331",
-      "title": "Graduate Rail Civil Engineer - Glasgow (2027 Start)",
+      "id": "744000149051084",
+      "title": "Graduate Rail Electrical Engineer - Glasgow (2027 Start)",
       "location": "Glasgow, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000148809331",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-10T15:16:12.735Z",
+      "postedAt": "2026-09-11T15:15:57.164Z",
       "daysAgo": "0d"
     },
     {
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-02T14:36:50.124Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "744000148746319",
@@ -78,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-02T14:26:01.627Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "9a7ef2f9-577a-4242-b884-719e3cdf4420",
@@ -135,7 +135,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:08.463Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000148501069",
@@ -148,7 +148,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:42.177Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     }
   ]
 }
