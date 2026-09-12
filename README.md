@@ -9,10 +9,10 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | AECOM | Graduate Rail Electrical Engineer - Glasgow (2027 Start) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084) |
-| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
-| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
+| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Oakdale, gb | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008250) |
-| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
 | General Dynamics UK | Junior Systems Integration Engineer | standard | United Kingdom | Oakdale, gb | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008478) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Relay Technologies | Graduate Software Engineer  | standard | United Kingdom | London - Hybrid | - | ashby | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
