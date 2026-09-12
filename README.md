@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| AECOM | Graduate Rail Electrical Engineer - Glasgow (2027 Start) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084) |
+| AECOM | Graduate Rail Electrical Engineer - Glasgow (2027 Start) | standard | United Kingdom | Glasgow, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
 | General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
 | General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Oakdale, gb | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008250) |
