@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T16:53:42.980Z",
-  "count": 12,
+  "generatedAt": "2026-09-13T14:34:50.733Z",
+  "count": 11,
   "results": [
     {
       "id": "744000149051084",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:17:20.184Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000148745319",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:13:36.857Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000147008250",
@@ -65,20 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:18:53.972Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000147008478",
-      "title": "Junior Systems Integration Engineer",
-      "location": "Oakdale, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008478",
-      "company": "General Dynamics UK",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-02T14:26:01.627Z",
-      "daysAgo": "10d"
+      "daysAgo": "3d"
     },
     {
       "id": "9a7ef2f9-577a-4242-b884-719e3cdf4420",
@@ -135,7 +122,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:08.463Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000148501069",
@@ -148,7 +135,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:42.177Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     }
   ]
 }
