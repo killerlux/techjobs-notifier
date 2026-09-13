@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-13T14:34:50.733Z
+- Updated: 2026-09-13T17:54:11.895Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,10 +8,9 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| AECOM | Graduate Rail Electrical Engineer - Glasgow (2027 Start) | standard | United Kingdom | Glasgow, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084) |
+| AECOM | Graduate Rail Electrical Engineer - Glasgow (2027 Start) | standard | United Kingdom | Glasgow, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
 | General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
-| General Dynamics UK | Junior Software Engineer | standard | United Kingdom | Oakdale, gb | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000147008250) |
 | General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Relay Technologies | Graduate Software Engineer  | standard | United Kingdom | London - Hybrid | - | ashby | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
