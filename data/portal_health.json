@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-12T09:17:32.979Z",
+  "generatedAt": "2026-09-13T10:14:42.013Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 701,
+    "healthy": 700,
     "degraded": 5,
-    "empty": 46,
-    "fetch_error": 100,
+    "empty": 45,
+    "fetch_error": 102,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -89,7 +89,7 @@
       "slug": "barkley",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/barkley/jobs?content=true -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -332,7 +332,7 @@
       "slug": "gafg",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -705,6 +705,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Sonar",
+      "type": "lever",
+      "slug": "sonarsource",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "South West Water",
       "type": "lever",
       "slug": "southwestwater",
@@ -801,6 +810,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/thumbtack/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tinder",
+      "type": "lever",
+      "slug": "matchgroup",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
