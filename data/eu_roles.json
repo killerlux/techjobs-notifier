@@ -1,19 +1,201 @@
 {
-  "generatedAt": "2026-09-13T17:54:11.895Z",
-  "count": 10,
+  "generatedAt": "2026-09-14T17:35:36.354Z",
+  "count": 24,
   "results": [
     {
-      "id": "744000149051084",
-      "title": "Graduate Rail Electrical Engineer - Glasgow (2027 Start)",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149051084",
+      "id": "744000149367409",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Belfast or Dublin (2027 Intake)",
+      "location": "Dublin, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149367409",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-11T15:15:57.164Z",
-      "daysAgo": "2d"
+      "postedAt": "2026-09-14T15:16:58.458Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149365345",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Basingstoke (2027 Intake)",
+      "location": "Basingstoke, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149365345",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:14:13.128Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149364355",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Belfast or Dublin (2027 Intake)",
+      "location": "Belfast, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149364355",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:16:50.924Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149366419",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Birmingham (2027 Intake)",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149366419",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:14:51.495Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149364395",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Bristol (2027 Intake)",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149364395",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:14:26.555Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149366611",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Chesterfield (2027 Intake)",
+      "location": "Chesterfield, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149366611",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:16:29.611Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149364741",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Edinburgh (2027 Intake)",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149364741",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:16:43.339Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149361184",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Glasgow (2027 Intake)",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149361184",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:16:37.284Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149366929",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Leeds (2027 Intake)",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149366929",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:16:11.773Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149365319",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - London (2027 Intake)",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149365319",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:12:07.524Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149367039",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Newcastle (2027 Intake)",
+      "location": "Newcastle upon Tyne, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149367039",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:16:20.607Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149365918",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - St Albans (2027 Intake)",
+      "location": "St Albans, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149365918",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T15:13:43.522Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149387924",
+      "title": "Graduate Rail Electrical Engineer - Croydon (2027 Start)",
+      "location": "Croydon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149387924",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T16:48:12.930Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149388379",
+      "title": "Graduate Rail Electrical Engineer - Glasgow (2027 Start)",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149388379",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T16:46:26.910Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149388040",
+      "title": "Graduate Rail Electrical Engineer - Swindon (2027 Start)",
+      "location": "Swindon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149388040",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-14T16:48:54.104Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000148744875",
@@ -109,7 +291,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:08.463Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "744000148501069",
@@ -122,7 +304,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:42.177Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     }
   ]
 }
