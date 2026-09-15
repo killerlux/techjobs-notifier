@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-14T10:36:57.304Z",
+  "generatedAt": "2026-09-15T10:03:14.566Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 701,
+    "healthy": 700,
     "degraded": 5,
-    "empty": 44,
-    "fetch_error": 102,
+    "empty": 47,
+    "fetch_error": 100,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -30,30 +30,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Alamar Biosciences",
-      "type": "greenhouse",
-      "slug": "alamarbiosciences",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Alignerr",
       "type": "greenhouse",
       "slug": "alignerr",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Alphataraxia",
-      "type": "greenhouse",
-      "slug": "alphataraxia",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -107,7 +89,7 @@
       "slug": "barkley",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/barkley/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
