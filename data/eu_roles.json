@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-09-15T14:08:22.510Z",
-  "count": 16,
+  "generatedAt": "2026-09-15T18:22:02.436Z",
+  "count": 18,
   "results": [
+    {
+      "id": "744000149657279",
+      "title": "Graduate Civil Engineer – Highways & Infrastructure – Dublin (2027 Start)",
+      "location": "Dublin, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149657279",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T15:40:11.240Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000149608119",
       "title": "Graduate Bridge Structures Engineer – Bristol (2027 Start)",
@@ -52,6 +65,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-15T11:22:55.194Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149665099",
+      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Leeds (2027 Intake)",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149665099",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T16:12:08.617Z",
       "daysAgo": "0d"
     },
     {
