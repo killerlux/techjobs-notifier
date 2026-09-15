@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-15T08:53:57.490Z
+- Updated: 2026-09-15T14:08:22.510Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,13 +8,19 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
-| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
-| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
+| AECOM | Graduate Bridge Structures Engineer – Bristol (2027 Start) | standard | United Kingdom | Bristol, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149608119) |
+| AECOM | Graduate Bridge Structures Engineer – Cardiff (2027 Start) | standard | United Kingdom | Cardiff, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149604854) |
+| AECOM | Graduate Bridge Structures Engineer – Chesterfield (2026) | standard | United Kingdom | Chesterfield, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576989) |
+| AECOM | Graduate Bridge Structures Engineer – Croydon (2026) | standard | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576079) |
+| AECOM | Water Graduate Structural Engineer / Multiple locations | standard | United Kingdom | Exeter, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149585009) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
+| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Relay Technologies | Graduate Software Engineer  | standard | United Kingdom | London - Hybrid | - | ashby | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
-| Ramboll | Junior Engineering Geologist / Geotechnical Engineer | standard | Italy | Rome, it | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148498184) |
-| Ramboll | Junior Engineering Geologist / Geotechnical Engineer | standard | Italy | Milan, it | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148501069) |
+| Eurofins | Junior Help Desk Engineer (Spanish, English and French) | standard | Spain | Barcelona, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000149577580) |
+| Ramboll | Junior Engineering Geologist / Geotechnical Engineer | standard | Italy | Rome, it | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148498184) |
+| Ramboll | Junior Engineering Geologist / Geotechnical Engineer | standard | Italy | Milan, it | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148501069) |

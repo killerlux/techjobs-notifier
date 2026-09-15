@@ -1,7 +1,72 @@
 {
-  "generatedAt": "2026-09-15T08:53:57.490Z",
-  "count": 10,
+  "generatedAt": "2026-09-15T14:08:22.510Z",
+  "count": 16,
   "results": [
+    {
+      "id": "744000149608119",
+      "title": "Graduate Bridge Structures Engineer – Bristol (2027 Start)",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149608119",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T13:37:03.030Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149604854",
+      "title": "Graduate Bridge Structures Engineer – Cardiff (2027 Start)",
+      "location": "Cardiff, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149604854",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T13:35:41.814Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149576989",
+      "title": "Graduate Bridge Structures Engineer – Chesterfield (2026)",
+      "location": "Chesterfield, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576989",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T11:28:21.537Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149576079",
+      "title": "Graduate Bridge Structures Engineer – Croydon (2026)",
+      "location": "Croydon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576079",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T11:22:55.194Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000149585009",
+      "title": "Water Graduate Structural Engineer / Multiple locations",
+      "location": "Exeter, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149585009",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T12:06:08.659Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000148744875",
       "title": "Junior Electronics Engineer",
@@ -13,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:17:20.184Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "744000148745319",
@@ -26,7 +91,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:13:36.857Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "744000148746319",
@@ -39,7 +104,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:18:53.972Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -97,6 +162,19 @@
       "priorityTier": "standard"
     },
     {
+      "id": "744000149577580",
+      "title": "Junior Help Desk Engineer (Spanish, English and French)",
+      "location": "Barcelona, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000149577580",
+      "company": "Eurofins",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-15T11:39:38.899Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000148498184",
       "title": "Junior Engineering Geologist / Geotechnical Engineer",
       "location": "Rome, it",
@@ -107,7 +185,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:08.463Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "744000148501069",
@@ -120,7 +198,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-09T13:04:42.177Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     }
   ]
 }
