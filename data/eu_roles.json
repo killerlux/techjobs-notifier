@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T21:36:11.575Z",
-  "count": 19,
+  "generatedAt": "2026-09-16T03:25:28.531Z",
+  "count": 17,
   "results": [
     {
       "id": "7297666002",
@@ -52,32 +52,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-15T13:35:41.814Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000149576989",
-      "title": "Graduate Bridge Structures Engineer – Chesterfield (2026)",
-      "location": "Chesterfield, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576989",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-15T11:28:21.537Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000149576079",
-      "title": "Graduate Bridge Structures Engineer – Croydon (2026)",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576079",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-15T11:22:55.194Z",
       "daysAgo": "0d"
     },
     {

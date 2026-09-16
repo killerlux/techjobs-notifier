@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-15T21:36:11.575Z
+- Updated: 2026-09-16T03:25:28.531Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -12,8 +12,6 @@
 | AECOM | Graduate Civil Engineer – Highways & Infrastructure – Dublin (2027 Start) | standard | Ireland | Dublin, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149657279) |
 | AECOM | Graduate Bridge Structures Engineer – Bristol (2027 Start) | standard | United Kingdom | Bristol, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149608119) |
 | AECOM | Graduate Bridge Structures Engineer – Cardiff (2027 Start) | standard | United Kingdom | Cardiff, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149604854) |
-| AECOM | Graduate Bridge Structures Engineer – Chesterfield (2026) | standard | United Kingdom | Chesterfield, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576989) |
-| AECOM | Graduate Bridge Structures Engineer – Croydon (2026) | standard | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149576079) |
 | AECOM | Graduate Geotechnical Engineer and Engineering Geologist - Leeds (2027 Intake) | standard | United Kingdom | Leeds, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149665099) |
 | AECOM | Water Graduate Structural Engineer / Multiple locations | standard | United Kingdom | Exeter, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149585009) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
