@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T14:01:21.104Z",
-  "count": 18,
+  "generatedAt": "2026-09-16T18:17:54.449Z",
+  "count": 14,
   "results": [
     {
       "id": "7297666002",
@@ -16,19 +16,6 @@
       "daysAgo": "0d"
     },
     {
-      "id": "744000149657279",
-      "title": "Graduate Civil Engineer – Highways & Infrastructure – Dublin (2027 Start)",
-      "location": "Dublin, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149657279",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-15T15:40:11.240Z",
-      "daysAgo": "0d"
-    },
-    {
       "id": "744000149850772",
       "title": "Graduate Bridge Structures Engineer – St Albans (2027 Start)",
       "location": "St Albans, gb",
@@ -39,19 +26,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-16T12:21:54.781Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000149665099",
-      "title": "Graduate Geotechnical Engineer and Engineering Geologist - Leeds (2027 Intake)",
-      "location": "Leeds, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149665099",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-15T16:12:08.617Z",
       "daysAgo": "0d"
     },
     {
@@ -186,32 +160,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000149577580",
-      "title": "Junior Help Desk Engineer (Spanish, English and French)",
-      "location": "Barcelona, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/eurofins/postings/744000149577580",
-      "company": "Eurofins",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-15T11:39:38.899Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000148498184",
-      "title": "Junior Engineering Geologist / Geotechnical Engineer",
-      "location": "Rome, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000148498184",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-09T13:04:08.463Z",
-      "daysAgo": "7d"
     },
     {
       "id": "744000148501069",
