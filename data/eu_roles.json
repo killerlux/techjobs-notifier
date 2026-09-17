@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T05:06:09.686Z",
-  "count": 11,
+  "generatedAt": "2026-09-17T10:14:19.023Z",
+  "count": 12,
   "results": [
     {
       "id": "7297666002",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-09-15T17:33:58-04:00",
       "daysAgo": "1d"
-    },
-    {
-      "id": "744000149850772",
-      "title": "Graduate Bridge Structures Engineer – St Albans (2027 Start)",
-      "location": "St Albans, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149850772",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-16T12:21:54.781Z",
-      "daysAgo": "0d"
     },
     {
       "id": "744000148744875",
@@ -110,6 +97,32 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "7804825002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-17T04:40:02-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "8418289002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-17T04:40:00-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
