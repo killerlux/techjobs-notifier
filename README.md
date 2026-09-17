@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-16T21:31:05.352Z
+- Updated: 2026-09-17T00:02:49.697Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 0d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 1d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | AECOM | Graduate Bridge Structures Engineer – St Albans (2027 Start) | standard | United Kingdom | St Albans, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149850772) |
 | AECOM | Water & Wastewater Treatment - Graduate Structural Engineer / Edinburgh | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149802749) |
 | AECOM | Water & Wastewater Treatment - Graduate Structural Engineer / Glasgow | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149799515) |
@@ -21,3 +21,4 @@
 | Relay Technologies | Graduate Software Engineer  | standard | United Kingdom | London - Hybrid | - | ashby | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
+| Fever Up | Graduate Software Engineer | standard | Spain | Spain | 0d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
