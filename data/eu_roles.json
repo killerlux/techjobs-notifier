@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T00:02:49.697Z",
-  "count": 14,
+  "generatedAt": "2026-09-17T05:06:09.686Z",
+  "count": 11,
   "results": [
     {
       "id": "7297666002",
@@ -26,45 +26,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-16T12:21:54.781Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000149802749",
-      "title": "Water & Wastewater Treatment - Graduate Structural Engineer / Edinburgh",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149802749",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-16T08:30:15.661Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000149799515",
-      "title": "Water & Wastewater Treatment - Graduate Structural Engineer / Glasgow",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149799515",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-16T08:28:11.793Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000149798565",
-      "title": "Water Graduate Structural Engineer / Edinburgh",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000149798565",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-16T08:17:31.781Z",
       "daysAgo": "0d"
     },
     {
