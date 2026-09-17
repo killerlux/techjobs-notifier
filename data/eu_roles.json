@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T10:14:19.023Z",
-  "count": 12,
+  "generatedAt": "2026-09-17T15:09:47.566Z",
+  "count": 14,
   "results": [
     {
       "id": "7297666002",
@@ -16,6 +16,32 @@
       "daysAgo": "1d"
     },
     {
+      "id": "744000150133530",
+      "title": "Water & Wastewater Treatment - Graduate Structural Engineer / Edinburgh & Glasgow",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150133530",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-17T14:39:13.338Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000150133655",
+      "title": "Water & Wastewater Treatment - Graduate Structural Engineer / Glasgow & Edinburgh",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150133655",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-17T14:38:43.073Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000148744875",
       "title": "Junior Electronics Engineer",
       "location": "Hastings, gb",
@@ -26,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:17:20.184Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000148745319",
@@ -39,7 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:13:36.857Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000148746319",
@@ -52,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-10T11:18:53.972Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
