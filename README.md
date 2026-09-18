@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-18T10:29:59.524Z
+- Updated: 2026-09-18T14:36:52.070Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -9,14 +9,16 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 2d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| AECOM | Graduate Bridge Structures Engineer - Edinburgh (2027 Start) | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150392685) |
 | AECOM | Hydrology & Hydraulic Modelling Graduate Engineer / Edinburgh | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150316229) |
 | AECOM | Water Graduate Mechanical Engineer / Belfast | standard | United Kingdom | Belfast, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150311860) |
-| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
-| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
-| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
+| General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
+| General Dynamics UK | Junior Mechanical Engineer | standard | United Kingdom | Hastings, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319) |
+| General Dynamics UK | Junior Software Engineers | standard | United Kingdom | Hastings, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Relay Technologies | Graduate Software Engineer  | standard | United Kingdom | London - Hybrid | - | ashby | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
+| Robert Bosch Venture Capital | Junior Project Engineer Services  | standard | Netherlands | Eindhoven, nl | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000150349009) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
