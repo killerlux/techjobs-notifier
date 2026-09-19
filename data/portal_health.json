@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:43:44.066Z",
+  "generatedAt": "2026-09-19T09:28:44.814Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
@@ -872,7 +872,7 @@
       "slug": "uplifter",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/uplifter/jobs?content=true -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
