@@ -9,7 +9,7 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 4d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| AECOM | Graduate Bridge Structures Engineer - Edinburgh (2027 Start) | standard | United Kingdom | Edinburgh, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150392685) |
+| AECOM | Graduate Bridge Structures Engineer - Edinburgh (2027 Start) | standard | United Kingdom | Edinburgh, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150392685) |
 | AECOM | Hydrology & Hydraulic Modelling Graduate Engineer / Edinburgh | standard | United Kingdom | Edinburgh, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150316229) |
 | AECOM | Water Graduate Mechanical Engineer / Belfast | standard | United Kingdom | Belfast, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150311860) |
 | General Dynamics UK | Junior Electronics Engineer | standard | United Kingdom | Hastings, gb | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875) |
