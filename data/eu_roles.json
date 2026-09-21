@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T10:57:15.496Z",
-  "count": 14,
+  "generatedAt": "2026-09-21T16:49:15.528Z",
+  "count": 16,
   "results": [
     {
       "id": "7297666002",
@@ -16,56 +16,82 @@
       "daysAgo": "5d"
     },
     {
-      "id": "744000150392685",
-      "title": "Graduate Bridge Structures Engineer - Edinburgh (2027 Start)",
-      "location": "Edinburgh, gb",
+      "id": "744000150696380",
+      "title": "Graduate Electrical Engineer - Water / Birmingham",
+      "location": "Birmingham, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150392685",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150696380",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-18T14:36:35.094Z",
-      "daysAgo": "2d"
+      "postedAt": "2026-09-21T13:23:18.698Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000148744875",
-      "title": "Junior Electronics Engineer",
-      "location": "Hastings, gb",
+      "id": "744000150696111",
+      "title": "Graduate Electrical Engineer - Water / Croydon",
+      "location": "Croydon, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148744875",
-      "company": "General Dynamics UK",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150696111",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-10T11:17:20.184Z",
-      "daysAgo": "10d"
+      "postedAt": "2026-09-21T13:23:59.822Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000148745319",
-      "title": "Junior Mechanical Engineer",
-      "location": "Hastings, gb",
+      "id": "744000150692025",
+      "title": "Graduate Electrical Engineer - Water / Leeds",
+      "location": "Leeds, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148745319",
-      "company": "General Dynamics UK",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150692025",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-10T11:13:36.857Z",
-      "daysAgo": "10d"
+      "postedAt": "2026-09-21T13:24:34.335Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000148746319",
-      "title": "Junior Software Engineers",
-      "location": "Hastings, gb",
+      "id": "744000150697734",
+      "title": "Graduate Mechanical Engineer - Water / Birmingham",
+      "location": "Birmingham, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000148746319",
-      "company": "General Dynamics UK",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150697734",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-10T11:18:53.972Z",
-      "daysAgo": "10d"
+      "postedAt": "2026-09-21T13:28:42.379Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000150699044",
+      "title": "Graduate Mechanical Engineer - Water / Croydon",
+      "location": "Croydon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150699044",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-21T13:29:22.256Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000150696304",
+      "title": "Graduate Mechanical Engineer - Water / Leeds",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150696304",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-21T13:30:05.911Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
