@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T14:36:52.070Z",
-  "count": 16,
+  "generatedAt": "2026-09-21T10:57:15.496Z",
+  "count": 14,
   "results": [
     {
       "id": "7297666002",
@@ -26,32 +26,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-18T14:36:35.094Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000150316229",
-      "title": "Hydrology & Hydraulic Modelling Graduate Engineer / Edinburgh",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150316229",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-18T08:59:07.522Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000150311860",
-      "title": "Water Graduate Mechanical Engineer / Belfast",
-      "location": "Belfast, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150311860",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-18T08:53:31.080Z",
       "daysAgo": "2d"
     },
     {
@@ -127,19 +101,6 @@
       "priorityTier": "standard"
     },
     {
-      "id": "744000150349009",
-      "title": "Junior Project Engineer Services ",
-      "location": "Eindhoven, nl",
-      "country": "Netherlands",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000150349009",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-18T11:36:46.997Z",
-      "daysAgo": "2d"
-    },
-    {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "location": "Singapore",
@@ -149,6 +110,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000150646189",
+      "title": "Junior Power Systems Engineer for Design of Future Green Energy Systems",
+      "location": "København S, dk",
+      "country": "Denmark",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000150646189",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-21T09:36:01.820Z",
+      "daysAgo": "0d"
     },
     {
       "id": "7804825002",
@@ -161,7 +135,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-17T04:40:02-04:00",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "8418289002",
@@ -174,7 +148,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-17T04:40:00-04:00",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
