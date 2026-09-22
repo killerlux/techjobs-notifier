@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-21T10:40:55.992Z",
+  "generatedAt": "2026-09-22T09:55:57.271Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 689,
-    "degraded": 5,
+    "healthy": 699,
+    "degraded": 4,
     "empty": 46,
-    "fetch_error": 112,
+    "fetch_error": 103,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -17,7 +17,7 @@
       "slug": "agilespaceindustries",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/agilespaceindustries/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -81,6 +81,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/attentive?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Autoroboto",
+      "type": "lever",
+      "slug": "autoroboto",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/autoroboto?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -201,15 +210,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Concentric",
-      "type": "greenhouse",
-      "slug": "concentric",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -270,15 +270,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Fashion Nova",
-      "type": "greenhouse",
-      "slug": "fashionnova",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -453,6 +444,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Lucid Software",
+      "type": "greenhouse",
+      "slug": "lucidsoftware",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Lumin Digital",
       "type": "lever",
       "slug": "lumindigital",
@@ -525,15 +525,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Moloco",
-      "type": "greenhouse",
-      "slug": "moloco",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Morse Micro",
       "type": "greenhouse",
       "slug": "morsemicro",
@@ -557,16 +548,7 @@
       "slug": "omnionpower",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "OpenEye",
-      "type": "greenhouse",
-      "slug": "openeye",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/omnionpower/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -594,15 +576,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "PlayStation",
-      "type": "greenhouse",
-      "slug": "naughtydog",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -656,7 +629,7 @@
       "slug": "radiantsecurity",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/radiantsecurity/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -687,15 +660,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Redwood Materials",
-      "type": "greenhouse",
-      "slug": "redwoodmaterials",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Regal",
       "type": "lever",
       "slug": "regalvoice",
@@ -723,15 +687,6 @@
       "checkedUrls": []
     },
     {
-      "company": "RPA",
-      "type": "greenhouse",
-      "slug": "rpa",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Runpod",
       "type": "greenhouse",
       "slug": "runpod",
@@ -747,15 +702,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/sagardcareers/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Sayari",
-      "type": "greenhouse",
-      "slug": "sayari",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -837,15 +783,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/talentwerx.io?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Tecovas",
-      "type": "greenhouse",
-      "slug": "tecovas",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -972,24 +909,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Visual Concepts",
-      "type": "greenhouse",
-      "slug": "visualconcepts",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "VML Enterprise Solutions",
-      "type": "greenhouse",
-      "slug": "vmlenterprisesolutions",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
