@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-22T13:52:31.628Z
+- Updated: 2026-09-22T17:54:32.079Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -9,8 +9,6 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 6d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| AECOM |  Graduate Process Engineer Water / Cambridge | standard | United Kingdom | Cambridge, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150964949) |
-| AECOM | Graduate Process Engineer Water / St Albans | standard | United Kingdom | St Albans, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000150964739) |
 | AECOM | Water Graduate Engineer - Dams / Edinburgh | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151033650) |
 | AECOM | Water Graduate Engineer - Dams & Reservoirs / Basingstoke | standard | United Kingdom | Basingstoke, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151033579) |
 | AECOM | Water Graduate Engineer - Dams & Reservoirs / Bristol | standard | United Kingdom | Bristol, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151027214) |
