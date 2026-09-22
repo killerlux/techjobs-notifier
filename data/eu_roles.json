@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T20:50:52.115Z",
-  "count": 17,
+  "generatedAt": "2026-09-22T23:27:51.108Z",
+  "count": 12,
   "results": [
     {
       "id": "7297666002",
@@ -13,72 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-15T17:33:58-04:00",
-      "daysAgo": "6d"
-    },
-    {
-      "id": "744000151033650",
-      "title": "Water Graduate Engineer - Dams / Edinburgh",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151033650",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-22T13:15:14.314Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000151033579",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Basingstoke",
-      "location": "Basingstoke, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151033579",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-22T13:09:25.661Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000151033789",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Cardiff",
-      "location": "Cardiff, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151033789",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-22T13:10:05.715Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000151030315",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Croydon",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151030315",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-22T13:07:50.739Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000151033359",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / London",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000151033359",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-22T13:08:37.807Z",
-      "daysAgo": "0d"
+      "daysAgo": "7d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -211,7 +146,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-16T18:31:30-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     }
   ]
 }
