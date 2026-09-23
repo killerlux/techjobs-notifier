@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-22T09:55:57.271Z",
+  "generatedAt": "2026-09-23T09:57:49.528Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 699,
     "degraded": 4,
-    "empty": 46,
-    "fetch_error": 103,
+    "empty": 47,
+    "fetch_error": 102,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -441,15 +441,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/loop/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Lucid Software",
-      "type": "greenhouse",
-      "slug": "lucidsoftware",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
