@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-22T23:27:51.108Z
+- Updated: 2026-09-23T07:17:05.022Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -20,3 +20,4 @@
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 6d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
