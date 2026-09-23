@@ -15,8 +15,8 @@
 | Relay Technologies | Graduate Software Engineer  | standard | United Kingdom | London - Hybrid | - | ashby | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Ramboll | Junior Power Systems Engineer for Design of Future Green Energy Systems | standard | Denmark | København S, dk | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000150646189) |
-| Ramboll | Junior Power Systems Engineer for Design of Future Green Energy Systems | standard | Denmark | Esbjerg, dk | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000151033209) |
-| Ramboll | Junior Power Systems Engineer for Design of Future Green Energy Systems | standard | Denmark | Vejle, dk | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000151033309) |
+| Ramboll | Junior Power Systems Engineer for Design of Future Green Energy Systems | standard | Denmark | Esbjerg, dk | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000151033209) |
+| Ramboll | Junior Power Systems Engineer for Design of Future Green Energy Systems | standard | Denmark | Vejle, dk | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000151033309) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
