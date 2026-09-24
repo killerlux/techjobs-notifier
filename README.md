@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-24T13:41:06.412Z
+- Updated: 2026-09-24T18:08:18.872Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -9,6 +9,7 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 8d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Talan | Développeur Java Backend Junior - H/F | standard | France | Paris, fr | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000151645519) |
 | Data Intellect | Graduate STEM Developer (October Start) | standard | United Kingdom | Belfast, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000151366579) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
