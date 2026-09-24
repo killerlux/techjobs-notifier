@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-23T09:57:49.528Z",
+  "generatedAt": "2026-09-24T09:58:35.784Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 699,
+    "healthy": 697,
     "degraded": 4,
     "empty": 47,
-    "fetch_error": 102,
+    "fetch_error": 104,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -36,6 +36,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Alpha FMC",
+      "type": "greenhouse",
+      "slug": "alphafmcroles",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -135,6 +144,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/boomsupersonic/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Box",
+      "type": "greenhouse",
+      "slug": "boxinc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
