@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-24T09:58:35.784Z",
+  "generatedAt": "2026-09-25T10:10:44.977Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 697,
+    "healthy": 698,
     "degraded": 4,
     "empty": 47,
-    "fetch_error": 104,
+    "fetch_error": 103,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -36,15 +36,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Alpha FMC",
-      "type": "greenhouse",
-      "slug": "alphafmcroles",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -144,15 +135,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/boomsupersonic/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Box",
-      "type": "greenhouse",
-      "slug": "boxinc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -813,6 +795,15 @@
       "checkedUrls": []
     },
     {
+      "company": "The Pharmacy Hub",
+      "type": "greenhouse",
+      "slug": "thepharmacyhub",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "The Swift Group",
       "type": "greenhouse",
       "slug": "theswiftgroup",
@@ -917,7 +908,7 @@
       "slug": "valon",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
