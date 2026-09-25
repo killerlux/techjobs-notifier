@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T18:08:18.872Z",
-  "count": 16,
+  "generatedAt": "2026-09-25T10:23:01.875Z",
+  "count": 15,
   "results": [
     {
       "id": "7297666002",
@@ -96,7 +96,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-21T09:36:01.820Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000151033209",
@@ -135,7 +135,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-17T04:40:02-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "8418289002",
@@ -148,7 +148,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-17T04:40:00-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -173,19 +173,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-09-16T18:31:30-04:00",
       "daysAgo": "8d"
-    },
-    {
-      "id": "744000151594720",
-      "title": "Junior Digital Verification Engineer",
-      "location": "Milano, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000151594720",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-24T11:41:37.919Z",
-      "daysAgo": "0d"
     },
     {
       "id": "8642285002",
