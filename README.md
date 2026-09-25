@@ -23,4 +23,4 @@
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 8d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
 | Robert Bosch Venture Capital | Junior Digital Verification Engineer | standard | Italy | Milano, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000151594720) |
-| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
