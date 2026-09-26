@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-25T10:10:44.977Z",
+  "generatedAt": "2026-09-26T09:51:22.111Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 698,
+    "healthy": 694,
     "degraded": 4,
-    "empty": 47,
-    "fetch_error": 103,
+    "empty": 49,
+    "fetch_error": 105,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -372,6 +372,15 @@
       "checkedUrls": []
     },
     {
+      "company": "iCapital Network",
+      "type": "greenhouse",
+      "slug": "icapitalnetwork",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "iHerb",
       "type": "greenhouse",
       "slug": "iherb",
@@ -543,6 +552,15 @@
       "checkedUrls": []
     },
     {
+      "company": "onXmaps",
+      "type": "greenhouse",
+      "slug": "onxmaps",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Otto Aviation",
       "type": "greenhouse",
       "slug": "ottoaviation",
@@ -558,6 +576,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/overlandai/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ping Identity",
+      "type": "greenhouse",
+      "slug": "pingidentity",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -795,15 +822,6 @@
       "checkedUrls": []
     },
     {
-      "company": "The Pharmacy Hub",
-      "type": "greenhouse",
-      "slug": "thepharmacyhub",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "The Swift Group",
       "type": "greenhouse",
       "slug": "theswiftgroup",
@@ -908,7 +926,7 @@
       "slug": "valon",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
