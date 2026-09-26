@@ -23,4 +23,4 @@
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 9d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
-| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
+| New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
