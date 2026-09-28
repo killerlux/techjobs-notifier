@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T01:22:18.540Z",
-  "count": 14,
+  "generatedAt": "2026-09-28T15:44:34.066Z",
+  "count": 13,
   "results": [
     {
       "id": "744000151645519",
@@ -13,20 +13,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-24T14:57:52.144Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
-      "id": "744000151366579",
-      "title": "Graduate STEM Developer (October Start)",
+      "id": "744000152146759",
+      "title": "Graduate Engineer - Belfast (2027 start)",
       "location": "Belfast, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000151366579",
-      "company": "Data Intellect",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152146759",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-23T12:16:12.755Z",
-      "daysAgo": "4d"
+      "postedAt": "2026-09-28T11:26:24.047Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -72,7 +72,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-25T13:26:43.751Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -96,7 +96,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-21T09:36:01.820Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000151033209",
@@ -109,7 +109,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-22T13:08:11.825Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "744000151033309",
@@ -122,33 +122,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-22T13:08:31.444Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
-      "id": "7804825002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
-      "company": "Artefact",
-      "source": "greenhouse",
+      "id": "744000152197241",
+      "title": "Junior Managers Program - Software & KI (w/m/div.)",
+      "location": "Wien, at",
+      "country": "Austria",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000152197241",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-17T04:40:02-04:00",
-      "daysAgo": "10d"
-    },
-    {
-      "id": "8418289002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-17T04:40:00-04:00",
-      "daysAgo": "10d"
+      "postedAt": "2026-09-28T14:37:58.739Z",
+      "daysAgo": "0d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
