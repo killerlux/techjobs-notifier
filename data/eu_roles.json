@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T07:16:56.181Z",
-  "count": 10,
+  "generatedAt": "2026-09-29T14:12:50.348Z",
+  "count": 9,
   "results": [
     {
       "id": "744000151645519",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-09-24T14:57:52.144Z",
       "daysAgo": "4d"
-    },
-    {
-      "id": "744000152146759",
-      "title": "Graduate Engineer - Belfast (2027 start)",
-      "location": "Belfast, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152146759",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-28T11:26:24.047Z",
-      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -86,19 +73,6 @@
       "priorityTier": "standard"
     },
     {
-      "id": "744000152197241",
-      "title": "Junior Managers Program - Software & KI (w/m/div.)",
-      "location": "Wien, at",
-      "country": "Austria",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000152197241",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-28T14:37:58.739Z",
-      "daysAgo": "0d"
-    },
-    {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
       "title": "Software Engineer, New Grad (2027)",
       "location": "Vienna, Austria",
@@ -108,6 +82,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000152402383",
+      "title": "Junior Traction Power Engineer",
+      "location": "Madrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152402383",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-29T12:14:39.769Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8642285002",
