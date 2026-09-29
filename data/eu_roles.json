@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T14:12:50.348Z",
-  "count": 9,
+  "generatedAt": "2026-09-29T19:33:23.654Z",
+  "count": 10,
   "results": [
     {
       "id": "744000151645519",
@@ -13,7 +13,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-24T14:57:52.144Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
+    },
+    {
+      "id": "744000152478863",
+      "title": "Graduate Electrical, Controls & Instrument (EC&I) Engineer  (Nuclear) Warrington - start July 27 onwards",
+      "location": "Warrington, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152478863",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-29T15:43:34.396Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
