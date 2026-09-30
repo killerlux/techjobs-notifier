@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T19:33:23.654Z",
-  "count": 10,
+  "generatedAt": "2026-09-30T08:50:24.585Z",
+  "count": 14,
   "results": [
     {
       "id": "744000151645519",
@@ -26,6 +26,58 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-09-29T15:43:34.396Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152623500",
+      "title": "Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - Birmingham (Summer 2027)",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152623500",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-30T08:30:18.270Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152624309",
+      "title": "Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - London (Summer 2027)",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152624309",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-30T08:31:17.369Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152624119",
+      "title": "Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - Manchester (Summer 2027)",
+      "location": "Manchester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152624119",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-30T08:30:57.103Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152624439",
+      "title": "Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - Swindon (Summer 2027)",
+      "location": "Swindon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152624439",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-09-30T08:31:59.410Z",
       "daysAgo": "0d"
     },
     {
