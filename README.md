@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-09-30T15:34:42.433Z
+- Updated: 2026-09-30T20:30:32.341Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -10,19 +10,6 @@
 |---|---|---|---|---|---|---|---|
 | Talan | Développeur Java Backend Junior - H/F | standard | France | Paris, fr | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000151645519) |
 | AECOM | Graduate Bridge Structures Engineer – St Albans (Immediate Start) | standard | United Kingdom | St Albans, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152714909) |
-| AECOM | Graduate Rail Civil Engineer - Leeds (2027 Start) | standard | United Kingdom | Leeds, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152635710) |
-| AECOM | Graduate Rail Civil Engineer - London/Croydon (2027 Start) | standard | United Kingdom | London, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152635126) |
-| AECOM | Graduate Rail Civil Engineer - London/Croydon (2027 Start) | standard | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152636499) |
-| AECOM | Graduate Rail Civil Engineer - Swindon (2027 Start) | standard | United Kingdom | Swindon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152636519) |
-| AECOM | Graduate Rail Mechanical Engineer - Birmingham/Manchester (Summer 2027) | standard | United Kingdom | Manchester, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152641960) |
-| AECOM | Graduate Rail Mechanical Engineer - Birmingham/Manchester (Summer 2027) | standard | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152643559) |
-| AECOM | Graduate Rail Mechanical Engineer - Glasgow (Summer 2027) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152640021) |
-| AECOM | Graduate Rail Mechanical Engineer - Leeds (Summer 2027) | standard | United Kingdom | Leeds, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152639456) |
-| AECOM | Graduate Rail Mechanical Engineer - Swindon (Summer 2027) | standard | United Kingdom | Swindon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152641871) |
-| AECOM | Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - Birmingham (Summer 2027) | standard | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152623500) |
-| AECOM | Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - London (Summer 2027) | standard | United Kingdom | London, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152624309) |
-| AECOM | Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - Manchester (Summer 2027) | standard | United Kingdom | Manchester, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152624119) |
-| AECOM | Graduate Rail Systems Engineering & Systems Assurance (SESA) Engineer - Swindon (Summer 2027) | standard | United Kingdom | Swindon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152624439) |
 | AECOM | Water Graduate Engineer - Dams & Reservoirs / Basingstoke (Summer 2027) | standard | United Kingdom | Basingstoke, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662142) |
 | AECOM | Water Graduate Engineer - Dams & Reservoirs / Bristol (Summer 2027) | standard | United Kingdom | Bristol, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662399) |
 | AECOM | Water Graduate Engineer - Dams & Reservoirs / Cardiff (Summer 2027) | standard | United Kingdom | Cardiff, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662910) |
