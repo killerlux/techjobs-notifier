@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T00:08:22.212Z",
-  "count": 8,
+  "generatedAt": "2026-10-01T13:42:29.248Z",
+  "count": 19,
   "results": [
     {
       "id": "744000151645519",
@@ -14,6 +14,110 @@
       "priorityTier": "standard",
       "postedAt": "2026-09-24T14:57:52.144Z",
       "daysAgo": "6d"
+    },
+    {
+      "id": "744000152865404",
+      "title": " Graduate Process Engineer Water / Cambridge",
+      "location": "Cambridge, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152865404",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T08:19:18.128Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152883302",
+      "title": "Graduate Civil Engineer – Highways & Infrastructure – Chesterfield (2027 Start)",
+      "location": "Chesterfield, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152883302",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T09:30:26.582Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152866079",
+      "title": "Graduate Mechanical Engineer - Water / Birmingham",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152866079",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T08:19:51.672Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152865655",
+      "title": "Graduate Mechanical Engineer - Water / Croydon",
+      "location": "Croydon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152865655",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T08:20:10.066Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152866309",
+      "title": "Graduate Mechanical Engineer - Water / Leeds",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152866309",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T08:20:25.913Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152865799",
+      "title": "Graduate Process Engineer Water / St Albans",
+      "location": "St Albans, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152865799",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T08:18:56.177Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152920709",
+      "title": "Graduate Traffic Engineer - Manchester (2027 start)",
+      "location": "Manchester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152920709",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T12:09:52.958Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000152916616",
+      "title": "Graduate Traffic Engineer - Newcastle (2027 start)",
+      "location": "Newcastle upon Tyne, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152916616",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T12:01:45.587Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -58,8 +162,8 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-09-28T22:04:51-04:00",
-      "daysAgo": "2d"
+      "postedAt": "2026-10-01T03:43:33-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -73,6 +177,32 @@
       "priorityTier": "standard"
     },
     {
+      "id": "7804825002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T03:43:33-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "8418289002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T03:43:33-04:00",
+      "daysAgo": "0d"
+    },
+    {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
       "title": "Software Engineer, New Grad (2027)",
       "location": "Vienna, Austria",
@@ -82,6 +212,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000152933744",
+      "title": "Junior Civil Engineer",
+      "location": "Milan, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152933744",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-01T13:08:29.080Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8642285002",
