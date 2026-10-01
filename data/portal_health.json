@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-30T11:09:37.167Z",
+  "generatedAt": "2026-10-01T11:36:22.564Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 695,
     "degraded": 4,
-    "empty": 50,
-    "fetch_error": 103,
+    "empty": 49,
+    "fetch_error": 104,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -702,6 +702,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/sagardcareers/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Saronic",
+      "type": "lever",
+      "slug": "saronic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/saronic?mode=json -> 404",
       "checkedUrls": []
     },
     {
