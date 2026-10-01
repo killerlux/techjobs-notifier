@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T20:30:32.341Z",
-  "count": 15,
+  "generatedAt": "2026-10-01T00:08:22.212Z",
+  "count": 8,
   "results": [
     {
       "id": "744000151645519",
@@ -14,97 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-09-24T14:57:52.144Z",
       "daysAgo": "6d"
-    },
-    {
-      "id": "744000152714909",
-      "title": "Graduate Bridge Structures Engineer – St Albans (Immediate Start)",
-      "location": "St Albans, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152714909",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T15:27:25.980Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152662142",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Basingstoke (Summer 2027)",
-      "location": "Basingstoke, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662142",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T11:41:19.258Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152662399",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Bristol (Summer 2027)",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662399",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T11:40:03.348Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152662910",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Cardiff (Summer 2027)",
-      "location": "Cardiff, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662910",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T11:41:37.142Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152659691",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Croydon (Summer 2027)",
-      "location": "Croydon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152659691",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T11:40:29.308Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152660221",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / Exeter (Summer 2027)",
-      "location": "Exeter, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152660221",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T11:38:20.586Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152662669",
-      "title": "Water Graduate Engineer - Dams & Reservoirs / London (Summer 2027)",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152662669",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-30T11:40:51.513Z",
-      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
