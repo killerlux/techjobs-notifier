@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T19:14:31.153Z",
-  "count": 17,
+  "generatedAt": "2026-10-01T23:19:35.151Z",
+  "count": 15,
   "results": [
     {
       "id": "744000152961576",
@@ -52,32 +52,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T14:16:50.430Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152920709",
-      "title": "Graduate Traffic Engineer - Manchester (2027 start)",
-      "location": "Manchester, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152920709",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T12:09:52.958Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152916616",
-      "title": "Graduate Traffic Engineer - Newcastle (2027 start)",
-      "location": "Newcastle upon Tyne, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152916616",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T12:01:45.587Z",
       "daysAgo": "0d"
     },
     {
