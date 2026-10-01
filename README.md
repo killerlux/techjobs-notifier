@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-01T13:42:29.248Z
+- Updated: 2026-10-01T19:14:31.153Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,13 +8,10 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Talan | Développeur Java Backend Junior - H/F | standard | France | Paris, fr | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000151645519) |
-| AECOM |  Graduate Process Engineer Water / Cambridge | standard | United Kingdom | Cambridge, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152865404) |
-| AECOM | Graduate Civil Engineer – Highways & Infrastructure – Chesterfield (2027 Start) | standard | United Kingdom | Chesterfield, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152883302) |
-| AECOM | Graduate Mechanical Engineer - Water / Birmingham | standard | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152866079) |
-| AECOM | Graduate Mechanical Engineer - Water / Croydon | standard | United Kingdom | Croydon, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152865655) |
-| AECOM | Graduate Mechanical Engineer - Water / Leeds | standard | United Kingdom | Leeds, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152866309) |
-| AECOM | Graduate Process Engineer Water / St Albans | standard | United Kingdom | St Albans, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152865799) |
+| Veolia | Graduate Project Engineer | cac40 | Ireland | Celbridge, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000152961576) |
+| Talan | Développeur Java Backend Junior - H/F | standard | France | Paris, fr | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000151645519) |
+| AECOM | Graduate Traffic Engineer - Dublin (2027 start) | standard | Ireland | Dublin, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152965264) |
+| AECOM | Graduate Traffic Engineer - Bristol (2027 start) | standard | United Kingdom | Bristol, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152956219) |
 | AECOM | Graduate Traffic Engineer - Manchester (2027 start) | standard | United Kingdom | Manchester, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152920709) |
 | AECOM | Graduate Traffic Engineer - Newcastle (2027 start) | standard | United Kingdom | Newcastle upon Tyne, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152916616) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
@@ -26,4 +23,5 @@
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 0d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | AECOM | Junior Civil Engineer | standard | Italy | Milan, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152933744) |
+| Robert Bosch Venture Capital | Junior Digital Verification Engineer | standard | Italy | Milano, it | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000152956314) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
