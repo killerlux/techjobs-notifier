@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T23:19:35.151Z",
-  "count": 15,
+  "generatedAt": "2026-10-02T08:48:11.123Z",
+  "count": 13,
   "results": [
     {
       "id": "744000152961576",
@@ -77,17 +77,6 @@
       "priorityTier": "standard"
     },
     {
-      "id": "5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
-      "title": "Graduate Software Engineer ",
-      "location": "London - Hybrid",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
-      "company": "Relay Technologies",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
-    },
-    {
       "id": "8819682002",
       "title": "AI Strategist - China Campus Recruitment 2027",
       "location": "The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002",
@@ -98,7 +87,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -122,7 +111,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8418289002",
@@ -135,7 +124,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -147,19 +136,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000152933744",
-      "title": "Junior Civil Engineer",
-      "location": "Milan, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152933744",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T13:08:29.080Z",
-      "daysAgo": "0d"
     },
     {
       "id": "744000152956314",
