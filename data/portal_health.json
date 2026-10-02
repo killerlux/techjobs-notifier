@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T11:36:22.564Z",
+  "generatedAt": "2026-10-02T11:05:55.199Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 695,
     "degraded": 4,
-    "empty": 49,
-    "fetch_error": 104,
+    "empty": 48,
+    "fetch_error": 105,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -936,6 +936,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Whoop",
+      "type": "lever",
+      "slug": "whoop",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
