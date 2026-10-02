@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T08:48:11.123Z",
-  "count": 13,
+  "generatedAt": "2026-10-02T15:19:24.236Z",
+  "count": 10,
   "results": [
     {
       "id": "744000152961576",
@@ -13,46 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-10-01T14:45:09.162Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000151645519",
-      "title": "Développeur Java Backend Junior - H/F",
-      "location": "Paris, fr",
-      "country": "France",
-      "url": "https://api.smartrecruiters.com/v1/companies/talan/postings/744000151645519",
-      "company": "Talan",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-09-24T14:57:52.144Z",
-      "daysAgo": "7d"
-    },
-    {
-      "id": "744000152965264",
-      "title": "Graduate Traffic Engineer - Dublin (2027 start)",
-      "location": "Dublin, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152965264",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T14:49:54.025Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000152956219",
-      "title": "Graduate Traffic Engineer - Bristol (2027 start)",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000152956219",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T14:16:50.430Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -148,7 +109,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T14:20:09.690Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8642285002",
