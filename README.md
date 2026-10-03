@@ -11,9 +11,9 @@
 | Veolia | Graduate Project Engineer | cac40 | Ireland | Celbridge, ie | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000152961576) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
-| Artefact | AI Strategist - China Campus Recruitment 2027 | standard | Norway | The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002 | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8819682002) |
+| Artefact | AI Strategist - China Campus Recruitment 2027 | standard | Norway | The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002 | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8819682002) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 2d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | New Era Technology | Entry Level Support Engineer | standard | Malta | New Zealand - Mt. Wellington | 10d | greenhouse | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8642285002) |
