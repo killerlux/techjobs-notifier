@@ -1,44 +1,31 @@
 {
-  "generatedAt": "2026-10-05T09:25:19.978Z",
+  "generatedAt": "2026-10-05T18:42:53.119Z",
   "count": 9,
   "results": [
     {
-      "id": "744000152961576",
-      "title": "Graduate Project Engineer",
-      "location": "Celbridge, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000152961576",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-10-01T14:45:09.162Z",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000153435190",
-      "title": "Graduate Civil Engineer Renewable Energy - Edinburgh/Glasgow/Inverness-  start date April 27 onwards",
-      "location": "Edinburgh, gb",
+      "id": "744000153536131",
+      "title": "Graduate Civil Engineer – Highways & Infrastructure – Belfast (2027 Start)",
+      "location": "Belfast, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153435190",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153536131",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-05T08:40:13.927Z",
+      "postedAt": "2026-10-05T14:57:51.111Z",
       "daysAgo": "0d"
     },
     {
-      "id": "744000153434569",
-      "title": "Graduate Electrical Engineer (Renewable Energy) - Edinburgh/Glasgow -  start date July 2027 onwards",
-      "location": "Edinburgh, gb",
+      "id": "744000153559753",
+      "title": "Graduate Ports Engineer (2027 start)",
+      "location": "Glasgow, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153434569",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153559753",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-05T08:36:38.820Z",
+      "postedAt": "2026-10-05T16:30:50.539Z",
       "daysAgo": "0d"
     },
     {
@@ -110,6 +97,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000153502199",
+      "title": "Junior Civil Engineer",
+      "location": "Milan, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153502199",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-05T13:12:56.452Z",
+      "daysAgo": "0d"
     }
   ]
 }
