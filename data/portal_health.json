@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-04T11:06:05.778Z",
+  "generatedAt": "2026-10-05T12:15:15.396Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 695,
+    "healthy": 693,
     "degraded": 4,
     "empty": 49,
-    "fetch_error": 104,
+    "fetch_error": 106,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -156,6 +156,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Canvas Worldwide",
+      "type": "lever",
+      "slug": "canvasww",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Capital Rx",
       "type": "greenhouse",
       "slug": "capitalrx",
@@ -234,6 +243,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Delta Solutions & Strategies",
+      "type": "lever",
+      "slug": "deltasands",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
