@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-04T23:26:15.286Z
+- Updated: 2026-10-05T09:25:19.978Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -9,9 +9,11 @@
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
 | Veolia | Graduate Project Engineer | cac40 | Ireland | Celbridge, ie | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000152961576) |
+| AECOM | Graduate Civil Engineer Renewable Energy - Edinburgh/Glasgow/Inverness-  start date April 27 onwards | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153435190) |
+| AECOM | Graduate Electrical Engineer (Renewable Energy) - Edinburgh/Glasgow -  start date July 2027 onwards | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153434569) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer, Infrastructure (Early Career) | standard | United Kingdom | Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 3d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 4d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
