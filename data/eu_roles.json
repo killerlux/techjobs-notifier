@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T18:42:53.119Z",
-  "count": 9,
+  "generatedAt": "2026-10-06T00:34:01.536Z",
+  "count": 8,
   "results": [
     {
       "id": "744000153536131",
@@ -40,11 +40,11 @@
       "priorityTier": "standard"
     },
     {
-      "id": "9a7ef2f9-577a-4242-b884-719e3cdf4420",
-      "title": "Software Engineer, Infrastructure (Early Career)",
-      "location": "Cambridge, MA",
+      "id": "fc93a467-773d-4805-b342-bf470950732d",
+      "title": "Software Engineer, Applied AI (Early Career)",
+      "location": "HQ: San Francisco, Cambridge, MA",
       "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420",
+      "url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
       "company": "Lightfield",
       "source": "ashby",
       "matchReason": "level+tech",
@@ -97,19 +97,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000153502199",
-      "title": "Junior Civil Engineer",
-      "location": "Milan, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153502199",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-05T13:12:56.452Z",
-      "daysAgo": "0d"
     }
   ]
 }
