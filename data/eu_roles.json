@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-10-06T14:21:21.567Z",
-  "count": 20,
+  "generatedAt": "2026-10-06T19:40:40.157Z",
+  "count": 26,
   "results": [
-    {
-      "id": "744000153702719",
-      "title": "Graduate Highway Engineer - Cardiff (2027 Start)",
-      "location": "Cardiff, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153702719",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-06T09:07:47.385Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000153749690",
       "title": "Graduate Pavement and Materials Engineer - Manchester (2027 start)",
@@ -39,6 +26,84 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T12:20:22.870Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153804552",
+      "title": "Graduate Ports Engineer - Bristol (2027 start)",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153804552",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T15:52:26.877Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153809119",
+      "title": "Graduate Ports Engineer - Liverpool (2027 start)",
+      "location": "Liverpool, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153809119",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T15:51:49.065Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153809028",
+      "title": "Graduate Ports Engineer - Plymouth (2027 start)",
+      "location": "Plymouth, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153809028",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T15:51:23.092Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153779589",
+      "title": "Graduate Rail Electrical Engineer - Croydon (2027 Start)",
+      "location": "Croydon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153779589",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T14:22:22.825Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153779229",
+      "title": "Graduate Rail Electrical Engineer - Glasgow (2027 Start)",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153779229",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T14:21:22.106Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153779449",
+      "title": "Graduate Rail Electrical Engineer - Swindon (2027 Start)",
+      "location": "Swindon, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153779449",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T14:21:53.094Z",
       "daysAgo": "0d"
     },
     {
@@ -252,6 +317,19 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T06:18:11-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153804779",
+      "title": "VCARB F1 Team - Junior Stress Engineer",
+      "location": "Faenza, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/redbull/postings/744000153804779",
+      "company": "Red Bull",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T15:40:37.504Z",
       "daysAgo": "0d"
     }
   ]
