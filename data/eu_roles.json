@@ -1,31 +1,174 @@
 {
-  "generatedAt": "2026-10-06T00:34:01.536Z",
-  "count": 8,
+  "generatedAt": "2026-10-06T14:21:21.567Z",
+  "count": 20,
   "results": [
     {
-      "id": "744000153536131",
-      "title": "Graduate Civil Engineer – Highways & Infrastructure – Belfast (2027 Start)",
-      "location": "Belfast, gb",
+      "id": "744000153702719",
+      "title": "Graduate Highway Engineer - Cardiff (2027 Start)",
+      "location": "Cardiff, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153536131",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153702719",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-05T14:57:51.111Z",
+      "postedAt": "2026-10-06T09:07:47.385Z",
       "daysAgo": "0d"
     },
     {
-      "id": "744000153559753",
-      "title": "Graduate Ports Engineer (2027 start)",
-      "location": "Glasgow, gb",
+      "id": "744000153749690",
+      "title": "Graduate Pavement and Materials Engineer - Manchester (2027 start)",
+      "location": "Manchester, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153559753",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153749690",
       "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-05T16:30:50.539Z",
+      "postedAt": "2026-10-06T12:34:41.722Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153744741",
+      "title": "Graduate Pavement and Materials Engineer (2027 start)",
+      "location": "Nottingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000153744741",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T12:20:22.870Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153729577",
+      "title": "Graduate EC&I Engineer",
+      "location": "Derby, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153729577",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:03:39.748Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153729739",
+      "title": "Graduate EC&I Engineer",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153729739",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:04:13.402Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153730549",
+      "title": "Graduate EC&I Engineer",
+      "location": "Newcastle, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153730549",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:08:38.253Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153730589",
+      "title": "Graduate EC&I Engineer",
+      "location": "Bridgwater, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153730589",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:09:00.608Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153733944",
+      "title": "Graduate Mechanical Engineer",
+      "location": "Newcastle upon Tyne, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153733944",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:28:05.763Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153734690",
+      "title": "Graduate Mechanical Engineer",
+      "location": "Derby, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153734690",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:29:44.794Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153734800",
+      "title": "Graduate Mechanical Engineer",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153734800",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:30:49.486Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153735479",
+      "title": "Graduate Mechanical Engineer",
+      "location": "Bridgwater, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153735479",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T11:31:44.844Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153765571",
+      "title": "Graduate Process Engineer",
+      "location": "Bolton, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153765571",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T13:35:24.395Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000153767999",
+      "title": "Graduate Process Engineer",
+      "location": "Derby, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153767999",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T13:38:02.120Z",
       "daysAgo": "0d"
     },
     {
@@ -72,7 +215,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "8418289002",
@@ -85,7 +228,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -97,6 +240,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "4951979101",
+      "title": "Graduate Software Engineer",
+      "location": "Spain",
+      "country": "Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101",
+      "company": "Fever Up",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-06T06:18:11-04:00",
+      "daysAgo": "0d"
     }
   ]
 }
