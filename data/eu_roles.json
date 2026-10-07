@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T11:14:06.658Z",
-  "count": 20,
+  "generatedAt": "2026-10-07T17:53:38.986Z",
+  "count": 19,
   "results": [
     {
       "id": "744000154032099",
@@ -13,19 +13,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-07T08:01:22.304Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000154040571",
-      "title": "Graduate Civil Engineer – Highways & Infrastructure – Newcastle (2027 Start)",
-      "location": "Newcastle upon Tyne, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154040571",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-07T08:45:10.859Z",
       "daysAgo": "0d"
     },
     {
@@ -91,7 +78,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T11:28:05.763Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000153734690",
@@ -104,7 +91,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T11:29:44.794Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000153734800",
@@ -117,7 +104,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T11:30:49.486Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000153735479",
@@ -130,7 +117,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T11:31:44.844Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000153765571",
@@ -143,7 +130,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T13:35:24.395Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000153767999",
@@ -156,7 +143,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T13:38:02.120Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -252,7 +239,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T15:40:37.504Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     }
   ]
 }
