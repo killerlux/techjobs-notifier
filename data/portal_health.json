@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-10-06T12:01:54.487Z",
+  "generatedAt": "2026-10-07T11:46:16.426Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 681,
+    "healthy": 696,
     "degraded": 4,
-    "empty": 49,
-    "fetch_error": 118,
+    "empty": 48,
+    "fetch_error": 104,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
-    {
-      "company": "Agile Defense",
-      "type": "lever",
-      "slug": "agile-defense",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -345,15 +336,6 @@
       "checkedUrls": []
     },
     {
-      "company": "General Atlantic",
-      "type": "greenhouse",
-      "slug": "generalatlantic",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Genies",
       "type": "greenhouse",
       "slug": "genies",
@@ -387,15 +369,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/grayce/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Harbor",
-      "type": "greenhouse",
-      "slug": "harborglobal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -453,15 +426,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Jensen Hughes",
-      "type": "greenhouse",
-      "slug": "jensenhughes",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "KDDI",
       "type": "lever",
       "slug": "kddia",
@@ -471,30 +435,12 @@
       "checkedUrls": []
     },
     {
-      "company": "LayerZero Labs",
-      "type": "greenhouse",
-      "slug": "layerzerolabs",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "League",
-      "type": "greenhouse",
-      "slug": "leagueinc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "LetsGetChecked",
       "type": "greenhouse",
       "slug": "letsgetchecked",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://boards-api.greenhouse.io/v1/boards/letsgetchecked/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -525,30 +471,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Major League Baseball",
-      "type": "greenhouse",
-      "slug": "baltimoreorioles",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Marqeta",
       "type": "greenhouse",
       "slug": "mqreferrals",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/mqreferrals/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Marshall Wace",
-      "type": "greenhouse",
-      "slug": "mw-tech-grad",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -606,24 +534,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Neuralink",
-      "type": "greenhouse",
-      "slug": "neuralink",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "NICE",
-      "type": "greenhouse",
-      "slug": "nice",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Nimble Robotics",
       "type": "lever",
       "slug": "nimbleai",
@@ -639,15 +549,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/omnionpower/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "OpenSesame",
-      "type": "greenhouse",
-      "slug": "opensesame",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -684,15 +585,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Pure Storage",
-      "type": "greenhouse",
-      "slug": "purestorage",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -774,15 +666,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/regalvoice?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Remodel Health",
-      "type": "greenhouse",
-      "slug": "remodelhealth",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -900,15 +783,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sylvera?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Take Two",
-      "type": "greenhouse",
-      "slug": "taketwo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
