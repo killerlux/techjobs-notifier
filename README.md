@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-07T17:53:38.986Z
+- Updated: 2026-10-08T09:20:03.926Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,9 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Talan | Développeur Java Backend Junior - H/F | standard | France | Paris, fr | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000154032099) |
-| ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Derby, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153729577) |
-| ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Glasgow, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153729739) |
+| Talan | Développeur Java Backend Junior - H/F | standard | France | Paris, fr | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/talan/postings/744000154032099) |
 | ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Newcastle, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153730549) |
 | ASSYSTEM | Graduate EC&I Engineer | standard | United Kingdom | Bridgwater, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153730589) |
 | ASSYSTEM | Graduate Mechanical Engineer | standard | United Kingdom | Newcastle upon Tyne, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153733944) |
@@ -22,8 +20,9 @@
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer, Applied AI (Early Career) | standard | United Kingdom | HQ: San Francisco, Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
-| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
+| Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 7d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
+| AECOM | Junior Traction Power Engineer | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154384169) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 1d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
 | Red Bull | VCARB F1 Team - Junior Stress Engineer | standard | Italy | Faenza, it | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/redbull/postings/744000153804779) |

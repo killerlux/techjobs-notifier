@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T17:53:38.986Z",
-  "count": 19,
+  "generatedAt": "2026-10-08T09:20:03.926Z",
+  "count": 18,
   "results": [
     {
       "id": "744000154032099",
@@ -13,32 +13,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-07T08:01:22.304Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000153729577",
-      "title": "Graduate EC&I Engineer",
-      "location": "Derby, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153729577",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:03:39.748Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000153729739",
-      "title": "Graduate EC&I Engineer",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153729739",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:04:13.402Z",
       "daysAgo": "1d"
     },
     {
@@ -189,7 +163,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "8418289002",
@@ -202,7 +176,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -214,6 +188,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000154384169",
+      "title": "Junior Traction Power Engineer",
+      "location": "Madrid, es",
+      "country": "Spain",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154384169",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-08T09:10:13.603Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
