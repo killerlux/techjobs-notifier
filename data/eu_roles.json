@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T09:20:03.926Z",
-  "count": 18,
+  "generatedAt": "2026-10-08T16:45:12.263Z",
+  "count": 17,
   "results": [
     {
       "id": "744000154032099",
@@ -16,108 +16,69 @@
       "daysAgo": "1d"
     },
     {
-      "id": "744000153730549",
-      "title": "Graduate EC&I Engineer",
-      "location": "Newcastle, gb",
+      "id": "744000154418370",
+      "title": "Graduate Aviation Civil Engineer - Croydon (2027 start)",
+      "location": "Croydon, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153730549",
-      "company": "ASSYSTEM",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154418370",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:08:38.253Z",
-      "daysAgo": "1d"
+      "postedAt": "2026-10-08T12:03:35.622Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000153730589",
-      "title": "Graduate EC&I Engineer",
-      "location": "Bridgwater, gb",
+      "id": "744000154420269",
+      "title": "Graduate Aviation Civil Engineer - Manchester (2027 start)",
+      "location": "Manchester, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153730589",
-      "company": "ASSYSTEM",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154420269",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:09:00.608Z",
-      "daysAgo": "1d"
+      "postedAt": "2026-10-08T12:03:03.164Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000153733944",
-      "title": "Graduate Mechanical Engineer",
-      "location": "Newcastle upon Tyne, gb",
+      "id": "744000154415601",
+      "title": "Graduate Aviation Civil Engineer (2027 start)",
+      "location": "Manchester, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153733944",
-      "company": "ASSYSTEM",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154415601",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:28:05.763Z",
-      "daysAgo": "1d"
+      "postedAt": "2026-10-08T11:48:22.301Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000153734690",
-      "title": "Graduate Mechanical Engineer",
-      "location": "Derby, gb",
+      "id": "744000154473549",
+      "title": "Graduate Building Physics Engineer - London - (2027 starts)",
+      "location": "London, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153734690",
-      "company": "ASSYSTEM",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154473549",
+      "company": "AECOM",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:29:44.794Z",
-      "daysAgo": "1d"
+      "postedAt": "2026-10-08T15:28:29.992Z",
+      "daysAgo": "0d"
     },
     {
-      "id": "744000153734800",
-      "title": "Graduate Mechanical Engineer",
-      "location": "Glasgow, gb",
+      "id": "744000154448031",
+      "title": "Junior Information Security Officer",
+      "location": "London, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153734800",
-      "company": "ASSYSTEM",
+      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000154448031",
+      "company": "Experian",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:30:49.486Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000153735479",
-      "title": "Graduate Mechanical Engineer",
-      "location": "Bridgwater, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153735479",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-06T11:31:44.844Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000153765571",
-      "title": "Graduate Process Engineer",
-      "location": "Bolton, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153765571",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-06T13:35:24.395Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000153767999",
-      "title": "Graduate Process Engineer",
-      "location": "Derby, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000153767999",
-      "company": "ASSYSTEM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-06T13:38:02.120Z",
-      "daysAgo": "1d"
+      "postedAt": "2026-10-08T13:57:46.963Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -140,6 +101,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "8819682002",
+      "title": "AI Strategist - China Campus Recruitment 2027",
+      "location": "The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002",
+      "country": "Norway",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8819682002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-08T05:27:02-04:00",
+      "daysAgo": "0d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -213,7 +187,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T06:18:11-04:00",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000153804779",
@@ -226,7 +200,20 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T15:40:37.504Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
+    },
+    {
+      "id": "744000154430929",
+      "title": "Junior Digital Verification Engineer",
+      "location": "Milano, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000154430929",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-08T12:51:16.524Z",
+      "daysAgo": "0d"
     }
   ]
 }
