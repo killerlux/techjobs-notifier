@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T16:45:12.263Z",
-  "count": 17,
+  "generatedAt": "2026-10-08T21:47:23.698Z",
+  "count": 16,
   "results": [
     {
       "id": "744000154032099",
@@ -93,7 +93,7 @@
     },
     {
       "id": "fc93a467-773d-4805-b342-bf470950732d",
-      "title": "Software Engineer, Applied AI (Early Career)",
+      "title": "Software Engineer (Early Career)",
       "location": "HQ: San Francisco, Cambridge, MA",
       "country": "United Kingdom",
       "url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
@@ -162,19 +162,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000154384169",
-      "title": "Junior Traction Power Engineer",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154384169",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-08T09:10:13.603Z",
-      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
