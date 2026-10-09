@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T21:47:23.698Z",
-  "count": 16,
+  "generatedAt": "2026-10-09T08:26:00.095Z",
+  "count": 15,
   "results": [
     {
       "id": "744000154032099",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-07T08:01:22.304Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000154418370",
@@ -52,19 +52,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-08T11:48:22.301Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000154473549",
-      "title": "Graduate Building Physics Engineer - London - (2027 starts)",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154473549",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-08T15:28:29.992Z",
       "daysAgo": "0d"
     },
     {
@@ -137,7 +124,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "8418289002",
@@ -150,7 +137,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -177,17 +164,17 @@
       "daysAgo": "2d"
     },
     {
-      "id": "744000153804779",
-      "title": "VCARB F1 Team - Junior Stress Engineer",
+      "id": "744000154608647",
+      "title": "VCARB F1 Team - Junior Composite R&D Engineer",
       "location": "Faenza, it",
       "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/redbull/postings/744000153804779",
+      "url": "https://api.smartrecruiters.com/v1/companies/redbull/postings/744000154608647",
       "company": "Red Bull",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-06T15:40:37.504Z",
-      "daysAgo": "2d"
+      "postedAt": "2026-10-09T08:02:58.602Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000154430929",
