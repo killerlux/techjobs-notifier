@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T12:01:39.369Z",
+  "generatedAt": "2026-10-09T11:53:02.809Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 691,
-    "degraded": 3,
+    "healthy": 696,
+    "degraded": 4,
     "empty": 48,
-    "fetch_error": 110,
+    "fetch_error": 104,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -219,15 +219,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Commonwealth Fusion Systems",
-      "type": "lever",
-      "slug": "cfsenergy",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -279,15 +270,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/eluvio/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Empire State Realty Trust",
-      "type": "lever",
-      "slug": "esrtreit",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -426,15 +408,6 @@
       "checkedUrls": []
     },
     {
-      "company": "InfStones",
-      "type": "lever",
-      "slug": "infstones",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Interactive Brokers",
       "type": "greenhouse",
       "slug": "ibkr",
@@ -471,15 +444,6 @@
       "checkedUrls": []
     },
     {
-      "company": "LightEdge Solutions",
-      "type": "lever",
-      "slug": "lightedge",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Loop",
       "type": "greenhouse",
       "slug": "loop",
@@ -504,15 +468,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Major League Baseball",
-      "type": "lever",
-      "slug": "redsox",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -783,15 +738,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sensortower?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "SingleStore",
-      "type": "greenhouse",
-      "slug": "singlestore",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
