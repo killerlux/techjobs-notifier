@@ -1,19 +1,32 @@
 {
-  "generatedAt": "2026-10-09T15:28:06.170Z",
-  "count": 11,
+  "generatedAt": "2026-10-12T08:32:21.789Z",
+  "count": 10,
   "results": [
     {
-      "id": "744000154616249",
-      "title": "Graduate Building Physics Engineer (London)",
-      "location": "London, gb",
+      "id": "744000154937120",
+      "title": "Graduate STEM Developer (January 2027)",
+      "location": "Belfast, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000154616249",
-      "company": "AECOM",
+      "url": "https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154937120",
+      "company": "Data Intellect",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-09T08:26:47.967Z",
-      "daysAgo": "2d"
+      "postedAt": "2026-10-12T07:36:57.898Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000154938759",
+      "title": "Graduate STEM Developer (Summer 2027)",
+      "location": "Belfast, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154938759",
+      "company": "Data Intellect",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-12T07:30:56.740Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000154448031",
@@ -75,32 +88,6 @@
       "priorityTier": "standard"
     },
     {
-      "id": "7804825002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "10d"
-    },
-    {
-      "id": "8418289002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-01T03:43:33-04:00",
-      "daysAgo": "10d"
-    },
-    {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
       "title": "Software Engineer, New Grad (2027)",
       "location": "Vienna, Austria",
@@ -135,7 +122,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-09T08:02:58.602Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     }
   ]
 }
