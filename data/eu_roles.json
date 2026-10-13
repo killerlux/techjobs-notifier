@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T08:32:21.789Z",
-  "count": 10,
+  "generatedAt": "2026-10-13T08:03:21.720Z",
+  "count": 11,
   "results": [
     {
       "id": "744000154937120",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:36:57.898Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000154938759",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:30:56.740Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000154448031",
@@ -99,6 +99,19 @@
       "priorityTier": "standard"
     },
     {
+      "id": "744000155166490",
+      "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
+      "location": "Amphoe Si Maha Phot, th",
+      "country": "Slovenia",
+      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155166490",
+      "company": "Western Digital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-13T05:45:25.548Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "4951979101",
       "title": "Graduate Software Engineer",
       "location": "Spain",
@@ -122,7 +135,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-09T08:02:58.602Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     }
   ]
 }
