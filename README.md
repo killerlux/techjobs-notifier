@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-13T16:13:35.723Z
+- Updated: 2026-10-13T21:23:53.189Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,8 +8,10 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
+| AECOM | Highways and Traffic Graduate Engineer - Birmingham (2027 start) | standard | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155315375) |
 | Data Intellect | Graduate STEM Developer (January 2027) | standard | United Kingdom | Belfast, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154937120) |
 | Data Intellect | Graduate STEM Developer (Summer 2027) | standard | United Kingdom | Belfast, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154938759) |
+| Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000155218250) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer (Early Career) | standard | United Kingdom | HQ: San Francisco, Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Artefact | AI Strategist - China Campus Recruitment 2027 | standard | Norway | The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002 | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8819682002) |

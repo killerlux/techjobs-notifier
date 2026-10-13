@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-10-13T16:13:35.723Z",
-  "count": 10,
+  "generatedAt": "2026-10-13T21:23:53.189Z",
+  "count": 12,
   "results": [
+    {
+      "id": "744000155315375",
+      "title": "Highways and Traffic Graduate Engineer - Birmingham (2027 start)",
+      "location": "Birmingham, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155315375",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-13T16:36:16.070Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000154937120",
       "title": "Graduate STEM Developer (January 2027)",
@@ -27,6 +40,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:30:56.740Z",
       "daysAgo": "1d"
+    },
+    {
+      "id": "744000155218250",
+      "title": "Junior Information Security Officer",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000155218250",
+      "company": "Experian",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-13T10:00:57.634Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
