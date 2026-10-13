@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T13:08:05.878Z",
+  "generatedAt": "2026-10-13T12:41:44.633Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 695,
+    "healthy": 692,
     "degraded": 4,
-    "empty": 49,
-    "fetch_error": 104,
+    "empty": 51,
+    "fetch_error": 105,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -225,6 +225,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/datavisor-jobs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "DebtBook",
+      "type": "greenhouse",
+      "slug": "debtbook",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/debtbook/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
