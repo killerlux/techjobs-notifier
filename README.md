@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-14T10:25:16.647Z
+- Updated: 2026-10-14T15:20:06.833Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| AECOM | Highways and Traffic Graduate Engineer - Birmingham (2027 start) | standard | United Kingdom | Birmingham, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155315375) |
 | Data Intellect | Graduate STEM Developer (January 2027) | standard | United Kingdom | Belfast, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154937120) |
 | Data Intellect | Graduate STEM Developer (Summer 2027) | standard | United Kingdom | Belfast, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154938759) |
 | Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000155218250) |
