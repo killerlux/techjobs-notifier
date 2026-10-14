@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T12:41:44.633Z",
+  "generatedAt": "2026-10-14T10:10:03.376Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 692,
+    "healthy": 691,
     "degraded": 4,
     "empty": 51,
-    "fetch_error": 105,
+    "fetch_error": 106,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -18,6 +18,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/agilespaceindustries/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "AHEAD",
+      "type": "lever",
+      "slug": "thinkahead",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
