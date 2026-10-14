@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T21:23:53.189Z",
-  "count": 12,
+  "generatedAt": "2026-10-14T10:25:16.647Z",
+  "count": 11,
   "results": [
     {
       "id": "744000155315375",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:36:57.898Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000154938759",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:30:56.740Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000155218250",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-13T10:00:57.634Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -87,7 +87,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-08T05:27:02-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -122,7 +122,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-13T05:45:25.548Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4951979101",
@@ -135,20 +135,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-06T06:18:11-04:00",
-      "daysAgo": "7d"
-    },
-    {
-      "id": "744000155290644",
-      "title": "IT Operations Engineer (Junior) - Enterprise Collaboration Platforms",
-      "location": "Huarte, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000155290644",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-13T15:03:35.942Z",
-      "daysAgo": "0d"
+      "daysAgo": "8d"
     }
   ]
 }
