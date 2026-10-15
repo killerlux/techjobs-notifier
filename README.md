@@ -16,5 +16,5 @@
 | Artefact | AI Strategist - China Campus Recruitment 2027 | standard | Norway | The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002 | 6d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8819682002) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
-| Western Digital | Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience) | standard | Slovenia | Amphoe Si Maha Phot, th | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155166490) |
+| Western Digital | Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience) | standard | Slovenia | Amphoe Si Maha Phot, th | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155166490) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 8d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
