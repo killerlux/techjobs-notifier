@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-15T11:52:51.597Z
+- Updated: 2026-10-15T16:14:40.362Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,6 +8,11 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
+| AECOM | Graduate Civil Engineer – Highways & Complete Streets – Glasgow (2027 Start) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155741329) |
+| AECOM | Graduate Fire Engineer  | standard | United Kingdom | London, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155761189) |
+| AECOM | Graduate Fire Engineer (Edinburgh) | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155762208) |
+| AECOM | Graduate Fire Engineer (Glasgow) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155762529) |
+| AECOM | Graduate Fire Engineer (Manchester) | standard | United Kingdom | Manchester, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000155761989) |
 | Data Intellect | Graduate STEM Developer (January 2027) | standard | United Kingdom | Belfast, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154937120) |
 | Data Intellect | Graduate STEM Developer (Summer 2027) | standard | United Kingdom | Belfast, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154938759) |
 | Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000155218250) |
