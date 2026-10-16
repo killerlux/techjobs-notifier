@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-16T10:36:59.473Z
+- Updated: 2026-10-16T15:09:35.100Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -21,5 +21,5 @@
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | AbbVie | (Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet) | standard | Germany | Ludwigshafen, de | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171285) |
 | AbbVie | (Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet) | standard | Germany | Ludwigshafen, de | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171365) |
-| Western Digital | Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience) | standard | Slovenia | Amphoe Si Maha Phot, th | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155166490) |
+| Western Digital | Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience) | standard | Slovenia | Amphoe Si Maha Phot, th | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155977569) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 1d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
