@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T09:52:13.949Z",
+  "generatedAt": "2026-10-16T09:46:08.803Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 690,
+    "healthy": 693,
     "degraded": 4,
-    "empty": 52,
-    "fetch_error": 106,
+    "empty": 50,
+    "fetch_error": 105,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -108,24 +108,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/barkley/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Becker Friedman Institute for Economics",
-      "type": "greenhouse",
-      "slug": "universityofchicago",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/universityofchicago/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Belvedere Trading",
-      "type": "lever",
-      "slug": "belvederetrading",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -387,6 +369,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/grayce/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Gridmatic",
+      "type": "lever",
+      "slug": "gridmatic",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/gridmatic?mode=json -> 404",
       "checkedUrls": []
     },
     {
