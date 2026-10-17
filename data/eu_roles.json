@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T00:07:57.109Z",
-  "count": 14,
+  "generatedAt": "2026-10-17T04:48:04.386Z",
+  "count": 15,
   "results": [
     {
       "id": "744000154937120",
@@ -136,6 +136,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "3743990016171285",
+      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
+      "location": "Ludwigshafen, de",
+      "country": "Germany",
+      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171285",
+      "company": "AbbVie",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-16T09:34:12.494Z",
+      "daysAgo": "0d"
     },
     {
       "id": "3743990016171365",

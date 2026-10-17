@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-17T00:07:57.109Z
+- Updated: 2026-10-17T04:48:04.386Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -19,6 +19,7 @@
 | Artefact | AI Strategist - China Campus Recruitment 2027 | standard | Norway | The Roof, Room 201, Building D, No. 458 Madang Road, Huangpu District, Shanghai 200002 | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8819682002) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
+| AbbVie | (Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet) | standard | Germany | Ludwigshafen, de | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171285) |
 | AbbVie | (Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet) | standard | Germany | Ludwigshafen, de | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171365) |
 | Western Digital | Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience) | standard | Slovenia | Amphoe Si Maha Phot, th | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155977569) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 1d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
