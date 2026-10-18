@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T04:48:04.386Z",
-  "count": 15,
+  "generatedAt": "2026-10-18T15:19:43.392Z",
+  "count": 13,
   "results": [
     {
       "id": "744000154937120",
@@ -138,32 +138,6 @@
       "priorityTier": "standard"
     },
     {
-      "id": "3743990016171285",
-      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
-      "location": "Ludwigshafen, de",
-      "country": "Germany",
-      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171285",
-      "company": "AbbVie",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-16T09:34:12.494Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "3743990016171365",
-      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
-      "location": "Ludwigshafen, de",
-      "country": "Germany",
-      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016171365",
-      "company": "AbbVie",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-16T09:34:47.247Z",
-      "daysAgo": "2d"
-    },
-    {
       "id": "744000155977569",
       "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
       "location": "Amphoe Si Maha Phot, th",
@@ -174,7 +148,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-16T11:51:15.396Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "4951979101",
