@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T09:33:28.650Z",
+  "generatedAt": "2026-10-19T10:43:59.759Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 693,
+    "healthy": 687,
     "degraded": 4,
-    "empty": 50,
-    "fetch_error": 105,
+    "empty": 48,
+    "fetch_error": 113,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -54,6 +54,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/amplitude/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Analytic Partners",
+      "type": "lever",
+      "slug": "analyticpartners",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -192,6 +201,15 @@
       "checkedUrls": []
     },
     {
+      "company": "City Electrical Factors",
+      "type": "lever",
+      "slug": "cef",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Citylitics",
       "type": "workable",
       "slug": "citylitics",
@@ -207,6 +225,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CommonLit",
+      "type": "lever",
+      "slug": "commonlit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "CompassX Group",
+      "type": "lever",
+      "slug": "compassx",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -234,6 +270,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Diversified Automation",
+      "type": "lever",
+      "slug": "diversified-automation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -270,6 +315,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/eluvio/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Enable",
+      "type": "lever",
+      "slug": "enable",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -576,6 +630,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/overlandai/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Palantir",
+      "type": "lever",
+      "slug": "palantir",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Perr & Knight",
+      "type": "lever",
+      "slug": "perrknight",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
