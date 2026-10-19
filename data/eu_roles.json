@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-10-19T12:00:49.082Z",
-  "count": 18,
+  "generatedAt": "2026-10-19T18:40:46.593Z",
+  "count": 23,
   "results": [
+    {
+      "id": "744000156364291",
+      "title": "Graduate Bridge Structures Engineer - Chesterfield (2027 Start)",
+      "location": "Chesterfield, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156364291",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-19T15:48:16.002Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000156287213",
       "title": "Graduate Rail Mechanical Engineer - Birmingham/Manchester (Summer 2027)",
@@ -179,6 +192,58 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:40:00.604Z",
       "daysAgo": "4d"
+    },
+    {
+      "id": "744000156348247",
+      "title": "Graduate Mechanical Engineer 2027",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156348247",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-19T14:53:23.764Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000156349308",
+      "title": "Graduate Mechanical Engineer 2027",
+      "location": "Bristol, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156349308",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-19T14:53:39.500Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000156347242",
+      "title": "Graduate Vibration Engineer 2027 ",
+      "location": "Cambridge, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156347242",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-19T14:55:21.558Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000156349153",
+      "title": "Graduate Vibration Engineer 2027 ",
+      "location": "Manchester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156349153",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-19T14:55:02.101Z",
+      "daysAgo": "0d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
