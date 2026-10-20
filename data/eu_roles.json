@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T17:44:57.063Z",
-  "count": 26,
+  "generatedAt": "2026-10-20T21:12:24.202Z",
+  "count": 21,
   "results": [
     {
       "id": "744000156364291",
@@ -13,32 +13,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T15:48:16.002Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000156287213",
-      "title": "Graduate Rail Mechanical Engineer - Birmingham/Manchester (Summer 2027)",
-      "location": "Manchester, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156287213",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-19T11:00:08.729Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000156288559",
-      "title": "Graduate Rail Mechanical Engineer - Birmingham/Manchester (Summer 2027)",
-      "location": "Birmingham, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156288559",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-19T11:00:12.446Z",
       "daysAgo": "1d"
     },
     {
@@ -68,19 +42,6 @@
       "daysAgo": "1d"
     },
     {
-      "id": "744000156287424",
-      "title": "Graduate Rail Mechanical Engineer - Swindon (Summer 2027)",
-      "location": "Swindon, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156287424",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-19T11:00:04.795Z",
-      "daysAgo": "1d"
-    },
-    {
       "id": "744000154937120",
       "title": "Graduate STEM Developer (January 2027)",
       "location": "Belfast, gb",
@@ -105,19 +66,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:30:56.740Z",
       "daysAgo": "8d"
-    },
-    {
-      "id": "744000155218250",
-      "title": "Junior Information Security Officer",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000155218250",
-      "company": "Experian",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-13T10:00:57.634Z",
-      "daysAgo": "7d"
     },
     {
       "id": "8894965002",
@@ -179,19 +127,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:37:13.130Z",
       "daysAgo": "5d"
-    },
-    {
-      "id": "744000156548905",
-      "title": "2027 Graduate - Mechanical Engineer - Cambridge",
-      "location": "Melbourn, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905",
-      "company": "PA Consulting",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-20T12:54:18.065Z",
-      "daysAgo": "0d"
     },
     {
       "id": "744000155684440",
