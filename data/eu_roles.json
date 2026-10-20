@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T12:50:41.037Z",
-  "count": 25,
+  "generatedAt": "2026-10-20T17:44:57.063Z",
+  "count": 26,
   "results": [
     {
       "id": "744000156364291",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T15:48:16.002Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000156287213",
@@ -181,17 +181,17 @@
       "daysAgo": "5d"
     },
     {
-      "id": "744000155720479",
+      "id": "744000156548905",
       "title": "2027 Graduate - Mechanical Engineer - Cambridge",
       "location": "Melbourn, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000155720479",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905",
       "company": "PA Consulting",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-15T10:11:26.013Z",
-      "daysAgo": "5d"
+      "postedAt": "2026-10-20T12:54:18.065Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000155684440",
@@ -230,7 +230,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:53:23.764Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000156349308",
@@ -243,7 +243,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:53:39.500Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000156347242",
@@ -256,7 +256,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:55:21.558Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000156349153",
@@ -269,7 +269,18 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:55:02.101Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
+    },
+    {
+      "id": "0ff928f7-cca0-4d2b-ae64-c07277ff5252",
+      "title": "Software Engineer, Agent (New Grad)",
+      "location": "London",
+      "country": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252",
+      "company": "Sierra",
+      "source": "ashby",
+      "matchReason": "level+tech",
+      "priorityTier": "standard"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
