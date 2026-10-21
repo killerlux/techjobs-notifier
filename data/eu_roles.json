@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T00:00:47.072Z",
-  "count": 19,
+  "generatedAt": "2026-10-21T04:29:14.228Z",
+  "count": 20,
   "results": [
     {
       "id": "744000154937120",
@@ -90,6 +90,19 @@
       "daysAgo": "0d"
     },
     {
+      "id": "744000156518419",
+      "title": "2027 Graduate - Digital Trust & Cyber Security Analyst - London",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156518419",
+      "company": "PA Consulting",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-20T10:11:01.395Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000155681297",
       "title": "2027 Graduate - Electronic Engineer - Cambridge",
       "location": "Melbourn, gb",
@@ -101,6 +114,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:37:13.130Z",
       "daysAgo": "5d"
+    },
+    {
+      "id": "744000156548905",
+      "title": "2027 Graduate - Mechanical Engineer - Cambridge",
+      "location": "Melbourn, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905",
+      "company": "PA Consulting",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-20T12:54:18.065Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000155684440",
@@ -212,19 +238,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000155977569",
-      "title": "Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience)",
-      "location": "Amphoe Si Maha Phot, th",
-      "country": "Slovenia",
-      "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000155977569",
-      "company": "Western Digital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-16T11:51:15.396Z",
-      "daysAgo": "4d"
     },
     {
       "id": "4951979101",
