@@ -1,7 +1,59 @@
 {
-  "generatedAt": "2026-10-21T09:31:03.017Z",
-  "count": 23,
+  "generatedAt": "2026-10-21T14:49:50.975Z",
+  "count": 28,
   "results": [
+    {
+      "id": "744000156748560",
+      "title": "Graduate Fire Engineer ",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748560",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T09:04:57.467Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000156748889",
+      "title": "Graduate Fire Engineer (Edinburgh)",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748889",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T09:05:50.443Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000156743963",
+      "title": "Graduate Fire Engineer (Glasgow)",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156743963",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T09:06:11.825Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000156748759",
+      "title": "Graduate Fire Engineer (Manchester)",
+      "location": "Manchester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748759",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T09:05:24.236Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000154937120",
       "title": "Graduate STEM Developer (January 2027)",
@@ -29,6 +81,19 @@
       "daysAgo": "9d"
     },
     {
+      "id": "744000156793320",
+      "title": "Junior Systems Integration Engineer",
+      "location": "Oakdale, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000156793320",
+      "company": "General Dynamics UK",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T12:46:43.338Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "8894965002",
       "title": "Cloud Platform Summer Intern 2027 ",
       "location": "Bristol, UK",
@@ -39,7 +104,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T07:31:13-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8894376002",
@@ -52,7 +117,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T07:31:34-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -100,7 +165,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T10:11:01.395Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000155681297",
@@ -126,7 +191,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T12:54:18.065Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000155684440",
@@ -289,7 +354,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T07:15:57-04:00",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     }
   ]
 }
