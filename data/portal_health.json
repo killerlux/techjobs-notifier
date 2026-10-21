@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-10-20T10:01:30.952Z",
+  "generatedAt": "2026-10-21T10:06:20.530Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 690,
+    "healthy": 687,
     "degraded": 3,
-    "empty": 51,
-    "fetch_error": 108,
+    "empty": 49,
+    "fetch_error": 113,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
+    {
+      "company": "360 IT Professionals",
+      "type": "smartrecruiters",
+      "slug": "360itprofessionals1",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -98,7 +107,7 @@
       "slug": "autoroboto",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/autoroboto?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -108,6 +117,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/barkley/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Becker Friedman Institute for Economics",
+      "type": "greenhouse",
+      "slug": "universityofchicago",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/universityofchicago/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -588,6 +606,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Pickle Robot",
+      "type": "lever",
+      "slug": "picklerobot",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
@@ -696,6 +723,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Robert Bosch Venture Capital",
+      "type": "smartrecruiters",
+      "slug": "boschgroup",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Robin",
       "type": "lever",
       "slug": "robinpowered",
@@ -765,6 +801,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sensortower?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "ServiceNow",
+      "type": "smartrecruiters",
+      "slug": "servicenow",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
