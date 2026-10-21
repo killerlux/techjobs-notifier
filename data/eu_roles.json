@@ -1,59 +1,7 @@
 {
-  "generatedAt": "2026-10-21T14:49:50.975Z",
-  "count": 28,
+  "generatedAt": "2026-10-21T19:05:57.222Z",
+  "count": 24,
   "results": [
-    {
-      "id": "744000156748560",
-      "title": "Graduate Fire Engineer ",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748560",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T09:04:57.467Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000156748889",
-      "title": "Graduate Fire Engineer (Edinburgh)",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748889",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T09:05:50.443Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000156743963",
-      "title": "Graduate Fire Engineer (Glasgow)",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156743963",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T09:06:11.825Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000156748759",
-      "title": "Graduate Fire Engineer (Manchester)",
-      "location": "Manchester, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748759",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T09:05:24.236Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000154937120",
       "title": "Graduate STEM Developer (January 2027)",
@@ -230,7 +178,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:53:23.764Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000156349308",
@@ -243,7 +191,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:53:39.500Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000156347242",
@@ -256,7 +204,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:55:21.558Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000156349153",
@@ -269,7 +217,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T14:55:02.101Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "0ff928f7-cca0-4d2b-ae64-c07277ff5252",

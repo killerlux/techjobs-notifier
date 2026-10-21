@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-21T14:49:50.975Z
+- Updated: 2026-10-21T19:05:57.222Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,10 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| AECOM | Graduate Fire Engineer  | standard | United Kingdom | London, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748560) |
-| AECOM | Graduate Fire Engineer (Edinburgh) | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748889) |
-| AECOM | Graduate Fire Engineer (Glasgow) | standard | United Kingdom | Glasgow, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156743963) |
-| AECOM | Graduate Fire Engineer (Manchester) | standard | United Kingdom | Manchester, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156748759) |
 | Data Intellect | Graduate STEM Developer (January 2027) | standard | United Kingdom | Belfast, gb | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154937120) |
 | Data Intellect | Graduate STEM Developer (Summer 2027) | standard | United Kingdom | Belfast, gb | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154938759) |
 | General Dynamics UK | Junior Systems Integration Engineer | standard | United Kingdom | Oakdale, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000156793320) |
@@ -25,10 +21,10 @@
 | PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905) |
 | PA Consulting | 2027 Graduate - Software & AI Systems Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000155684440) |
 | Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 1d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
-| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156348247) |
-| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | Bristol, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156349308) |
-| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Cambridge, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156347242) |
-| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Manchester, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156349153) |
+| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | London, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156348247) |
+| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | Bristol, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156349308) |
+| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Cambridge, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156347242) |
+| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Manchester, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156349153) |
 | Sierra | Software Engineer, Agent (New Grad) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252) |
 | Ramboll | Graduate Structural Engineer  - “High-Rise & Complex Buildings” | standard | Singapore | Singapore, sg | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156715439) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
