@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T04:29:14.228Z",
-  "count": 20,
+  "generatedAt": "2026-10-21T09:31:03.017Z",
+  "count": 23,
   "results": [
     {
       "id": "744000154937120",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:36:57.898Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "744000154938759",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-12T07:30:56.740Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "8894965002",
@@ -87,7 +87,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T08:20:22.904Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000156518419",
@@ -113,7 +113,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:37:13.130Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "744000156548905",
@@ -139,7 +139,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:40:00.604Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "0f7d1e01-1f74-4786-944d-910208d390fa",
@@ -218,6 +218,19 @@
       "priorityTier": "standard"
     },
     {
+      "id": "744000156715439",
+      "title": "Graduate Structural Engineer  - “High-Rise & Complex Buildings”",
+      "location": "Singapore, sg",
+      "country": "Singapore",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000156715439",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T06:07:40.603Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "location": "Singapore",
@@ -238,6 +251,32 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "3743990016291797",
+      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
+      "location": "Ludwigshafen, de",
+      "country": "Germany",
+      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016291797",
+      "company": "AbbVie",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T06:56:38.412Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "3743990016291995",
+      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
+      "location": "Ludwigshafen, de",
+      "country": "Germany",
+      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016291995",
+      "company": "AbbVie",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-21T06:57:02.172Z",
+      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
