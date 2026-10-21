@@ -1,46 +1,7 @@
 {
-  "generatedAt": "2026-10-20T21:12:24.202Z",
-  "count": 21,
+  "generatedAt": "2026-10-21T00:00:47.072Z",
+  "count": 19,
   "results": [
-    {
-      "id": "744000156364291",
-      "title": "Graduate Bridge Structures Engineer - Chesterfield (2027 Start)",
-      "location": "Chesterfield, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156364291",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-19T15:48:16.002Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000156288619",
-      "title": "Graduate Rail Mechanical Engineer - Glasgow (Summer 2027)",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156288619",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-19T11:00:19.700Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000156286740",
-      "title": "Graduate Rail Mechanical Engineer - Leeds (Summer 2027)",
-      "location": "Leeds, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000156286740",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-19T11:00:14.829Z",
-      "daysAgo": "1d"
-    },
     {
       "id": "744000154937120",
       "title": "Graduate STEM Developer (January 2027)",
@@ -116,6 +77,19 @@
       "priorityTier": "standard"
     },
     {
+      "id": "744000156492700",
+      "title": "Junior Controls Engineer",
+      "location": "Bedford, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000156492700",
+      "company": "NBCUniversal",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-20T08:20:22.904Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "744000155681297",
       "title": "2027 Graduate - Electronic Engineer - Cambridge",
       "location": "Melbourn, gb",
@@ -152,7 +126,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1792453774147,
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000156348247",
