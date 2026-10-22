@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-10-22T12:13:54.606Z",
-  "count": 20,
+  "generatedAt": "2026-10-22T17:27:52.572Z",
+  "count": 21,
   "results": [
+    {
+      "id": "7297666002",
+      "title": "Quantitative Software Developer Intern",
+      "location": "New York, London, or Paris",
+      "country": "France",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+      "company": "Point72",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-22T12:15:32-04:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000157152050",
+      "title": "Junior Cost Engineer",
+      "location": "Bolton, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000157152050",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-22T14:24:27.589Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000154937120",
       "title": "Graduate STEM Developer (January 2027)",
@@ -39,7 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-21T12:46:43.338Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8894965002",
@@ -139,7 +165,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T12:54:18.065Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000155684440",
@@ -166,6 +192,19 @@
       "priorityTier": "standard",
       "postedAt": 1792453774147,
       "daysAgo": "2d"
+    },
+    {
+      "id": "744000157161069",
+      "title": "Design Engineer Advanced Apprentice (Graduate)",
+      "location": "Worcester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000157161069",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-22T14:48:46.020Z",
+      "daysAgo": "0d"
     },
     {
       "id": "0ff928f7-cca0-4d2b-ae64-c07277ff5252",
@@ -212,32 +251,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "3743990016291797",
-      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
-      "location": "Ludwigshafen, de",
-      "country": "Germany",
-      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016291797",
-      "company": "AbbVie",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T06:56:38.412Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "3743990016291995",
-      "title": "(Junior) Packaging Engineer (all genders) (Vollzeit, unbefristet)",
-      "location": "Ludwigshafen, de",
-      "country": "Germany",
-      "url": "https://api.smartrecruiters.com/v1/companies/abbvie/postings/3743990016291995",
-      "company": "AbbVie",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T06:57:02.172Z",
-      "daysAgo": "1d"
     },
     {
       "id": "4951979101",
