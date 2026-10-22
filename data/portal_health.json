@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-10-21T10:06:20.530Z",
+  "generatedAt": "2026-10-22T10:08:58.809Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
     "healthy": 687,
     "degraded": 3,
-    "empty": 49,
-    "fetch_error": 113,
+    "empty": 48,
+    "fetch_error": 114,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
-    {
-      "company": "360 IT Professionals",
-      "type": "smartrecruiters",
-      "slug": "360itprofessionals1",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -252,6 +243,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Demiurge Studios",
+      "type": "lever",
+      "slug": "demiurgestudios",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/demiurgestudios?mode=json -> 502",
       "checkedUrls": []
     },
     {
@@ -606,15 +606,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Pickle Robot",
-      "type": "lever",
-      "slug": "picklerobot",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
@@ -630,6 +621,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "PROCEPT BioRobotics",
+      "type": "lever",
+      "slug": "procept-biorobotics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/procept-biorobotics?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -723,15 +723,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Robert Bosch Venture Capital",
-      "type": "smartrecruiters",
-      "slug": "boschgroup",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Robin",
       "type": "lever",
       "slug": "robinpowered",
@@ -801,15 +792,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sensortower?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "ServiceNow",
-      "type": "smartrecruiters",
-      "slug": "servicenow",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -971,7 +953,7 @@
       "slug": "uncountable",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/uncountable?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1020,12 +1002,39 @@
       "checkedUrls": []
     },
     {
+      "company": "Windfall",
+      "type": "lever",
+      "slug": "windfalldata",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Wintermute",
+      "type": "lever",
+      "slug": "wintermute-trading",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Wolverine Trading",
       "type": "lever",
       "slug": "wolve",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Wyetech",
+      "type": "lever",
+      "slug": "wyetechllc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
