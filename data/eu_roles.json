@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T17:27:52.572Z",
-  "count": 21,
+  "generatedAt": "2026-10-23T08:44:46.336Z",
+  "count": 19,
   "results": [
     {
       "id": "7297666002",
@@ -27,32 +27,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-22T14:24:27.589Z",
       "daysAgo": "0d"
-    },
-    {
-      "id": "744000154937120",
-      "title": "Graduate STEM Developer (January 2027)",
-      "location": "Belfast, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154937120",
-      "company": "Data Intellect",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-12T07:36:57.898Z",
-      "daysAgo": "10d"
-    },
-    {
-      "id": "744000154938759",
-      "title": "Graduate STEM Developer (Summer 2027)",
-      "location": "Belfast, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/dataintellect/postings/744000154938759",
-      "company": "Data Intellect",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-12T07:30:56.740Z",
-      "daysAgo": "10d"
     },
     {
       "id": "744000156793320",
@@ -126,7 +100,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T08:20:22.904Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000156518419",
@@ -152,7 +126,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:37:13.130Z",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "744000156548905",
@@ -178,7 +152,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-15T07:40:00.604Z",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "0f7d1e01-1f74-4786-944d-910208d390fa",
@@ -228,7 +202,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-21T06:07:40.603Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
