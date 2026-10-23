@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T18:35:44.962Z",
-  "count": 33,
+  "generatedAt": "2026-10-23T21:49:36.230Z",
+  "count": 32,
   "results": [
     {
       "id": "7297666002",
@@ -361,19 +361,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-23T14:00:36.245Z",
       "daysAgo": "0d"
-    },
-    {
-      "id": "744000157161069",
-      "title": "Design Engineer Advanced Apprentice (Graduate)",
-      "location": "Worcester, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000157161069",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-22T14:48:46.020Z",
-      "daysAgo": "1d"
     },
     {
       "id": "0ff928f7-cca0-4d2b-ae64-c07277ff5252",
