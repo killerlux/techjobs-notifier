@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T10:08:58.809Z",
+  "generatedAt": "2026-10-23T10:01:40.909Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 687,
+    "healthy": 690,
     "degraded": 3,
     "empty": 48,
-    "fetch_error": 114,
+    "fetch_error": 111,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -183,6 +183,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Chalk",
       "type": "greenhouse",
       "slug": "chalkinc",
@@ -243,15 +252,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Demiurge Studios",
-      "type": "lever",
-      "slug": "demiurgestudios",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/demiurgestudios?mode=json -> 502",
       "checkedUrls": []
     },
     {
@@ -953,7 +953,7 @@
       "slug": "uncountable",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/uncountable?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -1002,39 +1002,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Windfall",
-      "type": "lever",
-      "slug": "windfalldata",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wintermute",
-      "type": "lever",
-      "slug": "wintermute-trading",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Wolverine Trading",
       "type": "lever",
       "slug": "wolve",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Wyetech",
-      "type": "lever",
-      "slug": "wyetechllc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
