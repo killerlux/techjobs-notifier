@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T10:01:40.909Z",
+  "generatedAt": "2026-10-24T09:31:11.220Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 690,
-    "degraded": 3,
-    "empty": 48,
-    "fetch_error": 111,
+    "healthy": 684,
+    "degraded": 2,
+    "empty": 47,
+    "fetch_error": 119,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -36,6 +36,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "AllTrails",
+      "type": "lever",
+      "slug": "alltrails",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -98,7 +107,7 @@
       "slug": "autoroboto",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/autoroboto?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -156,6 +165,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Canvas Worldwide",
+      "type": "lever",
+      "slug": "canvasww",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Capital Rx",
       "type": "greenhouse",
       "slug": "capitalrx",
@@ -180,15 +198,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -228,6 +237,24 @@
       "checkedUrls": []
     },
     {
+      "company": "Cobalt Robotics",
+      "type": "lever",
+      "slug": "cobaltrobotics",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Cority",
+      "type": "lever",
+      "slug": "cority",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -255,12 +282,48 @@
       "checkedUrls": []
     },
     {
+      "company": "Diversified Automation",
+      "type": "lever",
+      "slug": "diversified-automation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Dun & Bradstreet",
+      "type": "lever",
+      "slug": "dnb",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "E-Space",
+      "type": "lever",
+      "slug": "espace",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "E2 Optics",
       "type": "lever",
       "slug": "e2optics",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/e2optics?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Eastern Communications",
+      "type": "lever",
+      "slug": "eastern-communications",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -297,6 +360,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Exowatt",
+      "type": "lever",
+      "slug": "exowatt",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
