@@ -19,7 +19,7 @@
 | PA Consulting | 2027 Graduate - Electronic Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000155681297) |
 | PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905) |
 | PA Consulting | 2027 Graduate - Software & AI Systems Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000155684440) |
-| Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 4d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
+| Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 5d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Cambridge, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514570) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514960) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Chester, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050) |
