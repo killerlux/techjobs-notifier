@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T09:31:11.220Z",
+  "generatedAt": "2026-10-25T09:47:21.779Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 684,
-    "degraded": 2,
+    "healthy": 690,
+    "degraded": 3,
     "empty": 47,
-    "fetch_error": 119,
+    "fetch_error": 112,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -36,15 +36,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "AllTrails",
-      "type": "lever",
-      "slug": "alltrails",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -107,7 +98,7 @@
       "slug": "autoroboto",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/autoroboto?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -162,15 +153,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/brooklinen/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Canvas Worldwide",
-      "type": "lever",
-      "slug": "canvasww",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -237,24 +219,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Cobalt Robotics",
-      "type": "lever",
-      "slug": "cobaltrobotics",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Cority",
-      "type": "lever",
-      "slug": "cority",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "DataVisor",
       "type": "workable",
       "slug": "datavisor-jobs",
@@ -282,48 +246,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Diversified Automation",
-      "type": "lever",
-      "slug": "diversified-automation",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Dun & Bradstreet",
-      "type": "lever",
-      "slug": "dnb",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "E-Space",
-      "type": "lever",
-      "slug": "espace",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "E2 Optics",
       "type": "lever",
       "slug": "e2optics",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/e2optics?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Eastern Communications",
-      "type": "lever",
-      "slug": "eastern-communications",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -360,15 +288,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Exowatt",
-      "type": "lever",
-      "slug": "exowatt",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1065,12 +984,30 @@
       "checkedUrls": []
     },
     {
+      "company": "Wachter",
+      "type": "lever",
+      "slug": "wachter",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/welocalize?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Whoop",
+      "type": "lever",
+      "slug": "whoop",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
