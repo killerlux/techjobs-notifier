@@ -8,7 +8,7 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 2d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Quantitative Software Developer Intern | standard | France | New York, London, or Paris | 3d | greenhouse | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | General Dynamics UK | Junior Systems Integration Engineer | standard | United Kingdom | Oakdale, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000156793320) |
 | Graphcore | Cloud Platform Summer Intern 2027  | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894965002) |
 | Graphcore | Software Engineering Summer Intern, Drivers and Utilities 2027 | standard | United Kingdom | Bristol, UK | 5d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) |
@@ -20,22 +20,22 @@
 | PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905) |
 | PA Consulting | 2027 Graduate - Software & AI Systems Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000155684440) |
 | Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 5d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
-| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Cambridge, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514570) |
-| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514960) |
-| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Chester, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050) |
-| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Manchester, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515519) |
-| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Leeds, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515561) |
-| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | Bristol, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157482670) |
-| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486209) |
-| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Leeds, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157476604) |
-| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Cambridge, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157477865) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Cambridge, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514570) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | London, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514960) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Chester, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Manchester, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515519) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Leeds, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515561) |
+| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | Bristol, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157482670) |
+| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | London, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486209) |
+| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Leeds, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157476604) |
+| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Cambridge, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157477865) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | London, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157478088) |
-| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Southampton, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157479389) |
-| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Bristol, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157479872) |
-| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Chester, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157479929) |
-| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Birmingham, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157481039) |
-| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Manchester, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157485351) |
-| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Cambridge, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486382) |
+| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Southampton, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157479389) |
+| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Bristol, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157479872) |
+| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Chester, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157479929) |
+| Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Birmingham, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157481039) |
+| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Manchester, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157485351) |
+| Ramboll | Graduate Vibration Engineer 2027  | standard | United Kingdom | Cambridge, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486382) |
 | Sierra | Software Engineer, Agent (New Grad) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
