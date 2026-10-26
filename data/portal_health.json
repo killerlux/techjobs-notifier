@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T09:47:21.779Z",
+  "generatedAt": "2026-10-26T11:03:38.888Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 690,
+    "healthy": 683,
     "degraded": 3,
-    "empty": 47,
-    "fetch_error": 112,
+    "empty": 48,
+    "fetch_error": 118,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -57,6 +57,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Anomali",
+      "type": "lever",
+      "slug": "anomali",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Applied Intuition",
       "type": "greenhouse",
       "slug": "appliedintuition",
@@ -72,6 +81,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Arc'teryx Equipment",
+      "type": "lever",
+      "slug": "arcteryx.com",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -117,6 +135,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/universityofchicago/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Beghou Consulting",
+      "type": "lever",
+      "slug": "beghouconsulting",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -179,7 +206,16 @@
       "slug": "cesiumastro",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -207,6 +243,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/citylitics/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CleanSpark",
+      "type": "lever",
+      "slug": "cleanspark",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -273,6 +318,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Elf Beauty",
+      "type": "lever",
+      "slug": "elfbeauty",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Eluvio",
       "type": "workable",
       "slug": "eluvio",
@@ -288,6 +342,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "EQ Bank",
+      "type": "lever",
+      "slug": "eqbank",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -984,15 +1047,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Wachter",
-      "type": "lever",
-      "slug": "wachter",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
@@ -1002,21 +1056,21 @@
       "checkedUrls": []
     },
     {
-      "company": "Whoop",
-      "type": "lever",
-      "slug": "whoop",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Wolverine Trading",
       "type": "lever",
       "slug": "wolve",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Zopa",
+      "type": "lever",
+      "slug": "zopa",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
