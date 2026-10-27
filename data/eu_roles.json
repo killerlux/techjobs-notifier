@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-27T13:54:57.334Z",
-  "count": 27,
+  "generatedAt": "2026-10-27T19:11:58.809Z",
+  "count": 29,
   "results": [
     {
-      "id": "7297666002",
-      "title": "Quantitative Software Developer Intern",
-      "location": "New York, London, or Paris",
-      "country": "France",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-      "company": "Point72",
-      "source": "greenhouse",
+      "id": "744000158047874",
+      "title": "Graduate Mechanical Engineer - Water Treatment / Edinburgh",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000158047874",
+      "company": "AECOM",
+      "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-22T12:15:32-04:00",
-      "daysAgo": "4d"
+      "postedAt": "2026-10-27T13:40:58.910Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000156793320",
@@ -126,7 +126,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T15:29:19.357Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157514960",
@@ -139,7 +139,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T15:26:27.348Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157515050",
@@ -152,7 +152,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T15:28:02.557Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157515519",
@@ -165,7 +165,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T15:27:22.200Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157515561",
@@ -178,7 +178,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T15:28:43.018Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157476604",
@@ -282,7 +282,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T14:00:16.234Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157486382",
@@ -295,7 +295,18 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T14:00:36.245Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
+    },
+    {
+      "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "location": "London",
+      "country": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db",
+      "company": "Sierra",
+      "source": "ashby",
+      "matchReason": "level+tech",
+      "priorityTier": "standard"
     },
     {
       "id": "0ff928f7-cca0-4d2b-ae64-c07277ff5252",
@@ -318,6 +329,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000158048480",
+      "title": "Junior Consultants (student) within Data, AI & Technology – start February 2027 ",
+      "location": "Copenhagen, dk",
+      "country": "Denmark",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000158048480",
+      "company": "PA Consulting",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-27T13:44:32.572Z",
+      "daysAgo": "0d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
