@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T07:32:41.753Z",
-  "count": 30,
+  "generatedAt": "2026-10-27T13:54:57.334Z",
+  "count": 27,
   "results": [
     {
       "id": "7297666002",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-21T12:46:43.338Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "8894965002",
@@ -39,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T07:31:13-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "8894376002",
@@ -52,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T07:31:34-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -87,7 +87,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T08:20:22.904Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000156518419",
@@ -100,7 +100,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T10:11:01.395Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000156548905",
@@ -113,19 +113,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T12:54:18.065Z",
-      "daysAgo": "6d"
-    },
-    {
-      "id": "0f7d1e01-1f74-4786-944d-910208d390fa",
-      "title": "Software Engineer, New Grad - Query Engines",
-      "location": "London, United Kingdom",
-      "country": "United Kingdom",
-      "url": "https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa",
-      "company": "Palantir",
-      "source": "lever",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": 1792453774147,
       "daysAgo": "7d"
     },
     {
@@ -194,32 +181,6 @@
       "daysAgo": "3d"
     },
     {
-      "id": "744000157482670",
-      "title": "Graduate Mechanical Engineer 2027",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157482670",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T13:57:58.173Z",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000157486209",
-      "title": "Graduate Mechanical Engineer 2027",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486209",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T13:56:02.223Z",
-      "daysAgo": "3d"
-    },
-    {
       "id": "744000157476604",
       "title": "Graduate Structural Engineer 2027 ",
       "location": "Leeds, gb",
@@ -230,7 +191,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:36:07.811Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157477865",
@@ -243,7 +204,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:39:50.581Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157478088",
@@ -256,7 +217,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:29:31.026Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157479389",
@@ -269,7 +230,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:32:39.994Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157479872",
@@ -282,7 +243,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:37:28.179Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157479929",
@@ -295,7 +256,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:34:51.844Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157481039",
@@ -308,7 +269,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T13:38:39.886Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "744000157485351",
@@ -380,7 +341,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-19T07:15:57-04:00",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     }
   ]
 }
