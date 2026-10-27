@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-10-27T19:11:58.809Z",
-  "count": 29,
+  "generatedAt": "2026-10-27T23:03:12.360Z",
+  "count": 28,
   "results": [
-    {
-      "id": "744000158047874",
-      "title": "Graduate Mechanical Engineer - Water Treatment / Edinburgh",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000158047874",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-27T13:40:58.910Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000156793320",
       "title": "Junior Systems Integration Engineer",
