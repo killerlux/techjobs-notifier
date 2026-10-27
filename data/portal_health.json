@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-10-26T11:03:38.888Z",
+  "generatedAt": "2026-10-27T10:31:24.983Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 683,
-    "degraded": 3,
-    "empty": 48,
-    "fetch_error": 118,
+    "healthy": 685,
+    "degraded": 4,
+    "empty": 32,
+    "fetch_error": 131,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
+    {
+      "company": "Agile Defense",
+      "type": "lever",
+      "slug": "agile-defense",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -57,15 +66,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Anomali",
-      "type": "lever",
-      "slug": "anomali",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Applied Intuition",
       "type": "greenhouse",
       "slug": "appliedintuition",
@@ -81,15 +81,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Arc'teryx Equipment",
-      "type": "lever",
-      "slug": "arcteryx.com",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -138,15 +129,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Beghou Consulting",
-      "type": "lever",
-      "slug": "beghouconsulting",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Benchling",
       "type": "greenhouse",
       "slug": "benchling",
@@ -183,6 +165,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Cantina",
+      "type": "ashby",
+      "slug": "spearbit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/spearbit -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Capital Rx",
       "type": "greenhouse",
       "slug": "capitalrx",
@@ -206,16 +197,7 @@
       "slug": "cesiumastro",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -246,21 +228,30 @@
       "checkedUrls": []
     },
     {
-      "company": "CleanSpark",
-      "type": "lever",
-      "slug": "cleanspark",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Clearer.io",
       "type": "lever",
       "slug": "clearer",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Commure",
+      "type": "ashby",
+      "slug": "commure-athelas",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/commureathelas -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Continue",
+      "type": "ashby",
+      "slug": "continue",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/continue -> 404",
       "checkedUrls": []
     },
     {
@@ -291,6 +282,15 @@
       "checkedUrls": []
     },
     {
+      "company": "DoseSpot",
+      "type": "ashby",
+      "slug": "dosespot",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/dosespot -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "E2 Optics",
       "type": "lever",
       "slug": "e2optics",
@@ -318,15 +318,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Elf Beauty",
-      "type": "lever",
-      "slug": "elfbeauty",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Eluvio",
       "type": "workable",
       "slug": "eluvio",
@@ -345,12 +336,12 @@
       "checkedUrls": []
     },
     {
-      "company": "EQ Bank",
-      "type": "lever",
-      "slug": "eqbank",
+      "company": "Fermat",
+      "type": "ashby",
+      "slug": "fermat",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://jobs.ashbyhq.com/fermat -> 404",
       "checkedUrls": []
     },
     {
@@ -426,6 +417,15 @@
       "checkedUrls": []
     },
     {
+      "company": "GoodShip",
+      "type": "ashby",
+      "slug": "goodship",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/goodship -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Grammarly",
       "type": "greenhouse",
       "slug": "grammarly",
@@ -494,7 +494,7 @@
       "slug": "infstones",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/infstones?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -516,6 +516,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Jerry",
+      "type": "ashby",
+      "slug": "jerry",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/jerry -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "KDDI",
       "type": "lever",
       "slug": "kddia",
@@ -525,12 +534,39 @@
       "checkedUrls": []
     },
     {
+      "company": "KIKOFF Leagues",
+      "type": "ashby",
+      "slug": "kikoff",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/kikoff -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "LetsGetChecked",
       "type": "greenhouse",
       "slug": "letsgetchecked",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/letsgetchecked/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lever",
+      "type": "lever",
+      "slug": "leverdemo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lilt",
+      "type": "ashby",
+      "slug": "lilt",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/lilt -> 404",
       "checkedUrls": []
     },
     {
@@ -549,6 +585,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/lumindigital?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Lynk",
+      "type": "ashby",
+      "slug": "lynk",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/lynk -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Machinify",
+      "type": "ashby",
+      "slug": "machinify",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/machinify -> 404",
       "checkedUrls": []
     },
     {
@@ -624,12 +678,30 @@
       "checkedUrls": []
     },
     {
+      "company": "Newfront Insurance",
+      "type": "ashby",
+      "slug": "newfront",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/newfront -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Nimble Robotics",
       "type": "lever",
       "slug": "nimbleai",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/nimbleai?mode=json -> 404",
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Nominal",
+      "type": "lever",
+      "slug": "nominal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -657,6 +729,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/overlandai/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Palantir",
+      "type": "lever",
+      "slug": "palantir",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "PingWind",
+      "type": "lever",
+      "slug": "pingwind",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -702,6 +792,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Quantcast",
+      "type": "lever",
+      "slug": "quantcast",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -765,6 +864,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/regalvoice?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Remi",
+      "type": "ashby",
+      "slug": "remi",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/remi -> 404",
       "checkedUrls": []
     },
     {
@@ -849,12 +957,21 @@
       "checkedUrls": []
     },
     {
+      "company": "Shield AI",
+      "type": "lever",
+      "slug": "shieldai",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "South West Water",
       "type": "lever",
       "slug": "southwestwater",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/southwestwater?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1029,6 +1146,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Valkyrie Trading",
+      "type": "lever",
+      "slug": "valkyrietrading",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Valon",
       "type": "greenhouse",
       "slug": "valon",
@@ -1062,15 +1188,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Zopa",
-      "type": "lever",
-      "slug": "zopa",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
