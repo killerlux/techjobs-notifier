@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-26T12:11:50.417Z
+- Updated: 2026-10-27T01:58:41.123Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -17,14 +17,12 @@
 | NBCUniversal | Junior Controls Engineer | standard | United Kingdom | Bedford, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000156492700) |
 | PA Consulting | 2027 Graduate - Digital Trust & Cyber Security Analyst - London | standard | United Kingdom | London, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156518419) |
 | PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905) |
-| Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 6d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
+| Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 7d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Cambridge, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514570) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | London, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514960) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Chester, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Manchester, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515519) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Leeds, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515561) |
-| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | Bristol, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157482670) |
-| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | London, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486209) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Leeds, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157476604) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Cambridge, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157477865) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | London, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157478088) |

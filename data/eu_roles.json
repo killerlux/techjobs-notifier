@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T12:11:50.417Z",
-  "count": 30,
+  "generatedAt": "2026-10-27T01:58:41.123Z",
+  "count": 28,
   "results": [
     {
       "id": "7297666002",
@@ -126,7 +126,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1792453774147,
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000157514570",
@@ -191,32 +191,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-23T15:28:43.018Z",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000157482670",
-      "title": "Graduate Mechanical Engineer 2027",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157482670",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T13:57:58.173Z",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "744000157486209",
-      "title": "Graduate Mechanical Engineer 2027",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486209",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T13:56:02.223Z",
       "daysAgo": "3d"
     },
     {
