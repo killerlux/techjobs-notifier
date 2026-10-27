@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-27T01:58:41.123Z
+- Updated: 2026-10-27T07:32:41.753Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -23,6 +23,8 @@
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Chester, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Manchester, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515519) |
 | Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Leeds, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515561) |
+| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | Bristol, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157482670) |
+| Ramboll | Graduate Mechanical Engineer 2027 | standard | United Kingdom | London, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157486209) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Leeds, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157476604) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | Cambridge, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157477865) |
 | Ramboll | Graduate Structural Engineer 2027  | standard | United Kingdom | London, gb | 3d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157478088) |
