@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-10-28T15:42:17.593Z",
-  "count": 20,
+  "generatedAt": "2026-10-28T20:44:54.210Z",
+  "count": 16,
   "results": [
-    {
-      "id": "744000158302809",
-      "title": "Graduate Nuclear Safety Case Engineer - Warrington - start June 27 onwards",
-      "location": "Warrington, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000158302809",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-28T14:01:54.809Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000158234619",
       "title": "Junior Information Security Officer",
@@ -90,6 +77,19 @@
       "priorityTier": "standard"
     },
     {
+      "id": "744000156492700",
+      "title": "Junior Controls Engineer",
+      "location": "Bedford, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000156492700",
+      "company": "NBCUniversal",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-20T08:20:22.904Z",
+      "daysAgo": "8d"
+    },
+    {
       "id": "744000156518419",
       "title": "2027 Graduate - Digital Trust & Cyber Security Analyst - London",
       "location": "London, gb",
@@ -127,45 +127,6 @@
       "priorityTier": "standard",
       "postedAt": 1792453774147,
       "daysAgo": "8d"
-    },
-    {
-      "id": "744000157514570",
-      "title": "Graduate Electrical Engineer 2027",
-      "location": "Cambridge, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514570",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T15:29:19.357Z",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "744000157515050",
-      "title": "Graduate Electrical Engineer 2027",
-      "location": "Chester, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T15:28:02.557Z",
-      "daysAgo": "5d"
-    },
-    {
-      "id": "744000157515561",
-      "title": "Graduate Electrical Engineer 2027",
-      "location": "Leeds, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515561",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-23T15:28:43.018Z",
-      "daysAgo": "5d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -223,19 +184,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000158293969",
-      "title": "Junior Security Designer - Integrated Security Systems (Data Centers)",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000158293969",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-28T13:25:11.008Z",
-      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
