@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T10:31:24.983Z",
+  "generatedAt": "2026-10-28T11:19:02.777Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 685,
+    "healthy": 689,
     "degraded": 4,
-    "empty": 32,
-    "fetch_error": 131,
+    "empty": 35,
+    "fetch_error": 124,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -494,7 +494,7 @@
       "slug": "infstones",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/infstones?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -549,15 +549,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/letsgetchecked/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Lever",
-      "type": "lever",
-      "slug": "leverdemo",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -692,16 +683,7 @@
       "slug": "nimbleai",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Nominal",
-      "type": "lever",
-      "slug": "nominal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/nimbleai?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -729,24 +711,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/overlandai/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Palantir",
-      "type": "lever",
-      "slug": "palantir",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "PingWind",
-      "type": "lever",
-      "slug": "pingwind",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -792,15 +756,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Quantcast",
-      "type": "lever",
-      "slug": "quantcast",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -957,21 +912,12 @@
       "checkedUrls": []
     },
     {
-      "company": "Shield AI",
-      "type": "lever",
-      "slug": "shieldai",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "South West Water",
       "type": "lever",
       "slug": "southwestwater",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/southwestwater?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -1143,15 +1089,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/uplifter/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Valkyrie Trading",
-      "type": "lever",
-      "slug": "valkyrietrading",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
