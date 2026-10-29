@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-10-29T19:24:32.144Z",
-  "count": 16,
+  "generatedAt": "2026-10-29T23:28:58.866Z",
+  "count": 15,
   "results": [
-    {
-      "id": "744000158558780",
-      "title": "Graduate Civil Engineer – Highways & Streets – St. Albans (2027 Start)",
-      "location": "St Albans, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000158558780",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-29T15:56:20.250Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000158234619",
       "title": "Junior Information Security Officer",
