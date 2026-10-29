@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-10-28T20:44:54.210Z
+- Updated: 2026-10-29T00:34:48.927Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -14,10 +14,14 @@
 | Graphcore | Software Engineering Summer Intern, Drivers and Utilities 2027 | standard | United Kingdom | Bristol, UK | 8d | greenhouse | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer (Early Career) | standard | United Kingdom | HQ: San Francisco, Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
-| NBCUniversal | Junior Controls Engineer | standard | United Kingdom | Bedford, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/nbcuniversal3/postings/744000156492700) |
 | PA Consulting | 2027 Graduate - Digital Trust & Cyber Security Analyst - London | standard | United Kingdom | London, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156518419) |
 | PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000156548905) |
-| Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 8d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
+| Palantir | Software Engineer, New Grad - Query Engines | standard | United Kingdom | London, United Kingdom | 9d | lever | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Cambridge, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514570) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | London, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157514960) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Chester, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515050) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Manchester, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515519) |
+| Ramboll | Graduate Electrical Engineer 2027 | standard | United Kingdom | Leeds, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000157515561) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) |
 | Sierra | Software Engineer, Agent (New Grad) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
