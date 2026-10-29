@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-10-28T11:19:02.777Z",
+  "generatedAt": "2026-10-29T11:30:10.694Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 689,
+    "healthy": 692,
     "degraded": 4,
-    "empty": 35,
-    "fetch_error": 124,
+    "empty": 33,
+    "fetch_error": 123,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
-    {
-      "company": "Agile Defense",
-      "type": "lever",
-      "slug": "agile-defense",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
