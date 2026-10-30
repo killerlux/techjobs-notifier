@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T23:28:58.866Z",
-  "count": 15,
+  "generatedAt": "2026-10-30T02:50:25.658Z",
+  "count": 14,
   "results": [
     {
       "id": "744000158234619",
@@ -113,7 +113,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1792453774147,
-      "daysAgo": "9d"
+      "daysAgo": "10d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -121,17 +121,6 @@
       "location": "London",
       "country": "United Kingdom",
       "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db",
-      "company": "Sierra",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
-    },
-    {
-      "id": "0ff928f7-cca0-4d2b-ae64-c07277ff5252",
-      "title": "Software Engineer, Agent (New Grad)",
-      "location": "London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252",
       "company": "Sierra",
       "source": "ashby",
       "matchReason": "level+tech",
