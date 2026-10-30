@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-10-30T02:50:25.658Z",
-  "count": 14,
+  "generatedAt": "2026-10-30T16:31:02.278Z",
+  "count": 15,
   "results": [
+    {
+      "id": "744000158765280",
+      "title": "Graduate Highways and Traffic Engineer - Leeds (2027 start)",
+      "location": "Leeds, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000158765280",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-30T14:43:13.577Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000158234619",
       "title": "Junior Information Security Officer",
@@ -26,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-21T12:46:43.338Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "8894965002",
@@ -39,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8894376002",
@@ -52,7 +65,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -87,7 +100,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T10:11:01.395Z",
-      "daysAgo": "9d"
+      "daysAgo": "10d"
     },
     {
       "id": "744000156548905",
@@ -100,19 +113,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-20T12:54:18.065Z",
-      "daysAgo": "9d"
-    },
-    {
-      "id": "0f7d1e01-1f74-4786-944d-910208d390fa",
-      "title": "Software Engineer, New Grad - Query Engines",
-      "location": "London, United Kingdom",
-      "country": "United Kingdom",
-      "url": "https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa",
-      "company": "Palantir",
-      "source": "lever",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": 1792453774147,
       "daysAgo": "10d"
     },
     {
@@ -125,6 +125,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000158715219",
+      "title": "Graduate Structural Engineer  - “High-Rise & Complex Buildings”",
+      "location": "Singapore, sg",
+      "country": "Singapore",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000158715219",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-10-30T10:53:06.114Z",
+      "daysAgo": "0d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -148,7 +161,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-27T13:44:32.572Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -171,7 +184,7 @@
       "source": "greenhouse",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-29T12:20:24-04:00",
+      "postedAt": "2026-10-30T05:56:51-04:00",
       "daysAgo": "0d"
     }
   ]
