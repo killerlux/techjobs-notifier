@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T11:23:09.484Z",
+  "generatedAt": "2026-10-31T10:55:07.326Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 691,
+    "healthy": 686,
     "degraded": 4,
-    "empty": 33,
-    "fetch_error": 124,
+    "empty": 34,
+    "fetch_error": 128,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -372,6 +372,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Fullscript",
+      "type": "lever",
+      "slug": "fullscript",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Future Publishing",
       "type": "workable",
       "slug": "futureplc",
@@ -405,6 +414,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Global Lending Services",
+      "type": "lever",
+      "slug": "glsllc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -705,21 +723,21 @@
       "checkedUrls": []
     },
     {
-      "company": "Palantir",
-      "type": "lever",
-      "slug": "palantir",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Pioneering Evolution",
       "type": "greenhouse",
       "slug": "pioneeringevolution",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/pioneeringevolution/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Pivotal Software",
+      "type": "lever",
+      "slug": "pivotal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -738,6 +756,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/procept-biorobotics?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Prominent Edge",
+      "type": "lever",
+      "slug": "prominentedge",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -836,7 +863,7 @@
       "slug": "rivosinc",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/rivosinc?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -855,6 +882,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/runpod/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "RWS",
+      "type": "lever",
+      "slug": "rws",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
