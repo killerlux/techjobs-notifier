@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T13:16:25.637Z",
-  "count": 12,
+  "generatedAt": "2026-11-01T17:35:25.460Z",
+  "count": 11,
   "results": [
     {
       "id": "744000158234619",
@@ -14,19 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-10-28T08:57:24.013Z",
       "daysAgo": "4d"
-    },
-    {
-      "id": "744000156793320",
-      "title": "Junior Systems Integration Engineer",
-      "location": "Oakdale, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/gdmsi/postings/744000156793320",
-      "company": "General Dynamics UK",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-21T12:46:43.338Z",
-      "daysAgo": "10d"
     },
     {
       "id": "8894965002",
@@ -122,7 +109,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-27T13:44:32.572Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
