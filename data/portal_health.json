@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:49:02.742Z",
+  "generatedAt": "2026-11-02T13:28:02.213Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
@@ -11,6 +11,15 @@
     "misconfigured": 1
   },
   "results": [
+    {
+      "company": "2nd Order Solutions",
+      "type": "lever",
+      "slug": "2os",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -153,15 +162,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/brooklinen/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Bumble",
-      "type": "lever",
-      "slug": "bumbleinc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
