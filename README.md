@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-11-02T17:46:55.804Z
+- Updated: 2026-11-03T00:26:59.375Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,6 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| AECOM | Graduate Electrical Engineer (Transmission & Distribution) - Dublin or Cork - May 27 onwards start | standard | Ireland | Dublin, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159076949) |
 | AECOM | Experienced Graduate Bridge Engineer | standard | United Kingdom | St Albans, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159112825) |
 | AECOM | Graduate Civil Engineer Renewable Energy - Edinburgh/Glasgow/Inverness-  start date April 27 onwards | standard | United Kingdom | Edinburgh, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159207855) |
 | Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000158234619) |
