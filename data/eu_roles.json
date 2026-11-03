@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-11-03T00:26:59.375Z",
-  "count": 17,
+  "generatedAt": "2026-11-03T15:24:22.058Z",
+  "count": 14,
   "results": [
-    {
-      "id": "744000159112825",
-      "title": "Experienced Graduate Bridge Engineer",
-      "location": "St Albans, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159112825",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-02T11:34:53.139Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000159207855",
       "title": "Graduate Civil Engineer Renewable Energy - Edinburgh/Glasgow/Inverness-  start date April 27 onwards",
@@ -29,17 +16,17 @@
       "daysAgo": "0d"
     },
     {
-      "id": "744000158234619",
+      "id": "744000159336930",
       "title": "Junior Information Security Officer",
       "location": "London, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000158234619",
+      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000159336930",
       "company": "Experian",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-10-28T08:57:24.013Z",
-      "daysAgo": "5d"
+      "postedAt": "2026-11-03T09:34:34.303Z",
+      "daysAgo": "0d"
     },
     {
       "id": "8894965002",
@@ -52,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "8894376002",
@@ -65,7 +52,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -116,32 +103,6 @@
       "daysAgo": "0d"
     },
     {
-      "id": "744000159172560",
-      "title": "Graduate AI & Automation Engineer",
-      "location": "Nuneaton, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000159172560",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-02T15:23:51.383Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000159194500",
-      "title": "Software Engineer Graduate",
-      "location": "Nuneaton, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000159194500",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-02T16:39:27.450Z",
-      "daysAgo": "0d"
-    },
-    {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "location": "London",
@@ -163,7 +124,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-30T10:53:06.114Z",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -187,7 +148,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-27T13:44:32.572Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -211,7 +172,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-30T05:56:51-04:00",
-      "daysAgo": "3d"
+      "daysAgo": "4d"
     }
   ]
 }
