@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-11-03T15:24:22.058Z",
-  "count": 14,
+  "generatedAt": "2026-11-03T21:11:03.018Z",
+  "count": 12,
   "results": [
-    {
-      "id": "744000159207855",
-      "title": "Graduate Civil Engineer Renewable Energy - Edinburgh/Glasgow/Inverness-  start date April 27 onwards",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159207855",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-02T17:25:40.923Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000159336930",
       "title": "Junior Information Security Officer",
@@ -77,29 +64,16 @@
       "priorityTier": "standard"
     },
     {
-      "id": "744000159174251",
-      "title": "Graduate Mechanical Engineer 2027",
-      "location": "London, gb",
+      "id": "744000159435464",
+      "title": "Application Engineer Graduate",
+      "location": "Nuneaton, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000159174251",
-      "company": "Ramboll",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000159435464",
+      "company": "Robert Bosch Venture Capital",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-11-02T15:36:28.389Z",
-      "daysAgo": "0d"
-    },
-    {
-      "id": "744000159177913",
-      "title": "Graduate Mechanical Engineer 2027",
-      "location": "Bristol, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000159177913",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-02T15:36:57.585Z",
+      "postedAt": "2026-11-03T16:18:42.304Z",
       "daysAgo": "0d"
     },
     {
