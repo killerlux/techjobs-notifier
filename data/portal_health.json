@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T12:45:45.202Z",
+  "generatedAt": "2026-11-04T12:58:18.345Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 689,
+    "healthy": 688,
     "degraded": 4,
-    "empty": 34,
+    "empty": 35,
     "fetch_error": 125,
     "unsupported": 1457,
     "misconfigured": 1
@@ -423,6 +423,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/goodship -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Gopuff",
+      "type": "lever",
+      "slug": "gopuff",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1098,15 +1107,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Veeva Systems",
-      "type": "lever",
-      "slug": "veeva",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
