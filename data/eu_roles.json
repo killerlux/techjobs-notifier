@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-11-03T21:11:03.018Z",
-  "count": 12,
+  "generatedAt": "2026-11-04T16:48:29.259Z",
+  "count": 11,
   "results": [
-    {
-      "id": "744000159336930",
-      "title": "Junior Information Security Officer",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000159336930",
-      "company": "Experian",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-03T09:34:34.303Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "8894965002",
       "title": "Cloud Platform Summer Intern 2027 ",
@@ -26,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "8894376002",
@@ -39,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -64,16 +51,16 @@
       "priorityTier": "standard"
     },
     {
-      "id": "744000159435464",
-      "title": "Application Engineer Graduate",
+      "id": "744000159679514",
+      "title": "Vehicle Dynamics Software Engineer Graduate",
       "location": "Nuneaton, gb",
       "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000159435464",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000159679514",
       "company": "Robert Bosch Venture Capital",
       "source": "smartrecruiters",
       "matchReason": "level+tech",
       "priorityTier": "standard",
-      "postedAt": "2026-11-03T16:18:42.304Z",
+      "postedAt": "2026-11-04T16:36:52.650Z",
       "daysAgo": "0d"
     },
     {
@@ -98,7 +85,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-30T10:53:06.114Z",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -122,7 +109,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-27T13:44:32.572Z",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -146,7 +133,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-30T05:56:51-04:00",
-      "daysAgo": "4d"
+      "daysAgo": "5d"
     }
   ]
 }
