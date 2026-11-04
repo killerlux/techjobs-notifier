@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-11-04T16:48:29.259Z
+- Updated: 2026-11-04T22:23:41.648Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -18,4 +18,5 @@
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | PA Consulting | Junior Consultants (student) within Data, AI & Technology – start February 2027  | standard | Denmark | Copenhagen, dk | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000158048480) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
+| AECOM | Junior Hydraulics & Drainage Engineer | standard | Spain | Madrid, es | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159699707) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 5d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
