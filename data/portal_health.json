@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T12:58:18.345Z",
+  "generatedAt": "2026-11-05T13:09:29.292Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 688,
+    "healthy": 685,
     "degraded": 4,
     "empty": 35,
-    "fetch_error": 125,
+    "fetch_error": 128,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -36,6 +36,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/alignerr/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Allen Control Systems",
+      "type": "greenhouse",
+      "slug": "allencontrolsystems",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/allencontrolsystems/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -138,6 +147,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Beta Technologies",
+      "type": "lever",
+      "slug": "beta",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/beta?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Blink",
       "type": "workable",
       "slug": "joinblink",
@@ -233,7 +251,7 @@
       "slug": "clearer",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 404",
+      "error": "https://api.lever.co/v0/postings/clearer?mode=json -> 504",
       "checkedUrls": []
     },
     {
@@ -279,6 +297,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Diversified Automation",
+      "type": "lever",
+      "slug": "diversified-automation",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -423,15 +450,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/goodship -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Gopuff",
-      "type": "lever",
-      "slug": "gopuff",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -720,6 +738,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/overlandai/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "PingWind",
+      "type": "lever",
+      "slug": "pingwind",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
