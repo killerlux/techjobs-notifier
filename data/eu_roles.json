@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T10:16:59.988Z",
-  "count": 11,
+  "generatedAt": "2026-11-05T18:10:14.406Z",
+  "count": 9,
   "results": [
     {
       "id": "8894965002",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "8894376002",
@@ -26,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-29T07:27:27-04:00",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -49,19 +49,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000159679514",
-      "title": "Vehicle Dynamics Software Engineer Graduate",
-      "location": "Nuneaton, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000159679514",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-04T16:36:52.650Z",
-      "daysAgo": "0d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -96,7 +83,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-27T13:44:32.572Z",
-      "daysAgo": "8d"
+      "daysAgo": "9d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
@@ -108,19 +95,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000159699707",
-      "title": "Junior Hydraulics & Drainage Engineer",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000159699707",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-04T18:20:23.962Z",
-      "daysAgo": "0d"
     },
     {
       "id": "4951979101",
