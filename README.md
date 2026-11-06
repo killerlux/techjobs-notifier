@@ -14,6 +14,6 @@
 | Lightfield | Software Engineer (Early Career) | standard | United Kingdom | HQ: San Francisco, Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
-| PA Consulting | Junior Consultants (student) within Data, AI & Technology – start February 2027  | standard | Denmark | Copenhagen, dk | 9d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000158048480) |
+| PA Consulting | Junior Consultants (student) within Data, AI & Technology – start February 2027  | standard | Denmark | Copenhagen, dk | 10d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000158048480) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
 | Fever Up | Graduate Software Engineer | standard | Spain | Spain | 7d | greenhouse | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101) |
