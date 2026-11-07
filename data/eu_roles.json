@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T18:10:14.406Z",
-  "count": 9,
+  "generatedAt": "2026-11-07T16:57:40.527Z",
+  "count": 8,
   "results": [
     {
       "id": "8894965002",
@@ -71,19 +71,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000158048480",
-      "title": "Junior Consultants (student) within Data, AI & Technology – start February 2027 ",
-      "location": "Copenhagen, dk",
-      "country": "Denmark",
-      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000158048480",
-      "company": "PA Consulting",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-27T13:44:32.572Z",
-      "daysAgo": "10d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
