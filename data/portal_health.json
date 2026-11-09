@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T11:55:01.016Z",
+  "generatedAt": "2026-11-09T13:51:57.796Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 687,
+    "healthy": 686,
     "degraded": 4,
     "empty": 34,
-    "fetch_error": 127,
+    "fetch_error": 128,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -138,15 +138,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Belvedere Trading",
-      "type": "lever",
-      "slug": "belvederetrading",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Benchling",
       "type": "greenhouse",
       "slug": "benchling",
@@ -224,7 +215,16 @@
       "slug": "cesiumastro",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -279,6 +279,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/continue -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "CrowdGen by Appen",
+      "type": "lever",
+      "slug": "appen",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
