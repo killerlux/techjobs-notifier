@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T16:57:40.527Z",
-  "count": 8,
+  "generatedAt": "2026-11-09T10:03:20.276Z",
+  "count": 14,
   "results": [
     {
       "id": "8894965002",
@@ -51,6 +51,84 @@
       "priorityTier": "standard"
     },
     {
+      "id": "744000160564172",
+      "title": "Graduate Electrical Engineer - Data Centres 2027 ",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564172",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-09T09:23:39.321Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160564847",
+      "title": "Graduate Electrical Engineer - Data Centres 2027 ",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564847",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-09T09:24:39.997Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160565089",
+      "title": "Graduate Electrical Engineer - Data Centres 2027 ",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160565089",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-09T09:24:14.353Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160564190",
+      "title": "Graduate Mechanical Engineer - Data Centres 2027",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564190",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-09T09:21:47.127Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160564529",
+      "title": "Graduate Mechanical Engineer - Data Centres 2027",
+      "location": "Glasgow, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564529",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-09T09:22:11.550Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160564699",
+      "title": "Graduate Mechanical Engineer - Data Centres 2027",
+      "location": "Edinburgh, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564699",
+      "company": "Ramboll",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-09T09:22:34.852Z",
+      "daysAgo": "0d"
+    },
+    {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "location": "London",
@@ -94,7 +172,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-10-30T05:56:51-04:00",
-      "daysAgo": "9d"
+      "daysAgo": "10d"
     }
   ]
 }
