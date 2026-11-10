@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T13:51:57.796Z",
+  "generatedAt": "2026-11-10T13:27:23.272Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 686,
+    "healthy": 685,
     "degraded": 4,
-    "empty": 34,
-    "fetch_error": 128,
+    "empty": 33,
+    "fetch_error": 130,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -45,6 +45,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/allencontrolsystems/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Alpha FMC",
+      "type": "greenhouse",
+      "slug": "alphaawmnaearlycareers",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/alphaawmnaearlycareers/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -215,16 +224,7 @@
       "slug": "cesiumastro",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -264,6 +264,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CommonLit",
+      "type": "lever",
+      "slug": "commonlit",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Commure",
       "type": "ashby",
       "slug": "commure-athelas",
@@ -282,9 +291,9 @@
       "checkedUrls": []
     },
     {
-      "company": "CrowdGen by Appen",
+      "company": "Crest Industries",
       "type": "lever",
-      "slug": "appen",
+      "slug": "crestoperations",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
@@ -369,6 +378,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Ethena",
+      "type": "lever",
+      "slug": "ethena",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -485,7 +503,7 @@
       "slug": "gridmatic",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/gridmatic?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
