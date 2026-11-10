@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-11-10T11:30:03.040Z",
-  "count": 13,
+  "generatedAt": "2026-11-10T18:46:49.759Z",
+  "count": 16,
   "results": [
-    {
-      "id": "744000160655029",
-      "title": "VIE/PANGEO Junior Site Engineer M/W",
-      "location": "Blanchardstown, Dublin 15, ie",
-      "country": "Ireland",
-      "url": "https://api.smartrecruiters.com/v1/companies/veoliaenvironnementsa/postings/744000160655029",
-      "company": "Veolia",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "cac40",
-      "postedAt": "2026-11-09T15:54:22.557Z",
-      "daysAgo": "0d"
-    },
     {
       "id": "744000160836896",
       "title": "Junior Information Security Officer",
@@ -49,6 +36,45 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000160878946",
+      "title": "2027 Graduate - Digital (Digital Trust & Cyber Security) Analyst - London",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160878946",
+      "company": "PA Consulting",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-10T13:44:09.043Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160875799",
+      "title": "2027 Graduate - Mechanical Engineer - Cambridge",
+      "location": "Melbourn, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160875799",
+      "company": "PA Consulting",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-10T13:26:25.043Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160873680",
+      "title": "2027 Graduate - Software & AI Systems Engineer - Cambridge",
+      "location": "Melbourn, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160873680",
+      "company": "PA Consulting",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-10T13:28:54.619Z",
+      "daysAgo": "0d"
     },
     {
       "id": "744000160564172",
@@ -160,6 +186,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000160905149",
+      "title": "Junior Electronics Application Engineer – Compact Hydraulics & Mobile Electronics",
+      "location": "Cernusco sul Naviglio, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000160905149",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-10T15:23:43.953Z",
+      "daysAgo": "0d"
     }
   ]
 }
