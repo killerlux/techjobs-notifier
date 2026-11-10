@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:56:03.275Z",
+  "generatedAt": "2026-11-10T11:30:03.040Z",
   "count": 13,
   "results": [
     {
@@ -13,6 +13,19 @@
       "matchReason": "level+tech",
       "priorityTier": "cac40",
       "postedAt": "2026-11-09T15:54:22.557Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000160836896",
+      "title": "Junior Information Security Officer",
+      "location": "London, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/experian/postings/744000160836896",
+      "company": "Experian",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-10T10:05:18.956Z",
       "daysAgo": "0d"
     },
     {
@@ -48,7 +61,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:23:39.321Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160564847",
@@ -61,7 +74,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:24:39.997Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160565089",
@@ -74,7 +87,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:24:14.353Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160564190",
@@ -87,7 +100,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:21:47.127Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160564529",
@@ -100,7 +113,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:22:11.550Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160564699",
@@ -113,7 +126,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:22:34.852Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -147,19 +160,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "4951979101",
-      "title": "Graduate Software Engineer",
-      "location": "Spain",
-      "country": "Spain",
-      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101",
-      "company": "Fever Up",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-10-30T05:56:51-04:00",
-      "daysAgo": "10d"
     }
   ]
 }
