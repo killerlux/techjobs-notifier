@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-11-10T13:27:23.272Z",
+  "generatedAt": "2026-11-11T12:41:59.558Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 685,
+    "healthy": 684,
     "degraded": 4,
-    "empty": 33,
+    "empty": 34,
     "fetch_error": 130,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
+    {
+      "company": "Agile Defense",
+      "type": "lever",
+      "slug": "agile-defense",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -48,6 +57,15 @@
       "checkedUrls": []
     },
     {
+      "company": "AllTrails",
+      "type": "lever",
+      "slug": "alltrails",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Alpha FMC",
       "type": "greenhouse",
       "slug": "alphaawmnaearlycareers",
@@ -72,6 +90,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/amplitude/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Analytic Partners",
+      "type": "lever",
+      "slug": "analyticpartners",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -125,7 +152,7 @@
       "slug": "autoroboto",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/autoroboto?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -264,15 +291,6 @@
       "checkedUrls": []
     },
     {
-      "company": "CommonLit",
-      "type": "lever",
-      "slug": "commonlit",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Commure",
       "type": "ashby",
       "slug": "commure-athelas",
@@ -288,15 +306,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/continue -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Crest Industries",
-      "type": "lever",
-      "slug": "crestoperations",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -378,15 +387,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Ethena",
-      "type": "lever",
-      "slug": "ethena",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -503,7 +503,7 @@
       "slug": "gridmatic",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/gridmatic?mode=json -> 404",
       "checkedUrls": []
     },
     {
