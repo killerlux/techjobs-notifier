@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T18:46:49.759Z",
-  "count": 16,
+  "generatedAt": "2026-11-11T12:23:54.646Z",
+  "count": 15,
   "results": [
     {
       "id": "744000160836896",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T10:05:18.956Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
@@ -87,7 +87,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:23:39.321Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000160564847",
@@ -100,7 +100,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:24:39.997Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000160565089",
@@ -113,7 +113,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:24:14.353Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000160564190",
@@ -126,7 +126,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:21:47.127Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000160564529",
@@ -139,7 +139,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:22:11.550Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000160564699",
@@ -152,7 +152,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-09T09:22:34.852Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -186,19 +186,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000160905149",
-      "title": "Junior Electronics Application Engineer – Compact Hydraulics & Mobile Electronics",
-      "location": "Cernusco sul Naviglio, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000160905149",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-10T15:23:43.953Z",
-      "daysAgo": "0d"
     }
   ]
 }
