@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T12:23:54.646Z",
-  "count": 15,
+  "generatedAt": "2026-11-11T19:46:41.022Z",
+  "count": 16,
   "results": [
     {
       "id": "744000160836896",
@@ -48,7 +48,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T13:44:09.043Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160875799",
@@ -61,7 +61,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T13:26:25.043Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160873680",
@@ -74,7 +74,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T13:28:54.619Z",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "744000160564172",
@@ -186,6 +186,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "744000161094529",
+      "title": "Junior Application Engineer (m/f/d)",
+      "location": "Nonantola, it",
+      "country": "Italy",
+      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000161094529",
+      "company": "Robert Bosch Venture Capital",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-11T14:17:45.683Z",
+      "daysAgo": "0d"
     }
   ]
 }
