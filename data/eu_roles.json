@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T09:12:57.416Z",
-  "count": 14,
+  "generatedAt": "2026-11-12T17:41:14.402Z",
+  "count": 7,
   "results": [
     {
       "id": "744000160836896",
@@ -13,18 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T10:05:18.956Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "4479f8fd-0910-48f5-9525-62e55bef2edc",
-      "title": "Junior Data Engineer",
-      "location": "London",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc",
-      "company": "Lendable",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
+      "daysAgo": "2d"
     },
     {
       "id": "fc93a467-773d-4805-b342-bf470950732d",
@@ -48,7 +37,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T13:26:25.043Z",
-      "daysAgo": "1d"
+      "daysAgo": "2d"
     },
     {
       "id": "744000160873680",
@@ -61,84 +50,6 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T13:28:54.619Z",
-      "daysAgo": "1d"
-    },
-    {
-      "id": "744000160564172",
-      "title": "Graduate Electrical Engineer - Data Centres 2027 ",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564172",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-09T09:23:39.321Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000160564847",
-      "title": "Graduate Electrical Engineer - Data Centres 2027 ",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564847",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-09T09:24:39.997Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000160565089",
-      "title": "Graduate Electrical Engineer - Data Centres 2027 ",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160565089",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-09T09:24:14.353Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000160564190",
-      "title": "Graduate Mechanical Engineer - Data Centres 2027",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564190",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-09T09:21:47.127Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000160564529",
-      "title": "Graduate Mechanical Engineer - Data Centres 2027",
-      "location": "Glasgow, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564529",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-09T09:22:11.550Z",
-      "daysAgo": "2d"
-    },
-    {
-      "id": "744000160564699",
-      "title": "Graduate Mechanical Engineer - Data Centres 2027",
-      "location": "Edinburgh, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564699",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-09T09:22:34.852Z",
       "daysAgo": "2d"
     },
     {
