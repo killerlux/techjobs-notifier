@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T19:46:41.022Z",
-  "count": 16,
+  "generatedAt": "2026-11-12T01:46:51.853Z",
+  "count": 15,
   "results": [
     {
       "id": "744000160836896",
@@ -36,19 +36,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000160878946",
-      "title": "2027 Graduate - Digital (Digital Trust & Cyber Security) Analyst - London",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160878946",
-      "company": "PA Consulting",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-10T13:44:09.043Z",
-      "daysAgo": "1d"
     },
     {
       "id": "744000160875799",

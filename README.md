@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-11-11T19:46:41.022Z
+- Updated: 2026-11-12T01:46:51.853Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -11,7 +11,6 @@
 | Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000160836896) |
 | Lendable | Junior Data Engineer | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/lendable/4479f8fd-0910-48f5-9525-62e55bef2edc) |
 | Lightfield | Software Engineer (Early Career) | standard | United Kingdom | HQ: San Francisco, Cambridge, MA | - | ashby | [Apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
-| PA Consulting | 2027 Graduate - Digital (Digital Trust & Cyber Security) Analyst - London | standard | United Kingdom | London, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160878946) |
 | PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160875799) |
 | PA Consulting | 2027 Graduate - Software & AI Systems Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 1d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160873680) |
 | Ramboll | Graduate Electrical Engineer - Data Centres 2027  | standard | United Kingdom | London, gb | 2d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000160564172) |
