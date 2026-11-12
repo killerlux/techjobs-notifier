@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T17:41:14.402Z",
-  "count": 7,
+  "generatedAt": "2026-11-12T23:10:00.531Z",
+  "count": 6,
   "results": [
     {
       "id": "744000160836896",
@@ -14,17 +14,6 @@
       "priorityTier": "standard",
       "postedAt": "2026-11-10T10:05:18.956Z",
       "daysAgo": "2d"
-    },
-    {
-      "id": "fc93a467-773d-4805-b342-bf470950732d",
-      "title": "Software Engineer (Early Career)",
-      "location": "HQ: San Francisco, Cambridge, MA",
-      "country": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
-      "company": "Lightfield",
-      "source": "ashby",
-      "matchReason": "level+tech",
-      "priorityTier": "standard"
     },
     {
       "id": "744000160875799",
