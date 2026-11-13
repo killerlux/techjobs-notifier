@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-11-12T13:44:42.377Z",
+  "generatedAt": "2026-11-13T13:03:58.819Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 682,
-    "degraded": 5,
+    "healthy": 686,
+    "degraded": 4,
     "empty": 32,
-    "fetch_error": 133,
+    "fetch_error": 130,
     "unsupported": 1457,
     "misconfigured": 1
   },
   "results": [
-    {
-      "company": "Agile Defense",
-      "type": "lever",
-      "slug": "agile-defense",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
     {
       "company": "AGILE Space Industries",
       "type": "greenhouse",
@@ -84,15 +75,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Analytic Partners",
-      "type": "lever",
-      "slug": "analyticpartners",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Anything",
       "type": "ashby",
       "slug": "anything",
@@ -117,15 +99,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/aprio?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Arc'teryx Equipment",
-      "type": "lever",
-      "slug": "arcteryx.com",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -210,15 +183,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Boson Ai",
-      "type": "lever",
-      "slug": "bosonai",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Brooklinen",
       "type": "greenhouse",
       "slug": "brooklinen",
@@ -264,6 +228,15 @@
       "checkedUrls": []
     },
     {
+      "company": "CGS Federal (Contact Government Services)",
+      "type": "lever",
+      "slug": "cgsfederal",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Chalk",
       "type": "greenhouse",
       "slug": "chalkinc",
@@ -288,15 +261,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/citylitics/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "CleanSpark",
-      "type": "lever",
-      "slug": "cleanspark",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -404,16 +368,7 @@
       "slug": "cordtechnologies",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Entrata",
-      "type": "lever",
-      "slug": "entrata",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/cordtechnologies?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -684,6 +639,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/maintainx/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Maple AI",
+      "type": "ashby",
+      "slug": "maple",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/maple -> 404",
       "checkedUrls": []
     },
     {
@@ -1044,6 +1008,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/talentwerx.io?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Tavily",
+      "type": "ashby",
+      "slug": "tavily",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/tavily -> 404",
       "checkedUrls": []
     },
     {
