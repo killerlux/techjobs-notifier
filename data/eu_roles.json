@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-13T03:30:38.055Z",
-  "count": 8,
+  "generatedAt": "2026-11-13T11:27:40.484Z",
+  "count": 9,
   "results": [
+    {
+      "id": "744000161458889",
+      "title": "Graduate Structural Engineer - Manchester (2027 start)",
+      "location": "Manchester, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000161458889",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-13T10:35:53.327Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000160836896",
       "title": "Junior Information Security Officer",
@@ -13,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T10:05:18.956Z",
-      "daysAgo": "2d"
+      "daysAgo": "3d"
     },
     {
       "id": "744000160875799",
