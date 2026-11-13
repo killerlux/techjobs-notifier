@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T23:10:00.531Z",
-  "count": 6,
+  "generatedAt": "2026-11-13T03:30:38.055Z",
+  "count": 8,
   "results": [
     {
       "id": "744000160836896",
@@ -62,6 +62,32 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "7804825002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-12T18:34:31-05:00",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "8418289002",
+      "title": "Data Scientist - GenAI",
+      "location": "Brussels-Capital, Belgium",
+      "country": "Belgium",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002",
+      "company": "Artefact",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-12T18:34:31-05:00",
+      "daysAgo": "0d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
