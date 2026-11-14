@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T13:03:58.819Z",
+  "generatedAt": "2026-11-14T12:08:27.257Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 686,
+    "healthy": 685,
     "degraded": 4,
     "empty": 32,
-    "fetch_error": 130,
+    "fetch_error": 131,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -18,6 +18,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/agilespaceindustries/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "AHEAD",
+      "type": "lever",
+      "slug": "thinkahead",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -72,6 +81,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/amplitude/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Analytic Partners",
+      "type": "lever",
+      "slug": "analyticpartners",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -215,22 +233,13 @@
       "slug": "catbird",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/catbird?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
       "company": "CesiumAstro",
       "type": "lever",
       "slug": "cesiumastro",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "CGS Federal (Contact Government Services)",
-      "type": "lever",
-      "slug": "cgsfederal",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "This operation was aborted",
