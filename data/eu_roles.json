@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T18:56:20.334Z",
-  "count": 9,
+  "generatedAt": "2026-11-15T09:44:09.647Z",
+  "count": 8,
   "results": [
     {
       "id": "744000160836896",
@@ -99,19 +99,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000161469999",
-      "title": "Junior Civil Engineer",
-      "location": "Madrid, es",
-      "country": "Spain",
-      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000161469999",
-      "company": "AECOM",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-13T11:58:29.009Z",
-      "daysAgo": "1d"
     }
   ]
 }
