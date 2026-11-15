@@ -8,9 +8,9 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000160836896) |
-| PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160875799) |
-| PA Consulting | 2027 Graduate - Software & AI Systems Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 4d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160873680) |
+| Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000160836896) |
+| PA Consulting | 2027 Graduate - Mechanical Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160875799) |
+| PA Consulting | 2027 Graduate - Software & AI Systems Engineer - Cambridge | standard | United Kingdom | Melbourn, gb | 5d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/paconsulting/postings/744000160873680) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
 | Artefact | Data Scientist - GenAI | standard | Belgium | Brussels-Capital, Belgium | 1d | greenhouse | [Apply](https://job-boards.greenhouse.io/artefact/jobs/7804825002) |
