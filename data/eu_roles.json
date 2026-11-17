@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T11:04:33.611Z",
-  "count": 7,
+  "generatedAt": "2026-11-17T19:38:36.377Z",
+  "count": 10,
   "results": [
     {
       "id": "744000160836896",
@@ -16,19 +16,6 @@
       "daysAgo": "7d"
     },
     {
-      "id": "744000161887349",
-      "title": "Graduate Structural Engineer 2027 ",
-      "location": "London, gb",
-      "country": "United Kingdom",
-      "url": "https://api.smartrecruiters.com/v1/companies/ramboll3/postings/744000161887349",
-      "company": "Ramboll",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-16T18:30:45.280Z",
-      "daysAgo": "0d"
-    },
-    {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "location": "London",
@@ -38,6 +25,58 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "22109a8a-69ae-4296-a053-2828464286aa",
+      "title": "AI Data Specialist - Bengali (Singapore)",
+      "location": "Singapore",
+      "country": "Singapore",
+      "url": "https://jobs.lever.co/rws/22109a8a-69ae-4296-a053-2828464286aa",
+      "company": "RWS",
+      "source": "lever",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": 1794928604003,
+      "daysAgo": "0d"
+    },
+    {
+      "id": "08b56af2-ee39-4b90-ab7d-5f951c1f77af",
+      "title": "AI Data Specialist - Chinese Simplified (Singapore)",
+      "location": "Singapore",
+      "country": "Singapore",
+      "url": "https://jobs.lever.co/rws/08b56af2-ee39-4b90-ab7d-5f951c1f77af",
+      "company": "RWS",
+      "source": "lever",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": 1794928620669,
+      "daysAgo": "0d"
+    },
+    {
+      "id": "3c982d89-255e-4495-b0d3-bd8c2dddd47f",
+      "title": "AI Data Specialist - Malay (Singapore)",
+      "location": "Singapore",
+      "country": "Singapore",
+      "url": "https://jobs.lever.co/rws/3c982d89-255e-4495-b0d3-bd8c2dddd47f",
+      "company": "RWS",
+      "source": "lever",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": 1794928635557,
+      "daysAgo": "0d"
+    },
+    {
+      "id": "e5cd1556-9e2d-44c6-b4ad-9256dbba3171",
+      "title": "AI Data Specialist - Tamil (Singapore)",
+      "location": "Singapore",
+      "country": "Singapore",
+      "url": "https://jobs.lever.co/rws/e5cd1556-9e2d-44c6-b4ad-9256dbba3171",
+      "company": "RWS",
+      "source": "lever",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": 1794592321131,
+      "daysAgo": "4d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -61,7 +100,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-16T08:56:04-05:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "8418289002",
@@ -74,7 +113,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-16T08:56:04-05:00",
-      "daysAgo": "0d"
+      "daysAgo": "1d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
