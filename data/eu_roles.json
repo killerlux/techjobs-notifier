@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T18:45:38.115Z",
-  "count": 8,
+  "generatedAt": "2026-11-17T11:04:33.611Z",
+  "count": 7,
   "results": [
     {
       "id": "744000160836896",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T10:05:18.956Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "744000161887349",
@@ -86,19 +86,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "744000161766054",
-      "title": "Junior Electronics Application Engineer – Compact Hydraulics & Mobile Electronics (m/f/d)",
-      "location": "Cernusco sul Naviglio, it",
-      "country": "Italy",
-      "url": "https://api.smartrecruiters.com/v1/companies/boschgroup/postings/744000161766054",
-      "company": "Robert Bosch Venture Capital",
-      "source": "smartrecruiters",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-16T10:06:36.927Z",
-      "daysAgo": "0d"
     }
   ]
 }
