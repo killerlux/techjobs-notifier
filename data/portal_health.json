@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T14:20:37.897Z",
+  "generatedAt": "2026-11-18T13:55:26.271Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 684,
+    "healthy": 687,
     "degraded": 4,
-    "empty": 32,
-    "fetch_error": 132,
+    "empty": 31,
+    "fetch_error": 130,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -26,7 +26,7 @@
       "slug": "aifund",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/aifund?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -72,15 +72,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/amplitude/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Analytic Partners",
-      "type": "lever",
-      "slug": "analyticpartners",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -453,15 +444,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Global Lending Services",
-      "type": "lever",
-      "slug": "glsllc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "GoodShip",
       "type": "ashby",
       "slug": "goodship",
@@ -723,6 +705,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Nectar Social",
+      "type": "ashby",
+      "slug": "nectar-social",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/nectarsocial -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Newfront Insurance",
       "type": "ashby",
       "slug": "newfront",
@@ -765,15 +756,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/overlandai/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Palantir",
-      "type": "lever",
-      "slug": "palantir",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
