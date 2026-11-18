@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-11-17T19:38:36.377Z
+- Updated: 2026-11-18T10:29:29.981Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,8 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000160836896) |
+| ASSYSTEM | Junior Mechanical Engineer | standard | United Kingdom | Bridgwater, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000162262419) |
+| Experian | Junior Information Security Officer | standard | United Kingdom | London, gb | 8d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000160836896) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) |
 | RWS | AI Data Specialist - Bengali (Singapore) | standard | Singapore | Singapore | 0d | lever | [Apply](https://jobs.lever.co/rws/22109a8a-69ae-4296-a053-2828464286aa) |
 | RWS | AI Data Specialist - Chinese Simplified (Singapore) | standard | Singapore | Singapore | 0d | lever | [Apply](https://jobs.lever.co/rws/08b56af2-ee39-4b90-ab7d-5f951c1f77af) |

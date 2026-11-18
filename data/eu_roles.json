@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-17T19:38:36.377Z",
-  "count": 10,
+  "generatedAt": "2026-11-18T10:29:29.981Z",
+  "count": 11,
   "results": [
+    {
+      "id": "744000162262419",
+      "title": "Junior Mechanical Engineer",
+      "location": "Bridgwater, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/assystem/postings/744000162262419",
+      "company": "ASSYSTEM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-18T10:21:41.403Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000160836896",
       "title": "Junior Information Security Officer",
@@ -13,7 +26,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-10T10:05:18.956Z",
-      "daysAgo": "7d"
+      "daysAgo": "8d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
