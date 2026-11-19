@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T10:29:29.981Z",
-  "count": 11,
+  "generatedAt": "2026-11-19T01:02:07.673Z",
+  "count": 12,
   "results": [
     {
       "id": "744000162262419",
@@ -127,6 +127,19 @@
       "priorityTier": "standard",
       "postedAt": "2026-11-16T08:56:04-05:00",
       "daysAgo": "2d"
+    },
+    {
+      "id": "02b5cd1e-7f5b-4120-8abf-eb7a93ea7033",
+      "title": "AI Data Specialist - Luxembourgish",
+      "location": "Brussels",
+      "country": "Belgium",
+      "url": "https://jobs.lever.co/rws/02b5cd1e-7f5b-4120-8abf-eb7a93ea7033",
+      "company": "RWS",
+      "source": "lever",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": 1795030741431,
+      "daysAgo": "0d"
     },
     {
       "id": "f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
