@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T13:26:29.686Z",
+  "generatedAt": "2026-11-22T13:18:22.946Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 684,
+    "healthy": 683,
     "degraded": 4,
     "empty": 34,
-    "fetch_error": 130,
+    "fetch_error": 131,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -954,6 +954,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/sensortower?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "SHEIN",
+      "type": "greenhouse",
+      "slug": "shein",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/shein/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
