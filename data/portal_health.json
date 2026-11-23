@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T13:18:22.946Z",
+  "generatedAt": "2026-11-23T15:55:52.946Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 683,
+    "healthy": 680,
     "degraded": 4,
-    "empty": 34,
-    "fetch_error": 131,
+    "empty": 33,
+    "fetch_error": 135,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -171,6 +171,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/joinblink/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Bluestaq",
+      "type": "greenhouse",
+      "slug": "bluestaq",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/bluestaq/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -444,6 +453,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Good American",
+      "type": "lever",
+      "slug": "goodamerican",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "GoodShip",
       "type": "ashby",
       "slug": "goodship",
@@ -579,6 +597,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Lever",
+      "type": "lever",
+      "slug": "leverdemo-8",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Lilt",
       "type": "ashby",
       "slug": "lilt",
@@ -693,6 +720,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/modernizingmedicineinc/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Monterey Technologies",
+      "type": "lever",
+      "slug": "mti-inc",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -881,7 +917,7 @@
       "slug": "rivosinc",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/rivosinc?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
