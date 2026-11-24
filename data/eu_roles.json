@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T18:28:22.194Z",
-  "count": 11,
+  "generatedAt": "2026-11-24T18:04:54.084Z",
+  "count": 8,
   "results": [
     {
       "id": "744000162262419",
@@ -13,7 +13,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-18T10:21:41.403Z",
-      "daysAgo": "5d"
+      "daysAgo": "6d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -37,7 +37,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1794928604003,
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "08b56af2-ee39-4b90-ab7d-5f951c1f77af",
@@ -50,7 +50,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1794928620669,
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "3c982d89-255e-4495-b0d3-bd8c2dddd47f",
@@ -63,20 +63,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": 1794928635557,
-      "daysAgo": "6d"
-    },
-    {
-      "id": "e5cd1556-9e2d-44c6-b4ad-9256dbba3171",
-      "title": "AI Data Specialist - Tamil (Singapore)",
-      "location": "Singapore",
-      "country": "Singapore",
-      "url": "https://jobs.lever.co/rws/e5cd1556-9e2d-44c6-b4ad-9256dbba3171",
-      "company": "RWS",
-      "source": "lever",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": 1794592321131,
-      "daysAgo": "10d"
+      "daysAgo": "7d"
     },
     {
       "id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
@@ -88,32 +75,6 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
-    },
-    {
-      "id": "7804825002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefact/jobs/7804825002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-20T04:37:29-05:00",
-      "daysAgo": "3d"
-    },
-    {
-      "id": "8418289002",
-      "title": "Data Scientist - GenAI",
-      "location": "Brussels-Capital, Belgium",
-      "country": "Belgium",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8418289002",
-      "company": "Artefact",
-      "source": "greenhouse",
-      "matchReason": "level+tech",
-      "priorityTier": "standard",
-      "postedAt": "2026-11-20T04:37:29-05:00",
-      "daysAgo": "3d"
     },
     {
       "id": "02b5cd1e-7f5b-4120-8abf-eb7a93ea7033",
