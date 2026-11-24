@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T15:55:52.946Z",
+  "generatedAt": "2026-11-24T15:50:05.689Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 680,
+    "healthy": 679,
     "degraded": 4,
-    "empty": 33,
-    "fetch_error": 135,
+    "empty": 35,
+    "fetch_error": 134,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -171,15 +171,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/joinblink/jobs?limit=200 -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Bluestaq",
-      "type": "greenhouse",
-      "slug": "bluestaq",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://boards-api.greenhouse.io/v1/boards/bluestaq/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
@@ -444,21 +435,21 @@
       "checkedUrls": []
     },
     {
+      "company": "Genmo",
+      "type": "ashby",
+      "slug": "genmo",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/genmo -> 404",
+      "checkedUrls": []
+    },
+    {
       "company": "Global Atlantic Financial Group",
       "type": "greenhouse",
       "slug": "gafg",
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/gafg/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Good American",
-      "type": "lever",
-      "slug": "goodamerican",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -597,15 +588,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Lever",
-      "type": "lever",
-      "slug": "leverdemo-8",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Lilt",
       "type": "ashby",
       "slug": "lilt",
@@ -648,6 +630,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/machinify -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Magical",
+      "type": "ashby",
+      "slug": "magical",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://jobs.ashbyhq.com/magical -> 404",
       "checkedUrls": []
     },
     {
@@ -720,15 +711,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/modernizingmedicineinc/jobs?content=true -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Monterey Technologies",
-      "type": "lever",
-      "slug": "mti-inc",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -917,7 +899,7 @@
       "slug": "rivosinc",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/rivosinc?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -1098,6 +1080,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://apply.workable.com/api/v3/accounts/thorlabs/jobs?limit=200 -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Thoughtworks",
+      "type": "greenhouse",
+      "slug": "thoughtworksreferral",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://boards-api.greenhouse.io/v1/boards/thoughtworksreferral/jobs?content=true -> 404",
       "checkedUrls": []
     },
     {
