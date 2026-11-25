@@ -14,5 +14,5 @@
 | RWS | AI Data Specialist - Chinese (Mandarin or Cantonese) (Singapore) | standard | Singapore | Singapore | 7d | lever | [Apply](https://jobs.lever.co/rws/08b56af2-ee39-4b90-ab7d-5f951c1f77af) |
 | RWS | AI Data Specialist - Malay (Singapore) | standard | Singapore | Singapore | 7d | lever | [Apply](https://jobs.lever.co/rws/3c982d89-255e-4495-b0d3-bd8c2dddd47f) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | Singapore | Singapore | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
-| RWS | AI Data Specialist - Luxembourgish | standard | Belgium | Brussels | 5d | lever | [Apply](https://jobs.lever.co/rws/02b5cd1e-7f5b-4120-8abf-eb7a93ea7033) |
+| RWS | AI Data Specialist - Luxembourgish | standard | Belgium | Brussels | 6d | lever | [Apply](https://jobs.lever.co/rws/02b5cd1e-7f5b-4120-8abf-eb7a93ea7033) |
 | Sentry | Software Engineer, New Grad (2027) | standard | Austria | Vienna, Austria | - | ashby | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
