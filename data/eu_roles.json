@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-24T18:04:54.084Z",
-  "count": 8,
+  "generatedAt": "2026-11-25T12:03:39.538Z",
+  "count": 10,
   "results": [
+    {
+      "id": "744000163651990",
+      "title": "Graduate Structural Engineer - Belfast/Dublin (2027 start)",
+      "location": "Dublin, ie",
+      "country": "Ireland",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000163651990",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-25T10:36:00.784Z",
+      "daysAgo": "0d"
+    },
+    {
+      "id": "744000163652288",
+      "title": "Graduate Structural Engineer - Belfast/Dublin (2027 start)",
+      "location": "Belfast, gb",
+      "country": "United Kingdom",
+      "url": "https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000163652288",
+      "company": "AECOM",
+      "source": "smartrecruiters",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-25T10:35:18.512Z",
+      "daysAgo": "0d"
+    },
     {
       "id": "744000162262419",
       "title": "Junior Mechanical Engineer",
@@ -13,7 +39,7 @@
       "matchReason": "level+tech",
       "priorityTier": "standard",
       "postedAt": "2026-11-18T10:21:41.403Z",
-      "daysAgo": "6d"
+      "daysAgo": "7d"
     },
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",

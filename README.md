@@ -1,6 +1,6 @@
 # EU New Grad Roles (auto-generated)
 
-- Updated: 2026-11-24T18:04:54.084Z
+- Updated: 2026-11-25T12:03:39.538Z
 - Countries: Luxembourg, France, Ireland, United Kingdom, Norway, Finland, Netherlands, Sweden, Singapore, Qatar, Iceland, Switzerland, Denmark, Belgium, Austria, Germany, Slovenia, Spain, Italy, Malta, Lithuania, Cyprus
 - Filters: entry-level + technical roles only, posted in last 10 days (or unknown date)
 - Priority: FAANG first, then CAC40
@@ -8,7 +8,9 @@
 
 | Company | Role | Tier | Country | Location | Posted | Source | Link |
 |---|---|---|---|---|---|---|---|
-| ASSYSTEM | Junior Mechanical Engineer | standard | United Kingdom | Bridgwater, gb | 6d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000162262419) |
+| AECOM | Graduate Structural Engineer - Belfast/Dublin (2027 start) | standard | Ireland | Dublin, ie | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000163651990) |
+| AECOM | Graduate Structural Engineer - Belfast/Dublin (2027 start) | standard | United Kingdom | Belfast, gb | 0d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/aecom2/postings/744000163652288) |
+| ASSYSTEM | Junior Mechanical Engineer | standard | United Kingdom | Bridgwater, gb | 7d | smartrecruiters | [Apply](https://api.smartrecruiters.com/v1/companies/assystem/postings/744000162262419) |
 | Sierra | Software Engineer, Agent (New Grad 2027) | standard | United Kingdom | London | - | ashby | [Apply](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) |
 | RWS | AI Data Specialist - Bengali (Singapore) | standard | Singapore | Singapore | 7d | lever | [Apply](https://jobs.lever.co/rws/22109a8a-69ae-4296-a053-2828464286aa) |
 | RWS | AI Data Specialist - Chinese (Mandarin or Cantonese) (Singapore) | standard | Singapore | Singapore | 7d | lever | [Apply](https://jobs.lever.co/rws/08b56af2-ee39-4b90-ab7d-5f951c1f77af) |
