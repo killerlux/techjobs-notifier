@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T15:50:05.689Z",
+  "generatedAt": "2026-11-25T15:33:31.825Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 679,
+    "healthy": 674,
     "degraded": 4,
-    "empty": 35,
-    "fetch_error": 134,
+    "empty": 37,
+    "fetch_error": 137,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -1200,6 +1200,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Wachter",
+      "type": "lever",
+      "slug": "wachter",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
@@ -1215,6 +1224,24 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Zoox",
+      "type": "lever",
+      "slug": "zoox",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
+      "company": "Zopa",
+      "type": "lever",
+      "slug": "zopa",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "https://api.lever.co/v0/postings/zopa?mode=json -> 502",
       "checkedUrls": []
     },
     {
