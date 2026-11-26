@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T21:53:43.913Z",
-  "count": 7,
+  "generatedAt": "2026-11-26T13:30:24.012Z",
+  "count": 8,
   "results": [
     {
       "id": "d0e78ab0-92ac-4fec-a667-837fa371b1db",
@@ -86,6 +86,19 @@
       "source": "ashby",
       "matchReason": "level+tech",
       "priorityTier": "standard"
+    },
+    {
+      "id": "4951979101",
+      "title": "Graduate Software Engineer",
+      "location": "Spain",
+      "country": "Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4951979101",
+      "company": "Fever Up",
+      "source": "greenhouse",
+      "matchReason": "level+tech",
+      "priorityTier": "standard",
+      "postedAt": "2026-11-26T06:55:51-05:00",
+      "daysAgo": "0d"
     }
   ]
 }
