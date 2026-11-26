@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T15:33:31.825Z",
+  "generatedAt": "2026-11-26T15:08:05.981Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 674,
+    "healthy": 676,
     "degraded": 4,
     "empty": 37,
-    "fetch_error": 137,
+    "fetch_error": 135,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -224,7 +224,7 @@
       "slug": "cesiumastro",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -279,6 +279,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/continue -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Datalab USA",
+      "type": "lever",
+      "slug": "datalabusa",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1200,15 +1209,6 @@
       "checkedUrls": []
     },
     {
-      "company": "Wachter",
-      "type": "lever",
-      "slug": "wachter",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
       "company": "Welocalize",
       "type": "lever",
       "slug": "welocalize",
@@ -1224,24 +1224,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://api.lever.co/v0/postings/wolve?mode=json -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Zoox",
-      "type": "lever",
-      "slug": "zoox",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
-      "checkedUrls": []
-    },
-    {
-      "company": "Zopa",
-      "type": "lever",
-      "slug": "zopa",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/zopa?mode=json -> 502",
       "checkedUrls": []
     },
     {
