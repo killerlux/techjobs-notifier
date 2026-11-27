@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T15:08:05.981Z",
+  "generatedAt": "2026-11-27T15:00:22.962Z",
   "source": "data/companies_all.json",
   "summary": {
     "total": 2310,
-    "healthy": 676,
+    "healthy": 675,
     "degraded": 4,
     "empty": 37,
-    "fetch_error": 135,
+    "fetch_error": 136,
     "unsupported": 1457,
     "misconfigured": 1
   },
@@ -102,6 +102,15 @@
       "checkedUrls": []
     },
     {
+      "company": "Arc'teryx Equipment",
+      "type": "lever",
+      "slug": "arcteryx.com",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
+      "checkedUrls": []
+    },
+    {
       "company": "Artefact",
       "type": "greenhouse",
       "slug": "artefactus",
@@ -116,7 +125,7 @@
       "slug": "attentive",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "https://api.lever.co/v0/postings/attentive?mode=json -> 404",
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -224,7 +233,7 @@
       "slug": "cesiumastro",
       "status": "fetch_error",
       "jobsCount": 0,
-      "error": "This operation was aborted",
+      "error": "https://api.lever.co/v0/postings/cesiumastro?mode=json -> 404",
       "checkedUrls": []
     },
     {
@@ -279,15 +288,6 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://jobs.ashbyhq.com/continue -> 404",
-      "checkedUrls": []
-    },
-    {
-      "company": "Datalab USA",
-      "type": "lever",
-      "slug": "datalabusa",
-      "status": "fetch_error",
-      "jobsCount": 0,
-      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
@@ -1197,6 +1197,15 @@
       "status": "fetch_error",
       "jobsCount": 0,
       "error": "https://boards-api.greenhouse.io/v1/boards/valon/jobs?content=true -> 404",
+      "checkedUrls": []
+    },
+    {
+      "company": "Veeva Systems",
+      "type": "lever",
+      "slug": "veeva",
+      "status": "fetch_error",
+      "jobsCount": 0,
+      "error": "This operation was aborted",
       "checkedUrls": []
     },
     {
